@@ -115,7 +115,7 @@ class Scaffold:
 
         # 4. 更新 README.md 文件
         readme_path = '../README.md'
-        with open(readme_path, 'r') as file:
+        with open(readme_path, 'r' , encoding='utf-8') as file:
             lines = file.readlines()
 
         new_lines = []
@@ -129,9 +129,10 @@ class Scaffold:
             else:
                 new_lines.append(line)
 
-        with open(readme_path, 'w') as file:
+        with open(readme_path, 'w' , encoding='utf-8') as file:
             file.writelines(new_lines)
 
 
 if __name__ == "__main__":
-    Fire(Scaffold)
+    Fire(Scaffold).run()
+    Fire(Scaffold).update_readme()

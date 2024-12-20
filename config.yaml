@@ -1,9 +1,7 @@
 dblp:
   url: https://dblp.org/search/publ/api?q={}&format=json&h=1000
   topics:
-    - "many-task%20optimization"
-    - "manytask%20optimization"
-    - "multi-task%20optimization"
-    - "multitasking%20optimization"
-  mails:
-    - "xxzhang_official@163.com"
+    - "Domain%20Adaptation%20image%20classification"
+    - "Adversarial%20Learning"
+    - "unsupervised%20domain%20adaptation%20data%20augmentation"
+    - "domain%20%feature%alignment"
