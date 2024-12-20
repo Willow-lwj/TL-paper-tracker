@@ -134,5 +134,4 @@ class Scaffold:
 
 
 if __name__ == "__main__":
-    Fire(Scaffold).run()
-    Fire(Scaffold).update_readme()
+    Fire(Scaffold)
