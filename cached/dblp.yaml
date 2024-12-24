@@ -2495,6 +2495,17 @@ Domain%20Adaptation%20image%20classification:
   doi: ''
   ee: https://proceedings.neurips.cc/paper/2010/hash/98dce83da57b0395e163467c9dae521b-Abstract.html
   url: https://dblp.org/rec/conf/nips/BergamoT10
+- author: Shuai Guo, Yi Wang 0043, Xin Zhang 0044, Baoping Tang
+  title: A cross-session non-stationary attention-based motor imagery classification
+    method with critic-free domain adaptation.
+  venue: Biomed. Signal Process. Control.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/GuoWZT25
+  doi: 10.1016/J.BSPC.2024.107122
+  ee: https://doi.org/10.1016/j.bspc.2024.107122
+  url: https://dblp.org/rec/journals/bspc/GuoWZT25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -13534,6 +13545,29 @@ Adversarial%20Learning:
   doi: ''
   ee: https://tel.archives-ouvertes.fr/tel-04612415
   url: https://dblp.org/rec/phd/hal/Airale23
+- author: Jinduo Liu 0001, Lu Han, Junzhong Ji
+  title: 'MCAN: Multimodal Causal Adversarial Networks for Dynamic Effective Connectivity
+    Learning From fMRI and EEG Data.'
+  venue: IEEE Trans. Medical Imaging
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/LiuHJ24
+  doi: 10.1109/TMI.2024.3381670
+  ee: https://doi.org/10.1109/TMI.2024.3381670
+  url: https://dblp.org/rec/journals/tmi/LiuHJ24
+- author: Oubo Ma, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, Xiaolei Liu 0001, Yingcai
+    Wu, Shouling Ji
+  title: 'SUB-PLAY:  Adversarial Policies against Partially Observed Multi-Agent Reinforcement
+    Learning Systems.'
+  venue: CCS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/MaPDDWLWJ24
+  doi: 10.1145/3658644.3670293
+  ee: https://doi.org/10.1145/3658644.3670293
+  url: https://dblp.org/rec/conf/ccs/MaPDDWLWJ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
