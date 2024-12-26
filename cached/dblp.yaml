@@ -13568,6 +13568,17 @@ Adversarial%20Learning:
   doi: 10.1145/3658644.3670293
   ee: https://doi.org/10.1145/3658644.3670293
   url: https://dblp.org/rec/conf/ccs/MaPDDWLWJ24
+- author: Md. Abdul Awal, Mrigank Rochan, Chanchal K. Roy
+  title: Investigating Adversarial Attacks in Software Analytics via Machine Learning
+    Explainability.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-04124
+  doi: 10.48550/ARXIV.2408.04124
+  ee: https://doi.org/10.48550/arXiv.2408.04124
+  url: https://dblp.org/rec/journals/corr/abs-2408-04124
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
