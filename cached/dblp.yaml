@@ -2506,6 +2506,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.BSPC.2024.107122
   ee: https://doi.org/10.1016/j.bspc.2024.107122
   url: https://dblp.org/rec/journals/bspc/GuoWZT25
+- author: Xue Zhang, Guoguo Yang, Hongjun Su, Yiping Chen, Zhaohui Xue, Qian Du 0001
+  title: Spectral-Spatial Ensemble Low-Rank Domain Adaptation for Hyperspectral Image
+    Classification.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/ZhangYSCXD25
+  doi: 10.1109/JSTARS.2024.3502253
+  ee: https://doi.org/10.1109/JSTARS.2024.3502253
+  url: https://dblp.org/rec/journals/staeors/ZhangYSCXD25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -13579,6 +13590,85 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2408.04124
   ee: https://doi.org/10.48550/arXiv.2408.04124
   url: https://dblp.org/rec/journals/corr/abs-2408-04124
+- author: Hidayaturrahman, Agung Trisetyarso, Iman Herwidiana Kartowisastro, Widodo
+    Budiharto
+  title: Adversarial Multitask Learning for Domain Adaptation Through Domain Adapter.
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/HidayaturrahmanTKB24a
+  doi: 10.1109/ACCESS.2024.3512544
+  ee: https://doi.org/10.1109/ACCESS.2024.3512544
+  url: https://dblp.org/rec/journals/access/HidayaturrahmanTKB24a
+- author: Shiyu Liu, Fei Chen, Zhendong Liu, Hongyan Qiao
+  title: 'Overcoming Data Scarcity in Wind Power Forecasting: A Deep Learning Approach
+    With Bidirectional Generative Adversarial Network and Neighborhood Search PSO
+    Algorithm.'
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/LiuCLQ24
+  doi: 10.1109/ACCESS.2024.3507154
+  ee: https://doi.org/10.1109/ACCESS.2024.3507154
+  url: https://dblp.org/rec/journals/access/LiuCLQ24
+- author: Giuseppe L&apos;Erario, Drew Hanover, Angel Romero, Yunlong Song, Gabriele
+    Nava, Paolo Maria Viceconte, Daniele Pucci, Davide Scaramuzza 0001
+  title: Learning to Walk and Fly with Adversarial Motion Priors.
+  venue: IROS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/LErarioHRSNVP024
+  doi: 10.1109/IROS58592.2024.10802391
+  ee: https://doi.org/10.1109/IROS58592.2024.10802391
+  url: https://dblp.org/rec/conf/iros/LErarioHRSNVP024
+- author: Tung Minh Luu, Thanh Nguyen, Tee Joshua Tian Jin, Sungwoon Kim, Chang D.
+    Yoo
+  title: Mitigating Adversarial Perturbations for Deep Reinforcement Learning via
+    Vector Quantization.
+  venue: IROS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/LuuNJKY24
+  doi: 10.1109/IROS58592.2024.10802066
+  ee: https://doi.org/10.1109/IROS58592.2024.10802066
+  url: https://dblp.org/rec/conf/iros/LuuNJKY24
+- author: Michael Villarreal, Bibek Poudel, Ryan Wickman, Yu Shen, Weizi Li
+  title: 'AutoJoin: Efficient Adversarial Training against Gradient-Free Perturbations
+    for Robust Maneuvering via Denoising Autoencoder and Joint Learning.'
+  venue: IROS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/VillarrealPWSL24
+  doi: 10.1109/IROS58592.2024.10802857
+  ee: https://doi.org/10.1109/IROS58592.2024.10802857
+  url: https://dblp.org/rec/conf/iros/VillarrealPWSL24
+- author: Jinyin Chen, Wenbo Mu, Luxin Zhang, Guohan Huang, Haibin Zheng, Yao Cheng
+  title: Query-Efficient Adversarial Attack Against Vertical Federated Graph Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-02809
+  doi: 10.48550/ARXIV.2411.02809
+  ee: https://doi.org/10.48550/arXiv.2411.02809
+  url: https://dblp.org/rec/journals/corr/abs-2411-02809
+- author: Usman Anwar, Johannes von Oswald, Louis Kirsch, David Krueger 0001, Spencer
+    Frei
+  title: Adversarial Robustness of In-Context Learning in Transformers for Linear
+    Regression.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-05189
+  doi: 10.48550/ARXIV.2411.05189
+  ee: https://doi.org/10.48550/arXiv.2411.05189
+  url: https://dblp.org/rec/journals/corr/abs-2411-05189
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
