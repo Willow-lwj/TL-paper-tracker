@@ -13669,6 +13669,103 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2411.05189
   ee: https://doi.org/10.48550/arXiv.2411.05189
   url: https://dblp.org/rec/journals/corr/abs-2411-05189
+- author: Haojing Huang, Jiajun Li, Fei Lu, Jianxin Li
+  title: Generative adversarial imitation learning computing task offloading scheme
+    for optimizing of generated sample utilization and system overhead.
+  venue: J. Supercomput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tjs/HuangLLL25
+  doi: 10.1007/S11227-024-06744-Z
+  ee: https://doi.org/10.1007/s11227-024-06744-z
+  url: https://dblp.org/rec/journals/tjs/HuangLLL25
+- author: Jianting Chen, Ling Ding 0003, Yunxiao Yang, Zaiyuan Di, Yang Xiang
+  title: Domain Adversarial Active Learning for Domain Generalization Classification.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/ChenDYDX25
+  doi: 10.1109/TKDE.2024.3486204
+  ee: https://doi.org/10.1109/TKDE.2024.3486204
+  url: https://dblp.org/rec/journals/tkde/ChenDYDX25
+- author: Annika Stein
+  title: Novel jet flavour tagging algorithms exploiting adversarial deep learning
+    techniques with efficient computing methods and preparation of open data for robustness
+    studies.
+  venue: ''
+  year: '2024'
+  type: Books and Theses
+  access: closed
+  key: phd/dnb/Stein24
+  doi: ''
+  ee: https://publications.rwth-aachen.de/record/991721
+  url: https://dblp.org/rec/phd/dnb/Stein24
+- author: Erfan Darzi, Florian Dubost, Nanna Maria Sijtsema, Peter M. A. van Ooijen
+  title: Exploring Adversarial Attacks in Federated Learning for Medical Imaging.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/DarziDSO24
+  doi: 10.1109/TII.2024.3423457
+  ee: https://doi.org/10.1109/TII.2024.3423457
+  url: https://dblp.org/rec/journals/tii/DarziDSO24
+- author: Wei Sun 0012, Yahua Hu, Xiaorui Zhang, Xin Yao, Xiaozheng He 0001
+  title: Adversarial Style-Irrelevant Feature Learning With Refined Soft Pseudo Labels
+    for Domain-Adaptive Vehicle Re-Identification.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/SunHZYH24
+  doi: 10.1109/TITS.2024.3480156
+  ee: https://doi.org/10.1109/TITS.2024.3480156
+  url: https://dblp.org/rec/journals/tits/SunHZYH24
+- author: Jiayu Chen, Tian Lan 0001, Vaneet Aggarwal
+  title: Hierarchical Adversarial Inverse Reinforcement Learning.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/ChenLA24
+  doi: 10.1109/TNNLS.2023.3305983
+  ee: https://doi.org/10.1109/TNNLS.2023.3305983
+  url: https://dblp.org/rec/journals/tnn/ChenLA24
+- author: Zheng Wang 0037, Feiping Nie 0001, Hua Wang 0007, Heng Huang, Fei Wang 0008
+  title: Toward Robust Discriminative Projections Learning Against Adversarial Patch
+    Attacks.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/WangNWHW24
+  doi: 10.1109/TNNLS.2023.3321606
+  ee: https://doi.org/10.1109/TNNLS.2023.3321606
+  url: https://dblp.org/rec/journals/tnn/WangNWHW24
+- author: Yantao Li 0001, Kaijian Dan, Xinyu Lei, Huafeng Qin, Shaojiang Deng, Gang
+    Zhou
+  title: Using Reinforcement Learning to Escape Automatic Filter-based Adversarial
+    Example Defense.
+  venue: ACM Trans. Sens. Networks
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tosn/LiDLQDZ24
+  doi: 10.1145/3688847
+  ee: https://doi.org/10.1145/3688847
+  url: https://dblp.org/rec/journals/tosn/LiDLQDZ24
+- author: Zechen Hu, Manshi Limbu, Daigo Shishika, Xuesu Xiao, Xuan Wang 0013
+  title: Learning Coordinated Maneuver in Adversarial Environments.
+  venue: IROS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/HuLSX024
+  doi: 10.1109/IROS58592.2024.10802227
+  ee: https://doi.org/10.1109/IROS58592.2024.10802227
+  url: https://dblp.org/rec/conf/iros/HuLSX024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
