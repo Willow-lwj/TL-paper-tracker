@@ -13900,6 +13900,29 @@ Adversarial%20Learning:
   doi: 10.1109/JETCAS.2024.3481273
   ee: https://doi.org/10.1109/JETCAS.2024.3481273
   url: https://dblp.org/rec/journals/esticas/XueFLNWZZL24
+- author: Shun Yang, Yajun Du, Shangyi Du, Xianyong Li, Xiaoliang Chen, Yanli Li 0001,
+    Chunzhi Xie, Jia Liu
+  title: Few-shot cyberviolence intent classification with Meta-learning AutoEncoder
+    based on adversarial domain adaptation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YangDDLCLXL25
+  doi: 10.1016/J.NEUCOM.2024.129089
+  ee: https://doi.org/10.1016/j.neucom.2024.129089
+  url: https://dblp.org/rec/journals/ijon/YangDDLCLXL25
+- author: Qing Tian 0001, Yi Zhao, Keyang Cheng, Tinghuai Ma
+  title: Enhancing Open-Set Domain Adaptation through Optimal Transport and Adversarial
+    Learning.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/TianZCM25
+  doi: 10.1016/J.NEUNET.2024.106907
+  ee: https://doi.org/10.1016/j.neunet.2024.106907
+  url: https://dblp.org/rec/journals/nn/TianZCM25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
