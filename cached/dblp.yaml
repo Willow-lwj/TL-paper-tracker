@@ -2517,6 +2517,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2024.3502253
   ee: https://doi.org/10.1109/JSTARS.2024.3502253
   url: https://dblp.org/rec/journals/staeors/ZhangYSCXD25
+- author: Saima Saleem, Anuradha Khattar, Monica Mehrotra
+  title: 'ADA-DR: An Adversarial Domain Adaptation Framework for Disaster Response
+    to Address Cold-Start Issue for Multiclass Classification of Disaster Images.'
+  venue: SN Comput. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/sncs/SaleemKM24
+  doi: 10.1007/S42979-024-03360-9
+  ee: https://doi.org/10.1007/s42979-024-03360-9
+  url: https://dblp.org/rec/journals/sncs/SaleemKM24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -13969,6 +13980,109 @@ Adversarial%20Learning:
   doi: 10.1109/PST62714.2024.10788064
   ee: https://doi.org/10.1109/PST62714.2024.10788064
   url: https://dblp.org/rec/conf/pst/MohammadianL024
+- author: Taqiaden Alshameri, Peng Wang 0024, Daheng Li, Wei Wei, Haonan Duan, Yayu
+    Huang, Murad Saleh Alfarzaeai
+  title: 'GraspAgent 1.0: Adversarial Continual Dexterous Grasp Learning.'
+  venue: IEEE Robotics Autom. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/AlshameriWLWDHA25
+  doi: 10.1109/LRA.2024.3502066
+  ee: https://doi.org/10.1109/LRA.2024.3502066
+  url: https://dblp.org/rec/journals/ral/AlshameriWLWDHA25
+- author: Haoran Zhou, Yanjiang Wang 0001, Weifeng Liu 0001, Dapeng Tao, Wei Ma, Baodi
+    Liu
+  title: 'MSC-GAN: A Multistream Complementary Generative Adversarial Network With
+    Grouping Learning for Multitemporal Cloud Removal.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhouWLTML25
+  doi: 10.1109/TGRS.2024.3507214
+  ee: https://doi.org/10.1109/TGRS.2024.3507214
+  url: https://dblp.org/rec/journals/tgrs/ZhouWLTML25
+- author: Ahmed Saihood, Wijdan Rashid Abdulhussien, Laith Alzubaidi, Mohamed Manoufali,
+    Yuantong Gu
+  title: Fusion-driven semi-supervised learning-based lung nodules classification
+    with dual-discriminator and dual-generator generative adversarial network.
+  venue: BMC Medical Informatics Decis. Mak.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/midm/SaihoodAAMG24
+  doi: 10.1186/S12911-024-02820-9
+  ee: https://doi.org/10.1186/s12911-024-02820-9
+  url: https://dblp.org/rec/journals/midm/SaihoodAAMG24
+- author: Sreyas Ramesh, B. N. Sukanth, Sathyavarapu Sri Jaswanth, Rimjhim Padam Singh
+  title: Enhancing Secure Data Transmission Through Deep Learning-Based Image Steganography
+    and Super-Resolution Generative Adversarial Networks.
+  venue: SN Comput. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/sncs/RameshSJS24
+  doi: 10.1007/S42979-024-03490-0
+  ee: https://doi.org/10.1007/s42979-024-03490-0
+  url: https://dblp.org/rec/journals/sncs/RameshSJS24
+- author: Yongsheng Dong, Yu Zhang, Xuelong Li 0001
+  title: Dual-Encoding Matching Adversarial Learning for Image Cartoonlization.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/DongZL24
+  doi: 10.1109/TCSVT.2024.3416315
+  ee: https://doi.org/10.1109/TCSVT.2024.3416315
+  url: https://dblp.org/rec/journals/tcsv/DongZL24
+- author: Min Wang 0017, Jianqun Cui, Yew Wee Wong, Yanan Chang, Libing Wu, Jiong
+    Jin
+  title: Urban Vehicle Trajectory Generation Based on Generative Adversarial Imitation
+    Learning.
+  venue: IEEE Trans. Veh. Technol.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tvt/WangCWCWJ24
+  doi: 10.1109/TVT.2024.3437412
+  ee: https://doi.org/10.1109/TVT.2024.3437412
+  url: https://dblp.org/rec/journals/tvt/WangCWCWJ24
+- author: Xiangxiang Cui, Dongmei Zhi, Weizheng Yan, Vince D. Calhoun, Chuanjun Zhuo,
+    Jing Sui
+  title: 'CGDM-GAN: An Adversarial Network Approach with Self-supervised Learning
+    for Site Effect Removal.'
+  venue: EMBC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/embc/CuiZYCZS24
+  doi: 10.1109/EMBC53108.2024.10782176
+  ee: https://doi.org/10.1109/EMBC53108.2024.10782176
+  url: https://dblp.org/rec/conf/embc/CuiZYCZS24
+- author: Huanyi Zhou, Stanley J. Reeves, Jueting Liu
+  title: Projection Image Synthesis Using Adversarial Learning Based Spatial Transformer
+    Network For Sparse Angle Sampling CT.
+  venue: EMBC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/embc/ZhouRL24
+  doi: 10.1109/EMBC53108.2024.10782486
+  ee: https://doi.org/10.1109/EMBC53108.2024.10782486
+  url: https://dblp.org/rec/conf/embc/ZhouRL24
+- author: Fan Shi 0002, Chong Zhang, Takahiro Miki, Joonho Lee, Marco Hutter 0001,
+    Stelian Coros
+  title: 'Rethinking Robustness Assessment: Adversarial Attacks on Learning-based
+    Quadrupedal Locomotion Controllers.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-12424
+  doi: 10.48550/ARXIV.2405.12424
+  ee: https://doi.org/10.48550/arXiv.2405.12424
+  url: https://dblp.org/rec/journals/corr/abs-2405-12424
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
