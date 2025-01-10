@@ -2528,6 +2528,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/S42979-024-03360-9
   ee: https://doi.org/10.1007/s42979-024-03360-9
   url: https://dblp.org/rec/journals/sncs/SaleemKM24
+- author: "Juan Camilo Bayona Quesada, Angie Julieth Fuentes Barrag\xE1n, Gabriel\
+    \ Eduardo Perez, David Romo-Bucheli"
+  title: Domain Adaptation Strategies Based on Color Normalisation for Histological
+    Image Classification.
+  venue: SIPAIM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sipaim/QuesadaBPR24
+  doi: 10.1109/SIPAIM62974.2024.10783544
+  ee: https://doi.org/10.1109/SIPAIM62974.2024.10783544
+  url: https://dblp.org/rec/conf/sipaim/QuesadaBPR24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -14083,6 +14095,39 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2405.12424
   ee: https://doi.org/10.48550/arXiv.2405.12424
   url: https://dblp.org/rec/journals/corr/abs-2405-12424
+- author: Wei Zhou 0028, Xianyi Zhang, Junhao Wen 0001, Xibin Wang
+  title: Integrating contrastive learning and adversarial learning on graph denoising
+    encoder for recommendation.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhouZWW25
+  doi: 10.1016/J.ESWA.2024.125812
+  ee: https://doi.org/10.1016/j.eswa.2024.125812
+  url: https://dblp.org/rec/journals/eswa/ZhouZWW25
+- author: Dezhao Zhai, Wei Chen, Qinwei Li, Ming Yu, Hang Wu
+  title: Adversarial learning network for recovering rPPG signals from low-resolution
+    images for remote heart rate measurement.
+  venue: Biomed. Signal Process. Control.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/ZhaiCLYW25
+  doi: 10.1016/J.BSPC.2024.107382
+  ee: https://doi.org/10.1016/j.bspc.2024.107382
+  url: https://dblp.org/rec/journals/bspc/ZhaiCLYW25
+- author: Tianhu Peng, Lingfan Bao, Joseph Humphreys, Andromachi Maria Delfaki, Dimitrios
+    Kanoulas, Chengxu Zhou
+  title: Learning Bipedal Walking on a Quadruped Robot via Adversarial Motion Priors.
+  venue: TAROS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/taros/PengBHDKZ24
+  doi: 10.1007/978-3-031-72062-8_11
+  ee: https://doi.org/10.1007/978-3-031-72062-8_11
+  url: https://dblp.org/rec/conf/taros/PengBHDKZ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
