@@ -14128,6 +14128,48 @@ Adversarial%20Learning:
   doi: 10.1007/978-3-031-72062-8_11
   ee: https://doi.org/10.1007/978-3-031-72062-8_11
   url: https://dblp.org/rec/conf/taros/PengBHDKZ24
+- author: Xiangyu Ju, Xu Wu, Sheng Dai, Ming Li, Dewen Hu
+  title: Domain adversarial learning with multiple adversarial tasks for EEG emotion
+    recognition.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/JuWDLH25
+  doi: 10.1016/J.ESWA.2024.126028
+  ee: https://doi.org/10.1016/j.eswa.2024.126028
+  url: https://dblp.org/rec/journals/eswa/JuWDLH25
+- author: Pouya Bashivan, Reza Bayat, Adam Ibrahim, Amirozhan Dehghani, Yifei Ren
+  title: Learning adversarially robust kernel ensembles with kernel average pooling.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/BashivanBIDR25
+  doi: 10.1016/J.ESWA.2024.126017
+  ee: https://doi.org/10.1016/j.eswa.2024.126017
+  url: https://dblp.org/rec/journals/eswa/BashivanBIDR25
+- author: Noor Khial, Naram Mhaisen, Mohamed Abdalla Mabrok, Amr Mohamed 0001
+  title: An online learning framework for UAV search mission in adversarial environments.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/KhialMMM25
+  doi: 10.1016/J.ESWA.2024.126136
+  ee: https://doi.org/10.1016/j.eswa.2024.126136
+  url: https://dblp.org/rec/journals/eswa/KhialMMM25
+- author: Yu Zhou 0049, Ben Yang, Zhenni Liu, Qian Wang, Ping Xiong
+  title: Cross-Domain Facial Expression Recognition by Combining Transfer Learning
+    and Face-Cycle Generative Adversarial Network.
+  venue: Multim. Tools Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/mta/ZhouYLWX24
+  doi: 10.1007/S11042-024-18713-Y
+  ee: https://doi.org/10.1007/s11042-024-18713-y
+  url: https://dblp.org/rec/journals/mta/ZhouYLWX24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
