@@ -14170,6 +14170,50 @@ Adversarial%20Learning:
   doi: 10.1007/S11042-024-18713-Y
   ee: https://doi.org/10.1007/s11042-024-18713-y
   url: https://dblp.org/rec/journals/mta/ZhouYLWX24
+- author: Fei Wu, Zhuohang Xiang, Dengyu Xiao, Yaodong Hao, Yi Qin 0004, Huayan Pu,
+    Jun Luo 0006
+  title: Adversarial-Causal Representation Learning Networks for Machine fault diagnosis
+    under unseen conditions based on vibration and acoustic signals.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WuXXHQPL25
+  doi: 10.1016/J.ENGAPPAI.2024.109550
+  ee: https://doi.org/10.1016/j.engappai.2024.109550
+  url: https://dblp.org/rec/journals/eaai/WuXXHQPL25
+- author: Adam Piaseczny, Eric Ruzomberka, Rohit Parasnis, Christopher G. Brinton
+  title: 'Adversarial Node Placement in Decentralized Federated Learning: Maximum
+    Spanning-Centrality Strategy and Performance Analysis.'
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/PiasecznyRPB25
+  doi: 10.1109/JIOT.2024.3462674
+  ee: https://doi.org/10.1109/JIOT.2024.3462674
+  url: https://dblp.org/rec/journals/iotj/PiasecznyRPB25
+- author: Yizhou Xu, Haidong Xie, Nan Ji, Yuanqing Chen, Naijin Liu, Xueshuang Xiang
+  title: Dynamic adversarial jamming-based reinforcement learning for designing constellations.
+  venue: Digit. Commun. Networks
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/dcan/XuXJCLX24
+  doi: 10.1016/J.DCAN.2023.05.012
+  ee: https://doi.org/10.1016/j.dcan.2023.05.012
+  url: https://dblp.org/rec/journals/dcan/XuXJCLX24
+- author: Yao Yan 0002, Rui Zhang, Hao He 0005, Tong Lei, Xusheng Zhang, Chao Jiang
+  title: Image Restoration Technology of Tang Dynasty Tomb Murals Using Adversarial
+    Edge Learning.
+  venue: ACM Journal on Computing and Cultural Heritage
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/jocch/YanZHLZJ24
+  doi: 10.1145/3674984
+  ee: https://doi.org/10.1145/3674984
+  url: https://dblp.org/rec/journals/jocch/YanZHLZJ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
