@@ -14214,6 +14214,49 @@ Adversarial%20Learning:
   doi: 10.1145/3674984
   ee: https://doi.org/10.1145/3674984
   url: https://dblp.org/rec/journals/jocch/YanZHLZJ24
+- author: Xiangyu Ju, Xu Wu, Sheng Dai, Ming Li 0028, Dewen Hu
+  title: Domain adversarial learning with multiple adversarial tasks for EEG emotion
+    recognition.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/JuWDLH25
+  doi: 10.1016/J.ESWA.2024.126028
+  ee: https://doi.org/10.1016/j.eswa.2024.126028
+  url: https://dblp.org/rec/journals/eswa/JuWDLH25
+- author: Shaobo Zhang 0001, Wenli Chen, Xiong Li, Qin Liu, Guojun Wang 0001
+  title: 'APBAM: Adversarial perturbation-driven backdoor attack in multimodal learning.'
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangCLLW25
+  doi: 10.1016/J.INS.2024.121847
+  ee: https://doi.org/10.1016/j.ins.2024.121847
+  url: https://dblp.org/rec/journals/isci/ZhangCLLW25
+- author: "Deniz Koyuncu, Alex Gittens, B\xFClent Yener, Moti Yung"
+  title: Adversarial Missingness Attacks on Causal Structure Learning.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/KoyuncuGYY24
+  doi: 10.1145/3682065
+  ee: https://doi.org/10.1145/3682065
+  url: https://dblp.org/rec/journals/tist/KoyuncuGYY24
+- author: "Zhaobin Mo, Xu Chen, Xuan Di, Elisa Iacomini, Chiara Segala, Michael Herty,\
+    \ Mathieu Lauri\xE8re"
+  title: A Game-Theoretic Framework for Generic Second-Order Traffic Flow Models Using
+    Mean Field Games and Adversarial Inverse Reinforcement Learning.
+  venue: Transp. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/transci/MoCDISHL24
+  doi: 10.1287/TRSC.2024.0532
+  ee: https://doi.org/10.1287/trsc.2024.0532
+  url: https://dblp.org/rec/journals/transci/MoCDISHL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
