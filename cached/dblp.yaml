@@ -2540,6 +2540,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/SIPAIM62974.2024.10783544
   ee: https://doi.org/10.1109/SIPAIM62974.2024.10783544
   url: https://dblp.org/rec/conf/sipaim/QuesadaBPR24
+- author: "Dennis Ritter, Mike Hemberger, Marc H\xF6nig, Volker Stopp, Erik Rodner,\
+    \ Kristian Hildebrand"
+  title: 'CAD Models to Real-World Images: A Practical Approach to Unsupervised Domain
+    Adaptation in Industrial Object Classification.'
+  venue: PKDD/ECML Workshops
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pkdd/RitterHHSRH23
+  doi: 10.1007/978-3-031-74640-6_33
+  ee: https://doi.org/10.1007/978-3-031-74640-6_33
+  url: https://dblp.org/rec/conf/pkdd/RitterHHSRH23
+- author: Wei Li 0219, Wei Wei 0008, Lei Zhang 0054, Cong Wang 0013, Yanning Zhang
+    0001
+  title: Unsupervised deep domain adaptation for hyperspectral image classification.
+  venue: IGARSS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/igarss/Li000Z19
+  doi: 10.1109/IGARSS40859.2019.8976372
+  ee: https://doi.org/10.1109/IGARSS40859.2019.8976372
+  url: https://dblp.org/rec/conf/igarss/Li000Z19
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -14257,6 +14280,49 @@ Adversarial%20Learning:
   doi: 10.1287/TRSC.2024.0532
   ee: https://doi.org/10.1287/trsc.2024.0532
   url: https://dblp.org/rec/journals/transci/MoCDISHL24
+- author: Shaobo Zhang 0001, Wenli Chen, Xiong Li 0002, Qin Liu 0001, Guojun Wang
+    0001
+  title: 'APBAM: Adversarial perturbation-driven backdoor attack in multimodal learning.'
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangCLLW25
+  doi: 10.1016/J.INS.2024.121847
+  ee: https://doi.org/10.1016/j.ins.2024.121847
+  url: https://dblp.org/rec/journals/isci/ZhangCLLW25
+- author: Qihang Peng, Hongliang Guo, Zhengyan Zhang, Chih-Yung Wen, Yaochu Jin
+  title: 'PF-MAAC: A learning-based method for probabilistic optimization in time-constrained
+    non-adversarial moving target search.'
+  venue: Swarm Evol. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/swevo/PengGZWJ25
+  doi: 10.1016/J.SWEVO.2024.101785
+  ee: https://doi.org/10.1016/j.swevo.2024.101785
+  url: https://dblp.org/rec/journals/swevo/PengGZWJ25
+- author: Do Xuan Long, Yiran Zhao 0006, Hannah Brown, Yuxi Xie, James Xu Zhao, Nancy
+    F. Chen, Kenji Kawaguchi, Michael Shieh, Junxian He
+  title: Prompt Optimization via Adversarial In-Context Learning.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/LongZBXZCKSH24
+  doi: 10.18653/V1/2024.ACL-LONG.395
+  ee: https://doi.org/10.18653/v1/2024.acl-long.395
+  url: https://dblp.org/rec/conf/acl/LongZBXZCKSH24
+- author: Jiale Wang, Xueliang Liu, Yuling Su
+  title: A Robust Few-shot Learning Framework via Dual-branch Adversarial Noise Pretraining.
+  venue: MMAsia
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mmasia/WangLS24
+  doi: 10.1145/3696409.3700245
+  ee: https://doi.org/10.1145/3696409.3700245
+  url: https://dblp.org/rec/conf/mmasia/WangLS24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
