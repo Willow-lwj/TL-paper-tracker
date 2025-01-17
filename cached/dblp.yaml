@@ -14417,6 +14417,63 @@ Adversarial%20Learning:
   doi: 10.1109/ICCP63557.2024.10793037
   ee: https://doi.org/10.1109/ICCP63557.2024.10793037
   url: https://dblp.org/rec/conf/iccp2/SandorPC24
+- author: Pratik S. Patel, Pooja Panchal
+  title: 'Adversarial attacks on machine learning-based cyber security systems: a
+    survey of techniques and defences.'
+  venue: Int. J. Electron. Secur. Digit. Forensics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijesdf/PatelP25
+  doi: 10.1504/IJESDF.2025.143481
+  ee: https://doi.org/10.1504/IJESDF.2025.143481
+  url: https://dblp.org/rec/journals/ijesdf/PatelP25
+- author: Naresh Kumar 0004, Parveen Kumar, Sushreeta Tripathy, Neelamani Samal, Debasis
+    Gountia, Praveen Gatla, Teekam Singh
+  title: Context-Aware Adversarial Graph-Based Learning for Multilingual Grammatical
+    Error Correction.
+  venue: ACM Trans. Asian Low Resour. Lang. Inf. Process.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/talip/KumarKTSGGS24
+  doi: 10.1145/3696106
+  ee: https://doi.org/10.1145/3696106
+  url: https://dblp.org/rec/journals/talip/KumarKTSGGS24
+- author: Ziqi Chen, Liangxiao Jiang, Wenjun Zhang 0012, Chaoqun Li 0001
+  title: Weighted Adversarial Learning From Crowds.
+  venue: IEEE Trans. Serv. Comput.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tsc/ChenJZL24
+  doi: 10.1109/TSC.2024.3404353
+  ee: https://doi.org/10.1109/TSC.2024.3404353
+  url: https://dblp.org/rec/journals/tsc/ChenJZL24
+- author: Hongyi Liu, Xiaosong Huang, Mengxi Jia, Tong Jia, Jing Han, Zhonghai Wu,
+    Ying Li 0012
+  title: 'UAC-AD: Unsupervised Adversarial Contrastive Learning for Anomaly Detection
+    on Multi-Modal Data in Microservice Systems.'
+  venue: IEEE Trans. Serv. Comput.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tsc/LiuHJJHWL24
+  doi: 10.1109/TSC.2024.3411481
+  ee: https://doi.org/10.1109/TSC.2024.3411481
+  url: https://dblp.org/rec/journals/tsc/LiuHJJHWL24
+- author: "Kushal Pokhrel, Cesar San\xEDn, Md. Kowsar Hossain Sakib, Md Rafiqul Islam,\
+    \ Edward Szczerbicki"
+  title: An Adversarial Machine Learning Approach on Securing Large Language Model
+    with Vigil, an Open-Source Initiative.
+  venue: KES
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kes/PokhrelSSIS24
+  doi: 10.1016/J.PROCS.2024.09.486
+  ee: https://doi.org/10.1016/j.procs.2024.09.486
+  url: https://dblp.org/rec/conf/kes/PokhrelSSIS24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
