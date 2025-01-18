@@ -14474,6 +14474,29 @@ Adversarial%20Learning:
   doi: 10.1016/J.PROCS.2024.09.486
   ee: https://doi.org/10.1016/j.procs.2024.09.486
   url: https://dblp.org/rec/conf/kes/PokhrelSSIS24
+- author: Sunggu Kyung, JongJun Won, Seongyong Pak, Sunwoo Kim, Sangyoon Lee, Kanggil
+    Park, Gil-Sun Hong, Namkug Kim
+  title: Generative Adversarial Network With Robust Discriminator Through Multi-Task
+    Learning for Low-Dose CT Denoising.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/KyungWPKLPHK25
+  doi: 10.1109/TMI.2024.3449647
+  ee: https://doi.org/10.1109/TMI.2024.3449647
+  url: https://dblp.org/rec/journals/tmi/KyungWPKLPHK25
+- author: Benjamin Schindler, Thomas Schmid 0003
+  title: 'Physics-Aware Normalizing Flows: Leveraging Electric Circuit Models in Adversarial
+    Learning.'
+  venue: ESANN
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/esann/Schindler024
+  doi: 10.14428/ESANN/2024.ES2024-177
+  ee: https://doi.org/10.14428/esann/2024.ES2024-177
+  url: https://dblp.org/rec/conf/esann/Schindler024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
