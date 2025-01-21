@@ -14497,6 +14497,17 @@ Adversarial%20Learning:
   doi: 10.14428/ESANN/2024.ES2024-177
   ee: https://doi.org/10.14428/esann/2024.ES2024-177
   url: https://dblp.org/rec/conf/esann/Schindler024
+- author: "Mang Ning, Albert Ali Salah, Itir \xD6nal Ertugrul"
+  title: Representation Learning and Identity Adversarial Training for Facial Behavior
+    Understanding.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-11243
+  doi: 10.48550/ARXIV.2407.11243
+  ee: https://doi.org/10.48550/arXiv.2407.11243
+  url: https://dblp.org/rec/journals/corr/abs-2407-11243
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
