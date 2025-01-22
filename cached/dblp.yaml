@@ -14508,6 +14508,41 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2407.11243
   ee: https://doi.org/10.48550/arXiv.2407.11243
   url: https://dblp.org/rec/journals/corr/abs-2407-11243
+- author: "Jon Vadillo, Roberto Santana 0001, Jos\xE9 Antonio Lozano 0001"
+  title: 'Adversarial Attacks in Explainable Machine Learning: A Survey of Threats
+    Against Models and Humans.'
+  venue: WIREs Data. Mining. Knowl. Discov.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/widm/VadilloSL25
+  doi: 10.1002/WIDM.1567
+  ee: https://doi.org/10.1002/widm.1567
+  url: https://dblp.org/rec/journals/widm/VadilloSL25
+- author: Milin Zhang 0002, Michael DeLucia, Ananthram Swami, Jonathan D. Ashdown,
+    Kurt A. Turck, Francesco Restuccia 0001
+  title: 'HyperAdv: Dynamic Defense Against Adversarial Radio Frequency Machine Learning
+    Systems.'
+  venue: MILCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/milcom/0002DSAT024
+  doi: 10.1109/MILCOM61039.2024.10773813
+  ee: https://doi.org/10.1109/MILCOM61039.2024.10773813
+  url: https://dblp.org/rec/conf/milcom/0002DSAT024
+- author: Shahriar Rifat, Michael DeLucia, Ananthram Swami, Jonathan D. Ashdown, Kurt
+    A. Turck, Francesco Restuccia 0001
+  title: 'ADA: Adversarial Dynamic Test Time Adaptation in Radio Frequency Machine
+    Learning Systems.'
+  venue: MILCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/milcom/RifatDSAT024
+  doi: 10.1109/MILCOM61039.2024.10773901
+  ee: https://doi.org/10.1109/MILCOM61039.2024.10773901
+  url: https://dblp.org/rec/conf/milcom/RifatDSAT024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
