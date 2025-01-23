@@ -14543,6 +14543,50 @@ Adversarial%20Learning:
   doi: 10.1109/MILCOM61039.2024.10773901
   ee: https://doi.org/10.1109/MILCOM61039.2024.10773901
   url: https://dblp.org/rec/conf/milcom/RifatDSAT024
+- author: Ling Li, Zhuofu Pan, Yucheng Ma, Zhiwen Chen 0001, Jie Chen, Yalin Wang
+    0003
+  title: 'A new generative adversarial networks-based fault diagnosis framework: Learning
+    a mapping to estimate fault.'
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiPMCCW25
+  doi: 10.1016/J.NEUCOM.2024.129288
+  ee: https://doi.org/10.1016/j.neucom.2024.129288
+  url: https://dblp.org/rec/journals/ijon/LiPMCCW25
+- author: Pengqi Yin
+  title: Visual-textual adversarial learning for person re-identification.
+  venue: Multim. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/Yin25
+  doi: 10.1007/S00530-024-01648-7
+  ee: https://doi.org/10.1007/s00530-024-01648-7
+  url: https://dblp.org/rec/journals/mms/Yin25
+- author: Quentin Renau, Emma Hart
+  title: Evaluating the Robustness of Deep-learning Algorithm-selection Models by
+    Evolving Adversarial Instances - Code and Data.
+  venue: Zenodo
+  year: '2024'
+  type: Data and Artifacts
+  access: open
+  key: data/11/RenauH24a
+  doi: 10.5281/ZENODO.10581154
+  ee: https://doi.org/10.5281/zenodo.10581154
+  url: https://dblp.org/rec/data/11/RenauH24a
+- author: Xiaokun Luan, Xiyue Zhang 0001, Jingyi Wang 0004, Meng Sun 0002
+  title: Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse
+    Detection.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-03883
+  doi: 10.48550/ARXIV.2407.03883
+  ee: https://doi.org/10.48550/arXiv.2407.03883
+  url: https://dblp.org/rec/journals/corr/abs-2407-03883
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
