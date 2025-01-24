@@ -14587,6 +14587,18 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2407.03883
   ee: https://doi.org/10.48550/arXiv.2407.03883
   url: https://dblp.org/rec/journals/corr/abs-2407-03883
+- author: "Zhenyu Liu, Haoran Duan 0001, Huizhi Liang, Yang Long 0001, V\xE1clav Sn\xE1\
+    sel, Guiseppe Nicosia, Rajiv Ranjan 0001, Varun Ojha 0001"
+  title: Dynamic Label Adversarial Training for Deep Learning Robustness Against Adversarial
+    Attacks.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-13102
+  doi: 10.48550/ARXIV.2408.13102
+  ee: https://doi.org/10.48550/arXiv.2408.13102
+  url: https://dblp.org/rec/journals/corr/abs-2408-13102
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
