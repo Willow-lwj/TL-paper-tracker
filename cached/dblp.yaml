@@ -14599,6 +14599,40 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2408.13102
   ee: https://doi.org/10.48550/arXiv.2408.13102
   url: https://dblp.org/rec/journals/corr/abs-2408-13102
+- author: Zhenyu Wu, Wei Wang 0169, Lin Wang, Yacong Li, Fengmao Lv, Qing Xia 0002,
+    Chenglizhao Chen, Aimin Hao, Shuo Li 0001
+  title: 'Pixel is All You Need: Adversarial Spatio-Temporal Ensemble Active Learning
+    for Salient Object Detection.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/WuWWLLXCHL25
+  doi: 10.1109/TPAMI.2024.3476683
+  ee: https://doi.org/10.1109/TPAMI.2024.3476683
+  url: https://dblp.org/rec/journals/pami/WuWWLLXCHL25
+- author: Ruiheng Liu, Yu Zhang 0030, Bailong Yang, Qi Shi, Luogeng Tian
+  title: Robust and resource-efficient table-based fact verification through multi-aspect
+    adversarial contrastive learning.
+  venue: Inf. Process. Manag.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ipm/LiuZYST24
+  doi: 10.1016/J.IPM.2024.103853
+  ee: https://doi.org/10.1016/j.ipm.2024.103853
+  url: https://dblp.org/rec/journals/ipm/LiuZYST24
+- author: Yang Huang 0001, Yuqi Hou, Qiuming Zhu, Xiaomin Chen, Lei Chen
+  title: 'Towards the Metaverse: Distributed Radio Map Reconstruction based on Federated
+    Learning Generative Adversarial Networks.'
+  venue: IWCMC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iwcmc/0001HZCC24
+  doi: 10.1109/IWCMC61514.2024.10592435
+  ee: https://doi.org/10.1109/IWCMC61514.2024.10592435
+  url: https://dblp.org/rec/conf/iwcmc/0001HZCC24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
