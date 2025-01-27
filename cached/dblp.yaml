@@ -14633,6 +14633,28 @@ Adversarial%20Learning:
   doi: 10.1109/IWCMC61514.2024.10592435
   ee: https://doi.org/10.1109/IWCMC61514.2024.10592435
   url: https://dblp.org/rec/conf/iwcmc/0001HZCC24
+- author: Liang Xi, Dong He, Han Liu
+  title: 'PRAAD: Pseudo representation adversarial learning for unsupervised anomaly
+    detection.'
+  venue: J. Inf. Secur. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/istr/XiHL25
+  doi: 10.1016/J.JISA.2025.103968
+  ee: https://doi.org/10.1016/j.jisa.2025.103968
+  url: https://dblp.org/rec/journals/istr/XiHL25
+- author: Maximilian Wendlinger, Kilian Tscharke, Pascal Debus
+  title: A Comparative Analysis of Adversarial Robustness for Quantum and Classical
+    Machine Learning Models.
+  venue: QCE
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/qce/WendlingerTD24
+  doi: 10.1109/QCE60285.2024.00171
+  ee: https://doi.org/10.1109/QCE60285.2024.00171
+  url: https://dblp.org/rec/conf/qce/WendlingerTD24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
