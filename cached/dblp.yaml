@@ -14655,6 +14655,63 @@ Adversarial%20Learning:
   doi: 10.1109/QCE60285.2024.00171
   ee: https://doi.org/10.1109/QCE60285.2024.00171
   url: https://dblp.org/rec/conf/qce/WendlingerTD24
+- author: Lei Shi 0011, Han Wu, Xu Ding, Hao Xu, Sinan Pan
+  title: A generative adversarial network-based client-level handwriting forgery attack
+    in federated learning scenario.
+  venue: Expert Syst. J. Knowl. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/es/ShiWDXP25
+  doi: 10.1111/EXSY.13676
+  ee: https://doi.org/10.1111/exsy.13676
+  url: https://dblp.org/rec/journals/es/ShiWDXP25
+- author: Yue Zhao, Farhan Ullah, Chien-Ming Chen 0001, Mohammed Amoon, Saru Kumari
+  title: Efficient malware detection using hybrid approach of transfer learning and
+    generative adversarial examples with image representation.
+  venue: Expert Syst. J. Knowl. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/es/ZhaoUCAK25
+  doi: 10.1111/EXSY.13693
+  ee: https://doi.org/10.1111/exsy.13693
+  url: https://dblp.org/rec/journals/es/ZhaoUCAK25
+- author: Sicong Zhang, Yang Xu 0021, Xiaoyao Xie
+  title: Universal Adversarial Perturbations Against Machine-Learning-Based Intrusion
+    Detection Systems in Industrial Internet of Things.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangXX25
+  doi: 10.1109/JIOT.2024.3465549
+  ee: https://doi.org/10.1109/JIOT.2024.3465549
+  url: https://dblp.org/rec/journals/iotj/ZhangXX25
+- author: Yunpeng Xiao, Xufeng Li, Tun Li, Rong Wang 0003, Yucai Pang, Guoyin Wang
+    0001
+  title: A Distributed Generative Adversarial Network for Data Augmentation Under
+    Vertical Federated Learning.
+  venue: IEEE Trans. Big Data
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/XiaoLLWPW25
+  doi: 10.1109/TBDATA.2024.3375150
+  ee: https://doi.org/10.1109/TBDATA.2024.3375150
+  url: https://dblp.org/rec/journals/tbd/XiaoLLWPW25
+- author: Fan Shi 0002, Chong Zhang, Takahiro Miki, Joonho Lee, Marco Hutter 0001,
+    Stelian Coros
+  title: 'Rethinking Robustness Assessment: Adversarial Attacks on Learning-based
+    Quadrupedal Locomotion Controllers.'
+  venue: Robotics - Science and Systems
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/rss/0002ZML0C24
+  doi: 10.15607/RSS.2024.XX.057
+  ee: https://doi.org/10.15607/RSS.2024.XX.057
+  url: https://dblp.org/rec/conf/rss/0002ZML0C24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -14817,6 +14874,17 @@ unsupervised%20domain%20adaptation%20data%20augmentation:
   doi: ''
   ee: http://arxiv.org/abs/1707.06265
   url: https://dblp.org/rec/journals/corr/HsuZG17aa
+- author: Wenyong Dong, Zhixue Liang, Liping Wang, Gang Tian, Qianhui Long
+  title: Unsupervised domain adaptation segmentation algorithm with cross-domain data
+    augmentation and category contrast.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/DongLWTL25
+  doi: 10.1016/J.NEUCOM.2025.129393
+  ee: https://doi.org/10.1016/j.neucom.2025.129393
+  url: https://dblp.org/rec/journals/ijon/DongLWTL25
 domain%20%feature%alignment:
 - author: Zhongyi Wen, Qiang Li 0017, Yatong Wang, Luyan Xu, Huaizong Shao, Guomin
     Sun
