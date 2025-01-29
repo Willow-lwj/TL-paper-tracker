@@ -2598,6 +2598,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2412.04260
   ee: https://doi.org/10.48550/arXiv.2412.04260
   url: https://dblp.org/rec/journals/corr/abs-2412-04260
+- author: Ahmad Chaddad, Yihang Wu, Yuchen Jiang, Ahmed Bouridane, Christian Desrosiers
+  title: Simulations of Common Unsupervised Domain Adaptation Algorithms for Image
+    Classification.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ChaddadWJBD25
+  doi: 10.1109/TIM.2025.3527531
+  ee: https://doi.org/10.1109/TIM.2025.3527531
+  url: https://dblp.org/rec/journals/tim/ChaddadWJBD25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -14712,6 +14723,83 @@ Adversarial%20Learning:
   doi: 10.15607/RSS.2024.XX.057
   ee: https://doi.org/10.15607/RSS.2024.XX.057
   url: https://dblp.org/rec/conf/rss/0002ZML0C24
+- author: Anshu Singh, Maheshwari Prasad Singh, Amit Kumar Singh
+  title: 'Adversarially Enhanced Learning (AEL): Robust lightweight deep learning
+    approach for radiology image classification against adversarial attacks.'
+  venue: Image Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ivc/SinghSS25
+  doi: 10.1016/J.IMAVIS.2024.105405
+  ee: https://doi.org/10.1016/j.imavis.2024.105405
+  url: https://dblp.org/rec/journals/ivc/SinghSS25
+- author: Afnan Alhindi, Saad Al-Ahmadi 0002, Mohamed Maher Ben Ismail
+  title: 'Balancing Privacy and Utility in Split Learning: An Adversarial Channel
+    Pruning-Based Approach.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/AlhindiAI25
+  doi: 10.1109/ACCESS.2025.3528575
+  ee: https://doi.org/10.1109/ACCESS.2025.3528575
+  url: https://dblp.org/rec/journals/access/AlhindiAI25
+- author: Hailong Hu, Jun Pang 0001
+  title: 'Fooling machine learning models: a novel out-of-distribution attack through
+    generative adversarial networks.'
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/HuP25
+  doi: 10.1007/S10489-024-05974-1
+  ee: https://doi.org/10.1007/s10489-024-05974-1
+  url: https://dblp.org/rec/journals/apin/HuP25
+- author: Edan Habler, Ron Bitton, Dan Avraham, Eitan Klevansky, Dudu Mimran, Oleg
+    Brodt, Heiko Lehmann, Yuval Elovici, Asaf Shabtai
+  title: Adversarial machine learning threat analysis and remediation in Open Radio
+    Access Network (O-RAN).
+  venue: J. Netw. Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jnca/HablerBAKMBLES25
+  doi: 10.1016/J.JNCA.2024.104090
+  ee: https://doi.org/10.1016/j.jnca.2024.104090
+  url: https://dblp.org/rec/journals/jnca/HablerBAKMBLES25
+- author: Ting Lei
+  title: 'Securing Fog-enabled IoT: federated learning and generative adversarial
+    networks for intrusion detection.'
+  venue: Telecommun. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/telsys/Lei25
+  doi: 10.1007/S11235-024-01237-Z
+  ee: https://doi.org/10.1007/s11235-024-01237-z
+  url: https://dblp.org/rec/journals/telsys/Lei25
+- author: Ryosei Shimanuki, Hiroshi Hosobe
+  title: A Machine Learning Based Method for Rating Adversarial Board Games.
+  venue: CANDAR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/candar/ShimanukiH24
+  doi: 10.1109/CANDAR64496.2024.00020
+  ee: https://doi.org/10.1109/CANDAR64496.2024.00020
+  url: https://dblp.org/rec/conf/candar/ShimanukiH24
+- author: "Yanwen Wang 0004, Mahdi Khodadadzadeh, Ra\xFAl Zurita-Milla"
+  title: On the use of adversarial validation for quantifying dissimilarity in geospatial
+    machine learning prediction.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2404-12575
+  doi: 10.48550/ARXIV.2404.12575
+  ee: https://doi.org/10.48550/arXiv.2404.12575
+  url: https://dblp.org/rec/journals/corr/abs-2404-12575
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
