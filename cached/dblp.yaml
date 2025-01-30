@@ -14800,6 +14800,41 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2404.12575
   ee: https://doi.org/10.48550/arXiv.2404.12575
   url: https://dblp.org/rec/journals/corr/abs-2404-12575
+- author: Trong-Nghia To, Danh Le Kim, Do Thi Thu Hien, Nghi Hoang Khoa, Hien Do Hoang,
+    Phan The Duy, Van-Hau Pham
+  title: On the effectiveness of adversarial samples against ensemble learning-based
+    windows PE malware detectors.
+  venue: Int. J. Inf. Sec.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijisec/ToKHKHDP25
+  doi: 10.1007/S10207-024-00969-Y
+  ee: https://doi.org/10.1007/s10207-024-00969-y
+  url: https://dblp.org/rec/journals/ijisec/ToKHKHDP25
+- author: Chenyu Zhou, Wei Huang, Xinyuan Miao, Yabin Peng, Xianglong Kong, Yi Cao,
+    Xi Chen
+  title: Fortifying graph neural networks against adversarial attacks via ensemble
+    learning.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhouHMPKCC25
+  doi: 10.1016/J.KNOSYS.2024.112867
+  ee: https://doi.org/10.1016/j.knosys.2024.112867
+  url: https://dblp.org/rec/journals/kbs/ZhouHMPKCC25
+- author: Aoran Zhang, Yonghong Yu, Gongyou Xu, Rong Gao, Li Zhang 0013, Shang Gao,
+    Hongzhi Yin
+  title: Hyperbolic Adversarial Learning for Personalized Item Recommendation.
+  venue: DASFAA
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dasfaa/ZhangYXGZGY24
+  doi: 10.1007/978-981-97-5555-4_20
+  ee: https://doi.org/10.1007/978-981-97-5555-4_20
+  url: https://dblp.org/rec/conf/dasfaa/ZhangYXGZGY24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
