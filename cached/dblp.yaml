@@ -14835,6 +14835,48 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-97-5555-4_20
   ee: https://doi.org/10.1007/978-981-97-5555-4_20
   url: https://dblp.org/rec/conf/dasfaa/ZhangYXGZGY24
+- author: Jianting Chen, Ling Ding 0003, Yunxiao Yang, Zaiyuan Di, Yang Xiang 0006
+  title: Domain Adversarial Active Learning for Domain Generalization Classification.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/ChenDYDX25
+  doi: 10.1109/TKDE.2024.3486204
+  ee: https://doi.org/10.1109/TKDE.2024.3486204
+  url: https://dblp.org/rec/journals/tkde/ChenDYDX25
+- author: Jingjing Liu, Jie-Peng Yao, Jin-Hang Liu, Zhong-Yi Wang 0001, Lan Huang
+    0001
+  title: Missing data imputation and classification of small sample missing time series
+    data based on gradient penalized adversarial multi-task learning.
+  venue: Appl. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/LiuYLWH24
+  doi: 10.1007/S10489-024-05314-3
+  ee: https://doi.org/10.1007/s10489-024-05314-3
+  url: https://dblp.org/rec/journals/apin/LiuYLWH24
+- author: Dong Yu, Jian Jin, Lili Meng, Zhipeng Chen, Huaxiang Zhang 0001
+  title: Adversarial Complementary Learning for Just Noticeable Difference Estimation.
+  venue: KSII Trans. Internet Inf. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/itiis/YuJMC024
+  doi: 10.3837/TIIS.2024.02.009
+  ee: https://doi.org/10.3837/tiis.2024.02.009
+  url: https://dblp.org/rec/journals/itiis/YuJMC024
+- author: Jianting Chen, Ling Ding 0003, Yunxiao Yang, Zaiyuan Di, Yang Xiang 0006
+  title: Domain Adversarial Active Learning for Domain Generalization Classification.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2403-06174
+  doi: 10.48550/ARXIV.2403.06174
+  ee: https://doi.org/10.48550/arXiv.2403.06174
+  url: https://dblp.org/rec/journals/corr/abs-2403-06174
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
