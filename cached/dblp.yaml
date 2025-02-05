@@ -14922,6 +14922,29 @@ Adversarial%20Learning:
   doi: 10.1145/3626203.3670522
   ee: https://doi.org/10.1145/3626203.3670522
   url: https://dblp.org/rec/conf/xsede/GafurGL24
+- author: Wanying Wang, Yichen Zhu, Yirui Zhou, Chaomin Shen 0001, Jian Tang 0008,
+    Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
+  title: 'Exploring Gradient Explosion in Generative Adversarial Imitation Learning:
+    A Probabilistic Perspective.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangZZSTXPZ24
+  doi: 10.1609/AAAI.V38I14.29490
+  ee: https://doi.org/10.1609/aaai.v38i14.29490
+  url: https://dblp.org/rec/conf/aaai/WangZZSTXPZ24
+- author: Zheyuan Xu, Xulong Wang, Menghui Zhou, Jun Qi 0001, Yun Yang, Po Yang 0001
+  title: Adaptive Domain-Adversarial Multi-Instance Learning for Wearable-Sensor-Based
+    Parkinson&apos;s Disease Severity Assessment.
+  venue: BIBM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bibm/XuWZ0Y024
+  doi: 10.1109/BIBM62325.2024.10821840
+  ee: https://doi.org/10.1109/BIBM62325.2024.10821840
+  url: https://dblp.org/rec/conf/bibm/XuWZ0Y024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
