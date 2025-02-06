@@ -2620,6 +2620,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.JAG.2025.104356
   ee: https://doi.org/10.1016/j.jag.2025.104356
   url: https://dblp.org/rec/journals/aeog/GaoJCHY25
+- author: Zhige Chen, Rui Yang 0007, Mengjie Huang, Zidong Wang 0001, Xiaohui Liu
+    0001
+  title: 'Electrode Domain Adaptation Network: Minimizing the Difference Across Electrodes
+    in Single-Source to Single-Target Motor Imagery Classification.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ChenYHWL24
+  doi: 10.1109/TETCI.2024.3359097
+  ee: https://doi.org/10.1109/TETCI.2024.3359097
+  url: https://dblp.org/rec/journals/tetci/ChenYHWL24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -14945,6 +14957,50 @@ Adversarial%20Learning:
   doi: 10.1109/BIBM62325.2024.10821840
   ee: https://doi.org/10.1109/BIBM62325.2024.10821840
   url: https://dblp.org/rec/conf/bibm/XuWZ0Y024
+- author: Yuntao Shou, Haozhi Lan, Xiangyong Cao
+  title: Contrastive Graph Representation Learning with Adversarial Cross-View Reconstruction
+    and Information Bottleneck.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ShouLC25
+  doi: 10.1016/J.NEUNET.2024.107094
+  ee: https://doi.org/10.1016/j.neunet.2024.107094
+  url: https://dblp.org/rec/journals/nn/ShouLC25
+- author: Ran Wang 0001, Haopeng Ke, Meng Hu, Wenhui Wu 0001
+  title: Adversarially robust neural networks with feature uncertainty learning and
+    label embedding.
+  venue: Neural Networks
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangKHW24
+  doi: 10.1016/J.NEUNET.2023.12.041
+  ee: https://doi.org/10.1016/j.neunet.2023.12.041
+  url: https://dblp.org/rec/journals/nn/WangKHW24
+- author: Zheyuan Xu, Xulong Wang, Menghui Zhou, Jun Qi 0001, Yun Yang 0003, Po Yang
+    0001
+  title: Adaptive Domain-Adversarial Multi-Instance Learning for Wearable-Sensor-Based
+    Parkinson&apos;s Disease Severity Assessment.
+  venue: BIBM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bibm/XuWZ0Y024
+  doi: 10.1109/BIBM62325.2024.10821840
+  ee: https://doi.org/10.1109/BIBM62325.2024.10821840
+  url: https://dblp.org/rec/conf/bibm/XuWZ0Y024
+- author: Yiwei Zhou, Xiaobo Xia, Zhiwei Lin, Bo Han 0003, Tongliang Liu
+  title: Few-Shot Adversarial Prompt Learning on Vision-Language Models.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/ZhouXL0L24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/05aedcaf4bc6e78a5e22b4cf9114c5e8-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ZhouXL0L24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
