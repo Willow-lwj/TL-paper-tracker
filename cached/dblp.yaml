@@ -15001,6 +15001,49 @@ Adversarial%20Learning:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2024/hash/05aedcaf4bc6e78a5e22b4cf9114c5e8-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/ZhouXL0L24
+- author: Bohdan Turbal, Anastasiia Mazur, Jiaxu Zhao, Mykola Pechenizkiy
+  title: On Adversarial Robustness of Language Models in Transfer Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-00066
+  doi: 10.48550/ARXIV.2501.00066
+  ee: https://doi.org/10.48550/arXiv.2501.00066
+  url: https://dblp.org/rec/journals/corr/abs-2501-00066
+- author: Zhao Wang, Xianbo Xiang, Yu Duan 0002, Shaolong Yang
+  title: Adversarial deep reinforcement learning based robust depth tracking control
+    for underactuated autonomous underwater vehicle.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WangXDY24
+  doi: 10.1016/J.ENGAPPAI.2023.107728
+  ee: https://doi.org/10.1016/j.engappai.2023.107728
+  url: https://dblp.org/rec/journals/eaai/WangXDY24
+- author: Tianjiao Luo, Tim Pearce, Huayu Chen, Jianfei Chen, Jun Zhu
+  title: 'C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control
+    Theory.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/LuoPCCZ24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/34293d684b1012ed45c3274b4a7edc00-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LuoPCCZ24
+- author: Honghao Wei, Xiyue Peng, Arnob Ghosh, Xin Liu
+  title: Adversarially Trained Weighted Actor-Critic for Safe Offline Reinforcement
+    Learning.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/WeiPGL24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/5e88ccc6d03f08e426de9bb918aa1bca-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WeiPGL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
