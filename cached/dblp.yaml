@@ -15044,6 +15044,28 @@ Adversarial%20Learning:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2024/hash/5e88ccc6d03f08e426de9bb918aa1bca-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/WeiPGL24
+- author: Bohdan Turbal, Anastasiia Mazur, Jiaxu Zhao 0002, Mykola Pechenizkiy
+  title: On Adversarial Robustness of Language Models in Transfer Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-00066
+  doi: 10.48550/ARXIV.2501.00066
+  ee: https://doi.org/10.48550/arXiv.2501.00066
+  url: https://dblp.org/rec/journals/corr/abs-2501-00066
+- author: Zheyuan Xu, Xulong Wang 0001, Menghui Zhou, Jun Qi 0001, Yun Yang 0003,
+    Po Yang 0001
+  title: Adaptive Domain-Adversarial Multi-Instance Learning for Wearable-Sensor-Based
+    Parkinson&apos;s Disease Severity Assessment.
+  venue: BIBM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bibm/XuWZ0Y024
+  doi: 10.1109/BIBM62325.2024.10821840
+  ee: https://doi.org/10.1109/BIBM62325.2024.10821840
+  url: https://dblp.org/rec/conf/bibm/XuWZ0Y024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
