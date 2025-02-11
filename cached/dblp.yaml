@@ -15066,6 +15066,72 @@ Adversarial%20Learning:
   doi: 10.1109/BIBM62325.2024.10821840
   ee: https://doi.org/10.1109/BIBM62325.2024.10821840
   url: https://dblp.org/rec/conf/bibm/XuWZ0Y024
+- author: Zhenzhen Chu, Chengyu Wang 0001, Cen Chen 0001, Dawei Cheng, Yuqi Liang,
+    Weining Qian
+  title: Learning Invariant Representations for New Product Sales Forecasting via
+    Multi-Granularity Adversarial Learning.
+  venue: CIKM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/ChuWCCLQ23
+  doi: 10.1145/3583780.3615219
+  ee: https://doi.org/10.1145/3583780.3615219
+  url: https://dblp.org/rec/conf/cikm/ChuWCCLQ23
+- author: Panjia Qiu, Guanghao Zhou, Mingyuan Fan 0003, Cen Chen 0001, Yaliang Li,
+    Wenming Zhou
+  title: 'SGFL-Attack: A Similarity-Guidance Strategy for Hard-Label Textual Adversarial
+    Attack Based on Feedback Learning.'
+  venue: CIKM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/QiuZ0CLZ24
+  doi: 10.1145/3627673.3679639
+  ee: https://doi.org/10.1145/3627673.3679639
+  url: https://dblp.org/rec/conf/cikm/QiuZ0CLZ24
+- author: Sangeek Hyun, Jae-Pil Heo
+  title: 'GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/HyunH24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/7d90c28e7820709792d969211815a2b3-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/HyunH24
+- author: Shuyao Li, Sushrut Karmalkar, Ilias Diakonikolas, Jelena Diakonikolas
+  title: Learning a Single Neuron Robustly to Distributional Shifts and Adversarial
+    Label Noise.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/LiKDD24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/7c8c0db90a14c7a2db9475e52dc343a9-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiKDD24
+- author: Tian Xu, Zhilong Zhang, Ruishuo Chen, Yihao Sun, Yang Yu
+  title: Provably and Practically Efficient Adversarial Imitation Learning with General
+    Function Approximation.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/XuZCSY24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/79b90b4c2ee23cc35fdd8de2969dc4e8-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/XuZCSY24
+- author: Xudong Wang 0001, Li Niu 0002, Junyan Cao, Yan Hong 0001, Liqing Zhang 0001
+  title: Painterly Image Harmonization via Adversarial Residual Learning.
+  venue: WACV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/Wang0CH024
+  doi: 10.1109/WACV57701.2024.00506
+  ee: https://doi.org/10.1109/WACV57701.2024.00506
+  url: https://dblp.org/rec/conf/wacv/Wang0CH024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
