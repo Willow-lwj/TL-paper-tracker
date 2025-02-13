@@ -15275,6 +15275,113 @@ Adversarial%20Learning:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2024/hash/8f5defaa8dc728c3e4aaee59ac8ca942-Abstract-Datasets_and_Benchmarks_Track.html
   url: https://dblp.org/rec/conf/nips/SimonettoGC24a
+- author: Ruijie Yang, Yuanfang Guo, Junfu Wang, Jiantao Zhou 0001, Yunhong Wang
+  title: Common knowledge learning for generating transferable adversarial examples.
+  venue: Frontiers Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/fcsc/YangGWZW25
+  doi: 10.1007/S11704-024-40533-4
+  ee: https://doi.org/10.1007/s11704-024-40533-4
+  url: https://dblp.org/rec/journals/fcsc/YangGWZW25
+- author: Takanori Fujiwara, Kostiantyn Kucher, Junpeng Wang 0001, Rafael Messias
+    Martins, Andreas Kerren, Anders Ynnerman
+  title: Adversarial attacks on machine learning-aided visualizations.
+  venue: J. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jvis/FujiwaraKWMKY25
+  doi: 10.1007/S12650-024-01029-2
+  ee: https://doi.org/10.1007/s12650-024-01029-2
+  url: https://dblp.org/rec/journals/jvis/FujiwaraKWMKY25
+- author: Qinlu He, Pengze Gao, Fan Zhang, Genqing Bian, Chen Chen
+  title: Semi-supervised lung nodule detection with adversarial learning.
+  venue: Multim. Tools Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mta/HeGZBC25
+  doi: 10.1007/S11042-024-19074-2
+  ee: https://doi.org/10.1007/s11042-024-19074-2
+  url: https://dblp.org/rec/journals/mta/HeGZBC25
+- author: Zihao Tan, Qingliang Chen, Wenbin Zhu, Yongjian Huang, Chen Liang
+  title: Exploring the vulnerability of black-box adversarial attack on prompt-based
+    learning in language models.
+  venue: Neural Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/TanCZHL25
+  doi: 10.1007/S00521-024-10669-2
+  ee: https://doi.org/10.1007/s00521-024-10669-2
+  url: https://dblp.org/rec/journals/nca/TanCZHL25
+- author: Xinyang Wang, Hongyu Chen, Jiayu Zhang, Jicong Fan 0001
+  title: Generative adversarial learning for missing data imputation.
+  venue: Neural Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/WangCZF25
+  doi: 10.1007/S00521-024-10652-X
+  ee: https://doi.org/10.1007/s00521-024-10652-x
+  url: https://dblp.org/rec/journals/nca/WangCZF25
+- author: "Mehmet Ali Sarikaya, G\xF6khan Ince"
+  title: Improved BCI calibration in multimodal emotion recognition using heterogeneous
+    adversarial transfer learning.
+  venue: PeerJ Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/peerj-cs/SarikayaI25
+  doi: 10.7717/PEERJ-CS.2649
+  ee: https://doi.org/10.7717/peerj-cs.2649
+  url: https://dblp.org/rec/journals/peerj-cs/SarikayaI25
+- author: Xiaohui Li 0011, Xinhai Han, Jingsong Yang, Jiuke Wang, Guoqi Han
+  title: Transfer Learning-Based Generative Adversarial Network Model for Tropical
+    Cyclone Wind Speed Reconstruction From SAR Images.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/LiHYWH24
+  doi: 10.1109/TGRS.2024.3390392
+  ee: https://doi.org/10.1109/TGRS.2024.3390392
+  url: https://dblp.org/rec/journals/tgrs/LiHYWH24
+- author: Hao Liu, Yingguang Yang, Qi Wu 0021, Buyun He, Yong Liao, Pengyuan Zhou
+  title: 'FacGNN: Multi-faceted Fairness Enhancement for GNN through Adversarial and
+    Contrastive Learning.'
+  venue: IJCNN
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/LiuYWHLZ24
+  doi: 10.1109/IJCNN60899.2024.10649939
+  ee: https://doi.org/10.1109/IJCNN60899.2024.10649939
+  url: https://dblp.org/rec/conf/ijcnn/LiuYWHLZ24
+- author: Youssef Allouah, Abdellah El Mrini, Rachid Guerraoui, Nirupam Gupta, Rafael
+    Pinot
+  title: Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial
+    Clients.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/AllouahMGGP24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/b6d0df730c5976ad918bbf4fb30afe7d-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/AllouahMGGP24
+- author: Yiman Hu, Yixiong Zou, Ruixuan Li 0001, Yuhua Li 0003
+  title: Generate Universal Adversarial Perturbations for Few-Shot Learning.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nips/HuZ0024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/ba1c5356d9164bb64c446a4b690226b0-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/HuZ0024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
