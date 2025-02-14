@@ -15382,6 +15382,168 @@ Adversarial%20Learning:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2024/hash/ba1c5356d9164bb64c446a4b690226b0-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/HuZ0024
+- author: Fan Qin, Nan Ji, Zeping Ye, Ning Shi, Yu-an Tan
+  title: Enhancing Adversarial Robustness in Object Detection via Multi-task Learning
+    and Class-Aware Adversarial Training.
+  venue: AIS&amp;P
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aisp/QinJYST23
+  doi: 10.1007/978-981-96-1148-5_8
+  ee: https://doi.org/10.1007/978-981-96-1148-5_8
+  url: https://dblp.org/rec/conf/aisp/QinJYST23
+- author: Xiurui Guo, Kai Sun, Yuanjie Zheng
+  title: Multi-scale consistency adversarial learning for semi-supervised 3D medical
+    image segmentation.
+  venue: Biomed. Signal Process. Control.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/GuoSZ25
+  doi: 10.1016/J.BSPC.2024.107475
+  ee: https://doi.org/10.1016/j.bspc.2024.107475
+  url: https://dblp.org/rec/journals/bspc/GuoSZ25
+- author: Weikang Wang 0002, Yuting Su 0001, Jing Liu 0002, Peiguang Jing
+  title: Adaptive proposal network based on generative adversarial learning for weakly
+    supervised temporal sentence grounding.
+  venue: Pattern Recognit. Lett.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/WangSLJ24
+  doi: 10.1016/J.PATREC.2024.01.018
+  ee: https://doi.org/10.1016/j.patrec.2024.01.018
+  url: https://dblp.org/rec/journals/prl/WangSLJ24
+- author: Youssef Allouah, Abdellah El Mrini, Rachid Guerraoui, Nirupam Gupta, Rafael
+    Pinot
+  title: Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial
+    Clients.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/AllouahMGGP24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/b6d0df730c5976ad918bbf4fb30afe7d-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/AllouahMGGP24
+- author: Yiman Hu, Yixiong Zou, Ruixuan Li 0001, Yuhua Li 0003
+  title: Generate Universal Adversarial Perturbations for Few-Shot Learning.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/HuZ0024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/ba1c5356d9164bb64c446a4b690226b0-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/HuZ0024
+- author: Sangeek Hyun, Jae-Pil Heo
+  title: 'GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/HyunH24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/7d90c28e7820709792d969211815a2b3-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/HyunH24
+- author: Fivos Kalogiannis, Jingming Yan, Ioannis Panageas
+  title: 'Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave
+    Min-Max Optimization Problem.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/KalogiannisYP24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/a8bc668b1559d705221b0e7510c45e48-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/KalogiannisYP24
+- author: Chun-Mao Lai, Hsiang-Chun Wang, Ping-Chun Hsieh, Yu-Chiang Frank Wang, Min-Hung
+    Chen, Shao-Hua Sun
+  title: Diffusion-Reward Adversarial Imitation Learning.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LaiWHWCS24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/ad47b1801557e4be37d30baf623de426-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LaiWHWCS24
+- author: Shuyao Li, Sushrut Karmalkar, Ilias Diakonikolas, Jelena Diakonikolas
+  title: Learning a Single Neuron Robustly to Distributional Shifts and Adversarial
+    Label Noise.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiKDD24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/7c8c0db90a14c7a2db9475e52dc343a9-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiKDD24
+- author: Tianjiao Luo, Tim Pearce, Huayu Chen, Jianfei Chen, Jun Zhu
+  title: 'C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control
+    Theory.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LuoPCCZ24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/34293d684b1012ed45c3274b4a7edc00-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LuoPCCZ24
+- author: Thibault Simonetto, Salah Ghamizi, Maxime Cordy
+  title: 'TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning
+    in Real-world Use-cases.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/SimonettoGC24a
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/8f5defaa8dc728c3e4aaee59ac8ca942-Abstract-Datasets_and_Benchmarks_Track.html
+  url: https://dblp.org/rec/conf/nips/SimonettoGC24a
+- author: Austin Watkins, Thanh Nguyen-Tang, Enayat Ullah, Raman Arora
+  title: Adversarially Robust Multi-task Representation Learning.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WatkinsNUA24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/fb42bb10564271d0cf3cc8244ff3e5bb-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WatkinsNUA24
+- author: Honghao Wei, Xiyue Peng, Arnob Ghosh, Xin Liu
+  title: Adversarially Trained Weighted Actor-Critic for Safe Offline Reinforcement
+    Learning.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WeiPGL24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/5e88ccc6d03f08e426de9bb918aa1bca-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WeiPGL24
+- author: Tian Xu, Zhilong Zhang, Ruishuo Chen, Yihao Sun, Yang Yu
+  title: Provably and Practically Efficient Adversarial Imitation Learning with General
+    Function Approximation.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/XuZCSY24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/79b90b4c2ee23cc35fdd8de2969dc4e8-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/XuZCSY24
+- author: Yiwei Zhou, Xiaobo Xia, Zhiwei Lin, Bo Han 0003, Tongliang Liu
+  title: Few-Shot Adversarial Prompt Learning on Vision-Language Models.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ZhouXL0L24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/05aedcaf4bc6e78a5e22b4cf9114c5e8-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ZhouXL0L24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
