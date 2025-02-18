@@ -15544,6 +15544,50 @@ Adversarial%20Learning:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2024/hash/05aedcaf4bc6e78a5e22b4cf9114c5e8-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/ZhouXL0L24
+- author: Alessandro Crivellari, Yuhui Shi
+  title: Generative adversarial deep learning model for producing location-based synthetic
+    trajectory data.
+  venue: Connect. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/connection/CrivellariS25
+  doi: 10.1080/09540091.2025.2458502
+  ee: https://doi.org/10.1080/09540091.2025.2458502
+  url: https://dblp.org/rec/journals/connection/CrivellariS25
+- author: Yu Wang 0061, Qingbo Wang, Szymon Bernat, Alexey Vinogradov
+  title: Early fault detection with health stage division:an adversarial learning
+    method with model update mechanism for condition monitoring.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WangWBV25
+  doi: 10.1016/J.ENGAPPAI.2025.110015
+  ee: https://doi.org/10.1016/j.engappai.2025.110015
+  url: https://dblp.org/rec/journals/eaai/WangWBV25
+- author: Manzoor Hussain, Zhengyu Shang, Jang-Eui Hong
+  title: Adaptive precision layering for efficient adversarial training of deep learning
+    models in intelligent vehicles.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/HussainSH25
+  doi: 10.1016/J.ESWA.2025.126752
+  ee: https://doi.org/10.1016/j.eswa.2025.126752
+  url: https://dblp.org/rec/journals/eswa/HussainSH25
+- author: "Mahdi Saberi, Chi Zhang, Mehmet Ak\xE7akaya"
+  title: Detecting and Mitigating Adversarial Attacks on Deep Learning-Based MRI Reconstruction
+    Without Any Retraining.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-01908
+  doi: 10.48550/ARXIV.2501.01908
+  ee: https://doi.org/10.48550/arXiv.2501.01908
+  url: https://dblp.org/rec/journals/corr/abs-2501-01908
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
