@@ -15588,6 +15588,18 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2501.01908
   ee: https://doi.org/10.48550/arXiv.2501.01908
   url: https://dblp.org/rec/journals/corr/abs-2501-01908
+- author: Tianyang Duan, Zongyuan Zhang, Zheng Lin, Yue Gao, Ling Xiong, Yong Cui
+    0001, Hongbin Liang, Xianhao Chen, Heming Cui, Dong Huang 0005
+  title: Rethinking Adversarial Attacks in Reinforcement Learning from Policy Distribution
+    Perspective.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-03562
+  doi: 10.48550/ARXIV.2501.03562
+  ee: https://doi.org/10.48550/arXiv.2501.03562
+  url: https://dblp.org/rec/journals/corr/abs-2501-03562
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
