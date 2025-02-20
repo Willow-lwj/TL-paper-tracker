@@ -15600,6 +15600,60 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2501.03562
   ee: https://doi.org/10.48550/arXiv.2501.03562
   url: https://dblp.org/rec/journals/corr/abs-2501-03562
+- author: Blake Hayden, Timothy Walsh 0002, Armon Barton
+  title: Defending Against Deep Learning-Based Traffic Fingerprinting Attacks With
+    Adversarial Examples.
+  venue: ACM Trans. Priv. Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/HaydenWB25
+  doi: 10.1145/3698591
+  ee: https://doi.org/10.1145/3698591
+  url: https://dblp.org/rec/journals/tissec/HaydenWB25
+- author: "Mahdi Saberi, Chi Zhang 0057, Mehmet Ak\xE7akaya"
+  title: Detecting and Mitigating Adversarial Attacks on Deep Learning-Based MRI Reconstruction
+    Without Any Retraining.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-01908
+  doi: 10.48550/ARXIV.2501.01908
+  ee: https://doi.org/10.48550/arXiv.2501.01908
+  url: https://dblp.org/rec/journals/corr/abs-2501-01908
+- author: Tianyang Duan, Zongyuan Zhang, Zheng Lin, Yue Gao 0001, Ling Xiong, Yong
+    Cui 0001, Hongbin Liang, Xianhao Chen, Heming Cui, Dong Huang 0005
+  title: Rethinking Adversarial Attacks in Reinforcement Learning from Policy Distribution
+    Perspective.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-03562
+  doi: 10.48550/ARXIV.2501.03562
+  ee: https://doi.org/10.48550/arXiv.2501.03562
+  url: https://dblp.org/rec/journals/corr/abs-2501-03562
+- author: Xiaohui Chen, Tie Luo 0001
+  title: Adversarial-Robust Transfer Learning for Medical Imaging via Domain Assimilation.
+  venue: PKDD
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pakdd/ChenL24
+  doi: 10.1007/978-981-97-2238-9_26
+  ee: https://doi.org/10.1007/978-981-97-2238-9_26
+  url: https://dblp.org/rec/conf/pakdd/ChenL24
+- author: Xiaohui Chen, Tie Luo 0001
+  title: Adversarial-Robust Transfer Learning for Medical Imaging via Domain Assimilation.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2402-16005
+  doi: 10.48550/ARXIV.2402.16005
+  ee: https://doi.org/10.48550/arXiv.2402.16005
+  url: https://dblp.org/rec/journals/corr/abs-2402-16005
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
