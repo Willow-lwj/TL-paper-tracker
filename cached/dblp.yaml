@@ -15720,6 +15720,172 @@ Adversarial%20Learning:
   doi: 10.1109/SMC54092.2024.10831907
   ee: https://doi.org/10.1109/SMC54092.2024.10831907
   url: https://dblp.org/rec/conf/smc/YiLTWZ24
+- author: Maxwell Standen, Junae Kim, Claudia Szabo
+  title: Adversarial Machine Learning Attacks and Defences in Multi-Agent Reinforcement
+    Learning.
+  venue: ACM Comput. Surv.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/csur/StandenKS25
+  doi: 10.1145/3708320
+  ee: https://doi.org/10.1145/3708320
+  url: https://dblp.org/rec/journals/csur/StandenKS25
+- author: Asha K. N, Rajkumar Rajasekaran
+  title: Cross domain and adversarial learning based deep learning approach for web
+    recommendation.
+  venue: Int. J. Crit. Infrastructures
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcritis/NR24
+  doi: 10.1504/IJCIS.2024.140556
+  ee: https://doi.org/10.1504/IJCIS.2024.140556
+  url: https://dblp.org/rec/journals/ijcritis/NR24
+- author: Baoyuan Wu, Li Liu 0036, Zihao Zhu, Qingshan Liu, Zhaofeng He, Siwei Lyu
+  title: 'Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight
+    Attack and Adversarial Example.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-09457
+  doi: 10.48550/ARXIV.2302.09457
+  ee: https://doi.org/10.48550/arXiv.2302.09457
+  url: https://dblp.org/rec/journals/corr/abs-2302-09457
+- author: Guangjin Ouyang, Yong Guo, Yu Lu, Fang He
+  title: Incremental Learning for Network Traffic Classification Using Generative
+    Adversarial Networks.
+  venue: IEICE Trans. Inf. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ieicetd/OuyangGLH25
+  doi: 10.1587/TRANSINF.2024EDP7129
+  ee: https://doi.org/10.1587/transinf.2024edp7129
+  url: https://dblp.org/rec/journals/ieicetd/OuyangGLH25
+- author: "Mustafa Sinasi Ayas, Enis Kara, Selen Ayas, Ali Kivan\xE7 Sahin"
+  title: 'OptAML: Optimized adversarial machine learning on water treatment and distribution
+    systems.'
+  venue: Int. J. Crit. Infrastructure Prot.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcip/AyasKAS25
+  doi: 10.1016/J.IJCIP.2025.100740
+  ee: https://doi.org/10.1016/j.ijcip.2025.100740
+  url: https://dblp.org/rec/journals/ijcip/AyasKAS25
+- author: Giuseppe Montalbano, Leonardo Banchi
+  title: Quantum adversarial learning for kernel methods.
+  venue: Quantum Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/qmi/MontalbanoB25
+  doi: 10.1007/S42484-025-00238-8
+  ee: https://doi.org/10.1007/s42484-025-00238-8
+  url: https://dblp.org/rec/journals/qmi/MontalbanoB25
+- author: Lingyan Zhang, Shaohua Wu, Tingting Zhang, Qinyu Zhang 0001
+  title: Automatic Radio Map Adaptation for Robust Indoor Localization With Dynamic
+    Adversarial Learning.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/ZhangWZZ25
+  doi: 10.1109/TII.2024.3485769
+  ee: https://doi.org/10.1109/TII.2024.3485769
+  url: https://dblp.org/rec/journals/tii/ZhangWZZ25
+- author: "Kai Li 0002, Jingjing Zheng, Wei Ni 0001, Hailong Huang, Pietro Li\xF2\
+    , Falko Dressler, \xD6zg\xFCr B. Akan"
+  title: Biasing Federated Learning With a New Adversarial Graph Attention Network.
+  venue: IEEE Trans. Mob. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmc/LiZNHLDA25
+  doi: 10.1109/TMC.2024.3499371
+  ee: https://doi.org/10.1109/TMC.2024.3499371
+  url: https://dblp.org/rec/journals/tmc/LiZNHLDA25
+- author: Gaurav Kumar Nayak, Ruchit Rawal, Inder Khatri, Anirban Chakraborty 0001
+  title: Robust Few-Shot Learning Without Using Any Adversarial Samples.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/NayakRKC25
+  doi: 10.1109/TNNLS.2023.3336996
+  ee: https://doi.org/10.1109/TNNLS.2023.3336996
+  url: https://dblp.org/rec/journals/tnn/NayakRKC25
+- author: Xingqun Qi, Muyi Sun, Zijian Wang 0009, Jiaming Liu, Qi Li 0005, Fang Zhao
+    0006, Shanghang Zhang, Caifeng Shan
+  title: Biphasic Face Photo-Sketch Synthesis via Semantic-Driven Generative Adversarial
+    Network With Graph Representation Learning.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/QiSWLLZZS25
+  doi: 10.1109/TNNLS.2023.3341246
+  ee: https://doi.org/10.1109/TNNLS.2023.3341246
+  url: https://dblp.org/rec/journals/tnn/QiSWLLZZS25
+- author: Xiaokang Zhou, Xuzhe Zheng, Tian Shu, Wei Liang 0006, Kevin I-Kai Wang,
+    Lianyong Qi, Shohei Shimizu, Qun Jin
+  title: Information Theoretic Learning-Enhanced Dual-Generative Adversarial Networks
+    With Causal Representation for Robust OOD Generalization.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/ZhouZSLWQSJ25
+  doi: 10.1109/TNNLS.2023.3330864
+  ee: https://doi.org/10.1109/TNNLS.2023.3330864
+  url: https://dblp.org/rec/journals/tnn/ZhouZSLWQSJ25
+- author: Mingfang Li, Zheng Dou, Hang Jiang, Xingyang Wang, Yabin Zhang, Wei Xiang
+    0001
+  title: Adversarial Attack Generation Based on Meta Learning in Specific Emitter
+    Identification.
+  venue: IEEE Wirel. Commun. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/wcl/LiDJWZX25
+  doi: 10.1109/LWC.2024.3495677
+  ee: https://doi.org/10.1109/LWC.2024.3495677
+  url: https://dblp.org/rec/journals/wcl/LiDJWZX25
+- author: Rohit Sharma, Shanu Kumar, Avinash Kumar
+  title: 'READ: Reinforcement-based Adversarial Learning for Text Classification with
+    Limited Labeled Data.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-08035
+  doi: 10.48550/ARXIV.2501.08035
+  ee: https://doi.org/10.48550/arXiv.2501.08035
+  url: https://dblp.org/rec/journals/corr/abs-2501-08035
+- author: "Amisha Priyadarshini, Sergio Gago Masagu\xE9"
+  title: 'Fair Evaluator: An Adversarial Debiasing-based Deep Learning Framework in
+    Student Admissions.'
+  venue: CogMI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cogmi/PriyadarshiniM24
+  doi: 10.1109/COGMI62246.2024.00029
+  ee: https://doi.org/10.1109/CogMI62246.2024.00029
+  url: https://dblp.org/rec/conf/cogmi/PriyadarshiniM24
+- author: Thanh Nguyen, Tung Minh Luu, Tri Ton, Chang D. Yoo
+  title: 'Towards Robust Policy: Enhancing Offline Reinforcement Learning with Adversarial
+    Attacks and Defenses.'
+  venue: ICPRAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icprai/NguyenLTY24
+  doi: 10.1007/978-981-97-8705-0_21
+  ee: https://doi.org/10.1007/978-981-97-8705-0_21
+  url: https://dblp.org/rec/conf/icprai/NguyenLTY24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
