@@ -15886,6 +15886,117 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-97-8705-0_21
   ee: https://doi.org/10.1007/978-981-97-8705-0_21
   url: https://dblp.org/rec/conf/icprai/NguyenLTY24
+- author: Dimitrios Christos Asimopoulos, Panagiotis I. Radoglou-Grammatikis, Thomas
+    Lagkas, Vasileios Argyriou, Ioannis D. Moscholios, Jorgen Cani, Georgios Th. Papadopoulos,
+    Evangelos K. Markakis, Panagiotis G. Sarigiannidis
+  title: 'AAG: Adversarial Attack Generator for evaluating the robustness of Machine
+    Learning Models against Adversarial Attacks.'
+  venue: IEEE Big Data
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bigdataconf/AsimopoulosRLAM24
+  doi: 10.1109/BIGDATA62323.2024.10826110
+  ee: https://doi.org/10.1109/BigData62323.2024.10826110
+  url: https://dblp.org/rec/conf/bigdataconf/AsimopoulosRLAM24
+- author: Habib Ullah Manzoor, Attia Shabiar, Dinh C. Nguyen, Lina S. Mohjazi, Aryan
+    Kaushik, Ahmed Zoha
+  title: 'Rethinking Federated Learning: An Adversarial Perspective on Global vs.
+    Local Learning for Load Forecasting.'
+  venue: CSCN
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cscn/ManzoorSNMKZ24
+  doi: 10.1109/CSCN63874.2024.10849714
+  ee: https://doi.org/10.1109/CSCN63874.2024.10849714
+  url: https://dblp.org/rec/conf/cscn/ManzoorSNMKZ24
+- author: Dudi Biton, Jacob Shams, Satoru Koda, Asaf Shabtai, Yuval Elovici, Ben Nassi
+  title: Towards an End-to-End (E2E) Adversarial Learning and Application in the Physical
+    World.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-08258
+  doi: 10.48550/ARXIV.2501.08258
+  ee: https://doi.org/10.48550/arXiv.2501.08258
+  url: https://dblp.org/rec/journals/corr/abs-2501-08258
+- author: Rohit Mapakshi, Sayma Akther, Mark Stamp 0001
+  title: Temporal Analysis of Adversarial Attacks in Federated Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-11054
+  doi: 10.48550/ARXIV.2501.11054
+  ee: https://doi.org/10.48550/arXiv.2501.11054
+  url: https://dblp.org/rec/journals/corr/abs-2501-11054
+- author: Mustafa Ghaleb, Mohanad Obeed, Muhamad Felemban, Anas Chaaban, Halim Yanikomeroglu
+  title: 'Federated Testing (FedTest): A New Scheme to Enhance Convergence and Mitigate
+    Adversarial Attacks in Federating Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-11167
+  doi: 10.48550/ARXIV.2501.11167
+  ee: https://doi.org/10.48550/arXiv.2501.11167
+  url: https://dblp.org/rec/journals/corr/abs-2501-11167
+- author: Tao Bai, Xingjian Tian, Yonghao Xu, Bihan Wen
+  title: On the Adversarial Vulnerabilities of Transfer Learning in Remote Sensing.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-11462
+  doi: 10.48550/ARXIV.2501.11462
+  ee: https://doi.org/10.48550/arXiv.2501.11462
+  url: https://dblp.org/rec/journals/corr/abs-2501-11462
+- author: MohammadReza EskandariNasab, Shah Muhammad Hamdi, Soukaina Filali Boubrahimi
+  title: 'SeriesGAN: Time Series Generation via Adversarial and Autoregressive Learning.'
+  venue: IEEE Big Data
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bigdataconf/EskandariNasabH24
+  doi: 10.1109/BIGDATA62323.2024.10825115
+  ee: https://doi.org/10.1109/BigData62323.2024.10825115
+  url: https://dblp.org/rec/conf/bigdataconf/EskandariNasabH24
+- author: Gauri Kshettry, Twisha Patel
+  title: 'Enhancing Fairness in Medical Image Classification: A Comparative Study
+    of Convolutional Neural Networks and Adversarial Learning.'
+  venue: IEEE Big Data
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bigdataconf/KshettryP24
+  doi: 10.1109/BIGDATA62323.2024.10825950
+  ee: https://doi.org/10.1109/BigData62323.2024.10825950
+  url: https://dblp.org/rec/conf/bigdataconf/KshettryP24
+- author: Rizwan Ahmed Kango, Mehak Fatima Qureshi, Wai-Yiu Keung, Umair Mujtaba Qureshi,
+    Zuneera Umair, Ho Chuen Kam
+  title: 'Predicting User Activities and Device Interactions Using Adversarial Sensor
+    Data: A Machine Learning Approach.'
+  venue: CSNet
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/csnet/KangoQKQUK24
+  doi: 10.1109/CSNET64211.2024.10851736
+  ee: https://doi.org/10.1109/CSNet64211.2024.10851736
+  url: https://dblp.org/rec/conf/csnet/KangoQKQUK24
+- author: Yankai Wang, Yuxuan Du, Dejun Zhang, Rong Zheng, Jing Deng
+  title: Integrating Self-Supervised Pre-Training With Adversarial Learning for Synthesized
+    Song Detection.
+  venue: SLT
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/slt/WangDZZD24
+  doi: 10.1109/SLT61566.2024.10832322
+  ee: https://doi.org/10.1109/SLT61566.2024.10832322
+  url: https://dblp.org/rec/conf/slt/WangDZZD24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
