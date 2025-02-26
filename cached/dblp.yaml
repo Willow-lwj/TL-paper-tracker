@@ -15997,6 +15997,49 @@ Adversarial%20Learning:
   doi: 10.1109/SLT61566.2024.10832322
   ee: https://doi.org/10.1109/SLT61566.2024.10832322
   url: https://dblp.org/rec/conf/slt/WangDZZD24
+- author: Gal Braun, Seffi Cohen, Lior Rokach
+  title: 'Adversarial evasion attacks detection for tree-based ensembles: A representation
+    learning approach.'
+  venue: Inf. Fusion
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/inffus/BraunCR25
+  doi: 10.1016/J.INFFUS.2025.102964
+  ee: https://doi.org/10.1016/j.inffus.2025.102964
+  url: https://dblp.org/rec/journals/inffus/BraunCR25
+- author: Sylvia Worlali Azumah, Nelly ElSayed, Zag Elsayed, Murat Ozer, Amanda La
+    Guardia
+  title: Deep Learning Approaches for Detecting Adversarial Cyberbullying and Hate
+    Speech in Social Networks.
+  venue: AIBThings
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aibthings/AzumahEEOG24
+  doi: 10.1109/AIBTHINGS63359.2024.10863625
+  ee: https://doi.org/10.1109/AIBThings63359.2024.10863625
+  url: https://dblp.org/rec/conf/aibthings/AzumahEEOG24
+- author: Zengqiang Chen, Xudong Wang, Yuezun Li
+  title: Enhancing Deepfake Detection via Adversarial Generative Learning.
+  venue: CCBR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccbr/ChenWL24
+  doi: 10.1007/978-981-96-1068-6_22
+  ee: https://doi.org/10.1007/978-981-96-1068-6_22
+  url: https://dblp.org/rec/conf/ccbr/ChenWL24
+- author: Massimiliano de Leoni, Alessandro Padella
+  title: Achieving Fairness in Predictive Process Analytics via Adversarial Learning.
+  venue: CoopIS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/coopis/LeoniP24
+  doi: 10.1007/978-3-031-81375-7_21
+  ee: https://doi.org/10.1007/978-3-031-81375-7_21
+  url: https://dblp.org/rec/conf/coopis/LeoniP24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
