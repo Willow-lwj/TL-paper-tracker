@@ -2632,6 +2632,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TETCI.2024.3359097
   ee: https://doi.org/10.1109/TETCI.2024.3359097
   url: https://dblp.org/rec/journals/tetci/ChenYHWL24
+- author: Sneh Pandya, Purvik Patel, Brian Nord, Mike Walmsley, Aleksandra Ciprijanovic
+  title: 'SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with
+    Equivariant Neural Networks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-14048
+  doi: 10.48550/ARXIV.2501.14048
+  ee: https://doi.org/10.48550/arXiv.2501.14048
+  url: https://dblp.org/rec/journals/corr/abs-2501-14048
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -16040,6 +16051,97 @@ Adversarial%20Learning:
   doi: 10.1007/978-3-031-81375-7_21
   ee: https://doi.org/10.1007/978-3-031-81375-7_21
   url: https://dblp.org/rec/conf/coopis/LeoniP24
+- author: Kaichun Yao, Hao Wang 0093, Chuan Qin 0002, Hengshu Zhu, Yanjun Wu, Libo
+    Zhang 0001
+  title: 'CARL: Unsupervised Code-Based Adversarial Attacks for Programming Language
+    Models via Reinforcement Learning.'
+  venue: ACM Trans. Softw. Eng. Methodol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tosem/YaoWQZWZ25
+  doi: 10.1145/3688839
+  ee: https://doi.org/10.1145/3688839
+  url: https://dblp.org/rec/journals/tosem/YaoWQZWZ25
+- author: Soumyendu Sarkar, Ashwin Ramesh Babu, Sajad Mousavi, Vineet Gundecha, Sahand
+    Ghorbanpour, Avisek Naug, Ricardo Luna Gutierrez 0001, Antonio Guillen
+  title: Reinforcement Learning Platform for Adversarial Black-box Attacks with Custom
+    Distortion Filters.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-14122
+  doi: 10.48550/ARXIV.2501.14122
+  ee: https://doi.org/10.48550/arXiv.2501.14122
+  url: https://dblp.org/rec/journals/corr/abs-2501-14122
+- author: Sylvia Worlali Azumah, Nelly ElSayed, Zag ElSayed, Murat Ozer, Amanda La
+    Guardia
+  title: Deep Learning Approaches for Detecting Adversarial Cyberbullying and Hate
+    Speech in Social Networks.
+  venue: AIBThings
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aibthings/AzumahEEOG24
+  doi: 10.1109/AIBTHINGS63359.2024.10863625
+  ee: https://doi.org/10.1109/AIBThings63359.2024.10863625
+  url: https://dblp.org/rec/conf/aibthings/AzumahEEOG24
+- author: Jiangwen Chen, Kou Guang, Huang Yan, Qiyang Li, Tan Hao
+  title: Graph Contrastive Learning with Adversarial Structure Refinement (GCL-ASR).
+  venue: ICDM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdm/ChenGYLH24
+  doi: 10.1109/ICDM59182.2024.00011
+  ee: https://doi.org/10.1109/ICDM59182.2024.00011
+  url: https://dblp.org/rec/conf/icdm/ChenGYLH24
+- author: Kangyang Luo, Shuai Wang, Yexuan Fu, Renrong Shao, Xiang Li, Yunshi Lan,
+    Ming Gao, Jinlong Shu
+  title: 'DFDG: Data-Free Dual-Generator Adversarial Distillation for One-Shot Federated
+    Learning.'
+  venue: ICDM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdm/LuoWFSLLGS24
+  doi: 10.1109/ICDM59182.2024.00035
+  ee: https://doi.org/10.1109/ICDM59182.2024.00035
+  url: https://dblp.org/rec/conf/icdm/LuoWFSLLGS24
+- author: Wei Chen 0071, Xintao Zhao, Jun Chen, Binzhu Sha, Zhiwei Lin, Zhiyong Wu
+  title: 'RobustSVC: HuBERT-Based Melody Extractor and Adversarial Learning for Robust
+    Singing Voice Conversion.'
+  venue: ISCSLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iscslp/0071ZCSLW24
+  doi: 10.1109/ISCSLP63861.2024.10800547
+  ee: https://doi.org/10.1109/ISCSLP63861.2024.10800547
+  url: https://dblp.org/rec/conf/iscslp/0071ZCSLW24
+- author: Zhengyang Chen, Shuai Wang, Bing Han, Yanmin Qian
+  title: Combining Self-Supervised Learning and Adversarial Training Based Domain
+    Adaptation for Speaker Verification.
+  venue: ISCSLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iscslp/ChenWHQ24
+  doi: 10.1109/ISCSLP63861.2024.10800283
+  ee: https://doi.org/10.1109/ISCSLP63861.2024.10800283
+  url: https://dblp.org/rec/conf/iscslp/ChenWHQ24
+- author: Chew Wye Chan, Boon Ping Gan, Wentong Cai 0001
+  title: Enhancing Machine Learning for Situation Aware Dispatching Through Generative
+    Adversarial Network Based Synthetic Data Generation.
+  venue: WSC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wsc/ChanGC24
+  doi: 10.1109/WSC63780.2024.10838933
+  ee: https://doi.org/10.1109/WSC63780.2024.10838933
+  url: https://dblp.org/rec/conf/wsc/ChanGC24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
