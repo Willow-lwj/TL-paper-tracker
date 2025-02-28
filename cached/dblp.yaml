@@ -2643,6 +2643,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2501.14048
   ee: https://doi.org/10.48550/arXiv.2501.14048
   url: https://dblp.org/rec/journals/corr/abs-2501-14048
+- author: Dan Song, Shumeng Huo, Wenhui Li, Lanjun Wang, Chao Xue, An-An Liu
+  title: Domain Adaptation from Generated Multi-Weather Images for Unsupervised Maritime
+    Object Classification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-15503
+  doi: 10.48550/ARXIV.2501.15503
+  ee: https://doi.org/10.48550/arXiv.2501.15503
+  url: https://dblp.org/rec/journals/corr/abs-2501-15503
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -16142,6 +16153,83 @@ Adversarial%20Learning:
   doi: 10.1109/WSC63780.2024.10838933
   ee: https://doi.org/10.1109/WSC63780.2024.10838933
   url: https://dblp.org/rec/conf/wsc/ChanGC24
+- author: Moushumi Medhi, Rajiv Ranjan Sahay
+  title: Adversarial learning for unguided single depth map completion of indoor scenes.
+  venue: Mach. Vis. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mva/MedhiS25
+  doi: 10.1007/S00138-024-01652-X
+  ee: https://doi.org/10.1007/s00138-024-01652-x
+  url: https://dblp.org/rec/journals/mva/MedhiS25
+- author: Congcong Wen, Xiang Li, Hao Huang, Yu-Shen Liu, Yi Fang 0006
+  title: 3D Shape Contrastive Representation Learning With Adversarial Examples.
+  venue: IEEE Trans. Multim.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmm/WenLHLF25
+  doi: 10.1109/TMM.2023.3265177
+  ee: https://doi.org/10.1109/TMM.2023.3265177
+  url: https://dblp.org/rec/journals/tmm/WenLHLF25
+- author: Yu Qiao 0004, Huy Q. Le, Apurba Adhikary, Choong Seon Hong
+  title: Pre-trained Model Guided Mixture Knowledge Distillation for Adversarial Federated
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-15257
+  doi: 10.48550/ARXIV.2501.15257
+  ee: https://doi.org/10.48550/arXiv.2501.15257
+  url: https://dblp.org/rec/journals/corr/abs-2501-15257
+- author: Zhengpeng Xie, Jiahang Cao, Yulong Zhang, Qiang Zhang, Renjing Xu
+  title: A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-17384
+  doi: 10.48550/ARXIV.2501.17384
+  ee: https://doi.org/10.48550/arXiv.2501.17384
+  url: https://dblp.org/rec/journals/corr/abs-2501-17384
+- author: Sylvia Worlali Azumah, Nelly Elsayed, Zag ElSayed, Murat Ozer, Amanda La
+    Guardia
+  title: Deep Learning Approaches for Detecting Adversarial Cyberbullying and Hate
+    Speech in Social Networks.
+  venue: AIBThings
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aibthings/AzumahEEOG24
+  doi: 10.1109/AIBTHINGS63359.2024.10863625
+  ee: https://doi.org/10.1109/AIBThings63359.2024.10863625
+  url: https://dblp.org/rec/conf/aibthings/AzumahEEOG24
+- author: Wei Chen 0071, Xintao Zhao, Jun Chen 0024, Binzhu Sha, Zhiwei Lin, Zhiyong
+    Wu 0001
+  title: 'RobustSVC: HuBERT-Based Melody Extractor and Adversarial Learning for Robust
+    Singing Voice Conversion.'
+  venue: ISCSLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iscslp/0071ZCSLW24
+  doi: 10.1109/ISCSLP63861.2024.10800547
+  ee: https://doi.org/10.1109/ISCSLP63861.2024.10800547
+  url: https://dblp.org/rec/conf/iscslp/0071ZCSLW24
+- author: Zhengyang Chen, Shuai Wang 0016, Bing Han, Yanmin Qian
+  title: Combining Self-Supervised Learning and Adversarial Training Based Domain
+    Adaptation for Speaker Verification.
+  venue: ISCSLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iscslp/ChenWHQ24
+  doi: 10.1109/ISCSLP63861.2024.10800283
+  ee: https://doi.org/10.1109/ISCSLP63861.2024.10800283
+  url: https://dblp.org/rec/conf/iscslp/ChenWHQ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
