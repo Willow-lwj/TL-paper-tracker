@@ -2654,6 +2654,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2501.15503
   ee: https://doi.org/10.48550/arXiv.2501.15503
   url: https://dblp.org/rec/journals/corr/abs-2501-15503
+- author: Zhunga Liu, Kun Li 0002, Longfei Wang, Zuowei Zhang 0001
+  title: Multi-Scale Alignment Domain Adaptation for Ship Classification in Multi-Resolution
+    SAR Images.
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/LiuLWZ25
+  doi: 10.1109/TASE.2024.3407130
+  ee: https://doi.org/10.1109/TASE.2024.3407130
+  url: https://dblp.org/rec/journals/tase/LiuLWZ25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -16230,6 +16241,28 @@ Adversarial%20Learning:
   doi: 10.1109/ISCSLP63861.2024.10800283
   ee: https://doi.org/10.1109/ISCSLP63861.2024.10800283
   url: https://dblp.org/rec/conf/iscslp/ChenWHQ24
+- author: Shun Yang, Yajun Du, Shangyi Du, Xianyong Li, Xiaoliang Chen, Yanli Li 0001,
+    Chunzhi Xie, Jia Liu 0033
+  title: Few-shot cyberviolence intent classification with Meta-learning AutoEncoder
+    based on adversarial domain adaptation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YangDDLCLXL25
+  doi: 10.1016/J.NEUCOM.2024.129089
+  ee: https://doi.org/10.1016/j.neucom.2024.129089
+  url: https://dblp.org/rec/journals/ijon/YangDDLCLXL25
+- author: Congcong Wen, Xiang Li 0046, Hao Huang 0003, Yu-Shen Liu, Yi Fang 0006
+  title: 3D Shape Contrastive Representation Learning With Adversarial Examples.
+  venue: IEEE Trans. Multim.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmm/WenLHLF25
+  doi: 10.1109/TMM.2023.3265177
+  ee: https://doi.org/10.1109/TMM.2023.3265177
+  url: https://dblp.org/rec/journals/tmm/WenLHLF25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
