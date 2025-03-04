@@ -16263,6 +16263,28 @@ Adversarial%20Learning:
   doi: 10.1109/TMM.2023.3265177
   ee: https://doi.org/10.1109/TMM.2023.3265177
   url: https://dblp.org/rec/journals/tmm/WenLHLF25
+- author: Peng Wu 0013, Conghui Zheng, Li Pan 0002
+  title: A Unified Generative Adversarial Learning Framework for Improvement of Skip-Gram
+    Network Representation Learning Methods.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/WuZP23
+  doi: 10.1109/TKDE.2021.3076766
+  ee: https://doi.org/10.1109/TKDE.2021.3076766
+  url: https://dblp.org/rec/journals/tkde/WuZP23
+- author: Zhengwei Fang, Rui Wang 0042, Tao Huang, Liping Jing
+  title: Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal
+    Distribution Learning.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/FangWHJ24
+  doi: 10.1109/CVPR52733.2024.02346
+  ee: https://doi.org/10.1109/CVPR52733.2024.02346
+  url: https://dblp.org/rec/conf/cvpr/FangWHJ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
