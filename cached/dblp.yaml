@@ -16285,6 +16285,94 @@ Adversarial%20Learning:
   doi: 10.1109/CVPR52733.2024.02346
   ee: https://doi.org/10.1109/CVPR52733.2024.02346
   url: https://dblp.org/rec/conf/cvpr/FangWHJ24
+- author: Dezhao Zhai, Wei Chen 0148, Qinwei Li, Ming Yu, Hang Wu
+  title: Adversarial learning network for recovering rPPG signals from low-resolution
+    images for remote heart rate measurement.
+  venue: Biomed. Signal Process. Control.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/ZhaiCLYW25
+  doi: 10.1016/J.BSPC.2024.107382
+  ee: https://doi.org/10.1016/j.bspc.2024.107382
+  url: https://dblp.org/rec/journals/bspc/ZhaiCLYW25
+- author: Dongdong An, Yi Yang 0001, Xin Gao, Hongda Qi, Yang Yang, Xin Ye, Maozhen
+    Li, Qin Zhao
+  title: Reinforcement learning-based secure training for adversarial defense in graph
+    neural networks.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/AnYGQYYLZ25
+  doi: 10.1016/J.NEUCOM.2025.129704
+  ee: https://doi.org/10.1016/j.neucom.2025.129704
+  url: https://dblp.org/rec/journals/ijon/AnYGQYYLZ25
+- author: Liqun Zhang
+  title: Data mining and learning behaviour analysis of French online education data-driven
+    teaching based on generative adversarial network improvement Apriori algorithm.
+  venue: Int. J. Wirel. Mob. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijwmc/Zhang25
+  doi: 10.1504/IJWMC.2025.144202
+  ee: https://doi.org/10.1504/IJWMC.2025.144202
+  url: https://dblp.org/rec/journals/ijwmc/Zhang25
+- author: Li Song 0003, Dazi Li, Xin Xu
+  title: Adaptive generative adversarial maximum entropy inverse reinforcement learning.
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/SongLX25
+  doi: 10.1016/J.INS.2024.121712
+  ee: https://doi.org/10.1016/j.ins.2024.121712
+  url: https://dblp.org/rec/journals/isci/SongLX25
+- author: Chenyu Zhou, Wei Huang 0035, Xinyuan Miao, Yabin Peng, Xianglong Kong, Yi
+    Cao, Xi Chen
+  title: Fortifying graph neural networks against adversarial attacks via ensemble
+    learning.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhouHMPKCC25
+  doi: 10.1016/J.KNOSYS.2024.112867
+  ee: https://doi.org/10.1016/j.knosys.2024.112867
+  url: https://dblp.org/rec/journals/kbs/ZhouHMPKCC25
+- author: Xiaolei Pan, Hongxiao Chen, Wei Wang 0279, Xiaoyan Su
+  title: Adversarial domain adaptation based on contrastive learning for bearings
+    fault diagnosis.
+  venue: Simul. Model. Pract. Theory
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/simpra/PanCWS25
+  doi: 10.1016/J.SIMPAT.2024.103058
+  ee: https://doi.org/10.1016/j.simpat.2024.103058
+  url: https://dblp.org/rec/journals/simpra/PanCWS25
+- author: "Andr\xE9 Bertolace, Konstantinos Gatsis, Kostas Margellos"
+  title: Robust optimization for adversarial learning with finite sample complexity
+    guarantees.
+  venue: CDC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cdc/BertolaceGM24
+  doi: 10.1109/CDC56724.2024.10886222
+  ee: https://doi.org/10.1109/CDC56724.2024.10886222
+  url: https://dblp.org/rec/conf/cdc/BertolaceGM24
+- author: Zhong Chen 0003
+  title: Robust Sparse Online Learning through Adversarial Sparsity Constraints.
+  venue: SmartCloud
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smartcloud/Chen24
+  doi: 10.1109/SMARTCLOUD62736.2024.00015
+  ee: https://doi.org/10.1109/SmartCloud62736.2024.00015
+  url: https://dblp.org/rec/conf/smartcloud/Chen24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
