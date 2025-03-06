@@ -16373,6 +16373,26 @@ Adversarial%20Learning:
   doi: 10.1109/SMARTCLOUD62736.2024.00015
   ee: https://doi.org/10.1109/SmartCloud62736.2024.00015
   url: https://dblp.org/rec/conf/smartcloud/Chen24
+- author: Li Song 0003, Dazi Li, Xin Xu 0001
+  title: Adaptive generative adversarial maximum entropy inverse reinforcement learning.
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/SongLX25
+  doi: 10.1016/J.INS.2024.121712
+  ee: https://doi.org/10.1016/j.ins.2024.121712
+  url: https://dblp.org/rec/journals/isci/SongLX25
+- author: Tameem Adel
+  title: Adversarial Learning of Summary Statistics for Approximate Bayesian Computation.
+  venue: ICAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icaai/Adel24b
+  doi: 10.1145/3704137.3704159
+  ee: https://doi.org/10.1145/3704137.3704159
+  url: https://dblp.org/rec/conf/icaai/Adel24b
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
