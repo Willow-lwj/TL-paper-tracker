@@ -16393,6 +16393,106 @@ Adversarial%20Learning:
   doi: 10.1145/3704137.3704159
   ee: https://doi.org/10.1145/3704137.3704159
   url: https://dblp.org/rec/conf/icaai/Adel24b
+- author: Mafizur Rahman, Prosenjit Roy, Sherri Frizell, Lijun Qian
+  title: Evaluating Pretrained Deep Learning Models for Image Classification Against
+    Individual and Ensemble Adversarial Attacks.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/RahmanRFQ25
+  doi: 10.1109/ACCESS.2025.3544107
+  ee: https://doi.org/10.1109/ACCESS.2025.3544107
+  url: https://dblp.org/rec/journals/access/RahmanRFQ25
+- author: Nengfu Cai, Yi Jiang, Haitao Zhang, Zhiwen Yang, Laicheng Zhong, Qi Chen
+  title: 'HCRP-OSD: Fine-Grained Open-Set Intrusion Detection Based on Hybrid Convolution
+    and Adversarial Reciprocal Points Learning.'
+  venue: Concurr. Comput. Pract. Exp.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/concurrency/CaiJZYZC25
+  doi: 10.1002/CPE.70010
+  ee: https://doi.org/10.1002/cpe.70010
+  url: https://dblp.org/rec/journals/concurrency/CaiJZYZC25
+- author: Chenlu Zhan, Peng Peng 0006, Hongwei Wang 0001, Gaoang Wang, Yu Lin, Tao
+    Chen, Hongsen Wang
+  title: 'UnICLAM: Contrastive representation learning with adversarial masking for
+    unified and interpretable Medical Vision Question Answering.'
+  venue: Medical Image Anal.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/ZhanPWWLCW25
+  doi: 10.1016/J.MEDIA.2025.103464
+  ee: https://doi.org/10.1016/j.media.2025.103464
+  url: https://dblp.org/rec/journals/mia/ZhanPWWLCW25
+- author: Xingyu Ma, Chuanxu Wang
+  title: Multitask learning of adversarial-contrastive graph for recommendation.
+  venue: Pattern Anal. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/paa/MaW25
+  doi: 10.1007/S10044-025-01417-W
+  ee: https://doi.org/10.1007/s10044-025-01417-w
+  url: https://dblp.org/rec/journals/paa/MaW25
+- author: Weishan Ye, Z. G. Zhang 0001, Fei Teng 0005, Min Zhang, Jianhong Wang, Dong
+    Ni 0001, Fali Li, Peng Xu 0001, Zhen Liang
+  title: Semi-Supervised Dual-Stream Self-Attentive Adversarial Graph Contrastive
+    Learning for Cross-Subject EEG-Based Emotion Recognition.
+  venue: IEEE Trans. Affect. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/taffco/YeZTZWNLXL25
+  doi: 10.1109/TAFFC.2024.3433470
+  ee: https://doi.org/10.1109/TAFFC.2024.3433470
+  url: https://dblp.org/rec/journals/taffco/YeZTZWNLXL25
+- author: Fatemeh Mahdavi Golmisheh, Saeed Shamaghdari
+  title: Optimal Robust Formation of Multi-Agent Systems as Adversarial Graphical
+    Apprentice Games With Inverse Reinforcement Learning.
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/GolmishehS25
+  doi: 10.1109/TASE.2024.3412188
+  ee: https://doi.org/10.1109/TASE.2024.3412188
+  url: https://dblp.org/rec/journals/tase/GolmishehS25
+- author: Yidong Chai, Yi Liu, Mohammadreza Ebrahimi, Weifeng Li 0002, Balaji Padmanabhan,
+    Yuanchun Jiang, Yezheng Liu
+  title: 'Enhancing Adversarial Robustness: A Novel Bayesian Uncertainty-Based Ensemble
+    Learning Method.'
+  venue: DSC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dsc/ChaiLE0PJL24
+  doi: 10.1109/DSC63484.2024.00051
+  ee: https://doi.org/10.1109/DSC63484.2024.00051
+  url: https://dblp.org/rec/conf/dsc/ChaiLE0PJL24
+- author: Chengyi Wang, Jinyin Chen, Haibin Zheng, Xuhua Pan
+  title: 'SEAD: Self-aware Adversarial Detection for Black-box Reinforcement Learning.'
+  venue: DSC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dsc/WangCZP24
+  doi: 10.1109/DSC63484.2024.00026
+  ee: https://doi.org/10.1109/DSC63484.2024.00026
+  url: https://dblp.org/rec/conf/dsc/WangCZP24
+- author: Qisheng Chen, Kazumasa Omote
+  title: A Token-Level Adversarial Example Attack Method for Machine Learning Based
+    Malicious URL Detectors.
+  venue: SIN
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sin/ChenO24
+  doi: 10.1109/SIN63213.2024.10871719
+  ee: https://doi.org/10.1109/SIN63213.2024.10871719
+  url: https://dblp.org/rec/conf/sin/ChenO24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
