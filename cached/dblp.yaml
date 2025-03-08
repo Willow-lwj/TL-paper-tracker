@@ -2665,6 +2665,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TASE.2024.3407130
   ee: https://doi.org/10.1109/TASE.2024.3407130
   url: https://dblp.org/rec/journals/tase/LiuLWZ25
+- author: Xin Jin 0015, Le Wu, Xiaodong Li 0013, Xiaokun Zhang, Jingying Chi, Siwei
+    Peng, Shiming Ge, Geng Zhao 0001, Shuying Li
+  title: 'ILGNet: inception modules with connected local and global features for efficient
+    image aesthetic quality classification using domain adaptation.'
+  venue: IET Comput. Vis.
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/iet-cvi/JinWLZCPGZL19
+  doi: 10.1049/IET-CVI.2018.5249
+  ee: https://doi.org/10.1049/iet-cvi.2018.5249
+  url: https://dblp.org/rec/journals/iet-cvi/JinWLZCPGZL19
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -16493,6 +16505,51 @@ Adversarial%20Learning:
   doi: 10.1109/SIN63213.2024.10871719
   ee: https://doi.org/10.1109/SIN63213.2024.10871719
   url: https://dblp.org/rec/conf/sin/ChenO24
+- author: Weishan Ye, Z. G. Zhang 0001, Fei Teng 0005, Min Zhang 0005, Jianhong Wang,
+    Dong Ni 0001, Fali Li, Peng Xu 0001, Zhen Liang
+  title: Semi-Supervised Dual-Stream Self-Attentive Adversarial Graph Contrastive
+    Learning for Cross-Subject EEG-Based Emotion Recognition.
+  venue: IEEE Trans. Affect. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/taffco/YeZTZWNLXL25
+  doi: 10.1109/TAFFC.2024.3433470
+  ee: https://doi.org/10.1109/TAFFC.2024.3433470
+  url: https://dblp.org/rec/journals/taffco/YeZTZWNLXL25
+- author: Joseph Fioresi, Ishan Rajendrakumar Dave, Mubarak Shah
+  title: 'ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-00156
+  doi: 10.48550/ARXIV.2502.00156
+  ee: https://doi.org/10.48550/arXiv.2502.00156
+  url: https://dblp.org/rec/journals/corr/abs-2502-00156
+- author: Roman Tarasov, Petr Mokrov, Milena Gazdieva, Evgeny Burnaev, Alexander Korotin
+  title: A Statistical Learning Perspective on Semi-dual Adversarial Neural Optimal
+    Transport Solvers.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-01310
+  doi: 10.48550/ARXIV.2502.01310
+  ee: https://doi.org/10.48550/arXiv.2502.01310
+  url: https://dblp.org/rec/journals/corr/abs-2502-01310
+- author: Yidong Chai, Yi Liu, Mohammadreza Ebrahimi, Weifeng Li 0002, Balaji Padmanabhan,
+    Yuanchun Jiang, Yezheng Liu 0001
+  title: 'Enhancing Adversarial Robustness: A Novel Bayesian Uncertainty-Based Ensemble
+    Learning Method.'
+  venue: DSC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dsc/ChaiLE0PJL24
+  doi: 10.1109/DSC63484.2024.00051
+  ee: https://doi.org/10.1109/DSC63484.2024.00051
+  url: https://dblp.org/rec/conf/dsc/ChaiLE0PJL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
