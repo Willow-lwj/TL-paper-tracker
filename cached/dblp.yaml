@@ -2677,6 +2677,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1049/IET-CVI.2018.5249
   ee: https://doi.org/10.1049/iet-cvi.2018.5249
   url: https://dblp.org/rec/journals/iet-cvi/JinWLZCPGZL19
+- author: Zhize Wu, Chang-Jiang Du, Xin-Qi Wang, Le Zou, Fan Cheng, Teng Li, Fudong
+    Nian, Thomas Weise 0001, Xiao-Feng Wang
+  title: Domain Adaptation via Feature Disentanglement for cross-domain image classification.
+  venue: Appl. Soft Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/WuDWZCLNWW25
+  doi: 10.1016/J.ASOC.2025.112868
+  ee: https://doi.org/10.1016/j.asoc.2025.112868
+  url: https://dblp.org/rec/journals/asc/WuDWZCLNWW25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -16550,6 +16561,106 @@ Adversarial%20Learning:
   doi: 10.1109/DSC63484.2024.00051
   ee: https://doi.org/10.1109/DSC63484.2024.00051
   url: https://dblp.org/rec/conf/dsc/ChaiLE0PJL24
+- author: Shun Su, Dangguo Shao, Lei Ma 0010, Sanli Yi, Ziwei Yang
+  title: 'ADCL: An attention feature enhancement network based on adversarial contrastive
+    learning for short text classification.'
+  venue: Adv. Eng. Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/aei/SuSMYY25
+  doi: 10.1016/J.AEI.2025.103202
+  ee: https://doi.org/10.1016/j.aei.2025.103202
+  url: https://dblp.org/rec/journals/aei/SuSMYY25
+- author: Ruijie Yang, Yuanfang Guo, Junfu Wang, Jiantao Zhou 0001, Yunhong Wang 0001
+  title: Common knowledge learning for generating transferable adversarial examples.
+  venue: Frontiers Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/fcsc/YangGWZW25
+  doi: 10.1007/S11704-024-40533-4
+  ee: https://doi.org/10.1007/s11704-024-40533-4
+  url: https://dblp.org/rec/journals/fcsc/YangGWZW25
+- author: Sumit Saha, Krishn Katyal, Surendra Nadh Somala
+  title: Deep learning-based imputation framework for bridge health monitoring using
+    generative adversarial networks.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/SahaKS25
+  doi: 10.1016/J.KNOSYS.2025.113088
+  ee: https://doi.org/10.1016/j.knosys.2025.113088
+  url: https://dblp.org/rec/journals/kbs/SahaKS25
+- author: Pei Wang, Jinrui Liu, Jingshuai Qi, Kesong Zhou, Hongbo Zhai
+  title: Multi-task dual-level adversarial transfer learning boosted RUL estimation
+    of CNC milling tools.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WangLQZZ25
+  doi: 10.1016/J.KNOSYS.2025.113152
+  ee: https://doi.org/10.1016/j.knosys.2025.113152
+  url: https://dblp.org/rec/journals/kbs/WangLQZZ25
+- author: Junhao Dong, Yuan Wang, Xiaohua Xie, Jianhuang Lai, Yew-Soon Ong
+  title: Generalizable and Discriminative Representations for Adversarially Robust
+    Few-Shot Learning.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/DongWXLO25
+  doi: 10.1109/TNNLS.2024.3379172
+  ee: https://doi.org/10.1109/TNNLS.2024.3379172
+  url: https://dblp.org/rec/journals/tnn/DongWXLO25
+- author: "Federico Malato, Ville Hautam\xE4ki"
+  title: Search-Based Adversarial Estimates for Improving Sample Efficiency in Off-Policy
+    Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-01558
+  doi: 10.48550/ARXIV.2502.01558
+  ee: https://doi.org/10.48550/arXiv.2502.01558
+  url: https://dblp.org/rec/journals/corr/abs-2502-01558
+- author: Yipu Zhang, Likai Wang, Kuan-Jui Su, Aiying Zhang, Hao Zhu, Xiaowen Liu,
+    Hui Shen, Vince D. Calhoun, Yuping Wang, Hong-Wen Deng
+  title: A Privacy-Preserving Domain Adversarial Federated learning for multi-site
+    brain functional connectivity analysis.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-01885
+  doi: 10.48550/ARXIV.2502.01885
+  ee: https://doi.org/10.48550/arXiv.2502.01885
+  url: https://dblp.org/rec/journals/corr/abs-2502-01885
+- author: Daniele Lunghi, Yannick Molinghen, Alkis Simitsis, Tom Lenaerts, Gianluca
+    Bontempi
+  title: 'FRAUD-RLA: A new reinforcement learning adversarial attack against credit
+    card fraud detection.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-02290
+  doi: 10.48550/ARXIV.2502.02290
+  ee: https://doi.org/10.48550/arXiv.2502.02290
+  url: https://dblp.org/rec/journals/corr/abs-2502-02290
+- author: Denis Bernovschi, Alex Giacomini, Riccardo Rosati 0002, Luca Romeo
+  title: 'Mitigating Bias in Aesthetic Quality Control Tasks: An Adversarial Learning
+    Approach.'
+  venue: ISM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ism2/BernovschiG0R24
+  doi: 10.1016/J.PROCS.2024.01.071
+  ee: https://doi.org/10.1016/j.procs.2024.01.071
+  url: https://dblp.org/rec/conf/ism2/BernovschiG0R24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
