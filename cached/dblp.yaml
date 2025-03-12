@@ -16661,6 +16661,49 @@ Adversarial%20Learning:
   doi: 10.1016/J.PROCS.2024.01.071
   ee: https://doi.org/10.1016/j.procs.2024.01.071
   url: https://dblp.org/rec/conf/ism2/BernovschiG0R24
+- author: Runyuan Guo, Qingyuan Chen, Shuo Tong, Han Liu 0007
+  title: 'Knowledge-Aided Generative Adversarial Network: A Transfer Gradient-Less
+    Adversarial Attack for Deep Learning-Based Soft Sensors.'
+  venue: ASCC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ascc/GuoCT024
+  doi: ''
+  ee: https://ieeexplore.ieee.org/document/10665421
+  url: https://dblp.org/rec/conf/ascc/GuoCT024
+- author: Sunwoo Lee, Jaebak Hwang, Yonghyeon Jo, Seungyul Han
+  title: Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-02844
+  doi: 10.48550/ARXIV.2502.02844
+  ee: https://doi.org/10.48550/arXiv.2502.02844
+  url: https://dblp.org/rec/journals/corr/abs-2502-02844
+- author: Hong Lin, Nuo Chen, Yang Chen, Xiang Li, Cong Li
+  title: 'BotScan: An Unsupervised Bot Detection Based on Adversarial Learning and
+    Social Perception.'
+  venue: ASCC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ascc/LinCCLL24
+  doi: ''
+  ee: https://ieeexplore.ieee.org/document/10665678
+  url: https://dblp.org/rec/conf/ascc/LinCCLL24
+- author: Lian Lian
+  title: Technical Research on Deep Learning Generative Adversarial Networks for Fake
+    News Sample Augmentation and Detection.
+  venue: ICBASE
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icbase/Lian24
+  doi: 10.1109/ICBASE63199.2024.10762260
+  ee: https://doi.org/10.1109/ICBASE63199.2024.10762260
+  url: https://dblp.org/rec/conf/icbase/Lian24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
