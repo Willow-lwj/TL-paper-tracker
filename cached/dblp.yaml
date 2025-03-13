@@ -16704,6 +16704,18 @@ Adversarial%20Learning:
   doi: 10.1109/ICBASE63199.2024.10762260
   ee: https://doi.org/10.1109/ICBASE63199.2024.10762260
   url: https://dblp.org/rec/conf/icbase/Lian24
+- author: Dongdong An, Yi Yang 0001, Xin Gao, Hongda Qi, Yang Yang, Xin Ye, Maozhen
+    Li 0001, Qin Zhao
+  title: Reinforcement learning-based secure training for adversarial defense in graph
+    neural networks.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/AnYGQYYLZ25
+  doi: 10.1016/J.NEUCOM.2025.129704
+  ee: https://doi.org/10.1016/j.neucom.2025.129704
+  url: https://dblp.org/rec/journals/ijon/AnYGQYYLZ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
