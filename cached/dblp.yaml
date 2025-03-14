@@ -16716,6 +16716,126 @@ Adversarial%20Learning:
   doi: 10.1016/J.NEUCOM.2025.129704
   ee: https://doi.org/10.1016/j.neucom.2025.129704
   url: https://dblp.org/rec/journals/ijon/AnYGQYYLZ25
+- author: Jingyuan Duan, Zhao Kang 0001, Ling Tian, Yichen Xin
+  title: Multi-level social network alignment via adversarial learning and graphlet
+    modeling.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/DuanKTX25
+  doi: 10.1016/J.NEUNET.2025.107230
+  ee: https://doi.org/10.1016/j.neunet.2025.107230
+  url: https://dblp.org/rec/journals/nn/DuanKTX25
+- author: Yulun Wu, Doron L. Bergman
+  title: Zero-shot Meta-learning for Tabular Prediction Tasks with Adversarially Pre-trained
+    Transformer.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-04573
+  doi: 10.48550/ARXIV.2502.04573
+  ee: https://doi.org/10.48550/arXiv.2502.04573
+  url: https://dblp.org/rec/journals/corr/abs-2502-04573
+- author: Sreejeet Maity, Aritra Mitra
+  title: 'Adversarially-Robust TD Learning with Markovian Data: Finite-Time Rates
+    and Fundamental Limits.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-04662
+  doi: 10.48550/ARXIV.2502.04662
+  ee: https://doi.org/10.48550/arXiv.2502.04662
+  url: https://dblp.org/rec/journals/corr/abs-2502-04662
+- author: Jiayi Luo, Qingyun Sun, Haonan Yuan, Xingcheng Fu, Jianxin Li 0002
+  title: Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free
+    Diffusion-Based Structure Purification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-05000
+  doi: 10.48550/ARXIV.2502.05000
+  ee: https://doi.org/10.48550/arXiv.2502.05000
+  url: https://dblp.org/rec/journals/corr/abs-2502-05000
+- author: Yohannis Kifle Telila, Damitha Senevirathne, Dumindu Tissera, Apurva Narayan,
+    Miriam A. M. Capretz, Katarina Grolinger
+  title: 'Federated Learning for Anomaly Detection in Energy Consumption Data: Assessing
+    the Vulnerability to Adversarial Attacks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-05041
+  doi: 10.48550/ARXIV.2502.05041
+  ee: https://doi.org/10.48550/arXiv.2502.05041
+  url: https://dblp.org/rec/journals/corr/abs-2502-05041
+- author: Xiaoyu Deng, Ye Zhang, Tianmin Guo, Yongzhe Zhang, Zhengjian Kang, Hang
+    Yang
+  title: 'ChallengeMe: An Adversarial Learning-enabled Text Summarization Framework.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-05084
+  doi: 10.48550/ARXIV.2502.05084
+  ee: https://doi.org/10.48550/arXiv.2502.05084
+  url: https://dblp.org/rec/journals/corr/abs-2502-05084
+- author: Koushik Chowdhury
+  title: 'Adversarial Machine Learning: Attacking and Safeguarding Image Datasets.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-05203
+  doi: 10.48550/ARXIV.2502.05203
+  ee: https://doi.org/10.48550/arXiv.2502.05203
+  url: https://dblp.org/rec/journals/corr/abs-2502-05203
+- author: Pranav K. Jha
+  title: 'Adversarial Machine Learning: Attacks, Defenses, and Open Challenges.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-05637
+  doi: 10.48550/ARXIV.2502.05637
+  ee: https://doi.org/10.48550/arXiv.2502.05637
+  url: https://dblp.org/rec/journals/corr/abs-2502-05637
+- author: "Mario Garc\xEDa-M\xE1rquez, Nuria Rodr\xEDguez Barroso, Mar\xEDa Victoria\
+    \ Luz\xF3n, Francisco Herrera"
+  title: 'Krum Federated Chain (KFC): Using blockchain to defend against adversarial
+    attacks in Federated Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-06917
+  doi: 10.48550/ARXIV.2502.06917
+  ee: https://doi.org/10.48550/arXiv.2502.06917
+  url: https://dblp.org/rec/journals/corr/abs-2502-06917
+- author: Hassan Ashtiani, Vinayak Pathak, Ruth Urner
+  title: Simplifying Adversarially Robust PAC Learning with Tolerance.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-07232
+  doi: 10.48550/ARXIV.2502.07232
+  ee: https://doi.org/10.48550/arXiv.2502.07232
+  url: https://dblp.org/rec/journals/corr/abs-2502-07232
+- author: Zesheng Li, Minwen Liao, Haoran Chen, Yan Su, Chengchang Pan, Honggang Qi
+  title: DynSegNet:Dynamic Architecture Adjustment for Adversarial Learning in Segmenting
+    Hemorrhagic Lesions from Fundus Images.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-09256
+  doi: 10.48550/ARXIV.2502.09256
+  ee: https://doi.org/10.48550/arXiv.2502.09256
+  url: https://dblp.org/rec/journals/corr/abs-2502-09256
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
