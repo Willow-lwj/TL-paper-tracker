@@ -2688,6 +2688,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.ASOC.2025.112868
   ee: https://doi.org/10.1016/j.asoc.2025.112868
   url: https://dblp.org/rec/journals/asc/WuDWZCLNWW25
+- author: Yuhu Cheng, Yang Chen 0031, Yi Kong, Xuesong Wang 0001
+  title: Soft Instance-Level Domain Adaptation With Virtual Classifier for Unsupervised
+    Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ChengCKW23
+  doi: 10.1109/TGRS.2023.3266790
+  ee: https://doi.org/10.1109/TGRS.2023.3266790
+  url: https://dblp.org/rec/journals/tgrs/ChengCKW23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
