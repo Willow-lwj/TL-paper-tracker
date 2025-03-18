@@ -2699,6 +2699,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2023.3266790
   ee: https://doi.org/10.1109/TGRS.2023.3266790
   url: https://dblp.org/rec/journals/tgrs/ChengCKW23
+- author: Ahmad Chaddad, Yihang Wu, Yuchen Jiang, Ahmed Bouridane, Christian Desrosiers
+  title: Simulations of Common Unsupervised Domain Adaptation Algorithms for Image
+    Classification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-10694
+  doi: 10.48550/ARXIV.2502.10694
+  ee: https://doi.org/10.48550/arXiv.2502.10694
+  url: https://dblp.org/rec/journals/corr/abs-2502-10694
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -16847,6 +16858,117 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2502.09256
   ee: https://doi.org/10.48550/arXiv.2502.09256
   url: https://dblp.org/rec/journals/corr/abs-2502-09256
+- author: Taewoo Kim, Youngwoo Yoon, Jaehong Kim
+  title: Learning Dexterous Bimanual Catch Skills through Adversarial-Cooperative
+    Heterogeneous-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-11437
+  doi: 10.48550/ARXIV.2502.11437
+  ee: https://doi.org/10.48550/arXiv.2502.11437
+  url: https://dblp.org/rec/journals/corr/abs-2502-11437
+- author: "Guillermo Iglesias, H\xE9ctor D. Men\xE9ndez 0001, Edgar Talavera"
+  title: Improving explanations for medical X-ray diagnosis combining variational
+    autoencoders and adversarial machine learning.
+  venue: Comput. Biol. Medicine
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/IglesiasMT25
+  doi: 10.1016/J.COMPBIOMED.2025.109857
+  ee: https://doi.org/10.1016/j.compbiomed.2025.109857
+  url: https://dblp.org/rec/journals/cbm/IglesiasMT25
+- author: Luoyi Li, Lintao Zheng, Chunlei Yang, Yongsheng Dong
+  title: 'GAL-GAN: Global styles and local high-frequency learning based generative
+    adversarial network for image cartoonization.'
+  venue: Comput. Electr. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/LiZYD25
+  doi: 10.1016/J.COMPELECENG.2025.110164
+  ee: https://doi.org/10.1016/j.compeleceng.2025.110164
+  url: https://dblp.org/rec/journals/cee/LiZYD25
+- author: Jiaqi Ma, Mingzhe Wang, Guojia Hou, Weidong Zhang, Baoxiang Huang
+  title: 'PQGAL-net: Perceptual quality guided generative adversarial learning for
+    non-uniform illumination underwater image enhancement.'
+  venue: Digit. Signal Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/dsp/MaWHZH25
+  doi: 10.1016/J.DSP.2025.105048
+  ee: https://doi.org/10.1016/j.dsp.2025.105048
+  url: https://dblp.org/rec/journals/dsp/MaWHZH25
+- author: Asseel Jabbar Almahdi, Ali Mohades, Mohammad Akbari 0001, Soroush Heidary
+  title: Enhancing cross-lingual hate speech detection through contrastive and adversarial
+    learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/AlmahdiMAH25
+  doi: 10.1016/J.ENGAPPAI.2025.110296
+  ee: https://doi.org/10.1016/j.engappai.2025.110296
+  url: https://dblp.org/rec/journals/eaai/AlmahdiMAH25
+- author: Haiming Yao, Wei Luo, Xue Wang 0001
+  title: Adversarial contrastive domain-generative learning for bacteria Raman spectrum
+    joint denoising and cross-domain identification.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/YaoLW25
+  doi: 10.1016/J.ENGAPPAI.2025.110426
+  ee: https://doi.org/10.1016/j.engappai.2025.110426
+  url: https://dblp.org/rec/journals/eaai/YaoLW25
+- author: Haiyang Shi, Ximing Cai
+  title: Extrapolability improvement of machine learning-based evapotranspiration
+    models via domain-adversarial neural networks.
+  venue: Environ. Model. Softw.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/envsoft/ShiC25
+  doi: 10.1016/J.ENVSOFT.2025.106383
+  ee: https://doi.org/10.1016/j.envsoft.2025.106383
+  url: https://dblp.org/rec/journals/envsoft/ShiC25
+- author: Chang Liu 0077, Wenzhao Xiang 0001, Yinpeng Dong, Xingxing Zhang, Liyuan
+    Wang, Ranjie Duan, Shibao Zheng, Hang Su 0006
+  title: 'RobustPrompt: Learning to defend against adversarial attacks with adaptive
+    visual prompts.'
+  venue: Pattern Recognit. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/LiuXDZWDZS25
+  doi: 10.1016/J.PATREC.2025.02.015
+  ee: https://doi.org/10.1016/j.patrec.2025.02.015
+  url: https://dblp.org/rec/journals/prl/LiuXDZWDZS25
+- author: Sheikh Burhan Ul Haque, Aasim Zafar, Sheikh Riyaz Ul Haq, Sheikh Moeen Ul
+    Haque, Mohassin Ahmad, Khushnaseeb Roshan
+  title: 'Threats to medical diagnosis systems: analyzing targeted adversarial attacks
+    in deep learning-based COVID-19 diagnosis.'
+  venue: Soft Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/soco/HaqueZHHAR25
+  doi: 10.1007/S00500-025-10516-Z
+  ee: https://doi.org/10.1007/s00500-025-10516-z
+  url: https://dblp.org/rec/journals/soco/HaqueZHHAR25
+- author: Zengqiang Chen 0003, Xudong Wang, Yuezun Li
+  title: Enhancing Deepfake Detection via Adversarial Generative Learning.
+  venue: CCBR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccbr/ChenWL24
+  doi: 10.1007/978-981-96-1068-6_22
+  ee: https://doi.org/10.1007/978-981-96-1068-6_22
+  url: https://dblp.org/rec/conf/ccbr/ChenWL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
