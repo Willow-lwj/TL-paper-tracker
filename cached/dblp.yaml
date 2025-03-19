@@ -16969,6 +16969,52 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-96-1068-6_22
   ee: https://doi.org/10.1007/978-981-96-1068-6_22
   url: https://dblp.org/rec/conf/ccbr/ChenWL24
+- author: Taewoo Kim, Youngwoo Yoon, Jaehong Kim 0001
+  title: Learning Dexterous Bimanual Catch Skills through Adversarial-Cooperative
+    Heterogeneous-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-11437
+  doi: 10.48550/ARXIV.2502.11437
+  ee: https://doi.org/10.48550/arXiv.2502.11437
+  url: https://dblp.org/rec/journals/corr/abs-2502-11437
+- author: Jiaqi Ma, Mingzhe Wang, Guojia Hou, Weidong Zhang 0007, Baoxiang Huang
+  title: 'PQGAL-net: Perceptual quality guided generative adversarial learning for
+    non-uniform illumination underwater image enhancement.'
+  venue: Digit. Signal Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/dsp/MaWHZH25
+  doi: 10.1016/J.DSP.2025.105048
+  ee: https://doi.org/10.1016/j.dsp.2025.105048
+  url: https://dblp.org/rec/journals/dsp/MaWHZH25
+- author: Chang Liu 0077, Wenzhao Xiang 0001, Yinpeng Dong, Xingxing Zhang 0001, Liyuan
+    Wang, Ranjie Duan, Shibao Zheng, Hang Su 0006
+  title: 'RobustPrompt: Learning to defend against adversarial attacks with adaptive
+    visual prompts.'
+  venue: Pattern Recognit. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/LiuXDZWDZS25
+  doi: 10.1016/J.PATREC.2025.02.015
+  ee: https://doi.org/10.1016/j.patrec.2025.02.015
+  url: https://dblp.org/rec/journals/prl/LiuXDZWDZS25
+- author: Yipu Zhang, Likai Wang 0010, Kuan-Jui Su, Aiying Zhang, Hao Zhu, Xiaowen
+    Liu, Hui Shen, Vince D. Calhoun, Yuping Wang, Hong-Wen Deng
+  title: A Privacy-Preserving Domain Adversarial Federated learning for multi-site
+    brain functional connectivity analysis.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-01885
+  doi: 10.48550/ARXIV.2502.01885
+  ee: https://doi.org/10.48550/arXiv.2502.01885
+  url: https://dblp.org/rec/journals/corr/abs-2502-01885
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
