@@ -17015,6 +17015,73 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2502.01885
   ee: https://doi.org/10.48550/arXiv.2502.01885
   url: https://dblp.org/rec/journals/corr/abs-2502-01885
+- author: Taewoo Kim 0004, Youngwoo Yoon, Jaehong Kim 0001
+  title: Learning Dexterous Bimanual Catch Skills through Adversarial-Cooperative
+    Heterogeneous-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-11437
+  doi: 10.48550/ARXIV.2502.11437
+  ee: https://doi.org/10.48550/arXiv.2502.11437
+  url: https://dblp.org/rec/journals/corr/abs-2502-11437
+- author: Dzung Pham 0002, Shreyas Kulkarni, Amir Houmansadr
+  title: 'RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with
+    Adversarial Data Manipulation.'
+  venue: NDSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/0002KH25
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/raifle-reconstruction-attacks-on-interaction-based-federated-learning-with-adversarial-data-manipulation/
+  url: https://dblp.org/rec/conf/ndss/0002KH25
+- author: Xiaochen Zhu 0003, Xinjian Luo, Yuncheng Wu, Yangfan Jiang, Xiaokui Xiao,
+    Beng Chin Ooi
+  title: Passive Inference Attacks on Split Learning via Adversarial Regularization.
+  venue: NDSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/0003LWJXO25
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/passive-inference-attacks-on-split-learning-via-adversarial-regularization/
+  url: https://dblp.org/rec/conf/ndss/0003LWJXO25
+- author: Jung-Woo Chang, Ke Sun, Nasimeh Heydaribeni, Seira Hidano, Xinyu Zhang,
+    Farinaz Koushanfar
+  title: 'Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based
+    Wireless Communication Systems.'
+  venue: NDSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/ChangSHHZK25
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/magmaw-modality-agnostic-adversarial-attacks-on-machine-learning-based-wireless-communication-systems/
+  url: https://dblp.org/rec/conf/ndss/ChangSHHZK25
+- author: Alexander Terenin, Jeffrey Negrea
+  title: 'An Adversarial Analysis of Thompson Sampling for Full-information Online
+    Learning: from Finite to Infinite Action Spaces.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-14790
+  doi: 10.48550/ARXIV.2502.14790
+  ee: https://doi.org/10.48550/arXiv.2502.14790
+  url: https://dblp.org/rec/journals/corr/abs-2502-14790
+- author: Jiefu Chen, Tong Chen, Zheng Wang
+  title: Spatio-Temporal Focus with Active Learning in Sparse Black-Box Adversarial
+    Attacks for Video Recognition.
+  venue: ISAIR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isair/ChenCW24
+  doi: 10.1007/978-981-96-2914-5_4
+  ee: https://doi.org/10.1007/978-981-96-2914-5_4
+  url: https://dblp.org/rec/conf/isair/ChenCW24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
