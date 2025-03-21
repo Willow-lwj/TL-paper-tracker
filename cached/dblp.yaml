@@ -17082,6 +17082,142 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-96-2914-5_4
   ee: https://doi.org/10.1007/978-981-96-2914-5_4
   url: https://dblp.org/rec/conf/isair/ChenCW24
+- author: Jiwei Zhang 0012, Yi Yu 0001, Suhua Tang, Wei Li 0012
+  title: Adversarial Contrastive Autoencoder With Shared Attention for Audio-Visual
+    Correlation Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/ZhangYTL25
+  doi: 10.1109/ACCESS.2025.3546610
+  ee: https://doi.org/10.1109/ACCESS.2025.3546610
+  url: https://dblp.org/rec/journals/access/ZhangYTL25
+- author: Vivek Kumar, Kamal Kumar 0003, Maheep Singh
+  title: Generating practical adversarial examples against learning-based network
+    intrusion detection systems.
+  venue: "Ann. des T\xE9l\xE9communications"
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/adt/KumarKS25
+  doi: 10.1007/S12243-024-01021-9
+  ee: https://doi.org/10.1007/s12243-024-01021-9
+  url: https://dblp.org/rec/journals/adt/KumarKS25
+- author: Prathamesh Saraf Vinayak, Saswat Subhajyoti Mallick, Lakshmi Jagarlamudi,
+    Anirban Chakraborty 0001, Yogesh Simmhan
+  title: 'CARL: Cost-Optimized Online Container Placement on VMs Using Adversarial
+    Reinforcement Learning.'
+  venue: IEEE Trans. Cloud Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcc/VinayakMJCS25
+  doi: 10.1109/TCC.2025.3528446
+  ee: https://doi.org/10.1109/TCC.2025.3528446
+  url: https://dblp.org/rec/journals/tcc/VinayakMJCS25
+- author: Huazheng Han, Xuejin Gao, Huayun Han, Huihui Gao, Yongsheng Qi, Kexin Jiang
+  title: Self-Supervised Learning via Domain Adaptive Adversarial Clustering for Cross-Domain
+    Chiller Fault Diagnosis.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/HanGHGQJ25
+  doi: 10.1109/TIM.2025.3545878
+  ee: https://doi.org/10.1109/TIM.2025.3545878
+  url: https://dblp.org/rec/journals/tim/HanGHGQJ25
+- author: Sunggu Kyung, JongJun Won, Seongyong Pak, Sunwoo Kim, Sangyoon Lee 0008,
+    Kanggil Park, Gil-Sun Hong, Namkug Kim
+  title: Generative Adversarial Network With Robust Discriminator Through Multi-Task
+    Learning for Low-Dose CT Denoising.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/KyungWPKLPHK25
+  doi: 10.1109/TMI.2024.3449647
+  ee: https://doi.org/10.1109/TMI.2024.3449647
+  url: https://dblp.org/rec/journals/tmi/KyungWPKLPHK25
+- author: Hong Zhao, Wengai Li, Dailin Huang, Jinhai Huang, Lijun Zhang
+  title: 'M-GAN: multiattribute learning and multimodal feature fusion-based generative
+    adversarial network for text-to-image synthesis.'
+  venue: Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/ZhaoLHHZ25
+  doi: 10.1007/S00371-024-03585-Y
+  ee: https://doi.org/10.1007/s00371-024-03585-y
+  url: https://dblp.org/rec/journals/vc/ZhaoLHHZ25
+- author: Jiaxuan Zhu, Ming Shao, Libo Sun, Siyu Xia
+  title: 'ACL-SAR: model agnostic adversarial contrastive learning for robust skeleton-based
+    action recognition.'
+  venue: Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/ZhuSSX25
+  doi: 10.1007/S00371-024-03548-3
+  ee: https://doi.org/10.1007/s00371-024-03548-3
+  url: https://dblp.org/rec/journals/vc/ZhuSSX25
+- author: Benyamin Tafreshian, Shengzhi Zhang
+  title: A Defensive Framework Against Adversarial Attacks on Machine Learning-Based
+    Network Intrusion Detection Systems.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-15561
+  doi: 10.48550/ARXIV.2502.15561
+  ee: https://doi.org/10.48550/arXiv.2502.15561
+  url: https://dblp.org/rec/journals/corr/abs-2502-15561
+- author: Yubo Wang, Jianting Tang, Chaohu Liu, Linli Xu
+  title: Tracking the Copyright of Large Vision-Language Models through Parameter
+    Learning Adversarial Images.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-16593
+  doi: 10.48550/ARXIV.2502.16593
+  ee: https://doi.org/10.48550/arXiv.2502.16593
+  url: https://dblp.org/rec/journals/corr/abs-2502-16593
+- author: Haoran Li, Zicheng Zhang, Wang Luo, Congying Han, Jiayu Lv, Tiande Guo,
+    Yudong Hu
+  title: Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement
+    Error.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-16734
+  doi: 10.48550/ARXIV.2502.16734
+  ee: https://doi.org/10.48550/arXiv.2502.16734
+  url: https://dblp.org/rec/journals/corr/abs-2502-16734
+- author: Samuele Pasini, Gianluca Maragliano, Jinhan Kim, Paolo Tonella
+  title: 'XSS Adversarial Attacks Based on Deep Reinforcement Learning: A Replication
+    and Extension Study.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-19095
+  doi: 10.48550/ARXIV.2502.19095
+  ee: https://doi.org/10.48550/arXiv.2502.19095
+  url: https://dblp.org/rec/journals/corr/abs-2502-19095
+- author: Mohammed Nasser Al-Andoli, Shing Chiang Tan, Kok Swee Sim, Pey Yun Goh,
+    Chee Peng Lim
+  title: A Framework for Robust Deep Learning Models Against Adversarial Attacks Based
+    on a Protection Layer Approach.
+  venue: IEEE Access
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/access/AlAndoliTSGL24
+  doi: 10.1109/ACCESS.2024.3354699
+  ee: https://doi.org/10.1109/ACCESS.2024.3354699
+  url: https://dblp.org/rec/journals/access/AlAndoliTSGL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
