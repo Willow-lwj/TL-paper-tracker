@@ -17218,6 +17218,40 @@ Adversarial%20Learning:
   doi: 10.1109/ACCESS.2024.3354699
   ee: https://doi.org/10.1109/ACCESS.2024.3354699
   url: https://dblp.org/rec/journals/access/AlAndoliTSGL24
+- author: "Joana Cabral Costa, Tiago Roxo, Hugo Proen\xE7a 0001, Pedro R. M. In\xE1\
+    cio"
+  title: 'LISArD: Learning Image Similarity to Defend Against Gray-box Adversarial
+    Attacks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-20562
+  doi: 10.48550/ARXIV.2502.20562
+  ee: https://doi.org/10.48550/arXiv.2502.20562
+  url: https://dblp.org/rec/journals/corr/abs-2502-20562
+- author: Seungah Son, Andrez Saurez, Dongsoo Har
+  title: Continuous Adversarial Text Representation Learning for Affective Recognition.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-20613
+  doi: 10.48550/ARXIV.2502.20613
+  ee: https://doi.org/10.48550/arXiv.2502.20613
+  url: https://dblp.org/rec/journals/corr/abs-2502-20613
+- author: Griffin Higgins, Roozbeh Razavi-Far, Xichen Zhang, Amir David, Ali A. Ghorbani
+    0001, Tongyu Ge
+  title: 'Towards Privacy-Preserving Split Learning: Destabilizing Adversarial Inference
+    and Reconstruction Attacks in the Cloud.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-20629
+  doi: 10.48550/ARXIV.2502.20629
+  ee: https://doi.org/10.48550/arXiv.2502.20629
+  url: https://dblp.org/rec/journals/corr/abs-2502-20629
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
