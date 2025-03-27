@@ -17252,6 +17252,60 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2502.20629
   ee: https://doi.org/10.48550/arXiv.2502.20629
   url: https://dblp.org/rec/journals/corr/abs-2502-20629
+- author: Nanyu Luo, Feng Ji
+  title: 'Generative Adversarial Networks for High-Dimensional Item Factor Analysis:
+    A Deep Adversarial Learning Algorithm.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-10650
+  doi: 10.48550/ARXIV.2502.10650
+  ee: https://doi.org/10.48550/arXiv.2502.10650
+  url: https://dblp.org/rec/journals/corr/abs-2502-10650
+- author: Yannis Montreuil, Axel Carlier, Lai Xing Ng, Wei Tsang Ooi
+  title: 'Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and Guarantees.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-01027
+  doi: 10.48550/ARXIV.2502.01027
+  ee: https://doi.org/10.48550/arXiv.2502.01027
+  url: https://dblp.org/rec/journals/corr/abs-2502-01027
+- author: "Henrique M. Cezar, Tilmann Bodenstein, Henrik Andersen Sveinsson, Morten\
+    \ Ledum, Simen Reine, Sigbj\xF8rn L\xF8land Bore"
+  title: Learning atomic forces from uncertainty-calibrated adversarial attacks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-18314
+  doi: 10.48550/ARXIV.2502.18314
+  ee: https://doi.org/10.48550/arXiv.2502.18314
+  url: https://dblp.org/rec/journals/corr/abs-2502-18314
+- author: Christof Puhle
+  title: Deep learning-based filtering of cross-spectral matrices using generative
+    adversarial networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-21097
+  doi: 10.48550/ARXIV.2502.21097
+  ee: https://doi.org/10.48550/arXiv.2502.21097
+  url: https://dblp.org/rec/journals/corr/abs-2502-21097
+- author: Walid El Maouaki, Nouhaila Innan, Alberto Marchisio, Taoufik Said, Mohamed
+    Bennai, Muhammad Shafique 0001
+  title: 'QFAL: Quantum Federated Adversarial Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-21171
+  doi: 10.48550/ARXIV.2502.21171
+  ee: https://doi.org/10.48550/arXiv.2502.21171
+  url: https://dblp.org/rec/journals/corr/abs-2502-21171
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
