@@ -17306,6 +17306,28 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2502.21171
   ee: https://doi.org/10.48550/arXiv.2502.21171
   url: https://dblp.org/rec/journals/corr/abs-2502-21171
+- author: Wenhui Liu, Jiapeng Zhu 0002, Lyu Ni, Jingyu Bi, Zhijian Wu, Jiajie Long,
+    Mengyao Gao, Dingjiang Huang, Shuigeng Zhou
+  title: Adversarial Conservative Alternating Q-Learning for Credit Card Debt Collection.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/LiuZNBWLGHZ25
+  doi: 10.1109/TKDE.2025.3528219
+  ee: https://doi.org/10.1109/TKDE.2025.3528219
+  url: https://dblp.org/rec/journals/tkde/LiuZNBWLGHZ25
+- author: Rosina F. Kharal, Saif Al-Din Ali, Usama Mohiuddin, Samir El Sayed
+  title: 'Securing 3D Deep Learning Models: Simple and Effective Defense Against Adversarial
+    Attacks.'
+  venue: ICMLA
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmla/KharalAMS24
+  doi: 10.1109/ICMLA61862.2024.00234
+  ee: https://doi.org/10.1109/ICMLA61862.2024.00234
+  url: https://dblp.org/rec/conf/icmla/KharalAMS24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
