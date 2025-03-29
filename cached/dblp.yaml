@@ -2710,6 +2710,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2502.10694
   ee: https://doi.org/10.48550/arXiv.2502.10694
   url: https://dblp.org/rec/journals/corr/abs-2502-10694
+- author: Zhenhua Wu, Dayi Zhu, Yice Cao, Man Zhang, Lixia Yang
+  title: A Biclassifier Network With Intermediate Domain for Unsupervised Domain Adaptation
+    PolSAR Image Classification.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/WuZCZY25
+  doi: 10.1109/LGRS.2025.3542543
+  ee: https://doi.org/10.1109/LGRS.2025.3542543
+  url: https://dblp.org/rec/journals/lgrs/WuZCZY25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -17328,6 +17339,40 @@ Adversarial%20Learning:
   doi: 10.1109/ICMLA61862.2024.00234
   ee: https://doi.org/10.1109/ICMLA61862.2024.00234
   url: https://dblp.org/rec/conf/icmla/KharalAMS24
+- author: Chengsheng Yuan 0001, Yifei Chen, Zhili Zhou, Zhihua Xia, Yongfeng Huang
+    0001
+  title: Compressed Domain Invariant Adversarial Representation Learning for Robust
+    Audio Deepfake Detection.
+  venue: IEEE Signal Process. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/spl/YuanCZXH25
+  doi: 10.1109/LSP.2025.3547850
+  ee: https://doi.org/10.1109/LSP.2025.3547850
+  url: https://dblp.org/rec/journals/spl/YuanCZXH25
+- author: Xuedong Yao, Yandong Wang, Lei Dai, Shihong Zhang, Mingxuan Dou, Yuejin
+    Deng
+  title: Semi-Supervised Domain Adaptation With Dual-Adversarial Learning for Lane
+    Detection.
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/YaoWDZDD25
+  doi: 10.1109/TASE.2024.3451507
+  ee: https://doi.org/10.1109/TASE.2024.3451507
+  url: https://dblp.org/rec/journals/tase/YaoWDZDD25
+- author: Lei Jiang, Xiaoding Wang, Xu Yang 0002, Jiwu Shu, Hui Lin 0007, Xun Yi
+  title: 'FedPA: Generator-Based Heterogeneous Federated Prototype Adversarial Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/JiangWYSLY25
+  doi: 10.1109/TDSC.2024.3419211
+  ee: https://doi.org/10.1109/TDSC.2024.3419211
+  url: https://dblp.org/rec/journals/tdsc/JiangWYSLY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
