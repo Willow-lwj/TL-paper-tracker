@@ -17373,6 +17373,93 @@ Adversarial%20Learning:
   doi: 10.1109/TDSC.2024.3419211
   ee: https://doi.org/10.1109/TDSC.2024.3419211
   url: https://dblp.org/rec/journals/tdsc/JiangWYSLY25
+- author: Surbhi Prakash, Amar Kumar Mohapatra
+  title: MA_BiRAE - Malware analysis and detection technique using adversarial learning
+    and deep learning.
+  venue: J. Inf. Secur. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/istr/PrakashM25
+  doi: 10.1016/J.JISA.2025.104009
+  ee: https://doi.org/10.1016/j.jisa.2025.104009
+  url: https://dblp.org/rec/journals/istr/PrakashM25
+- author: Alessandro Crivellari, Yuhui Shi 0001
+  title: Generative adversarial deep learning model for producing location-based synthetic
+    trajectory data.
+  venue: Connect. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/connection/CrivellariS25
+  doi: 10.1080/09540091.2025.2458502
+  ee: https://doi.org/10.1080/09540091.2025.2458502
+  url: https://dblp.org/rec/journals/connection/CrivellariS25
+- author: Zhou Chen, Zaixi Xia
+  title: Adversarial learning-based image generation algorithm for AI art creation.
+  venue: Int. J. Inf. Commun. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijict/ChenX25
+  doi: 10.1504/IJICT.2025.144655
+  ee: https://doi.org/10.1504/IJICT.2025.144655
+  url: https://dblp.org/rec/journals/ijict/ChenX25
+- author: Griffin Higgins, Roozbeh Razavi-Far, Xichen Zhang, Amir David, Ali A. Ghorbani
+    0001, Tongyu Ge
+  title: 'Towards privacy-preserving split learning: Destabilizing adversarial inference
+    and reconstruction attacks in the cloud.'
+  venue: Internet Things
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iot/HigginsRZDGG25
+  doi: 10.1016/J.IOT.2025.101558
+  ee: https://doi.org/10.1016/j.iot.2025.101558
+  url: https://dblp.org/rec/journals/iot/HigginsRZDGG25
+- author: Susmita Ghosh, Abhiroop Chatterjee, Lance Fiondella
+  title: An active learning framework for adversarial training of deep neural networks.
+  venue: Neural Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/GhoshCF25
+  doi: 10.1007/S00521-024-10851-6
+  ee: https://doi.org/10.1007/s00521-024-10851-6
+  url: https://dblp.org/rec/journals/nca/GhoshCF25
+- author: Lei Jiang, Xiaoding Wang 0001, Xu Yang 0002, Jiwu Shu, Hui Lin 0007, Xun
+    Yi
+  title: 'FedPA: Generator-Based Heterogeneous Federated Prototype Adversarial Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/JiangWYSLY25
+  doi: 10.1109/TDSC.2024.3419211
+  ee: https://doi.org/10.1109/TDSC.2024.3419211
+  url: https://dblp.org/rec/journals/tdsc/JiangWYSLY25
+- author: Zhongyuan Jing, Ruyan Wang
+  title: Enhancing personalized model construction and privacy protection in federated
+    learning with generative adversarial networks and parameter sparsification.
+  venue: J. Supercomput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tjs/JingW25
+  doi: 10.1007/S11227-025-07038-8
+  ee: https://doi.org/10.1007/s11227-025-07038-8
+  url: https://dblp.org/rec/journals/tjs/JingW25
+- author: Farah Wahida, M. A. P. Chamikara, Ibrahim Khalil 0001, Mohammed Atiquzzaman
+  title: An Adversarial Machine Learning Based Approach for Privacy Preserving Face
+    Recognition in Distributed Smart City Surveillance.
+  venue: Comput. Networks
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/cn/WahidaCKA24
+  doi: 10.1016/J.COMNET.2024.110798
+  ee: https://doi.org/10.1016/j.comnet.2024.110798
+  url: https://dblp.org/rec/journals/cn/WahidaCKA24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
