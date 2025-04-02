@@ -17460,6 +17460,17 @@ Adversarial%20Learning:
   doi: 10.1016/J.COMNET.2024.110798
   ee: https://doi.org/10.1016/j.comnet.2024.110798
   url: https://dblp.org/rec/journals/cn/WahidaCKA24
+- author: Yiyue Meng, Chi Guo, Aolin Li, Yarong Luo
+  title: Context-Aware Graph Inference and Generative Adversarial Imitation Learning
+    for Object-Goal Navigation in Unfamiliar Environment.
+  venue: IEEE Robotics Autom. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/MengGLL25
+  doi: 10.1109/LRA.2025.3546860
+  ee: https://doi.org/10.1109/LRA.2025.3546860
+  url: https://dblp.org/rec/journals/ral/MengGLL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
