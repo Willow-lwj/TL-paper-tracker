@@ -17471,6 +17471,42 @@ Adversarial%20Learning:
   doi: 10.1109/LRA.2025.3546860
   ee: https://doi.org/10.1109/LRA.2025.3546860
   url: https://dblp.org/rec/journals/ral/MengGLL25
+- author: Junjia Liu, Zhuo Li, Minghao Yu, Zhipeng Dong, Sylvain Calinon, Darwin G.
+    Caldwell, Fei Chen 0007
+  title: 'Human-Humanoid Robots&apos; Cross-Embodiment Behavior-Skill Transfer Using
+    Decomposed Adversarial Learning From Demonstration: HOTU, a Human-Humanoid Robots&apos;
+    Skill Transfer Framework.'
+  venue: IEEE Robotics Autom. Mag.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ram/LiuLYDCCC25
+  doi: 10.1109/MRA.2025.3527283
+  ee: https://doi.org/10.1109/MRA.2025.3527283
+  url: https://dblp.org/rec/journals/ram/LiuLYDCCC25
+- author: Wei Li 0049, Shiyi Huang, Ziming Qiu, Aiguo Song
+  title: 'GAILPG: Multiagent Policy Gradient With Generative Adversarial Imitation
+    Learning.'
+  venue: IEEE Trans. Games
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tciaig/LiHQS25
+  doi: 10.1109/TG.2024.3375515
+  ee: https://doi.org/10.1109/TG.2024.3375515
+  url: https://dblp.org/rec/journals/tciaig/LiHQS25
+- author: Xutao Weng, Hong Song, Yucong Lin, You Wu, Xi Zhang, Bowen Liu 0011, Jian
+    Yang 0009
+  title: A joint learning method for incomplete and imbalanced data in electronic
+    health record based on generative adversarial networks.
+  venue: Comput. Biol. Medicine
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/WengSLWZLY24
+  doi: 10.1016/J.COMPBIOMED.2023.107687
+  ee: https://doi.org/10.1016/j.compbiomed.2023.107687
+  url: https://dblp.org/rec/journals/cbm/WengSLWZLY24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
