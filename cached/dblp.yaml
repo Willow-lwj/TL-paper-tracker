@@ -2721,6 +2721,32 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/LGRS.2025.3542543
   ee: https://doi.org/10.1109/LGRS.2025.3542543
   url: https://dblp.org/rec/journals/lgrs/WuZCZY25
+- author: "Mauricio Mendez-Ruiz, Francisco Javier L\xF3pez-Tiro, Daniel Flores-Araiza,\
+    \ Jonathan El Beze, Gilberto Ochoa-Ruiz, Miguel Gonz\xE1lez-Mendoza 0001, Jacques\
+    \ Hubert, Andres Mendez-Vazquez, Christian Daul"
+  title: 'On the Generalization Capabilities of FSL Methods Through Domain Adaptation:
+    A Case Study in Endoscopic Kidney Stone Image Classification.'
+  venue: MICAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/micai/Mendez-RuizLFBO22
+  doi: 10.1007/978-3-031-19493-1_21
+  ee: https://doi.org/10.1007/978-3-031-19493-1_21
+  url: https://dblp.org/rec/conf/micai/Mendez-RuizLFBO22
+- author: "Mauricio Mendez-Ruiz, Francisco Javier L\xF3pez-Tiro, Jonathan El Beze,\
+    \ Vincent Estrade, Gilberto Ochoa-Ruiz, Jacques Hubert, Andres Mendez-Vazquez,\
+    \ Christian Daul"
+  title: 'On the generalization capabilities of FSL methods through domain adaptation:
+    a case study in endoscopic kidney stone image classification.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2205-00895
+  doi: 10.48550/ARXIV.2205.00895
+  ee: https://doi.org/10.48550/arXiv.2205.00895
+  url: https://dblp.org/rec/journals/corr/abs-2205-00895
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
