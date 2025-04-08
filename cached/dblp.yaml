@@ -2747,6 +2747,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2205.00895
   ee: https://doi.org/10.48550/arXiv.2205.00895
   url: https://dblp.org/rec/journals/corr/abs-2205-00895
+- author: Ke Bi, Zhaokui Li, Yushi Chen, Qian Du 0001, Li Ma 0005, Yan Wang, Zhuoqun
+    Fang, Mingtai Qi
+  title: Open-Set Domain Adaptation for Hyperspectral Image Classification Based on
+    Weighted Generative Adversarial Networks and Dynamic Thresholding.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/BiLCDMWFQ25
+  doi: 10.1109/TGRS.2025.3549951
+  ee: https://doi.org/10.1109/TGRS.2025.3549951
+  url: https://dblp.org/rec/journals/tgrs/BiLCDMWFQ25
+- author: Yunpeng Jia, Xiufen Ye, Peng Li, Shuxiang Guo
+  title: Contrastive Adaptation on Domain Augmentation for Generalized Zero-Shot Side-Scan
+    Sonar Image Classification.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/JiaYLG25
+  doi: 10.1109/TIM.2025.3551028
+  ee: https://doi.org/10.1109/TIM.2025.3551028
+  url: https://dblp.org/rec/journals/tim/JiaYLG25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -17544,6 +17567,129 @@ Adversarial%20Learning:
   doi: 10.1007/S10278-021-00579-3
   ee: https://doi.org/10.1007/s10278-021-00579-3
   url: https://dblp.org/rec/journals/jdi/WangYW22
+- author: Changzhi Sun, Shijie Huang, Banghui Sun, Shiwei Chu
+  title: 'Personalized learning path planning for higher education based on deep generative
+    models and quantum machine learning: a multimodal learning analysis method integrating
+    transformer, adversarial training and quantum state classification.'
+  venue: Discov. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/dai/SunHSC25
+  doi: 10.1007/S44163-025-00252-6
+  ee: https://doi.org/10.1007/s44163-025-00252-6
+  url: https://dblp.org/rec/journals/dai/SunHSC25
+- author: Hao Shen 0015, Weikang Wan, He Wang 0010
+  title: Learning Category-Level Generalizable Object Manipulation Policy Via Generative
+    Adversarial Self-Imitation Learning From Demonstrations.
+  venue: IEEE Robotics Autom. Lett.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/ShenWW22
+  doi: 10.1109/LRA.2022.3196122
+  ee: https://doi.org/10.1109/LRA.2022.3196122
+  url: https://dblp.org/rec/journals/ral/ShenWW22
+- author: Hao Shen 0015, Weikang Wan, He Wang 0010
+  title: Learning Category-Level Generalizable Object Manipulation Policy via Generative
+    Adversarial Self-Imitation Learning from Demonstrations.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-02107
+  doi: 10.48550/ARXIV.2203.02107
+  ee: https://doi.org/10.48550/arXiv.2203.02107
+  url: https://dblp.org/rec/journals/corr/abs-2203-02107
+- author: Xiyao Liu 0001, Qingyu Dang, Huiyi Wang, Xiaoheng Deng, Xunli Fan, Cundian
+    Yang, Zhihong Chen, Hui Fang 0003
+  title: An adversarial contrastive learning based cross-modality zero-watermarking
+    scheme for DIBR 3D video copyright protection.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiuDWDFYCF25
+  doi: 10.1016/J.NEUCOM.2025.130068
+  ee: https://doi.org/10.1016/j.neucom.2025.130068
+  url: https://dblp.org/rec/journals/ijon/LiuDWDFYCF25
+- author: Xin Song, Penghui Liu, Suyuan Li, Siyang Xu, Ke Wang
+  title: Adversarial erasure network based on multi-instance learning for weakly supervised
+    video anomaly detection.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/SongLLXW25
+  doi: 10.1016/J.NEUCOM.2025.130030
+  ee: https://doi.org/10.1016/j.neucom.2025.130030
+  url: https://dblp.org/rec/journals/ijon/SongLLXW25
+- author: Huajuan Ren, Yonghe Tang, Shuai Ren, Ruimin Wang, Weiyu Dong
+  title: 'ADHS-EL: Dynamic ensemble learning with adversarial augmentation for accurate
+    and robust network intrusion detection.'
+  venue: J. King Saud Univ. Comput. Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jksucis/RenTRWD25
+  doi: 10.1007/S44443-025-00015-4
+  ee: https://doi.org/10.1007/s44443-025-00015-4
+  url: https://dblp.org/rec/journals/jksucis/RenTRWD25
+- author: Wenqiang Liu, Sumei Wang
+  title: The Low-Illumination Catenary Component Detection Model Based on Semi-Supervised
+    Learning and Adversarial Domain Adaptation.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/LiuW25
+  doi: 10.1109/TIM.2025.3550612
+  ee: https://doi.org/10.1109/TIM.2025.3550612
+  url: https://dblp.org/rec/journals/tim/LiuW25
+- author: P. E. Yugai, D. A. Moskvin
+  title: Using Machine Learning Algorithms and Honeypot Systems to Detect Adversarial
+    Attacks on Intrusion Detection Systems.
+  venue: Autom. Control. Comput. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/accs/YugaiM24
+  doi: 10.3103/S014641162470086X
+  ee: https://doi.org/10.3103/S014641162470086X
+  url: https://dblp.org/rec/journals/accs/YugaiM24
+- author: Hassan Ali 0001, Surya Nepal, Salil S. Kanhere, Sanjay K. Jha
+  title: Adversarially Guided Stateful Defense Against Backdoor Attacks in Federated
+    Deep Learning.
+  venue: ACSAC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acsac/0001NKJ24
+  doi: 10.1109/ACSAC63791.2024.00070
+  ee: https://doi.org/10.1109/ACSAC63791.2024.00070
+  url: https://dblp.org/rec/conf/acsac/0001NKJ24
+- author: Mieszko Ferens, Edlira Dushku, Shreyas Srinivasa, Sokol Kosta
+  title: Securing PUFs via a Predictive Adversarial Machine Learning System by Modeling
+    of Attackers.
+  venue: ACSAC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acsac/FerensDSK24
+  doi: 10.1109/ACSAC63791.2024.00041
+  ee: https://doi.org/10.1109/ACSAC63791.2024.00041
+  url: https://dblp.org/rec/conf/acsac/FerensDSK24
+- author: Jiefu Chen, Tong Chen, Zheng Wang 0044
+  title: Spatio-Temporal Focus with Active Learning in Sparse Black-Box Adversarial
+    Attacks for Video Recognition.
+  venue: ISAIR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isair/ChenCW24
+  doi: 10.1007/978-981-96-2914-5_4
+  ee: https://doi.org/10.1007/978-981-96-2914-5_4
+  url: https://dblp.org/rec/conf/isair/ChenCW24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
