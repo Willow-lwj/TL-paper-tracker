@@ -2770,6 +2770,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TIM.2025.3551028
   ee: https://doi.org/10.1109/TIM.2025.3551028
   url: https://dblp.org/rec/journals/tim/JiaYLG25
+- author: Ke Bi, Zhaokui Li, Yushi Chen, Qian Du 0001, Li Ma 0005, Yan Wang 0087,
+    Zhuoqun Fang, Mingtai Qi
+  title: Open-Set Domain Adaptation for Hyperspectral Image Classification Based on
+    Weighted Generative Adversarial Networks and Dynamic Thresholding.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/BiLCDMWFQ25
+  doi: 10.1109/TGRS.2025.3549951
+  ee: https://doi.org/10.1109/TGRS.2025.3549951
+  url: https://dblp.org/rec/journals/tgrs/BiLCDMWFQ25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -17690,6 +17702,71 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-96-2914-5_4
   ee: https://doi.org/10.1007/978-981-96-2914-5_4
   url: https://dblp.org/rec/conf/isair/ChenCW24
+- author: Sesibhushana Rao Bommana, Sreehari Veeramachaneni, Syed Ershad Ahmed, M.
+    B. Srinivas
+  title: Addressing Adversarial Attacks in IoT Using Deep Learning AI Models.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/BommanaVAS25
+  doi: 10.1109/ACCESS.2025.3552529
+  ee: https://doi.org/10.1109/ACCESS.2025.3552529
+  url: https://dblp.org/rec/journals/access/BommanaVAS25
+- author: "Alexander Bott, Moritz Siems, Alexander Puchta, J\xFCrgen Fleischer"
+  title: Optimization of Adversarial Reprogramming for Transfer Learning on Closed
+    Box Models.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/BottSPF25
+  doi: 10.1109/ACCESS.2025.3552219
+  ee: https://doi.org/10.1109/ACCESS.2025.3552219
+  url: https://dblp.org/rec/journals/access/BottSPF25
+- author: Zixun Sun, Mingye Xu, Guanming Liang, Qi Liu
+  title: Unifying Adversarial Multi-Deconfounded Learning Paradigm for Fake News Detection.
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/SunXLL25
+  doi: 10.1145/3690624.3709406
+  ee: https://doi.org/10.1145/3690624.3709406
+  url: https://dblp.org/rec/conf/kdd/SunXLL25
+- author: Liang Zhang, Tao Long, Yang Liu, Lei Zhang 00666, Laizhong Cui, Qingjiang
+    Shi
+  title: Generalizing Personalized Federated Graph Augmentation via Min-max Adversarial
+    Learning.
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/ZhangLL0CS25
+  doi: 10.1145/3690624.3709311
+  ee: https://doi.org/10.1145/3690624.3709311
+  url: https://dblp.org/rec/conf/kdd/ZhangLL0CS25
+- author: Zhu Liu, Zijun Wang, Jinyuan Liu, Fanqi Meng, Long Ma, Risheng Liu
+  title: 'DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-00905
+  doi: 10.48550/ARXIV.2503.00905
+  ee: https://doi.org/10.48550/arXiv.2503.00905
+  url: https://dblp.org/rec/journals/corr/abs-2503-00905
+- author: Kyle Domico, Jean-Charles Noirot Ferrand, Ryan Sheatsley, Eric Pauley, Josiah
+    Hanna, Patrick D. McDaniel
+  title: 'Adversarial Agents: Black-Box Evasion Attacks with Reinforcement Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-01734
+  doi: 10.48550/ARXIV.2503.01734
+  ee: https://doi.org/10.48550/arXiv.2503.01734
+  url: https://dblp.org/rec/journals/corr/abs-2503-01734
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
