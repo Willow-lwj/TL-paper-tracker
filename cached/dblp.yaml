@@ -2782,6 +2782,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3549951
   ee: https://doi.org/10.1109/TGRS.2025.3549951
   url: https://dblp.org/rec/journals/tgrs/BiLCDMWFQ25
+- author: Pin Wang, Jinhua Zhang, Yongming Li 0003, Yurou Guo, Pufei Li, Rui Chen
+  title: Histopathology image classification based on semantic correlation clustering
+    domain adaptation.
+  venue: Artif. Intell. Medicine
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/artmed/WangZ0GLC25
+  doi: 10.1016/J.ARTMED.2025.103110
+  ee: https://doi.org/10.1016/j.artmed.2025.103110
+  url: https://dblp.org/rec/journals/artmed/WangZ0GLC25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -17825,6 +17836,17 @@ Adversarial%20Learning:
   doi: 10.1109/TIFS.2024.3402153
   ee: https://doi.org/10.1109/TIFS.2024.3402153
   url: https://dblp.org/rec/journals/tifs/YangFLLZS24
+- author: Xiaoming Chen 0006, Dehao Han, Qiang Qu, Yiran Shen 0001
+  title: 'VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via
+    Adversarial Learning with Visual Field Attention.'
+  venue: VR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/vr/ChenHQ025
+  doi: 10.1109/VR59515.2025.00066
+  ee: https://doi.org/10.1109/VR59515.2025.00066
+  url: https://dblp.org/rec/conf/vr/ChenHQ025
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
