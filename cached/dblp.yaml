@@ -17847,6 +17847,73 @@ Adversarial%20Learning:
   doi: 10.1109/VR59515.2025.00066
   ee: https://doi.org/10.1109/VR59515.2025.00066
   url: https://dblp.org/rec/conf/vr/ChenHQ025
+- author: Xuanguang Liu, Yujie Li, Chenguang Dai, Zhenchao Zhang 0001, Lei Ding, Mengmeng
+    Li 0002, Hanyun Wang
+  title: Extraction buildings from very high-resolution images with asymmetric siamese
+    multitask networks and adversarial edge learning.
+  venue: Int. J. Appl. Earth Obs. Geoinformation
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/aeog/LiuLDZDLW25
+  doi: 10.1016/J.JAG.2024.104349
+  ee: https://doi.org/10.1016/j.jag.2024.104349
+  url: https://dblp.org/rec/journals/aeog/LiuLDZDLW25
+- author: Zhangting Lin, Mingfu Xue, Kewei Chen, Wenmao Liu, Xiang Gao, Leo Yu Zhang,
+    Jian Wang, Yushu Zhang
+  title: Adversarial Example Based Fingerprinting for Robust Copyright Protection
+    in Split Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-04825
+  doi: 10.48550/ARXIV.2503.04825
+  ee: https://doi.org/10.48550/arXiv.2503.04825
+  url: https://dblp.org/rec/journals/corr/abs-2503-04825
+- author: "Hanene F. Z. Brachemi Meftah, Wassim Hamidouche, Sid Ahmed Fezza, Olivier\
+    \ D\xE9forges"
+  title: 'Energy-Latency Attacks: A New Adversarial Threat to Deep Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-04963
+  doi: 10.48550/ARXIV.2503.04963
+  ee: https://doi.org/10.48550/arXiv.2503.04963
+  url: https://dblp.org/rec/journals/corr/abs-2503-04963
+- author: Hyungkyu Kang, Min-hwan Oh
+  title: Adversarial Policy Optimization for Offline Preference-based Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-05306
+  doi: 10.48550/ARXIV.2503.05306
+  ee: https://doi.org/10.48550/arXiv.2503.05306
+  url: https://dblp.org/rec/journals/corr/abs-2503-05306
+- author: "\xD6mer Veysel \xC7agatan, \xD6mer Faruk Tal, M. Emre G\xFCrsoy"
+  title: Adversarial Robustness of Discriminative Self-Supervised Learning in Vision.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-06361
+  doi: 10.48550/ARXIV.2503.06361
+  ee: https://doi.org/10.48550/arXiv.2503.06361
+  url: https://dblp.org/rec/journals/corr/abs-2503-06361
+- author: Han Cao 0004, Qindong Sun, Yaqi Li, Rong Geng 0001, Xiaoxiong Wang
+  title: Efficient History-Driven Adversarial Perturbation Distribution Learning in
+    Low Frequency Domain.
+  venue: ACM Trans. Priv. Secur.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/0004SLGW24
+  doi: 10.1145/3632293
+  ee: https://doi.org/10.1145/3632293
+  url: https://dblp.org/rec/journals/tissec/0004SLGW24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
