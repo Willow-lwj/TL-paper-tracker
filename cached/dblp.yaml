@@ -18061,6 +18061,125 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2503.04825
   ee: https://doi.org/10.48550/arXiv.2503.04825
   url: https://dblp.org/rec/journals/corr/abs-2503-04825
+- author: Rui Shao 0001, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel
+  title: Open-Set Adversarial Defense with Clean-Adversarial Mutual Learning.
+  venue: Int. J. Comput. Vis.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/ShaoPYP22
+  doi: 10.1007/S11263-022-01581-0
+  ee: https://doi.org/10.1007/s11263-022-01581-0
+  url: https://dblp.org/rec/journals/ijcv/ShaoPYP22
+- author: Rui Shao 0001, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel
+  title: Open-set Adversarial Defense with Clean-Adversarial Mutual Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2202-05953
+  doi: ''
+  ee: https://arxiv.org/abs/2202.05953
+  url: https://dblp.org/rec/journals/corr/abs-2202-05953
+- author: Hristo Petkov, Calum MacLellan, Feng Dong
+  title: 'DAGAF: A directed acyclic generative adversarial framework for joint structure
+    learning and tabular data synthesis.'
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/PetkovMD25
+  doi: 10.1007/S10489-025-06410-8
+  ee: https://doi.org/10.1007/s10489-025-06410-8
+  url: https://dblp.org/rec/journals/apin/PetkovMD25
+- author: Jinjun Rao, Cong Wang, Mei Liu, Jinbo Chen, Jingtao Lei, Wojciech Giernacki
+  title: A deep reinforcement learning approach and its application in multi-USV adversarial
+    game simulation.
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/RaoWLCLG25
+  doi: 10.1007/S10489-025-06380-X
+  ee: https://doi.org/10.1007/s10489-025-06380-x
+  url: https://dblp.org/rec/journals/apin/RaoWLCLG25
+- author: Jiacheng Yang, Yuanda Wang, Lu Dong 0002, Lei Xue 0003, Changyin Sun
+  title: Active Robust Adversarial Reinforcement Learning Under Temporally Coupled
+    Perturbations.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/YangWDXS25
+  doi: 10.1109/TAI.2024.3499938
+  ee: https://doi.org/10.1109/TAI.2024.3499938
+  url: https://dblp.org/rec/journals/tai/YangWDXS25
+- author: Naheed Anjum Arafat, Debabrota Basu, Yulia R. Gel, Yuzhou Chen
+  title: 'When Witnesses Defend: A Witness Graph Topological Layer for Adversarial
+    Graph Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/ArafatBGC25
+  doi: 10.1609/AAAI.V39I15.33691
+  ee: https://doi.org/10.1609/aaai.v39i15.33691
+  url: https://dblp.org/rec/conf/aaai/ArafatBGC25
+- author: Songran Bai, Yuheng Ji, Yue Liu, Xingwei Zhang, Xiaolong Zheng, Daniel Dajun
+    Zeng
+  title: Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning
+    Under Zero-Inflated Distribution.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/BaiJLZZZ25
+  doi: 10.1609/AAAI.V39I11.33244
+  ee: https://doi.org/10.1609/aaai.v39i11.33244
+  url: https://dblp.org/rec/conf/aaai/BaiJLZZZ25
+- author: Wenjun Ding, Ying An, Lixing Chen, Shichao Kan, Fan Wu, Zhe Qu
+  title: How Does the Smoothness Approximation Method Facilitate Generalization for
+    Federated Adversarial Learning?
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/DingACKWQ25
+  doi: 10.1609/AAAI.V39I15.33788
+  ee: https://doi.org/10.1609/aaai.v39i15.33788
+  url: https://dblp.org/rec/conf/aaai/DingACKWQ25
+- author: Wenqian Li, Pengfei Fang, Hui Xue 0002
+  title: 'SVasP: Self-Versatility Adversarial Style Perturbation for Cross-Domain
+    Few-Shot Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/LiF025
+  doi: 10.1609/AAAI.V39I15.33676
+  ee: https://doi.org/10.1609/aaai.v39i15.33676
+  url: https://dblp.org/rec/conf/aaai/LiF025
+- author: Zhenglin Wan, Anjun Gao, Xingrui Yu, Pingfu Chao, Jun Song, Maohao Ran
+  title: POI Recommendation via Multi-Objective Adversarial Imitation Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/WanGYCSR25
+  doi: 10.1609/AAAI.V39I12.33382
+  ee: https://doi.org/10.1609/aaai.v39i12.33382
+  url: https://dblp.org/rec/conf/aaai/WanGYCSR25
+- author: Ximin Zhang, Jinyin Chen, Haibin Zheng, Zhenguang Liu
+  title: 'PhyCamo: A Robust Physical Camouflage via Contrastive Learning for Multi-View
+    Physical Adversarial Attack.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/ZhangCZL25
+  doi: 10.1609/AAAI.V39I10.33110
+  ee: https://doi.org/10.1609/aaai.v39i10.33110
+  url: https://dblp.org/rec/conf/aaai/ZhangCZL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
