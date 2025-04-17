@@ -18180,6 +18180,120 @@ Adversarial%20Learning:
   doi: 10.1609/AAAI.V39I10.33110
   ee: https://doi.org/10.1609/aaai.v39i10.33110
   url: https://dblp.org/rec/conf/aaai/ZhangCZL25
+- author: Heyuan Shi, Binqi Zeng, Yu Zhan, Rongkai Liu, Yulin Yang, Li Chen, Chao
+    Hu, Ying Fu
+  title: 'CubeAgent: Efficient query-based video adversarial examples generation through
+    deep reinforcement learning.'
+  venue: J. Syst. Softw.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jss/ShiZZLYCHF25
+  doi: 10.1016/J.JSS.2025.112437
+  ee: https://doi.org/10.1016/j.jss.2025.112437
+  url: https://dblp.org/rec/journals/jss/ShiZZLYCHF25
+- author: Luyi Bai, Qianwen Xiao, Lin Zhu 0014
+  title: Multi-hop path reasoning of temporal knowledge graphs based on generative
+    adversarial imitation learning.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/BaiXZ25
+  doi: 10.1016/J.KNOSYS.2025.113421
+  ee: https://doi.org/10.1016/j.knosys.2025.113421
+  url: https://dblp.org/rec/journals/kbs/BaiXZ25
+- author: Songran Bai, Yuheng Ji, Yue Liu, Xingwei Zhang, Xiaolong Zheng 0001, Daniel
+    Dajun Zeng
+  title: Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning
+    Under Zero-Inflated Distribution.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/BaiJLZZZ25
+  doi: 10.1609/AAAI.V39I11.33244
+  ee: https://doi.org/10.1609/aaai.v39i11.33244
+  url: https://dblp.org/rec/conf/aaai/BaiJLZZZ25
+- author: Qingqing Fang, Qinliang Su, Wenxi Lv, Wenchao Xu, Jianxing Yu
+  title: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware
+    Adversarial Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/FangSLXY25
+  doi: 10.1609/AAAI.V39I16.33816
+  ee: https://doi.org/10.1609/aaai.v39i16.33816
+  url: https://dblp.org/rec/conf/aaai/FangSLXY25
+- author: Xuan Feng, Tianlong Gu, Xiaoli Liu, Liang Chang 0003
+  title: 'Learning from Mistakes: Self-correct Adversarial Training for Chinese Unnatural
+    Text Correction.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/FengGL025
+  doi: 10.1609/AAAI.V39I22.34561
+  ee: https://doi.org/10.1609/aaai.v39i22.34561
+  url: https://dblp.org/rec/conf/aaai/FengGL025
+- author: Jeong Woon Lee, Hyoseok Hwang
+  title: Fourier Guided Adaptive Adversarial Augmentation for Generalization in Visual
+    Reinforcement Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/LeeH25
+  doi: 10.1609/AAAI.V39I17.33992
+  ee: https://doi.org/10.1609/aaai.v39i17.33992
+  url: https://dblp.org/rec/conf/aaai/LeeH25
+- author: Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Vijay Ganesh,
+    Oscar R. Hernandez, Ada Sedova
+  title: 'Robustness of deep learning classification to adversarial input on GPUs:
+    asynchronous parallel accumulation is a source of vulnerability.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-17173
+  doi: 10.48550/ARXIV.2503.17173
+  ee: https://doi.org/10.48550/arXiv.2503.17173
+  url: https://dblp.org/rec/journals/corr/abs-2503-17173
+- author: Amirhossein Ravari, Guangyu Jiang, Zuyuan Zhang, Mahdi Imani, Robert H.
+    Thomson, Aryn A. Pyke, Nathaniel D. Bastian, Tian Lan 0001
+  title: Adversarial Inverse Learning of Defense Policies Conditioned on Human Factor
+    Models.
+  venue: IEEECONF
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acssc/RavariJZITPBL24
+  doi: 10.1109/IEEECONF60004.2024.10942949
+  ee: https://doi.org/10.1109/IEEECONF60004.2024.10942949
+  url: https://dblp.org/rec/conf/acssc/RavariJZITPBL24
+- author: Ezgi Tekgul, Salam Akoum, Jeffrey G. Andrews
+  title: Robust Antenna Parameter Optimization in Cellular Networks via Adversarial
+    Machine Learning.
+  venue: IEEECONF
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acssc/TekgulAA24
+  doi: 10.1109/IEEECONF60004.2024.10942833
+  ee: https://doi.org/10.1109/IEEECONF60004.2024.10942833
+  url: https://dblp.org/rec/conf/acssc/TekgulAA24
+- author: Jirong Yi, Raghu Mudumbai, Weiyu Xu
+  title: Derivation of Information-Theoretically Optimal Adversarial Attacks with
+    Applications to Robust Machine Learning.
+  venue: IEEECONF
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acssc/YiMX24
+  doi: 10.1109/IEEECONF60004.2024.10942758
+  ee: https://doi.org/10.1109/IEEECONF60004.2024.10942758
+  url: https://dblp.org/rec/conf/acssc/YiMX24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
