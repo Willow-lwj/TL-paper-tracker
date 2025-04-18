@@ -18294,6 +18294,151 @@ Adversarial%20Learning:
   doi: 10.1109/IEEECONF60004.2024.10942758
   ee: https://doi.org/10.1109/IEEECONF60004.2024.10942758
   url: https://dblp.org/rec/conf/acssc/YiMX24
+- author: Jie Chen 0027, Xinyuan Liu, Xintong Liu, Jianqiang Li
+  title: Adversarial Learning Under Hybrid Perturbations for Robust Acute Lymphoblastic
+    Leukemia Classification.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/0027LLL25
+  doi: 10.1609/AAAI.V39I2.32204
+  ee: https://doi.org/10.1609/aaai.v39i2.32204
+  url: https://dblp.org/rec/conf/aaai/0027LLL25
+- author: Naheed Anjum Arafat, Debabrota Basu, Yulia R. Gel, Yuzhou Chen
+  title: 'When Witnesses Defend: A Witness Graph Topological Layer for Adversarial
+    Graph Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ArafatBGC25
+  doi: 10.1609/AAAI.V39I15.33691
+  ee: https://doi.org/10.1609/aaai.v39i15.33691
+  url: https://dblp.org/rec/conf/aaai/ArafatBGC25
+- author: Songran Bai, Yuheng Ji, Yue Liu, Xingwei Zhang, Xiaolong Zheng 0001, Daniel
+    Dajun Zeng
+  title: Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning
+    Under Zero-Inflated Distribution.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/BaiJLZZZ25
+  doi: 10.1609/AAAI.V39I11.33244
+  ee: https://doi.org/10.1609/aaai.v39i11.33244
+  url: https://dblp.org/rec/conf/aaai/BaiJLZZZ25
+- author: Seungju Cho, Hongsin Lee, Changick Kim
+  title: Enhancing Robustness in Incremental Learning with Adversarial Training.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChoLK25
+  doi: 10.1609/AAAI.V39I3.32254
+  ee: https://doi.org/10.1609/aaai.v39i3.32254
+  url: https://dblp.org/rec/conf/aaai/ChoLK25
+- author: Wenjun Ding, Ying An, Lixing Chen, Shichao Kan, Fan Wu, Zhe Qu
+  title: How Does the Smoothness Approximation Method Facilitate Generalization for
+    Federated Adversarial Learning?
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/DingACKWQ25
+  doi: 10.1609/AAAI.V39I15.33788
+  ee: https://doi.org/10.1609/aaai.v39i15.33788
+  url: https://dblp.org/rec/conf/aaai/DingACKWQ25
+- author: Qingqing Fang, Qinliang Su, Wenxi Lv, Wenchao Xu, Jianxing Yu
+  title: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware
+    Adversarial Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/FangSLXY25
+  doi: 10.1609/AAAI.V39I16.33816
+  ee: https://doi.org/10.1609/aaai.v39i16.33816
+  url: https://dblp.org/rec/conf/aaai/FangSLXY25
+- author: Xuan Feng, Tianlong Gu, Xiaoli Liu, Liang Chang 0003
+  title: 'Learning from Mistakes: Self-correct Adversarial Training for Chinese Unnatural
+    Text Correction.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/FengGL025
+  doi: 10.1609/AAAI.V39I22.34561
+  ee: https://doi.org/10.1609/aaai.v39i22.34561
+  url: https://dblp.org/rec/conf/aaai/FengGL025
+- author: Chen Feng, Ziquan Liu, Zhuo Zhi, Ilija Bogunovic, Carsten Gerner-Beuerle,
+    Miguel Rodrigues
+  title: 'PROSAC: Provably Safe Certification for Machine Learning Models under Adversarial
+    Attacks.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/FengLZBGR25
+  doi: 10.1609/AAAI.V39I3.32300
+  ee: https://doi.org/10.1609/aaai.v39i3.32300
+  url: https://dblp.org/rec/conf/aaai/FengLZBGR25
+- author: Jeong Woon Lee, Hyoseok Hwang
+  title: Fourier Guided Adaptive Adversarial Augmentation for Generalization in Visual
+    Reinforcement Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LeeH25
+  doi: 10.1609/AAAI.V39I17.33992
+  ee: https://doi.org/10.1609/aaai.v39i17.33992
+  url: https://dblp.org/rec/conf/aaai/LeeH25
+- author: Wenqian Li, Pengfei Fang, Hui Xue 0002
+  title: 'SVasP: Self-Versatility Adversarial Style Perturbation for Cross-Domain
+    Few-Shot Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiF025
+  doi: 10.1609/AAAI.V39I15.33676
+  ee: https://doi.org/10.1609/aaai.v39i15.33676
+  url: https://dblp.org/rec/conf/aaai/LiF025
+- author: "Soumyendu Sarkar, Ashwin Ramesh Babu, Sajad Mousavi, Vineet Gundecha, Sahand\
+    \ Ghorbanpour, Avisek Naug, Ricardo Luna Guti\xE9rrez 0001, Antonio Guillen, Desik\
+    \ Rengarajan"
+  title: Reinforcement Learning Platform for Adversarial Black-box Attacks with Custom
+    Distortion Filters.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/SarkarBMGGN0GR25
+  doi: 10.1609/AAAI.V39I26.34976
+  ee: https://doi.org/10.1609/aaai.v39i26.34976
+  url: https://dblp.org/rec/conf/aaai/SarkarBMGGN0GR25
+- author: Zhenglin Wan, Anjun Gao, Xingrui Yu, Pingfu Chao, Jun Song, Maohao Ran
+  title: POI Recommendation via Multi-Objective Adversarial Imitation Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WanGYCSR25
+  doi: 10.1609/AAAI.V39I12.33382
+  ee: https://doi.org/10.1609/aaai.v39i12.33382
+  url: https://dblp.org/rec/conf/aaai/WanGYCSR25
+- author: Ximin Zhang, Jinyin Chen, Haibin Zheng, Zhenguang Liu
+  title: 'PhyCamo: A Robust Physical Camouflage via Contrastive Learning for Multi-View
+    Physical Adversarial Attack.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangCZL25
+  doi: 10.1609/AAAI.V39I10.33110
+  ee: https://doi.org/10.1609/aaai.v39i10.33110
+  url: https://dblp.org/rec/conf/aaai/ZhangCZL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
