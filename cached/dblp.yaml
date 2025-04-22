@@ -18562,6 +18562,50 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2503.21426
   ee: https://doi.org/10.48550/arXiv.2503.21426
   url: https://dblp.org/rec/journals/corr/abs-2503-21426
+- author: Zhenxuan Zhang, Peiyuan Jing, Coraline Beitone, Jiahao Huang, Zhifan Gao,
+    Guang Yang 0006, Peter J. Lally
+  title: Pretext Task Adversarial Learning for Unpaired Low-field to Ultra High-field
+    MRI Synthesis.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-05339
+  doi: 10.48550/ARXIV.2503.05339
+  ee: https://doi.org/10.48550/arXiv.2503.05339
+  url: https://dblp.org/rec/journals/corr/abs-2503-05339
+- author: Yilong Wang 0001, Jiahao Zhang, Tianxiang Zhao, Suhang Wang
+  title: Enhance GNNs with Reliable Confidence Estimation via Adversarial Calibration
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-18235
+  doi: 10.48550/ARXIV.2503.18235
+  ee: https://doi.org/10.48550/arXiv.2503.18235
+  url: https://dblp.org/rec/journals/corr/abs-2503-18235
+- author: Hozefa Jesawada, Antonio Acernese, Giovanni Russo 0002, Carmen Del Vecchio
+  title: 'DR-PETS: Learning-Based Control With Planning in Adversarial Environments.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-20660
+  doi: 10.48550/ARXIV.2503.20660
+  ee: https://doi.org/10.48550/arXiv.2503.20660
+  url: https://dblp.org/rec/journals/corr/abs-2503-20660
+- author: Seonghyeon Hwang, Minsu Kim 0006, Steven Euijong Whang
+  title: 'T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration
+    in Class-Incremental Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-22163
+  doi: 10.48550/ARXIV.2503.22163
+  ee: https://doi.org/10.48550/arXiv.2503.22163
+  url: https://dblp.org/rec/journals/corr/abs-2503-22163
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
