@@ -18835,3 +18835,1863 @@ domain%20%feature%alignment:
   doi: 10.1109/TGRS.2023.3317828
   ee: https://doi.org/10.1109/TGRS.2023.3317828
   url: https://dblp.org/rec/journals/tgrs/ZhangWLSW23
+feature%20disentanglement:
+- author: Nuoyan Zhou, Dawei Zhou 0004, Decheng Liu, Nannan Wang 0001, Xinbo Gao 0001
+  title: Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Zhou0L0025
+  doi: 10.1609/AAAI.V39I10.33176
+  ee: https://doi.org/10.1609/aaai.v39i10.33176
+  url: https://dblp.org/rec/conf/aaai/Zhou0L0025
+- author: Wen Guo, Wuzhou Quan, Junyu Gao 0002, Tianzhu Zhang, Changsheng Xu
+  title: 'Feature Disentanglement Network: Multi-Object Tracking Needs More Differentiated
+    Features.'
+  venue: ACM Trans. Multim. Comput. Commun. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tomccap/GuoQGZX24
+  doi: 10.1145/3626825
+  ee: https://doi.org/10.1145/3626825
+  url: https://dblp.org/rec/journals/tomccap/GuoQGZX24
+- author: Zhichen Yuan, C. L. Philip Chen, Shuzhen Li, Tong Zhang 0015
+  title: 'Disentanglement Network: Disentangle the Emotional Features from Acoustic
+    Features for Speech Emotion Recognition.'
+  venue: ICASSP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/YuanCLZ24
+  doi: 10.1109/ICASSP48485.2024.10448044
+  ee: https://doi.org/10.1109/ICASSP48485.2024.10448044
+  url: https://dblp.org/rec/conf/icassp/YuanCLZ24
+- author: Nuoyan Zhou, Dawei Zhou 0004, Decheng Liu, Xinbo Gao 0001, Nannan Wang 0001
+  title: Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2401-14707
+  doi: 10.48550/ARXIV.2401.14707
+  ee: https://doi.org/10.48550/arXiv.2401.14707
+  url: https://dblp.org/rec/journals/corr/abs-2401-14707
+- author: Maximilian Seitzer
+  title: 'NeurIPS 2019 Disentanglement Challenge: Improved Disentanglement through
+    Aggregated Convolutional Feature Maps.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2002-10003
+  doi: ''
+  ee: https://arxiv.org/abs/2002.10003
+  url: https://dblp.org/rec/journals/corr/abs-2002-10003
+- author: Maximilian Seitzer, Andreas Foltyn, Felix P. Kemeth
+  title: 'NeurIPS 2019 Disentanglement Challenge: Improved Disentanglement through
+    Learned Aggregation of Convolutional Feature Maps.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2002-12356
+  doi: ''
+  ee: https://arxiv.org/abs/2002.12356
+  url: https://dblp.org/rec/journals/corr/abs-2002-12356
+- author: Zhize Wu, Chang-Jiang Du, Xin-Qi Wang, Le Zou, Fan Cheng, Teng Li, Fudong
+    Nian, Thomas Weise 0001, Xiao-Feng Wang
+  title: Domain Adaptation via Feature Disentanglement for cross-domain image classification.
+  venue: Appl. Soft Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/WuDWZCLNWW25
+  doi: 10.1016/J.ASOC.2025.112868
+  ee: https://doi.org/10.1016/j.asoc.2025.112868
+  url: https://dblp.org/rec/journals/asc/WuDWZCLNWW25
+- author: Chin-Chieh Hsu, You-Wei Wang, Lung-Chun Lin, Ruey-Feng Chang
+  title: Spatiotemporal feature disentanglement for quality surveillance of left ventricular
+    echocardiographic video using ST-R(2 + 1)D-ConvNeXt.
+  venue: Biomed. Signal Process. Control.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/HsuWLC25
+  doi: 10.1016/J.BSPC.2025.107671
+  ee: https://doi.org/10.1016/j.bspc.2025.107671
+  url: https://dblp.org/rec/journals/bspc/HsuWLC25
+- author: Zaiyu Pan, Jiameng Xu, Shuangtian Jiang, Jun Wang
+  title: 'SSFD-Net: Shared-Specific Feature Disentanglement Network for Multimodal
+    Biometric Recognition with Missing Modality.'
+  venue: Digit. Signal Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/dsp/PanXJW25
+  doi: 10.1016/J.DSP.2025.105003
+  ee: https://doi.org/10.1016/j.dsp.2025.105003
+  url: https://dblp.org/rec/journals/dsp/PanXJW25
+- author: Meng Wang, Yudong Liu, Haipeng Liu 0003
+  title: An enhanced domain generalization method for object detection based on text
+    guided feature disentanglement.
+  venue: Digit. Signal Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/dsp/WangLL25
+  doi: 10.1016/J.DSP.2024.104855
+  ee: https://doi.org/10.1016/j.dsp.2024.104855
+  url: https://dblp.org/rec/journals/dsp/WangLL25
+- author: Chiqin Li, Lun Xie, Xinheng Wang, Hang Pan 0001, Zhiliang Wang
+  title: A twin disentanglement Transformer Network with Hierarchical-Level Feature
+    Reconstruction for robust multimodal emotion recognition.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/LiXWPW25
+  doi: 10.1016/J.ESWA.2024.125822
+  ee: https://doi.org/10.1016/j.eswa.2024.125822
+  url: https://dblp.org/rec/journals/eswa/LiXWPW25
+- author: Peng Wang, Yuan Luo, Zhilin Zhu
+  title: 'FDI-YOLO: Feature disentanglement and interaction network based on YOLO
+    for SAR object detection.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangLZ25
+  doi: 10.1016/J.ESWA.2024.125442
+  ee: https://doi.org/10.1016/j.eswa.2024.125442
+  url: https://dblp.org/rec/journals/eswa/WangLZ25
+- author: Ziyu Wang, Jia-Xuan Jiang, Shubin Zeng, Ling Zhou, Yuee Li, Zhong Wang 0006
+  title: Multi-receptive field feature disentanglement with Distance-Aware Gaussian
+    Brightness Augmentation for single-source domain generalization in medical image
+    segmentation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangJZZLW25
+  doi: 10.1016/J.NEUCOM.2025.130120
+  ee: https://doi.org/10.1016/j.neucom.2025.130120
+  url: https://dblp.org/rec/journals/ijon/WangJZZLW25
+- author: Haoxuan Zhou, Bingsen Wang, Enrico Zio, Zihao Lei, Guangrui Wen, Xuefeng
+    Chen 0002
+  title: 'Unsupervised anomaly detection of machines operating under time-varying
+    conditions: DCD-VAE enabled feature disentanglement of operating conditions and
+    states.'
+  venue: Reliab. Eng. Syst. Saf.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ress/ZhouWZLWC25
+  doi: 10.1016/J.RESS.2024.110653
+  ee: https://doi.org/10.1016/j.ress.2024.110653
+  url: https://dblp.org/rec/journals/ress/ZhouWZLWC25
+- author: "C\xE1ssio F. Dantas, Raffaelle Gaetano, Claudia Paris, Dino Ienco"
+  title: Reuse Out-of-Year Data to Enhance Land Cover Mapping via Feature Disentanglement
+    and Contrastive Learning.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/DantasGPI25
+  doi: 10.1109/JSTARS.2024.3503756
+  ee: https://doi.org/10.1109/JSTARS.2024.3503756
+  url: https://dblp.org/rec/journals/staeors/DantasGPI25
+- author: Tao Zhang, Xiaogang Yang, Ruitao Lu, Dingwen Zhang, Xueli Xie, Zhengjie
+    Zhu
+  title: Modal Feature Disentanglement and Contribution Estimation for Multimodality
+    Image Fusion.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ZhangYLZXZ25
+  doi: 10.1109/TIM.2025.3545534
+  ee: https://doi.org/10.1109/TIM.2025.3545534
+  url: https://dblp.org/rec/journals/tim/ZhangYLZXZ25
+- author: Zhen Zhou, Qing Zhu, Jianqiao Luo, Mingtao Feng, Yaonan Wang 0001, Tianjian
+    Jiang, Lin Chen, Yang Mo
+  title: A Feature Disentanglement Method for Image Stitching of Printed Circuit Boards.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ZhouZLFWJCM25
+  doi: 10.1109/TIM.2025.3547509
+  ee: https://doi.org/10.1109/TIM.2025.3547509
+  url: https://dblp.org/rec/journals/tim/ZhouZLFWJCM25
+- author: Dwarikanath Mahapatra, Antonio Jimeno-Yepes, Behzad Bozorgtabar, Sudipta
+    Roy 0002, Zongyuan Ge, Mauricio Reyes 0001
+  title: Multi-Label Generalized Zero Shot Chest X-Ray Classification by Combining
+    Image-Text Information With Feature Disentanglement.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/MahapatraJBRGR25
+  doi: 10.1109/TMI.2024.3429471
+  ee: https://doi.org/10.1109/TMI.2024.3429471
+  url: https://dblp.org/rec/journals/tmi/MahapatraJBRGR25
+- author: Shanfeng Wang, Jianzhao Li, Zaitian Liu, Yourun Zhang, Maoguo Gong
+  title: 'FedFSL-CFRD: Personalized Federated Few-Shot Learning with Collaborative
+    Feature Representation Disentanglement.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangLLZG25
+  doi: 10.1609/AAAI.V39I20.35423
+  ee: https://doi.org/10.1609/aaai.v39i20.35423
+  url: https://dblp.org/rec/conf/aaai/WangLLZG25
+- author: Yidi Liu, Dong Liu 0002, Yuxin Ma, Jie Huang 0017, Wenlong Zhang, Xueyang
+    Fu, Zhengjun Zha
+  title: 'Decouple to Reconstruct: High Quality UHD Restoration via Active Feature
+    Disentanglement and Reversible Fusion.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-12764
+  doi: 10.48550/ARXIV.2503.12764
+  ee: https://doi.org/10.48550/arXiv.2503.12764
+  url: https://dblp.org/rec/journals/corr/abs-2503-12764
+- author: Pei-Kai Huang, Jun-Xiong Chong, Ming-Tsung Hsu, Fang-Yu Hsu, Yi-Ting Lin,
+    Kai-Heng Chien, Hao-Chiang Shao, Chiou-Ting Hsu
+  title: Unsupervised Feature Disentanglement and Augmentation Network for One-class
+    Face Anti-spoofing.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-22929
+  doi: 10.48550/ARXIV.2503.22929
+  ee: https://doi.org/10.48550/arXiv.2503.22929
+  url: https://dblp.org/rec/journals/corr/abs-2503-22929
+- author: Shuai Ma, Kechen Song, Menghui Niu, Hongkun Tian, Yanyan Wang, Yunhui Yan
+  title: 'Feature-based domain disentanglement and randomization: A generalized framework
+    for rail surface defect segmentation in unseen scenarios.'
+  venue: Adv. Eng. Informatics
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/aei/MaSNTWY24
+  doi: 10.1016/J.AEI.2023.102274
+  ee: https://doi.org/10.1016/j.aei.2023.102274
+  url: https://dblp.org/rec/journals/aei/MaSNTWY24
+- author: Ziqi Xin, Zhongwei Li, Mingming Xu, Leiquan Wang, Guangbo Ren, Jianbu Wang,
+    Yabin Hu
+  title: Feature disentanglement based domain adaptation network for cross-scene coastal
+    wetland hyperspectral image classification.
+  venue: Int. J. Appl. Earth Obs. Geoinformation
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/aeog/XinLXWRWH24
+  doi: 10.1016/J.JAG.2024.103850
+  ee: https://doi.org/10.1016/j.jag.2024.103850
+  url: https://dblp.org/rec/journals/aeog/XinLXWRWH24
+- author: Lin Tian, Hua Li, Linxuan Li, Chuanao Bai
+  title: 'Open-world object detection: A solution based on reselection mechanism and
+    feature disentanglement.'
+  venue: AI Commun.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/aicom/TianLLB24
+  doi: 10.3233/AIC-230270
+  ee: https://doi.org/10.3233/AIC-230270
+  url: https://dblp.org/rec/journals/aicom/TianLLB24
+- author: Alexander Rakowski, Remo Monti, Viktoriia Huryn, Marta Lemanczyk, Uwe Ohler,
+    Christoph Lippert
+  title: Metadata-guided feature disentanglement for functional genomics.
+  venue: Bioinform.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/bioinformatics/RakowskiMHLOL24
+  doi: 10.1093/BIOINFORMATICS/BTAE403
+  ee: https://doi.org/10.1093/bioinformatics/btae403
+  url: https://dblp.org/rec/journals/bioinformatics/RakowskiMHLOL24
+- author: Chongzhe Tian, Xiuli Liu, Shenghua Cheng, Jiaxin Bai, Li Chen, Shaoqun Zeng
+  title: Disentanglement of content and style features in multi-center cytology images
+    via contrastive self-supervised learning.
+  venue: Biomed. Signal Process. Control.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/TianLCBCZ24
+  doi: 10.1016/J.BSPC.2024.106395
+  ee: https://doi.org/10.1016/j.bspc.2024.106395
+  url: https://dblp.org/rec/journals/bspc/TianLCBCZ24
+- author: Inci Meliha Baytas, Ipek Erdogan
+  title: Signer-independent sign language recognition with feature disentanglement.
+  venue: Turkish J. Electr. Eng. Comput. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/elektrik/BaytasE24
+  doi: 10.55730/1300-0632.4078
+  ee: https://doi.org/10.55730/1300-0632.4078
+  url: https://dblp.org/rec/journals/elektrik/BaytasE24
+- author: Jiahao Fan, Xinyu Jiang, Xiangyu Liu, Long Meng, Fumin Jia, Chenyun Dai
+  title: Surface EMG feature disentanglement for robust pattern recognition.
+  venue: Expert Syst. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/FanJLMJD24
+  doi: 10.1016/J.ESWA.2023.121224
+  ee: https://doi.org/10.1016/j.eswa.2023.121224
+  url: https://dblp.org/rec/journals/eswa/FanJLMJD24
+- author: Suting Chen, Yewen Bo, Xu Wu
+  title: A spatiotemporal motion prediction network based on multi-level feature disentanglement.
+  venue: Image Vis. Comput.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ivc/ChenBW24
+  doi: 10.1016/J.IMAVIS.2024.105005
+  ee: https://doi.org/10.1016/j.imavis.2024.105005
+  url: https://dblp.org/rec/journals/ivc/ChenBW24
+- author: Yao Fu, Biao Huang 0013, Yujun Wen, Pengzhou Zhang
+  title: 'FDR-MSA: Enhancing multimodal sentiment analysis through feature disentanglement
+    and reconstruction.'
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/kbs/FuHWZ24
+  doi: 10.1016/J.KNOSYS.2024.111965
+  ee: https://doi.org/10.1016/j.knosys.2024.111965
+  url: https://dblp.org/rec/journals/kbs/FuHWZ24
+- author: Yue Liu, Zhenyao Yu, Zitu Liu, Ziyi Yu, Xinyan Yang, Xingyue Li, Yike Guo,
+    Qun Liu 0005, Guoyin Wang 0001
+  title: Improving disentanglement in variational auto-encoders via feature imbalance-informed
+    dimension weighting.
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/LiuYLYYLGLW24
+  doi: 10.1016/J.KNOSYS.2024.111818
+  ee: https://doi.org/10.1016/j.knosys.2024.111818
+  url: https://dblp.org/rec/journals/kbs/LiuYLYYLGLW24
+- author: Haonan Zhang, Yafei Lv, Jianting Zhang, Qian Wu, Zaidao Wen
+  title: Rendering-Inspired Cross-Source Feature Disentanglement for Domain Adaptation-
+    Based SAR Ship Classification.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/ZhangLZWW24
+  doi: 10.1109/LGRS.2024.3388384
+  ee: https://doi.org/10.1109/LGRS.2024.3388384
+  url: https://dblp.org/rec/journals/lgrs/ZhangLZWW24
+- author: Shanshan Wang 0008, Qian Xiao, Keyang Wang, Xun Yang 0001, Xingyi Zhang
+    0001
+  title: Mutual-weighted feature disentanglement for unsupervised domain adaptation.
+  venue: Multim. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/WangXWYZ24
+  doi: 10.1007/S00530-024-01477-8
+  ee: https://doi.org/10.1007/s00530-024-01477-8
+  url: https://dblp.org/rec/journals/mms/WangXWYZ24
+- author: Wenjie Lin, Jun Chu, Lu Leng, Jun Miao, Lingfeng Wang
+  title: Feature disentanglement in one-stage object detection.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LinCLMW24
+  doi: 10.1016/J.PATCOG.2023.109878
+  ee: https://doi.org/10.1016/j.patcog.2023.109878
+  url: https://dblp.org/rec/journals/pr/LinCLMW24
+- author: Yimei Ma, Jianjun Qian, Jun Li, Jian Yang
+  title: Dual feature disentanglement for face anti-spoofing.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/MaQLY24
+  doi: 10.1016/J.PATCOG.2024.110656
+  ee: https://doi.org/10.1016/j.patcog.2024.110656
+  url: https://dblp.org/rec/journals/pr/MaQLY24
+- author: Jianhai Yan, Zhi-Sheng Ye 0001, Shu-Guang He, Zhen He 0001
+  title: A feature disentanglement and unsupervised domain adaptation of remaining
+    useful life prediction for sensor-equipped machines.
+  venue: Reliab. Eng. Syst. Saf.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ress/YanYHH24
+  doi: 10.1016/J.RESS.2023.109736
+  ee: https://doi.org/10.1016/j.ress.2023.109736
+  url: https://dblp.org/rec/journals/ress/YanYHH24
+- author: Na Guo, Jianguo Wei, Yongwei Li, Wenhuan Lu, Jianhua Tao 0001
+  title: Zero-shot voice conversion based on feature disentanglement.
+  venue: Speech Commun.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/speech/GuoWLLT24
+  doi: 10.1016/J.SPECOM.2024.103143
+  ee: https://doi.org/10.1016/j.specom.2024.103143
+  url: https://dblp.org/rec/journals/speech/GuoWLLT24
+- author: Jiehu Chen, Xili Wang, Ling Hong, Ming Liu 0012
+  title: Cross-Domain Few-Shot Segmentation for Remote Sensing Image Based on Task
+    Augmentation and Feature Disentanglement.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/ChenWHL24
+  doi: 10.1109/JSTARS.2024.3392549
+  ee: https://doi.org/10.1109/JSTARS.2024.3392549
+  url: https://dblp.org/rec/journals/staeors/ChenWHL24
+- author: Yizhou Tan, Haojun Ai, Shengchen Li, Mark D. Plumbley
+  title: Acoustic Scene Classification Across Cities and Devices via Feature Disentanglement.
+  venue: IEEE ACM Trans. Audio Speech Lang. Process.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/taslp/TanALP24
+  doi: 10.1109/TASLP.2024.3353578
+  ee: https://doi.org/10.1109/TASLP.2024.3353578
+  url: https://dblp.org/rec/journals/taslp/TanALP24
+- author: Ye Wang 0006, Qianmengke Zhao, Qun Liu 0005, Guoyin Wang 0001, Hong Yu 0007,
+    Li Liu 0030, Jiaxu Leng
+  title: 'KDDGAN: Knowledge-Guided Explicit Feature Disentanglement for Facial Attribute
+    Editing.'
+  venue: IEEE Trans. Consumer Electron.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/WangZLWYLL24
+  doi: 10.1109/TCE.2023.3347274
+  ee: https://doi.org/10.1109/TCE.2023.3347274
+  url: https://dblp.org/rec/journals/tce/WangZLWYLL24
+- author: Yi He, Lei Yang 0062, Shilin Wang, Alan Wee-Chung Liew
+  title: Lip Feature Disentanglement for Visual Speaker Authentication in Natural
+    Scenes.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/HeYWL24
+  doi: 10.1109/TCSVT.2024.3405640
+  ee: https://doi.org/10.1109/TCSVT.2024.3405640
+  url: https://dblp.org/rec/journals/tcsv/HeYWL24
+- author: Boao Qin, Shou Feng, Chunhui Zhao 0003, Wei Li 0032, Ran Tao 0003, Wei Xiang
+    0001
+  title: Cross-Domain Few-Shot Learning Based on Feature Disentanglement for Hyperspectral
+    Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/QinFZLTX24
+  doi: 10.1109/TGRS.2024.3386256
+  ee: https://doi.org/10.1109/TGRS.2024.3386256
+  url: https://dblp.org/rec/journals/tgrs/QinFZLTX24
+- author: Decheng Liu, Xinbo Gao 0001, Chunlei Peng, Nannan Wang 0001, Jie Li 0001
+  title: Universal Heterogeneous Face Analysis via Multi-Domain Feature Disentanglement.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/LiuGPWL24
+  doi: 10.1109/TIFS.2023.3327666
+  ee: https://doi.org/10.1109/TIFS.2023.3327666
+  url: https://dblp.org/rec/journals/tifs/LiuGPWL24
+- author: Wenlong Yu, Ruonan Liu, Dongyue Chen, Qinghua Hu
+  title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement.
+  venue: IEEE Trans. Image Process.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/YuLCH24
+  doi: 10.1109/TIP.2024.3492733
+  ee: https://doi.org/10.1109/TIP.2024.3492733
+  url: https://dblp.org/rec/journals/tip/YuLCH24
+- author: Jia Zhai, Hui Liu 0026
+  title: Cross-Domain Feature Disentanglement for Interpretable Modeling of Tumor
+    Microenvironment Impact on Drug Response.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/ZhaiL24
+  doi: 10.1109/JBHI.2024.3387930
+  ee: https://doi.org/10.1109/JBHI.2024.3387930
+  url: https://dblp.org/rec/journals/titb/ZhaiL24
+- author: Jin Huang, Yongshun Gong, Yang Shi, Xinxin Zhang 0004, Jian Zhang 0002,
+    Yilong Yin
+  title: 'Focusing on Subtle Differences: A Feature Disentanglement Model for Series
+    Photo Selection.'
+  venue: IEEE Trans. Multim.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tmm/HuangGSZZY24
+  doi: 10.1109/TMM.2024.3382469
+  ee: https://doi.org/10.1109/TMM.2024.3382469
+  url: https://dblp.org/rec/journals/tmm/HuangGSZZY24
+- author: Jian Wang, Xue Yang, Yuxin Tian, Jizhe Zhou, Jiancheng Lv 0001
+  title: 'Shunting at Arbitrary Feature Levels via Spatial Disentanglement: Toward
+    Selective Image Translation.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/WangYTZL24
+  doi: 10.1109/TNNLS.2023.3282306
+  ee: https://doi.org/10.1109/TNNLS.2023.3282306
+  url: https://dblp.org/rec/journals/tnn/WangYTZL24
+- author: Rui Song 0008, Fausto Giunchiglia, Yingji Li, Mingjie Tian, Hao Xu 0012
+  title: 'TACIT: A Target-Agnostic Feature Disentanglement Framework for Cross-Domain
+    Text Classification.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/0008GLTX24
+  doi: 10.1609/AAAI.V38I17.29866
+  ee: https://doi.org/10.1609/aaai.v38i17.29866
+  url: https://dblp.org/rec/conf/aaai/0008GLTX24
+- author: Haoan Wang, Shilong Jia, Tieyong Zeng, Guixu Zhang, Zhi Li
+  title: Triple Feature Disentanglement for One-Stage Adaptive Object Detection.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangJZZL24
+  doi: 10.1609/AAAI.V38I6.28348
+  ee: https://doi.org/10.1609/aaai.v38i6.28348
+  url: https://dblp.org/rec/conf/aaai/WangJZZL24
+- author: Yutao Wei, Wenzheng Shu, Zhangtao Cheng, Wenxin Tai, Chunjing Xiao, Ting
+    Zhong
+  title: Counterfactual Graph Learning for Anomaly Detection with Feature Disentanglement
+    and Generation (Student Abstract).
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WeiSCTXZ24
+  doi: 10.1609/AAAI.V38I21.30524
+  ee: https://doi.org/10.1609/aaai.v38i21.30524
+  url: https://dblp.org/rec/conf/aaai/WeiSCTXZ24
+- author: Wonwoong Cho, Hareesh Ravi, Midhun Harikumar, Vinh Khuc, Krishna Kumar Singh,
+    Jingwan Lu, David I. Inouye, Ajinkya Kale
+  title: Enhanced Controllability of Diffusion Models via Feature Disentanglement
+    and Realism-Enhanced Sampling Methods.
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/ChoRHKSLIK24
+  doi: 10.1007/978-3-031-72913-3_16
+  ee: https://doi.org/10.1007/978-3-031-72913-3_16
+  url: https://dblp.org/rec/conf/eccv/ChoRHKSLIK24
+- author: Aman Verma, Gaurav Jaswal, Seshan Srirangarajan, Sumantra Dutta Roy
+  title: Quantifying Biometric Characteristics of Hand Gestures Through Feature Space
+    Probing and Identity-Level Cross-Gesture Disentanglement.
+  venue: FG
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/fgr/VermaJSR24
+  doi: 10.1109/FG59268.2024.10581906
+  ee: https://doi.org/10.1109/FG59268.2024.10581906
+  url: https://dblp.org/rec/conf/fgr/VermaJSR24
+- author: Yadong Guan, Jiqing Han 0001, Hongwei Song, Wenjie Song 0003, Guibin Zheng,
+    Tieran Zheng, Yongjun He 0002
+  title: Contrastive Loss Based Frame-Wise Feature Disentanglement for Polyphonic
+    Sound Event Detection.
+  venue: ICASSP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/Guan0S0ZZH24
+  doi: 10.1109/ICASSP48485.2024.10447743
+  ee: https://doi.org/10.1109/ICASSP48485.2024.10447743
+  url: https://dblp.org/rec/conf/icassp/Guan0S0ZZH24
+- author: Zeyu Yang, Minchuan Chen, Yanping Li, Wei Hu, Shaojun Wang, Jing Xiao 0006,
+    Zijian Li
+  title: 'ESVC: Combining Adaptive Style Fusion and Multi-Level Feature Disentanglement
+    for Expressive Singing Voice Conversion.'
+  venue: ICASSP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/YangCLHWXL24
+  doi: 10.1109/ICASSP48485.2024.10446284
+  ee: https://doi.org/10.1109/ICASSP48485.2024.10446284
+  url: https://dblp.org/rec/conf/icassp/YangCLHWXL24
+- author: Lishi Zuo, Man-Wai Mak, Youzhi Tu
+  title: Promoting Independence of Depression and Speaker Features for Speaker Disentanglement
+    in Speech-Based Depression Detection.
+  venue: ICASSP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/ZuoMT24
+  doi: 10.1109/ICASSP48485.2024.10448231
+  ee: https://doi.org/10.1109/ICASSP48485.2024.10448231
+  url: https://dblp.org/rec/conf/icassp/ZuoMT24
+- author: Xiaogang Zhu 0001, Bo Lin, Xinan He, Jianfeng Xu, Feng Ding 0007
+  title: 'TMFD: Two-Stage Meta-learning Feature Disentanglement Framework for DeepFake
+    Detection.'
+  venue: IJCB
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icb/0001LHX024
+  doi: 10.1109/IJCB62174.2024.10744435
+  ee: https://doi.org/10.1109/IJCB62174.2024.10744435
+  url: https://dblp.org/rec/conf/icb/0001LHX024
+- author: Zihao Liu, Jun Pan, Hao Wang 0008, Kui Yu
+  title: Instance-Level Neural Feature Selection Based on Disentanglement Enhancement.
+  venue: ICKG
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icbk/LiuPWY24
+  doi: 10.1109/ICKG63256.2024.00034
+  ee: https://doi.org/10.1109/ICKG63256.2024.00034
+  url: https://dblp.org/rec/conf/icbk/LiuPWY24
+- author: Zhihao Chen, Yiyuan Ge, Qing Yue
+  title: Features Reconstruction Disentanglement Cloth-Changing Person Re-identification.
+  venue: ICIC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/ChenGY24
+  doi: 10.1007/978-981-97-5594-3_33
+  ee: https://doi.org/10.1007/978-981-97-5594-3_33
+  url: https://dblp.org/rec/conf/icic/ChenGY24
+- author: Qingzhi He, Rong Quan, Weifeng Yang, Jie Qin
+  title: Visual Feature Disentanglement for Zero-Shot Learning.
+  venue: ICME
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/HeQYQ24
+  doi: 10.1109/ICME57554.2024.10688100
+  ee: https://doi.org/10.1109/ICME57554.2024.10688100
+  url: https://dblp.org/rec/conf/icmcs/HeQYQ24
+- author: Zijian Zhang, Ruiguo Yu, Xi Wei, Jie Gao 0008, Mei Yu 0004, Xuewei Li 0001,
+    Zhiqiang Liu 0002
+  title: Unsupervised Domain Adaptation Semantic Segmentation on Thyroid Ultrasound
+    Images Based on Task-Oriented Feature Disentanglement.
+  venue: ICME
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/ZhangYWGYLL24
+  doi: 10.1109/ICME57554.2024.10687567
+  ee: https://doi.org/10.1109/ICME57554.2024.10687567
+  url: https://dblp.org/rec/conf/icmcs/ZhangYWGYLL24
+- author: Divya Bhardwaj, Anishka Singh, Sparsh Goenka, Poonam Goyal
+  title: Leveraging Dual Encoders with Feature Disentanglement for Anomaly Detection
+    in Thermal Videos.
+  venue: ICPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icpr/BhardwajSGG24
+  doi: 10.1007/978-3-031-78312-8_16
+  ee: https://doi.org/10.1007/978-3-031-78312-8_16
+  url: https://dblp.org/rec/conf/icpr/BhardwajSGG24
+- author: Xiaoying Jiang, Lingling Cui, Lihang Chen, Shanyou Song
+  title: Cross-Corpus Speech Emotion Recognition Based on Causal Feature Disentanglement.
+  venue: SPML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/spml/JiangCCS24
+  doi: 10.1145/3686490.3686527
+  ee: https://doi.org/10.1145/3686490.3686527
+  url: https://dblp.org/rec/conf/spml/JiangCCS24
+- author: Yadong Guan, Jiqing Han 0001, Hongwei Song, Wenjie Song 0003, Guibin Zheng,
+    Tieran Zheng, Yongjun He 0002
+  title: Contrastive Loss Based Frame-wise Feature disentanglement for Polyphonic
+    Sound Event Detection.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2401-05850
+  doi: 10.48550/ARXIV.2401.05850
+  ee: https://doi.org/10.48550/arXiv.2401.05850
+  url: https://dblp.org/rec/journals/corr/abs-2401-05850
+- author: Daichi Haraguchi, Wataru Shimoda, Kota Yamaguchi, Seiichi Uchida
+  title: Total Disentanglement of Font Images into Style and Character Class Features.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2403-12784
+  doi: 10.48550/ARXIV.2403.12784
+  ee: https://doi.org/10.48550/arXiv.2403.12784
+  url: https://dblp.org/rec/journals/corr/abs-2403-12784
+- author: "C\xE1ssio Fraga Dantas, Raffaele Gaetano, Claudia Paris, Dino Ienco"
+  title: Reuse out-of-year data to enhance land cover mapping via feature disentanglement
+    and contrastive learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2404-11114
+  doi: 10.48550/ARXIV.2404.11114
+  ee: https://doi.org/10.48550/arXiv.2404.11114
+  url: https://dblp.org/rec/journals/corr/abs-2404-11114
+- author: Fan Liu, Liang Yao, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun
+    Zhou 0011
+  title: Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based
+    Object Detection.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-15465
+  doi: 10.48550/ARXIV.2405.15465
+  ee: https://doi.org/10.48550/arXiv.2405.15465
+  url: https://dblp.org/rec/journals/corr/abs-2405-15465
+- author: Tianling Liu, Hongying Liu, Fanhua Shang, Lequan Yu, Tong Han, Liang Wan
+  title: Completed Feature Disentanglement Learning for Multimodal MRIs Analysis.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-04916
+  doi: 10.48550/ARXIV.2407.04916
+  ee: https://doi.org/10.48550/arXiv.2407.04916
+  url: https://dblp.org/rec/journals/corr/abs-2407-04916
+- author: Zhihao Chen, Yiyuan Ge, Qing Yue
+  title: Features Reconstruction Disentanglement Cloth-Changing Person Re-Identification.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-10694
+  doi: 10.48550/ARXIV.2407.10694
+  ee: https://doi.org/10.48550/arXiv.2407.10694
+  url: https://dblp.org/rec/journals/corr/abs-2407-10694
+- author: Yuxia Geng, Runkai Zhu, Jiaoyan Chen, Jintai Chen, Zhuo Chen, Xiang Chen,
+    Can Xu, Yuxiang Wang, Xiaoliang Xu
+  title: Cross-composition Feature Disentanglement for Compositional Zero-shot Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-09786
+  doi: 10.48550/ARXIV.2408.09786
+  ee: https://doi.org/10.48550/arXiv.2408.09786
+  url: https://dblp.org/rec/journals/corr/abs-2408-09786
+- author: Simone Bianco 0001, Luigi Celona, Paolo Napoletano
+  title: Cross-Camera Distracted Driver Classification through Feature Disentanglement
+    and Contrastive Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2411-13181
+  doi: 10.48550/ARXIV.2411.13181
+  ee: https://doi.org/10.48550/arXiv.2411.13181
+  url: https://dblp.org/rec/journals/corr/abs-2411-13181
+- author: Zhixiao Fu, Xinyuan Chen, Daizong Liu, Xiaoye Qu, Jianfeng Dong, Xuhong
+    Zhang 0002, Shouling Ji
+  title: Multi-level feature disentanglement network for cross-dataset face forgery
+    detection.
+  venue: Image Vis. Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ivc/FuCLQD0J23
+  doi: 10.1016/J.IMAVIS.2023.104686
+  ee: https://doi.org/10.1016/j.imavis.2023.104686
+  url: https://dblp.org/rec/journals/ivc/FuCLQD0J23
+- author: Fujin Wang, Zhibin Zhao, Zhi Zhai, Yanjie Guo, Huan Xi, Shibin Wang, Xuefeng
+    Chen 0002
+  title: Feature disentanglement and tendency retainment with domain adaptation for
+    Lithium-ion battery capacity estimation.
+  venue: Reliab. Eng. Syst. Saf.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ress/WangZZGXWC23
+  doi: 10.1016/J.RESS.2022.108897
+  ee: https://doi.org/10.1016/j.ress.2022.108897
+  url: https://dblp.org/rec/journals/ress/WangZZGXWC23
+- author: Fangjiao Zhang, Guoqiang Li, Zhufeng Suo, Li Wang, Chang Cui, Qingshu Meng
+  title: Secure vertical federated learning based on feature disentanglement.
+  venue: Signal Process.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/sigpro/ZhangLSWCM23
+  doi: 10.1016/J.SIGPRO.2023.109077
+  ee: https://doi.org/10.1016/j.sigpro.2023.109077
+  url: https://dblp.org/rec/journals/sigpro/ZhangLSWCM23
+- author: Zixuan Hu, Li Shen 0008, Shenqi Lai, Chun Yuan
+  title: Task-Adaptive Feature Disentanglement and Hallucination for Few-Shot Classification.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/HuSLY23
+  doi: 10.1109/TCSVT.2023.3238804
+  ee: https://doi.org/10.1109/TCSVT.2023.3238804
+  url: https://dblp.org/rec/journals/tcsv/HuSLY23
+- author: Yongcan Yu, Jianhu Zhao, Chao Huang 0023, Xi Zhao
+  title: 'Treat Noise as Domain Shift: Noise Feature Disentanglement for Underwater
+    Perception and Maritime Surveys in Side-Scan Sonar Images.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/YuZHZ23
+  doi: 10.1109/TGRS.2023.3322787
+  ee: https://doi.org/10.1109/TGRS.2023.3322787
+  url: https://dblp.org/rec/journals/tgrs/YuZHZ23
+- author: Behnam Gholami, Mostafa El-Khamy, Kee-Bong Song
+  title: Latent Feature Disentanglement for Visual Domain Generalization.
+  venue: IEEE Trans. Image Process.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/GholamiES23
+  doi: 10.1109/TIP.2023.3321511
+  ee: https://doi.org/10.1109/TIP.2023.3321511
+  url: https://dblp.org/rec/journals/tip/GholamiES23
+- author: Xuenan Liu, Xuezhi Yang, Rencheng Song, Dingliang Wang, Longwei Li
+  title: 'PFDNet: A Pulse Feature Disentanglement Network for Atrial Fibrillation
+    Screening From Facial Videos.'
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/LiuYSWL23
+  doi: 10.1109/JBHI.2022.3220656
+  ee: https://doi.org/10.1109/JBHI.2022.3220656
+  url: https://dblp.org/rec/journals/titb/LiuYSWL23
+- author: Zhenyu Kuang, Chuchu He, Yue Huang 0001, Xinghao Ding, Huafeng Li
+  title: Joint Image and Feature Levels Disentanglement for Generalizable Vehicle
+    Re-identification.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/KuangHHDL23
+  doi: 10.1109/TITS.2023.3314213
+  ee: https://doi.org/10.1109/TITS.2023.3314213
+  url: https://dblp.org/rec/journals/tits/KuangHHDL23
+- author: Tieyun Qian, Yile Liang, Qing Li 0001, Xuan Ma, Ke Sun 0010, Zhiyong Peng
+    0001
+  title: Intent Disentanglement and Feature Self-Supervision for Novel Recommendation.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/QianLLMSP23
+  doi: 10.1109/TKDE.2022.3175536
+  ee: https://doi.org/10.1109/TKDE.2022.3175536
+  url: https://dblp.org/rec/journals/tkde/QianLLMSP23
+- author: Dongnan Liu, Chaoyi Zhang, Yang Song 0001, Heng Huang, Chenyu Wang 0001,
+    Michael Barnett 0006, Tom Weidong Cai
+  title: 'Decompose to Adapt: Cross-Domain Object Detection Via Feature Disentanglement.'
+  venue: IEEE Trans. Multim.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tmm/LiuZSHWBC23
+  doi: 10.1109/TMM.2022.3141614
+  ee: https://doi.org/10.1109/TMM.2022.3141614
+  url: https://dblp.org/rec/journals/tmm/LiuZSHWBC23
+- author: Cao Qin, Yunzhou Zhang, Yingda Liu, Delong Zhu, Sonya A. Coleman, Dermot
+    Kerr
+  title: Structure-Aware Feature Disentanglement With Knowledge Transfer for Appearance-Changing
+    Place Recognition.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/QinZLZCK23
+  doi: 10.1109/TNNLS.2021.3105175
+  ee: https://doi.org/10.1109/TNNLS.2021.3105175
+  url: https://dblp.org/rec/journals/tnn/QinZLZCK23
+- author: Dingxin Zhang, Jianhui Yu, Chaoyi Zhang, Weidong Cai 0001
+  title: 'PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement
+    and Pose Restoration.'
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangYZ023
+  doi: 10.1609/AAAI.V37I3.25450
+  ee: https://doi.org/10.1609/aaai.v37i3.25450
+  url: https://dblp.org/rec/conf/aaai/ZhangYZ023
+- author: Liang Yao, Fan Liu, Zhiquan Ou, Fei Wang, Delong Chen
+  title: Single Sample Face Recognition Based on Identity-Attribute Disentanglement
+    and Adversarial Feature Augmentation.
+  venue: CCBR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccbr/YaoLOWC23
+  doi: 10.1007/978-981-99-8565-4_21
+  ee: https://doi.org/10.1007/978-981-99-8565-4_21
+  url: https://dblp.org/rec/conf/ccbr/YaoLOWC23
+- author: Hui Yuan, Ping Li 0018, Gansen Zhao, Jun Zhang 0049
+  title: Improving Voice Style Conversion via Self-attention VAE with Feature Disentanglement.
+  venue: ChineseCSCW
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccscw/YuanLZZ23
+  doi: 10.1007/978-981-99-9637-7_31
+  ee: https://doi.org/10.1007/978-981-99-9637-7_31
+  url: https://dblp.org/rec/conf/ccscw/YuanLZZ23
+- author: Rui Wang, Shouhong Wan, Peiquan Jin
+  title: Region Feature Disentanglement for Domain Adaptive Object Detection.
+  venue: ICANN
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icann/WangWJ23
+  doi: 10.1007/978-3-031-44195-0_15
+  ee: https://doi.org/10.1007/978-3-031-44195-0_15
+  url: https://dblp.org/rec/conf/icann/WangWJ23
+- author: Wenya Lu, Zhibin Peng, Cheng Luo, Weicheng Xie 0001, Jiajun Wen 0001, Zhihui
+    Lai 0001, Linlin Shen
+  title: Multi Task-Based Facial Expression Synthesis with Supervision Learning and
+    Feature Disentanglement of Image Style.
+  venue: ICIP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icip/LuPLXWLS23
+  doi: 10.1109/ICIP49359.2023.10223136
+  ee: https://doi.org/10.1109/ICIP49359.2023.10223136
+  url: https://dblp.org/rec/conf/icip/LuPLXWLS23
+- author: Weiduo Wang, Yun Gu, Jie Yang
+  title: Variational Feature Disentanglement for Few-Shot Domain Adaptation.
+  venue: ICIP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icip/WangGY23
+  doi: 10.1109/ICIP49359.2023.10222861
+  ee: https://doi.org/10.1109/ICIP49359.2023.10222861
+  url: https://dblp.org/rec/conf/icip/WangGY23
+- author: Xin Ren, Juan Luo, Xionghu Zhong, Minjie Cai
+  title: Emotion-Aware Audio-Driven Face Animation via Contrastive Feature Disentanglement.
+  venue: INTERSPEECH
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/interspeech/RenLZC23
+  doi: 10.21437/INTERSPEECH.2023-358
+  ee: https://doi.org/10.21437/Interspeech.2023-358
+  url: https://dblp.org/rec/conf/interspeech/RenLZC23
+- author: "Dwarikanath Mahapatra, Antonio Jos\xE9 Jimeno-Yepes, Shiba Kuanar, Sudipta\
+    \ Roy 0002, Behzad Bozorgtabar, Mauricio Reyes 0001, Zongyuan Ge"
+  title: Class Specific Feature Disentanglement and Text Embeddings for Multi-label
+    Generalized Zero Shot CXR Classification.
+  venue: MICCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/MahapatraJKRBRG23
+  doi: 10.1007/978-3-031-43895-0_26
+  ee: https://doi.org/10.1007/978-3-031-43895-0_26
+  url: https://dblp.org/rec/conf/miccai/MahapatraJKRBRG23
+- author: Zhenguang Liu, Xinyang Yu, Ruili Wang, Shuai Ye, Zhe Ma 0002, Jianfeng Dong,
+    Sifeng He, Feng Qian, Xiaobo Zhang, Roger Zimmermann, Lei Yang 0061
+  title: Video Infringement Detection via Feature Disentanglement and Mutual Information
+    Maximization.
+  venue: ACM Multimedia
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/LiuYWYMDHQZZY23
+  doi: 10.1145/3581783.3612002
+  ee: https://doi.org/10.1145/3581783.3612002
+  url: https://dblp.org/rec/conf/mm/LiuYWYMDHQZZY23
+- author: Jiahao Fan, Xiaogang Hu
+  title: Privacy-Preserving Motor Intent Classification via Feature Disentanglement.
+  venue: NER
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ner/FanH23
+  doi: 10.1109/NER52421.2023.10123842
+  ee: https://doi.org/10.1109/NER52421.2023.10123842
+  url: https://dblp.org/rec/conf/ner/FanH23
+- author: Zheng Li, Weibo Cai, Junhao Dong, Jianhuang Lai, Xiaohua Xie
+  title: Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking.
+  venue: PRCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/LiCDLX23
+  doi: 10.1007/978-981-99-8555-5_6
+  ee: https://doi.org/10.1007/978-981-99-8555-5_6
+  url: https://dblp.org/rec/conf/prcv/LiCDLX23
+- author: Yuhao Guo, Tiancheng Zhou, Wenzheng Chi, Feng Zhou, Peng Qi 0001, Ling Li,
+    Lining Sun, Bo Lu 0001
+  title: 'SIT-Net: Surgical Image Translation Network Using a Generative Adversarial
+    Method with Visual Feature Disentanglement.'
+  venue: RCAR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/rcar/GuoZCZQLSL23
+  doi: 10.1109/RCAR58764.2023.10249868
+  ee: https://doi.org/10.1109/RCAR58764.2023.10249868
+  url: https://dblp.org/rec/conf/rcar/GuoZCZQLSL23
+- author: Hongli Liu, Shaoxian Zhu, Liu Yang, Qiang Li 0017, Jingran Lin
+  title: Receiver-Agnostic Radio Frequency Fingerprint Identification via Feature
+    Disentanglement.
+  venue: SPAWC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/spawc/LiuZYLL23
+  doi: 10.1109/SPAWC53906.2023.10304544
+  ee: https://doi.org/10.1109/SPAWC53906.2023.10304544
+  url: https://dblp.org/rec/conf/spawc/LiuZYLL23
+- author: Sanghyuk Lee, Daeha Kim, Byung Cheol Song
+  title: Foreground-Background Disentanglement based on Image and Feature Co-Learning
+    for 3D-Aware Generative Models.
+  venue: VCIP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/vcip/LeeKS23
+  doi: 10.1109/VCIP59821.2023.10402722
+  ee: https://doi.org/10.1109/VCIP59821.2023.10402722
+  url: https://dblp.org/rec/conf/vcip/LeeKS23
+- author: Minjung Kim 0002, MyeongAh Cho, Sangyoun Lee
+  title: Feature Disentanglement Learning with Switching and Aggregation for Video-based
+    Person Re-Identification.
+  venue: WACV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/KimCL23
+  doi: 10.1109/WACV56688.2023.00165
+  ee: https://doi.org/10.1109/WACV56688.2023.00165
+  url: https://dblp.org/rec/conf/wacv/KimCL23
+- author: Dingxin Zhang, Jianhui Yu, Chaoyi Zhang, Weidong Cai 0001
+  title: 'PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement
+    and Pose Restoration.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-02535
+  doi: 10.48550/ARXIV.2302.02535
+  ee: https://doi.org/10.48550/arXiv.2302.02535
+  url: https://dblp.org/rec/journals/corr/abs-2302-02535
+- author: Jiawei Qin, Takuru Shimoyama, Xucong Zhang, Yusuke Sugano
+  title: Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature
+    Disentanglement.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-16140
+  doi: 10.48550/ARXIV.2305.16140
+  ee: https://doi.org/10.48550/arXiv.2305.16140
+  url: https://dblp.org/rec/journals/corr/abs-2305-16140
+- author: Berker Demirel, Erchan Aptoula, Huseyin Ozkan
+  title: 'ADRMX: Additive Disentanglement of Domain Features with Remix Loss.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-06624
+  doi: 10.48550/ARXIV.2308.06624
+  ee: https://doi.org/10.48550/arXiv.2308.06624
+  url: https://dblp.org/rec/journals/corr/abs-2308-06624
+- author: Yiming Wu
+  title: Self-Supervised Disentanglement of Harmonic and Rhythmic Features in Music
+    Audio Signals.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-02796
+  doi: 10.48550/ARXIV.2309.02796
+  ee: https://doi.org/10.48550/arXiv.2309.02796
+  url: https://dblp.org/rec/journals/corr/abs-2309-02796
+- author: Zhenguang Liu, Xinyang Yu, Ruili Wang, Shuai Ye, Zhe Ma 0002, Jianfeng Dong,
+    Sifeng He, Feng Qian, Xiaobo Zhang, Roger Zimmermann, Lei Yang 0061
+  title: Video Infringement Detection via Feature Disentanglement and Mutual Information
+    Maximization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-06877
+  doi: 10.48550/ARXIV.2309.06877
+  ee: https://doi.org/10.48550/arXiv.2309.06877
+  url: https://dblp.org/rec/journals/corr/abs-2309-06877
+- author: Hao Chen, Qi Zhang, Zenan Huang, Haobo Wang, Junbo Zhao 0002
+  title: Towards Domain-Specific Features Disentanglement for Domain Generalization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-03007
+  doi: 10.48550/ARXIV.2310.03007
+  ee: https://doi.org/10.48550/arXiv.2310.03007
+  url: https://dblp.org/rec/journals/corr/abs-2310-03007
+- author: Yaguan Qian, Chenyu Zhao, Zhaoquan Gu, Bin Wang 0062, Shouling Ji, Wei Wang,
+    Boyang Zhou, Pan Zhou 0001
+  title: 'F2AT: Feature-Focusing Adversarial Training via Disentanglement of Natural
+    and Perturbed Patterns.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-14561
+  doi: 10.48550/ARXIV.2310.14561
+  ee: https://doi.org/10.48550/arXiv.2310.14561
+  url: https://dblp.org/rec/journals/corr/abs-2310-14561
+- author: Jia Zhai, Hui Liu
+  title: Cross-domain feature disentanglement for interpretable modeling of tumor
+    microenvironment impact on drug response.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-09264
+  doi: 10.48550/ARXIV.2311.09264
+  ee: https://doi.org/10.48550/arXiv.2311.09264
+  url: https://dblp.org/rec/journals/corr/abs-2311-09264
+- author: Rui Song 0008, Fausto Giunchiglia, Yingji Li, Mingjie Tian, Hao Xu 0012
+  title: 'TACIT: A Target-Agnostic Feature Disentanglement Framework for Cross-Domain
+    Text Classification.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-17263
+  doi: 10.48550/ARXIV.2312.17263
+  ee: https://doi.org/10.48550/arXiv.2312.17263
+  url: https://dblp.org/rec/journals/corr/abs-2312-17263
+- author: Yande Li, Yonggang Lu, Minglun Gong, Li Liu 0001, Ligang Zhao
+  title: Dual-channel feature disentanglement for identity-invariant facial expression
+    recognition.
+  venue: Inf. Sci.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/LiLGLZ22
+  doi: 10.1016/J.INS.2022.06.087
+  ee: https://doi.org/10.1016/j.ins.2022.06.087
+  url: https://dblp.org/rec/journals/isci/LiLGLZ22
+- author: Sureerat Reaungamornrat, Hasan Sari, Ciprian Catana, Ali Kamen
+  title: Multimodal image synthesis based on disentanglement representations of anatomical
+    and modality specific features, learned using uncooperative relativistic GAN.
+  venue: Medical Image Anal.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/ReaungamornratS22
+  doi: 10.1016/J.MEDIA.2022.102514
+  ee: https://doi.org/10.1016/j.media.2022.102514
+  url: https://dblp.org/rec/journals/mia/ReaungamornratS22
+- author: Ziyi Wang 0006, Bo Lu 0001, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong
+    Cheung, Pheng-Ann Heng, Qi Dou 0001, Yunhui Liu 0001
+  title: Unsupervised feature disentanglement for video retrieval in minimally invasive
+    surgery.
+  venue: Medical Image Anal.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/WangLGJWCHDL22
+  doi: 10.1016/J.MEDIA.2021.102296
+  ee: https://doi.org/10.1016/j.media.2021.102296
+  url: https://dblp.org/rec/journals/mia/WangLGJWCHDL22
+- author: Haoliang Li, Shiqi Wang 0001, Renjie Wan, Alex C. Kot
+  title: 'GMFAD: Towards Generalized Visual Recognition via Multilayer Feature Alignment
+    and Disentanglement.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LiWWK22
+  doi: 10.1109/TPAMI.2020.3020554
+  ee: https://doi.org/10.1109/TPAMI.2020.3020554
+  url: https://dblp.org/rec/journals/pami/LiWWK22
+- author: Tao Hu, Yiming Guo, Liudong Gu, Yifan Zhou, Zhisheng Zhang, Zhiting Zhou
+  title: Remaining useful life prediction of bearings under different working conditions
+    using a deep feature disentanglement based transfer learning method.
+  venue: Reliab. Eng. Syst. Saf.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/ress/HuGGZZZ22
+  doi: 10.1016/J.RESS.2021.108265
+  ee: https://doi.org/10.1016/j.ress.2021.108265
+  url: https://dblp.org/rec/journals/ress/HuGGZZZ22
+- author: "Wanxia Deng, Lingjun Zhao, Qing Liao 0001, Deke Guo, Gangyao Kuang, Dewen\
+    \ Hu, Matti Pietik\xE4inen, Li Liu 0002"
+  title: Informative Feature Disentanglement for Unsupervised Domain Adaptation.
+  venue: IEEE Trans. Multim.
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/tmm/DengZLGKHPL22
+  doi: 10.1109/TMM.2021.3080516
+  ee: https://doi.org/10.1109/TMM.2021.3080516
+  url: https://dblp.org/rec/journals/tmm/DengZLGKHPL22
+- author: Heonseok Ha, Jaehee Jang, Yonghyun Jeong, Sungroh Yoon
+  title: Membership Feature Disentanglement Network.
+  venue: AsiaCCS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/asiaccs/HaJJY22
+  doi: 10.1145/3488932.3497772
+  ee: https://doi.org/10.1145/3488932.3497772
+  url: https://dblp.org/rec/conf/asiaccs/HaJJY22
+- author: Bo Yan, Quanwei Wu, Yi Wang 0017
+  title: Disentanglement of Deep Features for Adversarial Face Detection.
+  venue: CCBR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccbr/YanWW22
+  doi: 10.1007/978-3-031-20233-9_15
+  ee: https://doi.org/10.1007/978-3-031-20233-9_15
+  url: https://dblp.org/rec/conf/ccbr/YanWW22
+- author: Simone Foti, Bongjin Koo, Danail Stoyanov, Matthew J. Clarkson
+  title: 3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature
+    Swapping for Bodies and Faces.
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/FotiKSC22
+  doi: 10.1109/CVPR52688.2022.01817
+  ee: https://doi.org/10.1109/CVPR52688.2022.01817
+  url: https://dblp.org/rec/conf/cvpr/FotiKSC22
+- author: Dwarikanath Mahapatra, Steven Korevaar, Behzad Bozorgtabar, Ruwan B. Tennakoon
+  title: Unsupervised Domain Adaptation Using Feature Disentanglement and GCNs for
+    Medical Image Classification.
+  venue: ECCV Workshops
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/MahapatraKBT22
+  doi: 10.1007/978-3-031-25082-8_50
+  ee: https://doi.org/10.1007/978-3-031-25082-8_50
+  url: https://dblp.org/rec/conf/eccv/MahapatraKBT22
+- author: Aditya Panda, Bikash Santra, Dipti Prasad Mukherjee
+  title: Bi-Modal Compositional Network for Feature Disentanglement.
+  venue: ICIP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icip/PandaSM22
+  doi: 10.1109/ICIP46576.2022.9897457
+  ee: https://doi.org/10.1109/ICIP46576.2022.9897457
+  url: https://dblp.org/rec/conf/icip/PandaSM22
+- author: "Kaifeng Zou, Sylvain Faisan, Fabrice Heitz, S\xE9bastien Valette"
+  title: Joint Disentanglement of Labels and Their Features with VAE.
+  venue: ICIP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icip/ZouFHV22
+  doi: 10.1109/ICIP46576.2022.9898046
+  ee: https://doi.org/10.1109/ICIP46576.2022.9898046
+  url: https://dblp.org/rec/conf/icip/ZouFHV22
+- author: Tiantian He, Zhibin Li 0002, Yongshun Gong, Yazhou Yao, Xiushan Nie, Yilong
+    Yin
+  title: Exploring Linear Feature Disentanglement for Neural Networks.
+  venue: ICME
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/He0GYNY22
+  doi: 10.1109/ICME52920.2022.9859978
+  ee: https://doi.org/10.1109/ICME52920.2022.9859978
+  url: https://dblp.org/rec/conf/icmcs/He0GYNY22
+- author: Lei Zhang 0024, Qingyang Chen, Zhilei Liu
+  title: Talking Head Generation for Media Interaction System with Feature Disentanglement.
+  venue: ICPADS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icpads/ZhangCL22
+  doi: 10.1109/ICPADS56603.2022.00059
+  ee: https://doi.org/10.1109/ICPADS56603.2022.00059
+  url: https://dblp.org/rec/conf/icpads/ZhangCL22
+- author: Sneha Saha, Leandro L. Minku, Xin Yao 0001, Bernhard Sendhoff, Stefan Menzel
+  title: 'Split-AE: An Autoencoder-based Disentanglement Framework for 3D Shape-to-shape
+    Feature Transfer.'
+  venue: IJCNN
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/SahaMYSM22
+  doi: 10.1109/IJCNN55064.2022.9892814
+  ee: https://doi.org/10.1109/IJCNN55064.2022.9892814
+  url: https://dblp.org/rec/conf/ijcnn/SahaMYSM22
+- author: Meng-Shiun Tsai, Pei-Ze Chiang, Yi-Hsuan Tsai, Wei-Chen Chiu
+  title: Self-Supervised Feature Learning from Partial Point Clouds via Pose Disentanglement.
+  venue: IROS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/TsaiCTC22
+  doi: 10.1109/IROS47612.2022.9981390
+  ee: https://doi.org/10.1109/IROS47612.2022.9981390
+  url: https://dblp.org/rec/conf/iros/TsaiCTC22
+- author: Haoxuan Che, Haibo Jin, Hao Chen 0011
+  title: Learning Robust Representation for Joint Grading of Ophthalmic Diseases via
+    Adaptive Curriculum and Feature Disentanglement.
+  venue: MICCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/CheJC22
+  doi: 10.1007/978-3-031-16437-8_50
+  ee: https://doi.org/10.1007/978-3-031-16437-8_50
+  url: https://dblp.org/rec/conf/miccai/CheJC22
+- author: Yuan Xue 0002, Blake E. Dewey, Lianrui Zuo, Shuo Han 0001, Aaron Carass,
+    Peiyu Duan, Samuel W. Remedios, Dzung L. Pham, Shiv Saidha, Peter A. Calabresi,
+    Jerry L. Prince
+  title: Bi-directional Synthesis of Pre- and Post-contrast MRI via Guided Feature
+    Disentanglement.
+  venue: SASHIMI@MICCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/XueDZHCDRPSCP22
+  doi: 10.1007/978-3-031-16980-9_6
+  ee: https://doi.org/10.1007/978-3-031-16980-9_6
+  url: https://dblp.org/rec/conf/miccai/XueDZHCDRPSCP22
+- author: Minghui Zhang, Hanxiao Zhang, Guang-Zhong Yang, Yun Gu
+  title: 'CFDA: Collaborative Feature Disentanglement and Augmentation for Pulmonary
+    Airway Tree Modeling of COVID-19 CTs.'
+  venue: MICCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/ZhangZYG22
+  doi: 10.1007/978-3-031-16431-6_48
+  ee: https://doi.org/10.1007/978-3-031-16431-6_48
+  url: https://dblp.org/rec/conf/miccai/ZhangZYG22
+- author: Dwarikanath Mahapatra, Zongyuan Ge
+  title: MR Image Super Resolution By Combining Feature Disentanglement CNNs and Vision
+    Transformers.
+  venue: MIDL
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/midl/MahapatraG22
+  doi: ''
+  ee: https://proceedings.mlr.press/v172/mahapatra22a.html
+  url: https://dblp.org/rec/conf/midl/MahapatraG22
+- author: Jingye Wang, Ruoyi Du, Dongliang Chang, Kongming Liang, Zhanyu Ma
+  title: Domain Generalization via Frequency-domain-based Feature Disentanglement
+    and Interaction.
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/WangDCLM22
+  doi: 10.1145/3503161.3548267
+  ee: https://doi.org/10.1145/3503161.3548267
+  url: https://dblp.org/rec/conf/mm/WangDCLM22
+- author: Shiting Xu, Zhiheng Zhou, Junyuan Shang
+  title: Asymmetric Adversarial-based Feature Disentanglement Learning for Cross-Database
+    Micro-Expression Recognition.
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/XuZS22
+  doi: 10.1145/3503161.3548435
+  ee: https://doi.org/10.1145/3503161.3548435
+  url: https://dblp.org/rec/conf/mm/XuZS22
+- author: Dongnan Liu, Chaoyi Zhang, Yang Song 0001, Heng Huang, Chenyu Wang 0001,
+    Michael Barnett 0006, Weidong Cai 0001
+  title: 'Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-01929
+  doi: ''
+  ee: https://arxiv.org/abs/2201.01929
+  url: https://dblp.org/rec/journals/corr/abs-2201-01929
+- author: Meng-Shiun Tsai, Pei-Ze Chiang, Yi-Hsuan Tsai, Wei-Chen Chiu
+  title: Self-Supervised Feature Learning from Partial Point Clouds via Pose Disentanglement.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-03018
+  doi: ''
+  ee: https://arxiv.org/abs/2201.03018
+  url: https://dblp.org/rec/journals/corr/abs-2201-03018
+- author: Jingye Wang, Ruoyi Du, Dongliang Chang, Zhanyu Ma
+  title: Domain Generalization via Frequency-based Feature Disentanglement and Interaction.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-08029
+  doi: ''
+  ee: https://arxiv.org/abs/2201.08029
+  url: https://dblp.org/rec/journals/corr/abs-2201-08029
+- author: Haozhuo Zhang, Huimin Yu, Yuming Yan, Runfa Wang
+  title: Gated Domain-Invariant Feature Disentanglement for Domain Generalizable Object
+    Detection.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-11432
+  doi: 10.48550/ARXIV.2203.11432
+  ee: https://doi.org/10.48550/arXiv.2203.11432
+  url: https://dblp.org/rec/journals/corr/abs-2203-11432
+- author: Tiantian He, Zhibin Li 0002, Yongshun Gong, Yazhou Yao, Xiushan Nie, Yilong
+    Yin
+  title: Exploring Linear Feature Disentanglement For Neural Networks.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-11700
+  doi: 10.48550/ARXIV.2203.11700
+  ee: https://doi.org/10.48550/arXiv.2203.11700
+  url: https://dblp.org/rec/journals/corr/abs-2203-11700
+- author: Jingzhe Ma, Shiqi Yu 0001
+  title: Human Identity-Preserved Motion Retargeting in Video Synthesis by Feature
+    Disentanglement.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2204-06862
+  doi: 10.48550/ARXIV.2204.06862
+  ee: https://doi.org/10.48550/arXiv.2204.06862
+  url: https://dblp.org/rec/journals/corr/abs-2204-06862
+- author: Shuyu Miao, Lin Zheng, Hong Jin
+  title: Learning Feature Disentanglement and Dynamic Fusion for Recaptured Image
+    Forensic.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2206-06103
+  doi: 10.48550/ARXIV.2206.06103
+  ee: https://doi.org/10.48550/arXiv.2206.06103
+  url: https://dblp.org/rec/journals/corr/abs-2206-06103
+- author: Dwarikanath Mahapatra
+  title: Unsupervised Domain Adaptation Using Feature Disentanglement And GCNs For
+    Medical Image Classification.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2206-13123
+  doi: 10.48550/ARXIV.2206.13123
+  ee: https://doi.org/10.48550/arXiv.2206.13123
+  url: https://dblp.org/rec/journals/corr/abs-2206-13123
+- author: Haoxuan Che, Haibo Jin, Hao Chen 0011
+  title: Learning Robust Representation for Joint Grading of Ophthalmic Diseases via
+    Adaptive Curriculum and Feature Disentanglement.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-04183
+  doi: 10.48550/ARXIV.2207.04183
+  ee: https://doi.org/10.48550/arXiv.2207.04183
+  url: https://dblp.org/rec/journals/corr/abs-2207-04183
+- author: Minjung Kim 0002, MyeongAh Cho, Sangyoun Lee
+  title: Feature Disentanglement Learning with Switching and Aggregation for Video-based
+    Person Re-Identification.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2212-09498
+  doi: 10.48550/ARXIV.2212.09498
+  ee: https://doi.org/10.48550/arXiv.2212.09498
+  url: https://dblp.org/rec/journals/corr/abs-2212-09498
+- author: Guoyi Yu, You Wu, Jing Xiao 0005, Yang Cao
+  title: A Novel Pyramid Network with Feature Fusion and Disentanglement for Object
+    Detection.
+  venue: Comput. Intell. Neurosci.
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/cin/YuWXC21
+  doi: 10.1155/2021/6685954
+  ee: https://doi.org/10.1155/2021/6685954
+  url: https://dblp.org/rec/journals/cin/YuWXC21
+- author: Hyungjin Chung, Jong Chul Ye
+  title: 'Reusability report: Feature disentanglement in generating a three-dimensional
+    structure from a two-dimensional slice with sliceGAN.'
+  venue: Nat. Mach. Intell.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/natmi/ChungY21
+  doi: 10.1038/S42256-021-00400-4
+  ee: https://doi.org/10.1038/s42256-021-00400-4
+  url: https://dblp.org/rec/journals/natmi/ChungY21
+- author: Chia-Ching Lin, Hsin-Li Chu, Yu-Chiang Frank Wang, Chin-Laung Lei
+  title: Joint Feature Disentanglement and Hallucination for Few-Shot Image Classification.
+  venue: IEEE Trans. Image Process.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/LinCWL21
+  doi: 10.1109/TIP.2021.3124322
+  ee: https://doi.org/10.1109/TIP.2021.3124322
+  url: https://dblp.org/rec/journals/tip/LinCWL21
+- author: Bin Cheng, Tao Dai 0001, Bin Chen 0011, Shutao Xia, Xiu Li 0001
+  title: Efficient Face Manipulation Via Deep Feature Disentanglement And Reintegration
+    Net.
+  venue: ICASSP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/ChengDCXL21
+  doi: 10.1109/ICASSP39728.2021.9415043
+  ee: https://doi.org/10.1109/ICASSP39728.2021.9415043
+  url: https://dblp.org/rec/conf/icassp/ChengDCXL21
+- author: Jie Wang, Chaoliang Zhong, Cheng Feng, Jun Sun 0004, Yasuto Yokota
+  title: Feature Disentanglement For Cross-Domain Retina Vessel Segmentation.
+  venue: ICIP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icip/WangZFSY21
+  doi: 10.1109/ICIP42928.2021.9506124
+  ee: https://doi.org/10.1109/ICIP42928.2021.9506124
+  url: https://dblp.org/rec/conf/icip/WangZFSY21
+- author: Wanlu Xu, Hong Liu 0008, Wei Shi 0009, Ziling Miao, Zhisheng Lu, Feihu Chen
+  title: Adversarial Feature Disentanglement for Long-Term Person Re-identification.
+  venue: IJCAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/XuLSMLC21
+  doi: 10.24963/IJCAI.2021/166
+  ee: https://doi.org/10.24963/ijcai.2021/166
+  url: https://dblp.org/rec/conf/ijcai/XuLSMLC21
+- author: Manh Luong, Viet-Anh Tran
+  title: Many-to-Many Voice Conversion Based Feature Disentanglement Using Variational
+    Autoencoder.
+  venue: Interspeech
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/interspeech/LuongT21
+  doi: 10.21437/INTERSPEECH.2021-2086
+  ee: https://doi.org/10.21437/Interspeech.2021-2086
+  url: https://dblp.org/rec/conf/interspeech/LuongT21
+- author: Zhizheng Zhang 0004, Cuiling Lan, Wenjun Zeng 0001, Quanzeng You, Zicheng
+    Liu 0001, Kecheng Zheng, Zhibo Chen 0001
+  title: Disentanglement-based Cross-Domain Feature Augmentation for Effective Unsupervised
+    Domain Adaptive Person Re-identification.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2103-13917
+  doi: ''
+  ee: https://arxiv.org/abs/2103.13917
+  url: https://dblp.org/rec/journals/corr/abs-2103-13917
+- author: Maxim A. Ziatdinov, Sergei V. Kalinin
+  title: 'Robust Feature Disentanglement in Imaging Data via Joint Invariant Variational
+    Autoencoders: from Cards to Atoms.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2104-10180
+  doi: ''
+  ee: https://arxiv.org/abs/2104.10180
+  url: https://dblp.org/rec/journals/corr/abs-2104-10180
+- author: Hyungjin Chung, Jong Chul Ye
+  title: Feature Disentanglement in generating three-dimensional structure from two-dimensional
+    slice with sliceGAN.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-00194
+  doi: ''
+  ee: https://arxiv.org/abs/2105.00194
+  url: https://dblp.org/rec/journals/corr/abs-2105-00194
+- author: Yuchen Fei, Bo Zhan, Mei Hong, Xi Wu 0004, Jiliu Zhou, Yan Wang 0015
+  title: Deep Learning based Multi-modal Computing with Feature Disentanglement for
+    MRI Image Synthesis.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-02835
+  doi: ''
+  ee: https://arxiv.org/abs/2105.02835
+  url: https://dblp.org/rec/journals/corr/abs-2105-02835
+- author: Tieyun Qian, Yile Liang, Qing Li 0001, Xuan Ma, Ke Sun 0006, Zhiyong Peng
+    0001
+  title: Intent Disentanglement and Feature Self-supervision for Novel Recommendation.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2106-14388
+  doi: ''
+  ee: https://arxiv.org/abs/2106.14388
+  url: https://dblp.org/rec/journals/corr/abs-2106-14388
+- author: Manh Luong, Viet-Anh Tran
+  title: Many-to-Many Voice Conversion based Feature Disentanglement using Variational
+    Autoencoder.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2107-06642
+  doi: ''
+  ee: https://arxiv.org/abs/2107.06642
+  url: https://dblp.org/rec/journals/corr/abs-2107-06642
+- author: Simone Foti, Bongjin Koo, Danail Stoyanov, Matthew J. Clarkson
+  title: 3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature
+    Swapping for Bodies and Faces.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2111-12448
+  doi: ''
+  ee: https://arxiv.org/abs/2111.12448
+  url: https://dblp.org/rec/journals/corr/abs-2111-12448
+- author: "Matias Valdenegro-Toro, Daniel Harnack, Hendrik W\xF6hrle"
+  title: Feature Disentanglement of Robot Trajectories.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2112-03164
+  doi: ''
+  ee: https://arxiv.org/abs/2112.03164
+  url: https://dblp.org/rec/journals/corr/abs-2112-03164
+- author: Wen-Chin Huang, Hao Luo, Hsin-Te Hwang, Chen-Chou Lo, Yu-Huai Peng, Yu Tsao
+    0001, Hsin-Min Wang
+  title: Unsupervised Representation Disentanglement Using Cross Domain Features and
+    Adversarial Learning in Variational Autoencoder Based Voice Conversion.
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2020'
+  type: Journal Articles
+  access: open
+  key: journals/tetci/HuangLHLPTW20
+  doi: 10.1109/TETCI.2020.2977678
+  ee: https://doi.org/10.1109/TETCI.2020.2977678
+  url: https://dblp.org/rec/journals/tetci/HuangLHLPTW20
+- author: "Blaz Bortolato, Marija Ivanovska, Peter Rot, Janez Krizaj, Philipp Terh\xF6\
+    rst, Naser Damer, Peter Peer, Vitomir Struc"
+  title: Learning privacy-enhancing face representations through feature disentanglement.
+  venue: FG
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/fgr/BortolatoIRKTDP20
+  doi: 10.1109/FG47880.2020.00007
+  ee: https://doi.org/10.1109/FG47880.2020.00007
+  url: https://dblp.org/rec/conf/fgr/BortolatoIRKTDP20
+- author: Li Tang 0006, Yue Wang 0020, Qianhui Luo, Xiaqing Ding, Rong Xiong
+  title: Adversarial Feature Disentanglement for Place Recognition Across Changing
+    Appearance.
+  venue: ICRA
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/00060LDX20
+  doi: 10.1109/ICRA40945.2020.9196518
+  ee: https://doi.org/10.1109/ICRA40945.2020.9196518
+  url: https://dblp.org/rec/conf/icra/00060LDX20
+- author: Chunze Lin, Ruixiang Tang, Darryl D. Lin, Langechuan Liu, Jiwen Lu, Yunqiang
+    Chen, Dashan Gao 0001, Jie Zhou 0001
+  title: Deep Feature Disentanglement Learning for Bone Suppression in Chest Radiographs.
+  venue: ISBI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isbi/LinTLLLCG020
+  doi: 10.1109/ISBI45749.2020.9098399
+  ee: https://doi.org/10.1109/ISBI45749.2020.9098399
+  url: https://dblp.org/rec/conf/isbi/LinTLLLCG020
+- author: Padmaja Jonnalagedda, Brent D. Weinberg, Jason Allen, Bir Bhanu
+  title: Feature Disentanglement to Aid Imaging Biomarker Characterization for Genetic
+    Mutations.
+  venue: MIDL
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/midl/JonnalageddaWAB20
+  doi: ''
+  ee: http://proceedings.mlr.press/v121/jonnalagedda20a.html
+  url: https://dblp.org/rec/conf/midl/JonnalageddaWAB20
+- author: Wen-Chin Huang, Hao Luo, Hsin-Te Hwang, Chen-Chou Lo, Yu-Huai Peng, Yu Tsao
+    0001, Hsin-Min Wang
+  title: Unsupervised Representation Disentanglement using Cross Domain Features and
+    Adversarial Learning in Variational Autoencoder based Voice Conversion.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2001-07849
+  doi: ''
+  ee: https://arxiv.org/abs/2001.07849
+  url: https://dblp.org/rec/journals/corr/abs-2001-07849
+- author: Cheng Chen 0013, Qi Dou 0001, Yueming Jin, Hao Chen 0011, Jing Qin 0001,
+    Pheng-Ann Heng
+  title: Robust Multimodal Brain Tumor Segmentation via Feature Disentanglement and
+    Gated Fusion.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2002-09708
+  doi: ''
+  ee: https://arxiv.org/abs/2002.09708
+  url: https://dblp.org/rec/journals/corr/abs-2002-09708
+- author: Qingjie Meng, Daniel Rueckert, Bernhard Kainz
+  title: Learning Cross-domain Generalizable Features by Representation Disentanglement.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2003-00321
+  doi: ''
+  ee: https://arxiv.org/abs/2003.00321
+  url: https://dblp.org/rec/journals/corr/abs-2003-00321
+- author: Zuowen Wang, Leo Horne
+  title: Understanding (Non-)Robust Feature Disentanglement and the Relationship Between
+    Low- and High-Dimensional Adversarial Attacks.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2004-01903
+  doi: ''
+  ee: https://arxiv.org/abs/2004.01903
+  url: https://dblp.org/rec/journals/corr/abs-2004-01903
+- author: Lihua Zhou, Mao Ye 0001, Xinpeng Li 0005, Ce Zhu, Yiguang Liu, Xue Li 0001
+  title: 'Disentanglement Then Reconstruction: Learning Compact Features for Unsupervised
+    Domain Adaptation.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2005-13947
+  doi: ''
+  ee: https://arxiv.org/abs/2005.13947
+  url: https://dblp.org/rec/journals/corr/abs-2005-13947
+- author: Shang-Fu Chen, Jia-Wei Yan, Ya-Fan Su, Yu-Chiang Frank Wang
+  title: Deep Representation Decomposition for Feature Disentanglement.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2011-00788
+  doi: ''
+  ee: https://arxiv.org/abs/2011.00788
+  url: https://dblp.org/rec/journals/corr/abs-2011-00788
+- author: Zhejian Zhang, Rui Zhang 0012, Qiu-Feng Wang 0001, Kaizhu Huang
+  title: Improving Disentanglement-Based Image-to-Image Translation with Feature Joint
+    Block Fusion.
+  venue: BICS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bics/ZhangZWH19
+  doi: 10.1007/978-3-030-39431-8_52
+  ee: https://doi.org/10.1007/978-3-030-39431-8_52
+  url: https://dblp.org/rec/conf/bics/ZhangZWH19
+- author: Bin Tong, Chao Wang, Martin Klinkigt, Yoshiyuki Kobayashi, Yuuichi Nonaka
+  title: Hierarchical Disentanglement of Discriminative Latent Features for Zero-Shot
+    Learning.
+  venue: CVPR
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/TongWKKN19
+  doi: 10.1109/CVPR.2019.01173
+  ee: http://openaccess.thecvf.com/content_CVPR_2019/html/Tong_Hierarchical_Disentanglement_of_Discriminative_Latent_Features_for_Zero-Shot_Learning_CVPR_2019_paper.html
+  url: https://dblp.org/rec/conf/cvpr/TongWKKN19
+- author: Cheng Chen 0013, Qi Dou 0001, Yueming Jin, Hao Chen 0011, Jing Qin 0001,
+    Pheng-Ann Heng
+  title: Robust Multimodal Brain Tumor Segmentation via Feature Disentanglement and
+    Gated Fusion.
+  venue: MICCAI
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/ChenDJCQH19
+  doi: 10.1007/978-3-030-32248-9_50
+  ee: https://doi.org/10.1007/978-3-030-32248-9_50
+  url: https://dblp.org/rec/conf/miccai/ChenDJCQH19
+- author: Ruho Kondo, Keisuke Kawano, Satoshi Koide, Takuro Kutsuna
+  title: Flow-based Image-to-Image Translation with Feature Disentanglement.
+  venue: NeurIPS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/KondoKKK19
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2019/hash/ffedf5be3a86e2ee281d54cdc97bc1cf-Abstract.html
+  url: https://dblp.org/rec/conf/nips/KondoKKK19
+- author: Zhiwen Shao, Jianfei Cai 0001, Tat-Jen Cham, Xuequan Lu, Lizhuang Ma
+  title: Weakly-Supervised Unconstrained Action Unit Detection via Feature Disentanglement.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1903-10143
+  doi: ''
+  ee: http://arxiv.org/abs/1903.10143
+  url: https://dblp.org/rec/journals/corr/abs-1903-10143
+- author: Jake Levinson, Avneesh Sud, Ameesh Makadia
+  title: Latent feature disentanglement for 3D meshes.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1906-03281
+  doi: ''
+  ee: http://arxiv.org/abs/1906.03281
+  url: https://dblp.org/rec/journals/corr/abs-1906-03281
+- author: Xi Peng 0005, Xiang Yu 0002, Kihyuk Sohn, Dimitris N. Metaxas, Manmohan
+    Chandraker
+  title: Reconstruction for Feature Disentanglement in Pose-invariant Face Recognition.
+  venue: CoRR
+  year: '2017'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/PengYSMC17
+  doi: ''
+  ee: http://arxiv.org/abs/1702.03041
+  url: https://dblp.org/rec/journals/corr/PengYSMC17
