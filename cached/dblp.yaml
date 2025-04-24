@@ -18628,6 +18628,82 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-97-5600-1_21
   ee: https://doi.org/10.1007/978-981-97-5600-1_21
   url: https://dblp.org/rec/conf/icic/SunYPWP24
+- author: Xinzhe Xie, Buyu Guo, Peiliang Li 0003, Shuangyan He, Sangjun Zhou
+  title: Multi-focus image fusion with visual state space model and dual adversarial
+    learning.
+  venue: Comput. Electr. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/XieGLHZ25
+  doi: 10.1016/J.COMPELECENG.2025.110238
+  ee: https://doi.org/10.1016/j.compeleceng.2025.110238
+  url: https://dblp.org/rec/journals/cee/XieGLHZ25
+- author: Sanjay S. J, Akash J, Sreehari Rajan, Dimple A Shajahan, Charu Sharma
+  title: Adversarial Learning Based Knowledge Distillation on 3D Point Clouds.
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/JJRSS25
+  doi: 10.1109/WACV61041.2025.00290
+  ee: https://doi.org/10.1109/WACV61041.2025.00290
+  url: https://dblp.org/rec/conf/wacv/JJRSS25
+- author: Krishna Kanth Nakka, Alexandre Alahi
+  title: 'NAT: Learning to Attack Neurons for Enhanced Adversarial Transferability.'
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/NakkaA25
+  doi: 10.1109/WACV61041.2025.00738
+  ee: https://doi.org/10.1109/WACV61041.2025.00738
+  url: https://dblp.org/rec/conf/wacv/NakkaA25
+- author: Jiayi Luo, Qingyun Sun, Haonan Yuan, Xingcheng Fu, Jianxin Li 0002
+  title: Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free
+    Diffusion-Based Structure Purification.
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/LuoSYF025
+  doi: 10.1145/3696410.3714815
+  ee: https://doi.org/10.1145/3696410.3714815
+  url: https://dblp.org/rec/conf/www/LuoSYF025
+- author: Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Vijay Ganesh
+    0001, Oscar R. Hernandez, Ada Sedova
+  title: 'Robustness of deep learning classification to adversarial input on GPUs:
+    asynchronous parallel accumulation is a source of vulnerability.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-17173
+  doi: 10.48550/ARXIV.2503.17173
+  ee: https://doi.org/10.48550/arXiv.2503.17173
+  url: https://dblp.org/rec/journals/corr/abs-2503-17173
+- author: Man Liu 0002, Wei Zhou 0002, Zeshui Xu
+  title: Transformation and learning of the non-equidimensional hesitant fuzzy information
+    based on an extended generative adversarial network.
+  venue: Inf. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/LiuZX24
+  doi: 10.1016/J.INS.2024.120307
+  ee: https://doi.org/10.1016/j.ins.2024.120307
+  url: https://dblp.org/rec/journals/isci/LiuZX24
+- author: Kai Tan 0007, Dongyang Zhan, Lin Ye, Hongli Zhang 0001, Binxing Fang
+  title: A Practical Adversarial Attack Against Sequence-Based Deep Learning Malware
+    Classifiers.
+  venue: IEEE Trans. Computers
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tc/TanZYZF24
+  doi: 10.1109/TC.2023.3339955
+  ee: https://doi.org/10.1109/TC.2023.3339955
+  url: https://dblp.org/rec/journals/tc/TanZYZF24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
