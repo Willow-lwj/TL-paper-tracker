@@ -18704,6 +18704,17 @@ Adversarial%20Learning:
   doi: 10.1109/TC.2023.3339955
   ee: https://doi.org/10.1109/TC.2023.3339955
   url: https://dblp.org/rec/journals/tc/TanZYZF24
+- author: Yichen Sun, Chi-Man Vong, Shitong Wang 0001
+  title: Adversarial de-overlapping learning machines for supervised and semi-supervised
+    learning.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/SunVW25
+  doi: 10.1007/S13042-024-02389-9
+  ee: https://doi.org/10.1007/s13042-024-02389-9
+  url: https://dblp.org/rec/journals/mlc/SunVW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
