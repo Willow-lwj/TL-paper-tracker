@@ -18715,6 +18715,39 @@ Adversarial%20Learning:
   doi: 10.1007/S13042-024-02389-9
   ee: https://doi.org/10.1007/s13042-024-02389-9
   url: https://dblp.org/rec/journals/mlc/SunVW25
+- author: Aastha Chauhan, Nidhi Singh, Subhajit Sidhanta
+  title: 'Towards Secure Federated Learning: The Impact of Cost-Sensitive Learning
+    on Adversarial Resilience.'
+  venue: HIPCW
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/hipc/ChauhanSS24
+  doi: 10.1109/HIPCW63042.2024.00084
+  ee: https://doi.org/10.1109/HiPCW63042.2024.00084
+  url: https://dblp.org/rec/conf/hipc/ChauhanSS24
+- author: Rongzheng Xiang, Jiajin Huang, Jian Yang 0016
+  title: Contrastive learning with adversarial masking for sequential recommendation.
+  venue: Electron. Commer. Res. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ecra/XiangHY25
+  doi: 10.1016/J.ELERAP.2025.101493
+  ee: https://doi.org/10.1016/j.elerap.2025.101493
+  url: https://dblp.org/rec/journals/ecra/XiangHY25
+- author: Avilash Rath, Youpeng Li, Troy Davis, Braden Bronaugh, Darsh Poddar, Sophia
+    Li, Xinda Wang 0001
+  title: 'When AI Meets Code Analysis: A Study of Adversarial Attacks on Deep Learning-based
+    Code Models via Program Transformation.'
+  venue: ACSAC Workshops
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acsac/RathLDBPL024
+  doi: 10.1109/ACSACW65225.2024.00017
+  ee: https://doi.org/10.1109/ACSACW65225.2024.00017
+  url: https://dblp.org/rec/conf/acsac/RathLDBPL024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
