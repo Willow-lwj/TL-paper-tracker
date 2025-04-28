@@ -18748,6 +18748,17 @@ Adversarial%20Learning:
   doi: 10.1109/ACSACW65225.2024.00017
   ee: https://doi.org/10.1109/ACSACW65225.2024.00017
   url: https://dblp.org/rec/conf/acsac/RathLDBPL024
+- author: Afsaneh Afzali, Pirooz Shamsinejadbabaki
+  title: Private and heterogeneous personalized hierarchical federated learning using
+    Conditional Generative Adversarial networks.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/AfzaliS25
+  doi: 10.1016/J.ESWA.2025.127003
+  ee: https://doi.org/10.1016/j.eswa.2025.127003
+  url: https://dblp.org/rec/journals/eswa/AfzaliS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
