@@ -18759,6 +18759,38 @@ Adversarial%20Learning:
   doi: 10.1016/J.ESWA.2025.127003
   ee: https://doi.org/10.1016/j.eswa.2025.127003
   url: https://dblp.org/rec/journals/eswa/AfzaliS25
+- author: Jack J. Amend, Scott Spurlock
+  title: Improving machine learning fairness with sampling and adversarial learning.
+  venue: J. Comput. Sci. Coll.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/jcscoll/AmendS21
+  doi: 10.5555/3447307.3447308
+  ee: https://dl.acm.org/doi/10.5555/3447307.3447308
+  url: https://dblp.org/rec/journals/jcscoll/AmendS21
+- author: Luiz Fernando F. P. de Lima, Danielle Rousy Dias Ricarte, Clauirton A. Siebra
+  title: A Benchmark Proposal for Non-Generative Fair Adversarial Learning Strategies
+    Using a Fairness-Utility Trade-off Metric.
+  venue: Comput. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ci/LimaRS24
+  doi: 10.1111/COIN.70003
+  ee: https://doi.org/10.1111/coin.70003
+  url: https://dblp.org/rec/journals/ci/LimaRS24
+- author: Wei Hao, Huaping Liu, Jia Liu, Wenjie Li, Lijun Chen
+  title: Human-Centered UAV-MAV Teaming in Adversarial Scenarios via Target-Aware
+    Intention Prediction and Reinforcement Learning.
+  venue: IET Signal Process.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/iet-spr/HaoLLLC24
+  doi: 10.1049/SIL2/7719848
+  ee: https://doi.org/10.1049/sil2/7719848
+  url: https://dblp.org/rec/journals/iet-spr/HaoLLLC24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -20826,3 +20858,15 @@ feature%20disentanglement:
   doi: ''
   ee: http://arxiv.org/abs/1702.03041
   url: https://dblp.org/rec/journals/corr/PengYSMC17
+- author: Dwarikanath Mahapatra, Antonio Jimeno-Yepes, Behzad Bozorgtabar, Sudipta
+    Roy 0002, Zongyuan Ge, Mauricio Reyes 0001
+  title: Corrections to &quot;Multi-Label Generalized Zero Shot Chest X-Ray Classification
+    By Combining Image-Text Information With Feature Disentanglement&quot;.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/MahapatraJBRGR25a
+  doi: 10.1109/TMI.2025.3549666
+  ee: https://doi.org/10.1109/TMI.2025.3549666
+  url: https://dblp.org/rec/journals/tmi/MahapatraJBRGR25a
