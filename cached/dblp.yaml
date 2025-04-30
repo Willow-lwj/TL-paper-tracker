@@ -2816,6 +2816,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2021.3073699
   ee: https://doi.org/10.1109/TGRS.2021.3073699
   url: https://dblp.org/rec/journals/tgrs/JiaLXYZJL22
+- author: Tao Yang 0037, Lisheng Wang
+  title: Koos Classification of Vestibular Schwannoma via Image Translation-Based
+    Unsupervised Cross-Modality Domain Adaptation.
+  venue: BrainLes@MICCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/brainles-ws/YangW22
+  doi: 10.1007/978-3-031-44153-0_6
+  ee: https://doi.org/10.1007/978-3-031-44153-0_6
+  url: https://dblp.org/rec/conf/brainles-ws/YangW22
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -18791,6 +18802,51 @@ Adversarial%20Learning:
   doi: 10.1049/SIL2/7719848
   ee: https://doi.org/10.1049/sil2/7719848
   url: https://dblp.org/rec/journals/iet-spr/HaoLLLC24
+- author: Lihua Zhang, Quan Liu 0004, Zhigang Huang, Lan Wu
+  title: Learning Unbiased Rewards with Mutual Information in Adversarial Imitation
+    Learning.
+  venue: ICASSP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/ZhangLHW23
+  doi: 10.1109/ICASSP49357.2023.10096692
+  ee: https://doi.org/10.1109/ICASSP49357.2023.10096692
+  url: https://dblp.org/rec/conf/icassp/ZhangLHW23
+- author: Xiongzhen Zhang, Quan Liu 0004, Lihua Zhang
+  title: Cosine Similarity Based Representation Learning for Adversarial Imitation
+    Learning.
+  venue: SMC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/ZhangLZ23
+  doi: 10.1109/SMC53992.2023.10394257
+  ee: https://doi.org/10.1109/SMC53992.2023.10394257
+  url: https://dblp.org/rec/conf/smc/ZhangLZ23
+- author: Jing Yang, Haoshen Qin, Yiping Sun, Hao Wang, Abdullah Ayub Khan, Lip Yee
+    Por, Roohallah Alizadehsani, Pawel Plawiak
+  title: A Generative Adversarial Network-Based Extractive Text Summarization Using
+    Transductive and Reinforcement Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/YangQSWKPAP25
+  doi: 10.1109/ACCESS.2025.3558266
+  ee: https://doi.org/10.1109/ACCESS.2025.3558266
+  url: https://dblp.org/rec/journals/access/YangQSWKPAP25
+- author: Lan Wu, Quan Liu 0004, Lihua Zhang, Zhigang Huang
+  title: Offline Reinforcement Learning with Generative Adversarial Networks and Uncertainty
+    Estimation.
+  venue: ICASSP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/WuLZH24a
+  doi: 10.1109/ICASSP48485.2024.10446266
+  ee: https://doi.org/10.1109/ICASSP48485.2024.10446266
+  url: https://dblp.org/rec/conf/icassp/WuLZH24a
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -20870,3 +20926,16 @@ feature%20disentanglement:
   doi: 10.1109/TMI.2025.3549666
   ee: https://doi.org/10.1109/TMI.2025.3549666
   url: https://dblp.org/rec/journals/tmi/MahapatraJBRGR25a
+- author: Ziyu Wang, Jia-Xuan Jiang 0001, Shubin Zeng, Ling Zhou, Yuee Li, Zhong Wang
+    0006
+  title: Multi-receptive field feature disentanglement with Distance-Aware Gaussian
+    Brightness Augmentation for single-source domain generalization in medical image
+    segmentation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangJZZLW25
+  doi: 10.1016/J.NEUCOM.2025.130120
+  ee: https://doi.org/10.1016/j.neucom.2025.130120
+  url: https://dblp.org/rec/journals/ijon/WangJZZLW25
