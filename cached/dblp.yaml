@@ -18847,6 +18847,84 @@ Adversarial%20Learning:
   doi: 10.1109/ICASSP48485.2024.10446266
   ee: https://doi.org/10.1109/ICASSP48485.2024.10446266
   url: https://dblp.org/rec/conf/icassp/WuLZH24a
+- author: Xingrong Dong, Zhaoxian Wu, Qing Ling 0001, Zhi Tian
+  title: 'Byzantine-Robust Distributed Online Learning: Taming Adversarial Participants
+    in An Adversarial Environment.'
+  venue: IEEE Trans. Signal Process.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tsp/DongWLT24
+  doi: 10.1109/TSP.2023.3340028
+  ee: https://doi.org/10.1109/tsp.2023.3340028
+  url: https://dblp.org/rec/journals/tsp/DongWLT24
+- author: Wenqing Wei, Sixia Li, Candy Olivia Mawalim, Xiguang Li, Kazunori Komatani,
+    Shogo Okada
+  title: Influence of Personality Traits and Demographics on Rapport Recognition Using
+    Adversarial Learning.
+  venue: Multimodal Technol. Interact.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/mti/WeiLMLKO25
+  doi: 10.3390/MTI9030018
+  ee: https://doi.org/10.3390/mti9030018
+  url: https://dblp.org/rec/journals/mti/WeiLMLKO25
+- author: Zhuangkun Wei, Wenxiu Hu, Junqing Zhang, Weisi Guo, Julie A. McCann
+  title: Explainable Adversarial Learning Framework on Physical Layer Key Generation
+    Combating Malicious Reconfigurable Intelligent Surface.
+  venue: IEEE Trans. Wirel. Commun.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/twc/WeiHZGM25
+  doi: 10.1109/TWC.2025.3531799
+  ee: https://doi.org/10.1109/TWC.2025.3531799
+  url: https://dblp.org/rec/journals/twc/WeiHZGM25
+- author: Zachary C. Goddard
+  title: Autonomous Methods for Learning and Pruning Motion Primitives for Navigation
+    and Adversarial Tasks.
+  venue: ''
+  year: '2024'
+  type: Books and Theses
+  access: closed
+  key: phd/basesearch/Goddard24
+  doi: ''
+  ee: https://hdl.handle.net/1853/75540
+  url: https://dblp.org/rec/phd/basesearch/Goddard24
+- author: Maysoon Ahmed Abbas, Dhafar Hamed Abd, Mondher Frikha, Adel M. Alimi, Mohammed
+    Fadhil Mahdi
+  title: Adversarial Arabic Fake News Detection Based on Machine Learning.
+  venue: DeSE
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dese/AbbasAFAM24
+  doi: 10.1109/DESE63988.2024.10911954
+  ee: https://doi.org/10.1109/DeSE63988.2024.10911954
+  url: https://dblp.org/rec/conf/dese/AbbasAFAM24
+- author: Kareem Hameed Khalaf, A. Moallemi Khiavi, Dhafar Hamed Abd
+  title: Adversarial Ensemble Learning for Mortality Prediction in Intensive Care
+    Units.
+  venue: DeSE
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dese/KhalafKA24
+  doi: 10.1109/DESE63988.2024.10912041
+  ee: https://doi.org/10.1109/DeSE63988.2024.10912041
+  url: https://dblp.org/rec/conf/dese/KhalafKA24
+- author: Dheyauldeen M. Mukhlif, Dhafar Hamed Abd, Ridha Ejbali, Adel M. Alimi, Mohammed
+    Fadhil Mahdi
+  title: Enhancing Comorbidity Diagnosis with Adversarial Ensemble Learning.
+  venue: DeSE
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dese/MukhlifAEAM24
+  doi: 10.1109/DESE63988.2024.10912032
+  ee: https://doi.org/10.1109/DeSE63988.2024.10912032
+  url: https://dblp.org/rec/conf/dese/MukhlifAEAM24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -20939,3 +21017,13 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUCOM.2025.130120
   ee: https://doi.org/10.1016/j.neucom.2025.130120
   url: https://dblp.org/rec/journals/ijon/WangJZZLW25
+- author: Xiumei Chen, Xiangtao Zheng, Xiaoqiang Lu
+  title: Identity Feature Disentanglement for Visible-Infrared Person Re-Identification.
+  venue: ACM Trans. Multim. Comput. Commun. Appl.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tomccap/ChenZL23
+  doi: 10.1145/3595183
+  ee: https://doi.org/10.1145/3595183
+  url: https://dblp.org/rec/journals/tomccap/ChenZL23
