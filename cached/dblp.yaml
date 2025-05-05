@@ -19003,6 +19003,69 @@ Adversarial%20Learning:
   doi: 10.1109/TKDE.2024.3366396
   ee: https://doi.org/10.1109/tkde.2024.3366396
   url: https://dblp.org/rec/journals/tkde/DongLLLZ24
+- author: Yan Liu, Xi Chen, Zheng Lu, Ziyue Wu
+  title: Multiscale Structural Information-Based Laplacian Generative Adversarial
+    Network Representation Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/LiuCLW25
+  doi: 10.1109/ACCESS.2025.3561047
+  ee: https://doi.org/10.1109/ACCESS.2025.3561047
+  url: https://dblp.org/rec/journals/access/LiuCLW25
+- author: Yingping Liang, Ying Fu 0001
+  title: Relation-Guided Adversarial Learning for Data-Free Knowledge Transfer.
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/LiangF25
+  doi: 10.1007/S11263-024-02303-4
+  ee: https://doi.org/10.1007/s11263-024-02303-4
+  url: https://dblp.org/rec/journals/ijcv/LiangF25
+- author: Mahmoud Elsisi, Shimaa Bergies
+  title: A robust IoT architecture for smart inverters in microgrids using hybrid
+    deep learning and signal processing against adversarial attacks.
+  venue: Internet Things
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iot/ElsisiB25
+  doi: 10.1016/J.IOT.2025.101576
+  ee: https://doi.org/10.1016/j.iot.2025.101576
+  url: https://dblp.org/rec/journals/iot/ElsisiB25
+- author: Trushal Sardhara, Christian J. Cyron, Martin Ritter, Roland C. Aydin
+  title: Generative adversarial networks for creating realistic training data for
+    machine learning-based segmentation of FIB tomography data.
+  venue: Mach. Learn. Sci. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/mlst/SardharaCRA25
+  doi: 10.1088/2632-2153/ADC870
+  ee: https://doi.org/10.1088/2632-2153/adc870
+  url: https://dblp.org/rec/journals/mlst/SardharaCRA25
+- author: Shaojiang Liu, Jiajun Zou, Zhendan Liu, Meixia Dong, Zhiping Wan
+  title: Adversarial feature learning for semantic communication in human 3D reconstruction.
+  venue: PeerJ Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/peerj-cs/LiuZLDW25
+  doi: 10.7717/PEERJ-CS.2731
+  ee: https://doi.org/10.7717/peerj-cs.2731
+  url: https://dblp.org/rec/journals/peerj-cs/LiuZLDW25
+- author: V. Edward Naveen, Jenefa A, Thiyagu T. M, Lincy A, Antony Taurshia
+  title: 'DeepGAN: Utilizing generative adversarial networks for improved deep learning.'
+  venue: Int. J. Knowl. Based Intell. Eng. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/kes/NaveenAMAT24
+  doi: 10.3233/KES-230326
+  ee: https://doi.org/10.3233/kes-230326
+  url: https://dblp.org/rec/journals/kes/NaveenAMAT24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
