@@ -19077,6 +19077,28 @@ Adversarial%20Learning:
   doi: 10.1109/BDCAT63179.2024.00022
   ee: https://doi.org/10.1109/BDCAT63179.2024.00022
   url: https://dblp.org/rec/conf/bdc/Barnett024
+- author: Song Gao, Shaowen Yao 0001, Ruidong Li 0001
+  title: Transferable Adversarial Defense by Fusing Reconstruction Learning and Denoising
+    Learning.
+  venue: INFOCOM Workshops
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/GaoYL21
+  doi: 10.1109/INFOCOMWKSHPS51825.2021.9484542
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS51825.2021.9484542
+  url: https://dblp.org/rec/conf/infocom/GaoYL21
+- author: Pei Liu 0008, Luping Ji, Feng Ye, Bo Fu 0007
+  title: 'AdvMIL: Adversarial multiple instance learning for the survival analysis
+    on whole-slide images.'
+  venue: Medical Image Anal.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/LiuJYF24
+  doi: 10.1016/J.MEDIA.2023.103020
+  ee: https://doi.org/10.1016/j.media.2023.103020
+  url: https://dblp.org/rec/journals/mia/LiuJYF24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
