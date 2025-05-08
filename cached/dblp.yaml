@@ -19099,6 +19099,50 @@ Adversarial%20Learning:
   doi: 10.1016/J.MEDIA.2023.103020
   ee: https://doi.org/10.1016/j.media.2023.103020
   url: https://dblp.org/rec/journals/mia/LiuJYF24
+- author: Sirish Prabakar, Haiquan Chen, Zhe Jiang 0001, Carl Yang, Weikuan Yu, Da
+    Yan 0001
+  title: 'LENS: label sparsity-tolerant adversarial learning on spatial deceptive
+    reviews.'
+  venue: GeoInformatica
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/geoinformatica/PrabakarCJYYY25
+  doi: 10.1007/S10707-024-00529-5
+  ee: https://doi.org/10.1007/s10707-024-00529-5
+  url: https://dblp.org/rec/journals/geoinformatica/PrabakarCJYYY25
+- author: Jingwen Deng, Patrick P. K. Chan, Daniel S. Yeung
+  title: Real-world nighttime image dehazing using contrastive and adversarial learning.
+  venue: Pattern Recognit.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/DengCY25
+  doi: 10.1016/J.PATCOG.2025.111596
+  ee: https://doi.org/10.1016/j.patcog.2025.111596
+  url: https://dblp.org/rec/journals/pr/DengCY25
+- author: Tingting Han 0003, Kai Wang, Jun Yu 0002, Sicheng Zhao, Jianping Fan 0001
+  title: Adversarial temporal sentence grounding by learning from external data.
+  venue: Pattern Recognit.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/HanWYZF25
+  doi: 10.1016/J.PATCOG.2025.111621
+  ee: https://doi.org/10.1016/j.patcog.2025.111621
+  url: https://dblp.org/rec/journals/pr/HanWYZF25
+- author: Zheng Fang, Tianhao Chen, Tian Shen, Dong Jiang, Zheng Zhang, Guangliang
+    Li
+  title: Multi-Agent Generative Adversarial Interactive Self-Imitation Learning for
+    AUV Formation Control and Obstacle Avoidance.
+  venue: IEEE Robotics Autom. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/FangCSJZL25
+  doi: 10.1109/LRA.2025.3550743
+  ee: https://doi.org/10.1109/LRA.2025.3550743
+  url: https://dblp.org/rec/journals/ral/FangCSJZL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -21223,3 +21267,26 @@ feature%20disentanglement:
   doi: 10.1109/ICIP51287.2024.10647568
   ee: https://doi.org/10.1109/ICIP51287.2024.10647568
   url: https://dblp.org/rec/conf/icip/CosciaGSP24
+- author: Chengrong Yang, Qiwen Jin, Xiaoguo Zhang, Yujue Zhou
+  title: Feature Disentanglement and Fusion Model for Multi-source Domain Adaptation
+    with Domain-Specific Features.
+  venue: CVM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvm/YangJZZ25
+  doi: 10.1007/978-981-96-5815-2_18
+  ee: https://doi.org/10.1007/978-981-96-5815-2_18
+  url: https://dblp.org/rec/conf/cvm/YangJZZ25
+- author: Wei Xiong, Tao Wang, Xiumei Chen, Yue Zhang, Wencong Zhang, Qianjin Feng,
+    Meiyan Huang
+  title: Disentanglement and codebook learning-induced feature match network to diagnose
+    neurodegenerative diseases on incomplete multimodal data.
+  venue: Pattern Recognit.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/XiongWCZZFH25
+  doi: 10.1016/J.PATCOG.2025.111597
+  ee: https://doi.org/10.1016/j.patcog.2025.111597
+  url: https://dblp.org/rec/journals/pr/XiongWCZZFH25
