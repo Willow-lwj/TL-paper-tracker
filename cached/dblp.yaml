@@ -19143,6 +19143,28 @@ Adversarial%20Learning:
   doi: 10.1109/LRA.2025.3550743
   ee: https://doi.org/10.1109/LRA.2025.3550743
   url: https://dblp.org/rec/journals/ral/FangCSJZL25
+- author: Yilong Wang 0001, Jiahao Zhang, Tianxiang Zhao 0001, Suhang Wang
+  title: Enhance GNNs with Reliable Confidence Estimation via Adversarial Calibration
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-18235
+  doi: 10.48550/ARXIV.2503.18235
+  ee: https://doi.org/10.48550/arXiv.2503.18235
+  url: https://dblp.org/rec/journals/corr/abs-2503-18235
+- author: Charlene Zhi Lin Ong, Asad Abu Bakar Ali, Jagath C. Rajapakse
+  title: Generative Adversarial Learning for Semi-supervised Retinal Layer Segmentation
+    in OCT Images.
+  venue: BHI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bhi/OngAR24
+  doi: 10.1109/BHI62660.2024.10913743
+  ee: https://doi.org/10.1109/BHI62660.2024.10913743
+  url: https://dblp.org/rec/conf/bhi/OngAR24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
