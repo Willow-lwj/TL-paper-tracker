@@ -19165,6 +19165,17 @@ Adversarial%20Learning:
   doi: 10.1109/BHI62660.2024.10913743
   ee: https://doi.org/10.1109/BHI62660.2024.10913743
   url: https://dblp.org/rec/conf/bhi/OngAR24
+- author: Vahid Heydari, Kofi Nyarko
+  title: 'Adversarial Vulnerabilities in Ransomware Detection: Enhancing Machine Learning
+    Model Robustness.'
+  venue: CCNC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccnc/HeydariN25
+  doi: 10.1109/CCNC54725.2025.10976000
+  ee: https://doi.org/10.1109/CCNC54725.2025.10976000
+  url: https://dblp.org/rec/conf/ccnc/HeydariN25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
