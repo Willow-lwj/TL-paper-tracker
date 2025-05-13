@@ -19176,6 +19176,107 @@ Adversarial%20Learning:
   doi: 10.1109/CCNC54725.2025.10976000
   ee: https://doi.org/10.1109/CCNC54725.2025.10976000
   url: https://dblp.org/rec/conf/ccnc/HeydariN25
+- author: Roman Belaire, Arunesh Sinha, Pradeep Varakantham
+  title: On Minimizing Adversarial Counterfactual Error in Adversarial Reinforcement
+    Learning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/BelaireSV25
+  doi: ''
+  ee: https://openreview.net/forum?id=eUEMjwh5wK
+  url: https://dblp.org/rec/conf/iclr/BelaireSV25
+- author: Sirish Prabakar, Haiquan Chen, Zhe Jiang 0001, Carl Yang 0001, Weikuan Yu,
+    Da Yan 0001
+  title: 'LENS: label sparsity-tolerant adversarial learning on spatial deceptive
+    reviews.'
+  venue: GeoInformatica
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/geoinformatica/PrabakarCJYYY25
+  doi: 10.1007/S10707-024-00529-5
+  ee: https://doi.org/10.1007/s10707-024-00529-5
+  url: https://dblp.org/rec/journals/geoinformatica/PrabakarCJYYY25
+- author: Yan Pan, Jian Zhou 0006, Huabin Wang, Wenming Zheng, Liang Tao, Hon Keung
+    Kwan
+  title: Enhancing bone-conducted speech with spectrum similarity metric in adversarial
+    learning.
+  venue: Speech Commun.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/speech/PanZWZTK25
+  doi: 10.1016/J.SPECOM.2025.103223
+  ee: https://doi.org/10.1016/j.specom.2025.103223
+  url: https://dblp.org/rec/journals/speech/PanZWZTK25
+- author: Bowen Gu, Junhai Zhai
+  title: Few-shot image generation based on meta-learning and generative adversarial
+    network.
+  venue: Signal Process. Image Commun.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/spic/GuZ25
+  doi: 10.1016/J.IMAGE.2025.117307
+  ee: https://doi.org/10.1016/j.image.2025.117307
+  url: https://dblp.org/rec/journals/spic/GuZ25
+- author: Qingqing Fang, Qinliang Su, Wenxi Lv, Wenchao Xu 0001, Jianxing Yu
+  title: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware
+    Adversarial Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/FangSLXY25
+  doi: 10.1609/AAAI.V39I16.33816
+  ee: https://doi.org/10.1609/aaai.v39i16.33816
+  url: https://dblp.org/rec/conf/aaai/FangSLXY25
+- author: Zulfikar Alom, Tran Gia Bao Ngo, Murat Kantarcioglu, Cuneyt Gurcan Akcora
+  title: 'GOttack: Universal Adversarial Attacks on Graph Neural Networks via Graph
+    Orbits Learning.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/AlomNKA25
+  doi: ''
+  ee: https://openreview.net/forum?id=YbURbViE7l
+  url: https://dblp.org/rec/conf/iclr/AlomNKA25
+- author: Arnav Kumar Jain, Harley Wiltzer, Jesse Farebrother, Irina Rish, Glen Berseth,
+    Sanjiban Choudhury
+  title: Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/JainWFRBC25
+  doi: ''
+  ee: https://openreview.net/forum?id=LvRQgsvd5V
+  url: https://dblp.org/rec/conf/iclr/JainWFRBC25
+- author: Hyungkyu Kang, Min-hwan Oh
+  title: Adversarial Policy Optimization for Offline Preference-based Reinforcement
+    Learning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/KangO25
+  doi: ''
+  ee: https://openreview.net/forum?id=5Y9NT6lW21
+  url: https://dblp.org/rec/conf/iclr/KangO25
+- author: Yubo Wang, Jianting Tang, Chaohu Liu, Linli Xu
+  title: Tracking the Copyright of Large Vision-Language Models through Parameter
+    Learning Adversarial Images.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/WangTLX25
+  doi: ''
+  ee: https://openreview.net/forum?id=K7xpl3LZQp
+  url: https://dblp.org/rec/conf/iclr/WangTLX25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
