@@ -19277,6 +19277,73 @@ Adversarial%20Learning:
   doi: ''
   ee: https://openreview.net/forum?id=K7xpl3LZQp
   url: https://dblp.org/rec/conf/iclr/WangTLX25
+- author: Xiaofeng Bai, Qazi Mazhar ul Haq, Aftab Alam Khan, Chaohui Li, Hind Alsharif,
+    Muhammad Shahid Anwar, Chengwei Li
+  title: Ball Bearing Fault Diagnosis Based on Hybrid Adversarial Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/BaiHKLAAL25
+  doi: 10.1109/ACCESS.2025.3564484
+  ee: https://doi.org/10.1109/ACCESS.2025.3564484
+  url: https://dblp.org/rec/journals/access/BaiHKLAAL25
+- author: Sotiris Pelekis, Thanos Koutroubas, Afroditi Blika, Anastasis Berdelis,
+    Evangelos Karakolis, Christos Ntanos, Evangelos Spiliotis, Dimitris Askounis
+  title: 'Adversarial machine learning: a review of methods, tools, and critical industry
+    sectors.'
+  venue: Artif. Intell. Rev.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/air/PelekisKBBKNSA25
+  doi: 10.1007/S10462-025-11147-4
+  ee: https://doi.org/10.1007/s10462-025-11147-4
+  url: https://dblp.org/rec/journals/air/PelekisKBBKNSA25
+- author: Hyung-Jin Yoon, Ryan Holmes, Hamidreza Jafarnejadsani, Petros G. Voulgaris
+  title: Real-time Adversarial Image Perturbations for Autonomous Vehicles Using Reinforcement
+    Learning.
+  venue: ACM Trans. Cyber Phys. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcps/YoonHJV25
+  doi: 10.1145/3712303
+  ee: https://doi.org/10.1145/3712303
+  url: https://dblp.org/rec/journals/tcps/YoonHJV25
+- author: Soumyadeep Hore, Jalal Ghadermazi, Diwas Paudel, Ankit Shah 0002, Tapas
+    K. Das, Nathaniel D. Bastian
+  title: 'Deep PackGen: A Deep Reinforcement Learning Framework for Adversarial Network
+    Packet Generation.'
+  venue: ACM Trans. Priv. Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/HoreGPSDB25
+  doi: 10.1145/3712307
+  ee: https://doi.org/10.1145/3712307
+  url: https://dblp.org/rec/journals/tissec/HoreGPSDB25
+- author: Joseph Fioresi, Ishan Rajendrakumar Dave, Mubarak Shah
+  title: 'ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/FioresiDS25
+  doi: ''
+  ee: https://openreview.net/forum?id=9KiE3t6CsL
+  url: https://dblp.org/rec/conf/iclr/FioresiDS25
+- author: Xiaochen Zhu 0003, Xinjian Luo, Yuncheng Wu, Yangfan Jiang 0001, Xiaokui
+    Xiao, Beng Chin Ooi
+  title: Passive Inference Attacks on Split Learning via Adversarial Regularization.
+  venue: NDSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/0003LWJXO25
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/passive-inference-attacks-on-split-learning-via-adversarial-regularization/
+  url: https://dblp.org/rec/conf/ndss/0003LWJXO25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
