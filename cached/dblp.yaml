@@ -19344,6 +19344,62 @@ Adversarial%20Learning:
   doi: ''
   ee: https://www.ndss-symposium.org/ndss-paper/passive-inference-attacks-on-split-learning-via-adversarial-regularization/
   url: https://dblp.org/rec/conf/ndss/0003LWJXO25
+- author: G. Jeyasri, R. Karthiyayini
+  title: Deep learning based retinal disease classification using an autoencoder and
+    generative adversarial network.
+  venue: Biomed. Signal Process. Control.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/JeyasriK25
+  doi: 10.1016/J.BSPC.2025.107852
+  ee: https://doi.org/10.1016/j.bspc.2025.107852
+  url: https://dblp.org/rec/journals/bspc/JeyasriK25
+- author: Zhiming Wang, Yuanglong Yang, Bilang Zhang, Runqi Wang, Liping Jing, Baochang
+    Zhang
+  title: Enhancing multi-task performance through associative adversarial learning
+    based on selective attacks.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangYZWJZ25
+  doi: 10.1016/J.NEUCOM.2025.130229
+  ee: https://doi.org/10.1016/j.neucom.2025.130229
+  url: https://dblp.org/rec/journals/ijon/WangYZWJZ25
+- author: Yongtang Bao, Yuzhen Wang, Yutong Qi, Qing Yang, Ruijun Liu, Liping Feng
+  title: Emotion-Assisted multi-modal Personality Recognition using adversarial Contrastive
+    learning.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/BaoWQYLF25
+  doi: 10.1016/J.KNOSYS.2025.113504
+  ee: https://doi.org/10.1016/j.knosys.2025.113504
+  url: https://dblp.org/rec/journals/kbs/BaoWQYLF25
+- author: Binghui Li, Yuanzhi Li
+  title: 'Adversarial Training Can Provably Improve Robustness: Theoretical Analysis
+    of Feature Learning Process Under Structured Data.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iclr/LiL25
+  doi: ''
+  ee: https://openreview.net/forum?id=inLUnCpDIB
+  url: https://dblp.org/rec/conf/iclr/LiL25
+- author: Sen Zhang 0002, Qingqing Ye 0001, Haibo Hu 0001, Jianliang Xu
+  title: 'AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram
+    Model.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-21426
+  doi: 10.48550/ARXIV.2503.21426
+  ee: https://doi.org/10.48550/arXiv.2503.21426
+  url: https://dblp.org/rec/journals/corr/abs-2503-21426
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
