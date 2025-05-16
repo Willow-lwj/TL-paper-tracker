@@ -19400,6 +19400,93 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2503.21426
   ee: https://doi.org/10.48550/arXiv.2503.21426
   url: https://dblp.org/rec/journals/corr/abs-2503-21426
+- author: Roman Belaire, Arunesh Sinha, Pradeep Varakantham
+  title: On Minimizing Adversarial Counterfactual Error in Adversarial Reinforcement
+    Learning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/BelaireSV25
+  doi: ''
+  ee: https://openreview.net/forum?id=eUEMjwh5wK
+  url: https://dblp.org/rec/conf/iclr/BelaireSV25
+- author: Zulfikar Alom, Tran Gia Bao Ngo, Murat Kantarcioglu, Cuneyt Gurcan Akcora
+  title: 'GOttack: Universal Adversarial Attacks on Graph Neural Networks via Graph
+    Orbits Learning.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/AlomNKA25
+  doi: ''
+  ee: https://openreview.net/forum?id=YbURbViE7l
+  url: https://dblp.org/rec/conf/iclr/AlomNKA25
+- author: Joseph Fioresi, Ishan Rajendrakumar Dave, Mubarak Shah
+  title: 'ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/FioresiDS25
+  doi: ''
+  ee: https://openreview.net/forum?id=9KiE3t6CsL
+  url: https://dblp.org/rec/conf/iclr/FioresiDS25
+- author: Arnav Kumar Jain, Harley Wiltzer, Jesse Farebrother, Irina Rish, Glen Berseth,
+    Sanjiban Choudhury
+  title: Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/JainWFRBC25
+  doi: ''
+  ee: https://openreview.net/forum?id=LvRQgsvd5V
+  url: https://dblp.org/rec/conf/iclr/JainWFRBC25
+- author: Hyungkyu Kang, Min-hwan Oh
+  title: Adversarial Policy Optimization for Offline Preference-based Reinforcement
+    Learning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/KangO25
+  doi: ''
+  ee: https://openreview.net/forum?id=5Y9NT6lW21
+  url: https://dblp.org/rec/conf/iclr/KangO25
+- author: Binghui Li, Yuanzhi Li
+  title: 'Adversarial Training Can Provably Improve Robustness: Theoretical Analysis
+    of Feature Learning Process Under Structured Data.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/LiL25
+  doi: ''
+  ee: https://openreview.net/forum?id=inLUnCpDIB
+  url: https://dblp.org/rec/conf/iclr/LiL25
+- author: Yubo Wang, Jianting Tang, Chaohu Liu, Linli Xu
+  title: Tracking the Copyright of Large Vision-Language Models through Parameter
+    Learning Adversarial Images.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/WangTLX25
+  doi: ''
+  ee: https://openreview.net/forum?id=K7xpl3LZQp
+  url: https://dblp.org/rec/conf/iclr/WangTLX25
+- author: Zhengyi Chen, Chunmin Zhang, Biyun Zhang, Yifan He 0004
+  title: Triplet Contrastive Learning Framework With Adversarial Hard-Negative Sample
+    Generation for Multimodal Remote Sensing Images.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ChenZZH24
+  doi: 10.1109/TGRS.2024.3354304
+  ee: https://doi.org/10.1109/TGRS.2024.3354304
+  url: https://dblp.org/rec/journals/tgrs/ChenZZH24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
