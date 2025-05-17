@@ -19487,6 +19487,97 @@ Adversarial%20Learning:
   doi: 10.1109/TGRS.2024.3354304
   ee: https://doi.org/10.1109/TGRS.2024.3354304
   url: https://dblp.org/rec/journals/tgrs/ChenZZH24
+- author: Mohammadreza Ebrahimi 0001, Weifeng Li 0002, Yidong Chai, Jason Pacheco,
+    Hsinchun Chen
+  title: An Adversarial Reinforcement Learning Framework for Robust Machine Learning-based
+    Malware Detection.
+  venue: ICDM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdm/EbrahimiLCPC22
+  doi: 10.1109/ICDMW58026.2022.00079
+  ee: https://doi.org/10.1109/ICDMW58026.2022.00079
+  url: https://dblp.org/rec/conf/icdm/EbrahimiLCPC22
+- author: Yaguan Qian, Yuqi Wang, Bin Wang 0062, Zhaoquan Gu, Yuhan Guo 0001, Wassim
+    Swaileh
+  title: Hessian-Free Second-Order Adversarial Examples for Adversarial Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-01396
+  doi: 10.48550/ARXIV.2207.01396
+  ee: https://doi.org/10.48550/arXiv.2207.01396
+  url: https://dblp.org/rec/journals/corr/abs-2207-01396
+- author: Zhiming Wang, Yuanglong Yang, Bilang Zhang, Runqi Wang, Liping Jing, Baochang
+    Zhang 0001
+  title: Enhancing multi-task performance through associative adversarial learning
+    based on selective attacks.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangYZWJZ25
+  doi: 10.1016/J.NEUCOM.2025.130229
+  ee: https://doi.org/10.1016/j.neucom.2025.130229
+  url: https://dblp.org/rec/journals/ijon/WangYZWJZ25
+- author: Zhe Wang, Yanjun Qi
+  title: Augmented Adversarial Trigger Learning.
+  venue: NAACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/naacl/WangQ25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-naacl.394/
+  url: https://dblp.org/rec/conf/naacl/WangQ25
+- author: Vasu Jindal
+  title: 'Student Research Abstract: Dynamic Adversarial Soil Modeling: A GAN-Confident
+    Learning Approach for Precision Agriculture.'
+  venue: SAC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sac/Jindal25
+  doi: 10.1145/3672608.3707994
+  ee: https://doi.org/10.1145/3672608.3707994
+  url: https://dblp.org/rec/conf/sac/Jindal25
+- author: Zhangting Lin, Mingfu Xue, Kewei Chen 0004, Wenmao Liu, Xiang Gao, Leo Yu
+    Zhang, Jian Wang 0038, Yushu Zhang 0001
+  title: Adversarial Example Based Fingerprinting for Robust Copyright Protection
+    in Split Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-04825
+  doi: 10.48550/ARXIV.2503.04825
+  ee: https://doi.org/10.48550/arXiv.2503.04825
+  url: https://dblp.org/rec/journals/corr/abs-2503-04825
+- author: Yingying Guo, Xu Kang 0001, Lei Ma
+  title: Self-Representation and Generative Adversarial Learning-based Bluetooth Radio
+    Map Reconstruction for Indoor Localization.
+  venue: AIoTC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aiotc/GuoKM24
+  doi: 10.1109/AIOTC63215.2024.10748311
+  ee: https://doi.org/10.1109/AIoTC63215.2024.10748311
+  url: https://dblp.org/rec/conf/aiotc/GuoKM24
+- author: Yidong Chai, Yi Liu, Mohammadreza Ebrahimi 0001, Weifeng Li 0002, Balaji
+    Padmanabhan, Yuanchun Jiang, Yezheng Liu 0001
+  title: 'Enhancing Adversarial Robustness: A Novel Bayesian Uncertainty-Based Ensemble
+    Learning Method.'
+  venue: DSC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dsc/ChaiLE0PJL24
+  doi: 10.1109/DSC63484.2024.00051
+  ee: https://doi.org/10.1109/DSC63484.2024.00051
+  url: https://dblp.org/rec/conf/dsc/ChaiLE0PJL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
