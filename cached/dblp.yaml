@@ -19578,6 +19578,29 @@ Adversarial%20Learning:
   doi: 10.1109/DSC63484.2024.00051
   ee: https://doi.org/10.1109/DSC63484.2024.00051
   url: https://dblp.org/rec/conf/dsc/ChaiLE0PJL24
+- author: Zengwei Yuan, Shichang Du, Rui Wang, Xin Wang
+  title: A Global Adversarial and Local Contrastive Transfer Learning Approach for
+    Remaining Useful Life Prediction.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/YuanDWW25
+  doi: 10.1109/TIM.2025.3562242
+  ee: https://doi.org/10.1109/TIM.2025.3562242
+  url: https://dblp.org/rec/journals/tim/YuanDWW25
+- author: Songran Bai, Yuheng Ji, Yue Liu, Xingwei Zhang, Xiaolong Zheng 0001, Daniel
+    Dajun Zeng
+  title: Alleviating Performance Disparity in Adversarial Spatiotemporal Graph Learning
+    Under Zero-Inflated Distribution.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-00721
+  doi: 10.48550/ARXIV.2504.00721
+  ee: https://doi.org/10.48550/arXiv.2504.00721
+  url: https://dblp.org/rec/journals/corr/abs-2504-00721
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -21725,3 +21748,15 @@ feature%20disentanglement:
   doi: 10.1016/J.PATCOG.2025.111597
   ee: https://doi.org/10.1016/j.patcog.2025.111597
   url: https://dblp.org/rec/journals/pr/XiongWCZZFH25
+- author: Kejia Su, Kai Liu, Bo Wan, Hanbing Qiao, Jiayang Huang, Min Feng, Jinhui
+    Liu
+  title: Multisource Adversarial Feature Disentanglement Method for Cross-Subject
+    Gesture Recognition Using sEMG Signals.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/SuLWQHFL25
+  doi: 10.1109/TIM.2025.3557823
+  ee: https://doi.org/10.1109/TIM.2025.3557823
+  url: https://dblp.org/rec/journals/tim/SuLWQHFL25
