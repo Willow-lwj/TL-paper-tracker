@@ -19601,6 +19601,38 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2504.00721
   ee: https://doi.org/10.48550/arXiv.2504.00721
   url: https://dblp.org/rec/journals/corr/abs-2504-00721
+- author: Yang Li, Shitu Zhang, Yuanzheng Li
+  title: 'AI-Enhanced Resilience in Power Systems: Adversarial Deep Learning for Robust
+    Short-Term Voltage Stability Assessment under Cyber-Attacks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-02859
+  doi: 10.48550/ARXIV.2504.02859
+  ee: https://doi.org/10.48550/arXiv.2504.02859
+  url: https://dblp.org/rec/journals/corr/abs-2504-02859
+- author: Ramin Zarei Sabzevar, Hamed Mohammadzadeh, Tahmineh Tavakoli, Ahad Harati
+  title: A Study on Adversarial Robustness of Discriminative Prototypical Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-03782
+  doi: 10.48550/ARXIV.2504.03782
+  ee: https://doi.org/10.48550/arXiv.2504.03782
+  url: https://dblp.org/rec/journals/corr/abs-2504-03782
+- author: Dong Yang 0012, Jingyuan Wang 0002, Xi Yang 0011
+  title: 3D Point Cloud Shape Generation with Collaborative Learning of Generative
+    Adversarial Network and Auto-Encoder.
+  venue: Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/remotesensing/YangWY24
+  doi: 10.3390/RS16101772
+  ee: https://doi.org/10.3390/rs16101772
+  url: https://dblp.org/rec/journals/remotesensing/YangWY24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -21760,3 +21792,15 @@ feature%20disentanglement:
   doi: 10.1109/TIM.2025.3557823
   ee: https://doi.org/10.1109/TIM.2025.3557823
   url: https://dblp.org/rec/journals/tim/SuLWQHFL25
+- author: Yixiang Niu, Ning Chen 0007, Hongqing Zhu, Zhiying Zhu 0001, Guangqiang
+    Li, Yibo Chen
+  title: Auditory Spatial Attention Detection Based on Feature Disentanglement and
+    Brain Connectivity-Informed Graph Neural Networks.
+  venue: INTERSPEECH
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/interspeech/Niu0Z0LC24
+  doi: 10.21437/INTERSPEECH.2024-1940
+  ee: https://doi.org/10.21437/Interspeech.2024-1940
+  url: https://dblp.org/rec/conf/interspeech/Niu0Z0LC24
