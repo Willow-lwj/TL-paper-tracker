@@ -2827,6 +2827,30 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/978-3-031-44153-0_6
   ee: https://doi.org/10.1007/978-3-031-44153-0_6
   url: https://dblp.org/rec/conf/brainles-ws/YangW22
+- author: Jiaxin Zhang, Mingyang Zhang 0002, Maoguo Gong, Fenlong Jiang, Xiangming
+    Jiang, Yu Zhou 0051, Dan Feng 0002
+  title: Unsupervised Domain Adaptation for Cross-Scene Hyperspectral Image Classification
+    Based on Decoupled Contrastive Learning.
+  venue: IJCNN
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/ZhangZGJJZF24
+  doi: 10.1109/IJCNN60899.2024.10651493
+  ee: https://doi.org/10.1109/IJCNN60899.2024.10651493
+  url: https://dblp.org/rec/conf/ijcnn/ZhangZGJJZF24
+- author: Xin Jin 0015, Le Wu, Xiaodong Li 0013, Xiaokun Zhang 0002, Jingying Chi,
+    Siwei Peng, Shiming Ge, Geng Zhao 0001, Shuying Li
+  title: 'ILGNet: inception modules with connected local and global features for efficient
+    image aesthetic quality classification using domain adaptation.'
+  venue: IET Comput. Vis.
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/iet-cvi/JinWLZCPGZL19
+  doi: 10.1049/IET-CVI.2018.5249
+  ee: https://doi.org/10.1049/iet-cvi.2018.5249
+  url: https://dblp.org/rec/journals/iet-cvi/JinWLZCPGZL19
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -19633,6 +19657,85 @@ Adversarial%20Learning:
   doi: 10.3390/RS16101772
   ee: https://doi.org/10.3390/rs16101772
   url: https://dblp.org/rec/journals/remotesensing/YangWY24
+- author: Yang Li 0197, Yichuan Mo, Liangliang Shi, Junchi Yan
+  title: Improving Generative Adversarial Networks via Adversarial Learning in Latent
+    Space.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiMSY22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/3a1fc7b8e200a45110872c56f0569f61-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiMSY22
+- author: Xingran Zhou, Kun Yang, Changtao Miao, Bingyu Hu, Zhuoer Xu, Shiwen Cui,
+    Changhua Meng, Dan Hong
+  title: Parameter-free and Accessible Prompt Learning to Enhance Adversarial Robustness
+    for Pre-trained Vision-Language Models.
+  venue: NAACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/naacl/ZhouYMHXCMH25
+  doi: ''
+  ee: https://aclanthology.org/2025.naacl-long.33/
+  url: https://dblp.org/rec/conf/naacl/ZhouYMHXCMH25
+- author: Yang Li 0011, Shitu Zhang, Yuanzheng Li
+  title: 'AI-Enhanced Resilience in Power Systems: Adversarial Deep Learning for Robust
+    Short-Term Voltage Stability Assessment under Cyber-Attacks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-02859
+  doi: 10.48550/ARXIV.2504.02859
+  ee: https://doi.org/10.48550/arXiv.2504.02859
+  url: https://dblp.org/rec/journals/corr/abs-2504-02859
+- author: Justin Feng, Nader Sehatbakhsh
+  title: To See or Not to See - Fingerprinting Devices in Adversarial Environments
+    Amid Advanced Machine Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-08264
+  doi: 10.48550/ARXIV.2504.08264
+  ee: https://doi.org/10.48550/arXiv.2504.08264
+  url: https://dblp.org/rec/journals/corr/abs-2504-08264
+- author: Jiaqi Lin, Abhronil Sengupta
+  title: Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial
+    Attacks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-08897
+  doi: 10.48550/ARXIV.2504.08897
+  ee: https://doi.org/10.48550/arXiv.2504.08897
+  url: https://dblp.org/rec/journals/corr/abs-2504-08897
+- author: Xin Wen, Shijie Guo, Wenbo Ning, Rui Cao, Yan Niu, Bin Wan, Peng Wei, Xiaobo
+    Liu, Jie Xiang 0002
+  title: A Confounding Factors-Inhibition Adversarial Learning Framework for Multi-site
+    fMRI Mental Disorder Identification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-09179
+  doi: 10.48550/ARXIV.2504.09179
+  ee: https://doi.org/10.48550/arXiv.2504.09179
+  url: https://dblp.org/rec/journals/corr/abs-2504-09179
+- author: Feng Lv, Chunlong Xia, Shuo Wang, Huo Cao
+  title: RT-DATR:Real-time Unsupervised Domain Adaptive Detection Transformer with
+    Adversarial Feature Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-09196
+  doi: 10.48550/ARXIV.2504.09196
+  ee: https://doi.org/10.48550/arXiv.2504.09196
+  url: https://dblp.org/rec/journals/corr/abs-2504-09196
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -21800,6 +21903,42 @@ feature%20disentanglement:
   year: '2024'
   type: Conference and Workshop Papers
   access: closed
+  key: conf/interspeech/Niu0Z0LC24
+  doi: 10.21437/INTERSPEECH.2024-1940
+  ee: https://doi.org/10.21437/Interspeech.2024-1940
+  url: https://dblp.org/rec/conf/interspeech/Niu0Z0LC24
+- author: "Lucas Heublein, Simon Kocher, Tobias Feigl, Alexander R\xFCgamer, Christopher\
+    \ Mutschler, Felix Ott 0001"
+  title: VAE-based Feature Disentanglement for Data Augmentation and Compression in
+    Generalized GNSS Interference Classification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-10556
+  doi: 10.48550/ARXIV.2504.10556
+  ee: https://doi.org/10.48550/arXiv.2504.10556
+  url: https://dblp.org/rec/journals/corr/abs-2504-10556
+- author: Haohan Chen, Hongjia Liu, Shiyong Lan, Wenwu Wang, Yixin Qiao, Yao Li, Guonan
+    Deng
+  title: 'DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale
+    Attention.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-11160
+  doi: 10.48550/ARXIV.2504.11160
+  ee: https://doi.org/10.48550/arXiv.2504.11160
+  url: https://dblp.org/rec/journals/corr/abs-2504-11160
+- author: Yixiang Niu, Ning Chen 0007, Hongqing Zhu, Zhiying Zhu 0001, Guangqiang
+    Li, Yibo Chen
+  title: Auditory Spatial Attention Detection Based on Feature Disentanglement and
+    Brain Connectivity-Informed Graph Neural Networks.
+  venue: INTERSPEECH
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
   key: conf/interspeech/Niu0Z0LC24
   doi: 10.21437/INTERSPEECH.2024-1940
   ee: https://doi.org/10.21437/Interspeech.2024-1940
