@@ -19736,6 +19736,39 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2504.09196
   ee: https://doi.org/10.48550/arXiv.2504.09196
   url: https://dblp.org/rec/journals/corr/abs-2504-09196
+- author: "Jing Chen, Onat G\xFCng\xF6r, Zhengli Shang, Elvin Li, Tajana Rosing"
+  title: 'DYNAMITE: Dynamic Defense Selection for Enhancing Machine Learning-based
+    Intrusion Detection Against Adversarial Attacks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-13301
+  doi: 10.48550/ARXIV.2504.13301
+  ee: https://doi.org/10.48550/arXiv.2504.13301
+  url: https://dblp.org/rec/journals/corr/abs-2504-13301
+- author: Sandipan Dhar, MD. Tousin Akhter, Nanda Dulal Jana, Swagatam Das
+  title: Collective Learning Mechanism based Optimal Transport Generative Adversarial
+    Network for Non-parallel Voice Conversion.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-13791
+  doi: 10.48550/ARXIV.2504.13791
+  ee: https://doi.org/10.48550/arXiv.2504.13791
+  url: https://dblp.org/rec/journals/corr/abs-2504-13791
+- author: "Jiyuan Shi, Xinzhe Liu, Dewei Wang, Ouyang Lu, S\xF6ren Schwertfeger, Fuchun\
+    \ Sun, Chenjia Bai, Xuelong Li"
+  title: Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-14305
+  doi: 10.48550/ARXIV.2504.14305
+  ee: https://doi.org/10.48550/arXiv.2504.14305
+  url: https://dblp.org/rec/journals/corr/abs-2504-14305
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -21943,3 +21976,13 @@ feature%20disentanglement:
   doi: 10.21437/INTERSPEECH.2024-1940
   ee: https://doi.org/10.21437/Interspeech.2024-1940
   url: https://dblp.org/rec/conf/interspeech/Niu0Z0LC24
+- author: Hao Chen, Qi Zhang, Zenan Huang, Haobo Wang 0001, Junbo Zhao 0002
+  title: Towards Domain-Specific Features Disentanglement for Domain Generalization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-03007
+  doi: 10.48550/ARXIV.2310.03007
+  ee: https://doi.org/10.48550/arXiv.2310.03007
+  url: https://dblp.org/rec/journals/corr/abs-2310-03007
