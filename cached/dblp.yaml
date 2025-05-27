@@ -2862,6 +2862,39 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3563180
   ee: https://doi.org/10.1109/TGRS.2025.3563180
   url: https://dblp.org/rec/journals/tgrs/CuiHRLY25
+- author: Zhuoqun Fang, Yutong He, Zhaokui Li, Xuewei Gong
+  title: Two-Stage Domain Adaptation for Hyperspectral Image Classification Based
+    on Self-Distillation and Test-Time Adaptation.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/FangHLG25
+  doi: 10.1109/LGRS.2025.3566951
+  ee: https://doi.org/10.1109/LGRS.2025.3566951
+  url: https://dblp.org/rec/journals/lgrs/FangHLG25
+- author: Zhaokui Li, Mingtai Qi, Yan Wang, Xuewei Gong, Cuiwei Liu, Jinjun Wang
+  title: An Open-Set Domain Adaptation Framework for Hyperspectral Image Classification
+    With Pixel-Aware Weighting and Decoupled Alignment.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/LiQWGLW25
+  doi: 10.1109/LGRS.2025.3565605
+  ee: https://doi.org/10.1109/LGRS.2025.3565605
+  url: https://dblp.org/rec/journals/lgrs/LiQWGLW25
+- author: Zhaokui Li, Linlin Zeng, Yan Wang, Xuewei Gong, Jiaxu Guo, Mingtai Qi
+  title: Entropy-Guided Weighted Adversarial Open-Set Domain Adaptation Method for
+    Hyperspectral Image Classification.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/LiZWGGQ25
+  doi: 10.1109/LGRS.2025.3567034
+  ee: https://doi.org/10.1109/LGRS.2025.3567034
+  url: https://dblp.org/rec/journals/lgrs/LiZWGGQ25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
