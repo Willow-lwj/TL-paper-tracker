@@ -19846,6 +19846,105 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2504.14305
   ee: https://doi.org/10.48550/arXiv.2504.14305
   url: https://dblp.org/rec/journals/corr/abs-2504-14305
+- author: Taqiaden Alshameri, Peng Wang 0024, Daheng Li, Wei Wei, Haonan Duan 0001,
+    Yayu Huang, Murad Saleh Alfarzaeai
+  title: 'GraspAgent 1.0: Adversarial Continual Dexterous Grasp Learning.'
+  venue: IEEE Robotics Autom. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/AlshameriWLWDHA25
+  doi: 10.1109/LRA.2024.3502066
+  ee: https://doi.org/10.1109/LRA.2024.3502066
+  url: https://dblp.org/rec/journals/ral/AlshameriWLWDHA25
+- author: Xiao Ma, Wu-Jun Li
+  title: Grey-Box Adversarial Attack on Communication in Communicative Multi-Agent
+    Reinforcement Learning.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/MaL25
+  doi: 10.1109/TIFS.2025.3560203
+  ee: https://doi.org/10.1109/TIFS.2025.3560203
+  url: https://dblp.org/rec/journals/tifs/MaL25
+- author: Pulkit Agrawal 0004, Rukma Talwadker, Aditya Pareek, Tridib Mukherjee
+  title: 'FAST-Q: Fast-track Exploration with Adversarially Balanced State Representations
+    for Counterfactual Action Estimation in Offline Reinforcement Learning.'
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/0004TPM25
+  doi: 10.1145/3701716.3715224
+  ee: https://doi.org/10.1145/3701716.3715224
+  url: https://dblp.org/rec/conf/www/0004TPM25
+- author: Anastasis Kratsios, Xiaofei Shi, Qiang Sun, Zhanhao Zhang
+  title: Generative Market Equilibrium Models with Stable Adversarial Learning via
+    Reinforcement.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-04300
+  doi: 10.48550/ARXIV.2504.04300
+  ee: https://doi.org/10.48550/arXiv.2504.04300
+  url: https://dblp.org/rec/journals/corr/abs-2504-04300
+- author: Wenxuan Ma 0007, Kuan-Cheng Chen, Shang Yu, Mengxiang Liu, Ruilong Deng
+  title: Robust Decentralized Quantum Kernel Learning for Noisy and Adversarial Environment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-13782
+  doi: 10.48550/ARXIV.2504.13782
+  ee: https://doi.org/10.48550/arXiv.2504.13782
+  url: https://dblp.org/rec/journals/corr/abs-2504-13782
+- author: "Claudia Drygala, Hanno Gottschalk, Thomas Kruse, S\xE9gol\xE8ne Martin,\
+    \ Annika M\xFCtze"
+  title: Learning Brenier Potentials with Convex Generative Adversarial Neural Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-19779
+  doi: 10.48550/ARXIV.2504.19779
+  ee: https://doi.org/10.48550/arXiv.2504.19779
+  url: https://dblp.org/rec/journals/corr/abs-2504-19779
+- author: Manish Kansana, Keyan Alexander Rahimi, Elias Hossain, Iman Dehzangi, Noorbakhsh
+    Amiri Golilarz
+  title: Edge-Based Learning for Improved Classification Under Adversarial Noise.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-20077
+  doi: 10.48550/ARXIV.2504.20077
+  ee: https://doi.org/10.48550/arXiv.2504.20077
+  url: https://dblp.org/rec/journals/corr/abs-2504-20077
+- author: Pulkit Agrawal 0004, Rukma Talwadker, Aditya Pareek, Tridib Mukherjee
+  title: 'FAST-Q: Fast-track Exploration with Adversarially Balanced State Representations
+    for Counterfactual Action Estimation in Offline Reinforcement Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-21383
+  doi: 10.48550/ARXIV.2504.21383
+  ee: https://doi.org/10.48550/arXiv.2504.21383
+  url: https://dblp.org/rec/journals/corr/abs-2504-21383
+- author: Xun Yuan, Yang Yang, Prosanta Gope 0001, Aryan Mohammadi Pasikhani, Biplab
+    Sikdar 0001
+  title: 'VFLGAN: Vertical Federated Learning-based Generative Adversarial Network
+    for Vertically Partitioned Data Publication.'
+  venue: Proc. Priv. Enhancing Technol.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/popets/YuanYGPS24
+  doi: 10.56553/POPETS-2024-0144
+  ee: https://doi.org/10.56553/popets-2024-0144
+  url: https://dblp.org/rec/journals/popets/YuanYGPS24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -22085,3 +22184,15 @@ feature%20disentanglement:
   doi: 10.1016/J.PATCOG.2023.109878
   ee: https://doi.org/10.1016/j.patcog.2023.109878
   url: https://dblp.org/rec/journals/pr/LinCLMW24
+- author: Haohan Chen, Hongjia Liu, Shiyong Lan, Wenwu Wang 0007, Yixin Qiao, Yao
+    Li, Guonan Deng
+  title: 'DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale
+    Attention.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-11160
+  doi: 10.48550/ARXIV.2504.11160
+  ee: https://doi.org/10.48550/arXiv.2504.11160
+  url: https://dblp.org/rec/journals/corr/abs-2504-11160
