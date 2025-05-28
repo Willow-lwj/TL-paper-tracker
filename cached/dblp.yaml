@@ -2895,6 +2895,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/LGRS.2025.3567034
   ee: https://doi.org/10.1109/LGRS.2025.3567034
   url: https://dblp.org/rec/journals/lgrs/LiZWGGQ25
+- author: Zhaokui Li, Mingtai Qi, Yan Wang 0087, Xuewei Gong, Cuiwei Liu, Jinjun Wang
+  title: An Open-Set Domain Adaptation Framework for Hyperspectral Image Classification
+    With Pixel-Aware Weighting and Decoupled Alignment.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/LiQWGLW25
+  doi: 10.1109/LGRS.2025.3565605
+  ee: https://doi.org/10.1109/LGRS.2025.3565605
+  url: https://dblp.org/rec/journals/lgrs/LiQWGLW25
+- author: Zhaokui Li, Linlin Zeng, Yan Wang 0087, Xuewei Gong, Jiaxu Guo, Mingtai
+    Qi
+  title: Entropy-Guided Weighted Adversarial Open-Set Domain Adaptation Method for
+    Hyperspectral Image Classification.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/LiZWGGQ25
+  doi: 10.1109/LGRS.2025.3567034
+  ee: https://doi.org/10.1109/LGRS.2025.3567034
+  url: https://dblp.org/rec/journals/lgrs/LiZWGGQ25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -19978,6 +20001,38 @@ Adversarial%20Learning:
   doi: 10.56553/POPETS-2024-0144
   ee: https://doi.org/10.56553/popets-2024-0144
   url: https://dblp.org/rec/journals/popets/YuanYGPS24
+- author: Yanqi Hao, Chuan Luo 0001, Tianrui Li 0001, Junbo Zhang, Hongmei Chen
+  title: Adversarial Transfer Learning-Based Hybrid Recurrent Network for Air Quality
+    Prediction.
+  venue: Int. J. Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/ijis/HaoLLZC25
+  doi: 10.1155/INT/6014262
+  ee: https://doi.org/10.1155/int/6014262
+  url: https://dblp.org/rec/journals/ijis/HaoLLZC25
+- author: Rui Wang, Liping Chen, Kong Aik Lee, Zhen-Hua Ling
+  title: Asynchronous Voice Anonymization by Learning From Speaker-Adversarial Speech.
+  venue: IEEE Signal Process. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/spl/WangCLL25
+  doi: 10.1109/LSP.2025.3563306
+  ee: https://doi.org/10.1109/LSP.2025.3563306
+  url: https://dblp.org/rec/journals/spl/WangCLL25
+- author: Vatsala Sharma, Ashwin Goyal, Suyash P. Awate
+  title: On the Role of Adversarial Perturbations in Unsupervised Deep Learning for
+    Enhancing Image Quality of Degraded Medical-Images.
+  venue: ISBI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isbi/SharmaGA25
+  doi: 10.1109/ISBI60581.2025.10980707
+  ee: https://doi.org/10.1109/ISBI60581.2025.10980707
+  url: https://dblp.org/rec/conf/isbi/SharmaGA25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
