@@ -20066,6 +20066,27 @@ Adversarial%20Learning:
   doi: 10.1109/WACVW65960.2025.00041
   ee: https://doi.org/10.1109/WACVW65960.2025.00041
   url: https://dblp.org/rec/conf/wacv/KarimY25
+- author: Reza Ebrahimi 0001, Jason Pacheco, James Hu 0001, Hsinchun Chen
+  title: Learning Contextualized Action Representations in Sequential Decision Making
+    for Adversarial Malware Optimization.
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/EbrahimiPHC25
+  doi: 10.1109/TDSC.2024.3477272
+  ee: https://doi.org/10.1109/TDSC.2024.3477272
+  url: https://dblp.org/rec/journals/tdsc/EbrahimiPHC25
+- author: "Andr\xE9a Doreste"
+  title: Adversarial Testing with Reinforcement Learning.
+  venue: ICST
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icst/Doreste25
+  doi: 10.1109/ICST62969.2025.10988958
+  ee: https://doi.org/10.1109/ICST62969.2025.10988958
+  url: https://dblp.org/rec/conf/icst/Doreste25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
