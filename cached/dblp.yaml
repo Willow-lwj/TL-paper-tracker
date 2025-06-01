@@ -20087,6 +20087,18 @@ Adversarial%20Learning:
   doi: 10.1109/ICST62969.2025.10988958
   ee: https://doi.org/10.1109/ICST62969.2025.10988958
   url: https://dblp.org/rec/conf/icst/Doreste25
+- author: Mingliang Zhou, Wenhao Shen, Xuekai Wei, Jun Luo, Fan Jia, Xu Zhuang, Weijia
+    Jia 0001
+  title: 'Blind Image Quality Assessment: Exploring Content Fidelity Perceptibility
+    via Quality Adversarial Learning.'
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/ZhouSWLJZJ25
+  doi: 10.1007/S11263-024-02338-7
+  ee: https://doi.org/10.1007/s11263-024-02338-7
+  url: https://dblp.org/rec/journals/ijcv/ZhouSWLJZJ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
