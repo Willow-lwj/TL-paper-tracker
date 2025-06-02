@@ -2918,6 +2918,19 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/LGRS.2025.3567034
   ee: https://doi.org/10.1109/LGRS.2025.3567034
   url: https://dblp.org/rec/journals/lgrs/LiZWGGQ25
+- author: "Gonzalo I\xF1aki Quintana"
+  title: "Leveraging domain adaptation methods for federated learning applied to 2D\
+    \ mammography image classification. (Exploiter des m\xE9thodes d&apos;adaptation\
+    \ de domaine pour l&apos;apprentissage f\xE9d\xE9r\xE9 appliqu\xE9 \xE0 la classification\
+    \ d&apos;images en mammographie)."
+  venue: ''
+  year: '2024'
+  type: Books and Theses
+  access: closed
+  key: phd/hal/Quintana24
+  doi: ''
+  ee: https://tel.archives-ouvertes.fr/tel-04981572
+  url: https://dblp.org/rec/phd/hal/Quintana24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -20099,6 +20112,28 @@ Adversarial%20Learning:
   doi: 10.1007/S11263-024-02338-7
   ee: https://doi.org/10.1007/s11263-024-02338-7
   url: https://dblp.org/rec/journals/ijcv/ZhouSWLJZJ25
+- author: Yvon Apedo, Huanjie Tao
+  title: A weakly supervised pavement crack segmentation based on adversarial learning
+    and transformers.
+  venue: Multim. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/ApedoT25
+  doi: 10.1007/S00530-025-01850-1
+  ee: https://doi.org/10.1007/s00530-025-01850-1
+  url: https://dblp.org/rec/journals/mms/ApedoT25
+- author: Nuan Wen, Mir Feroskhan
+  title: 'Practical Robust Formation Control for Nonlinear Multiagent Systems via
+    Generative Adversarial Learning Framework: Theory and Experiment.'
+  venue: IEEE Trans. Syst. Man Cybern. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tsmc/WenF25
+  doi: 10.1109/TSMC.2025.3550255
+  ee: https://doi.org/10.1109/TSMC.2025.3550255
+  url: https://dblp.org/rec/journals/tsmc/WenF25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
