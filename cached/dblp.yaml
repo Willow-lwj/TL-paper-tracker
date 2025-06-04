@@ -2931,6 +2931,17 @@ Domain%20Adaptation%20image%20classification:
   doi: ''
   ee: https://tel.archives-ouvertes.fr/tel-04981572
   url: https://dblp.org/rec/phd/hal/Quintana24
+- author: Animesh Shree, Rakesh Kumar Sanodiya
+  title: Hyperspectral Image Classification using Few Shot Domain Adaptation and Active
+    Learning.
+  venue: NCC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ncc/ShreeS25
+  doi: 10.1109/NCC63735.2025.10983502
+  ee: https://doi.org/10.1109/NCC63735.2025.10983502
+  url: https://dblp.org/rec/conf/ncc/ShreeS25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -20145,6 +20156,29 @@ Adversarial%20Learning:
   doi: 10.1109/TIM.2025.3562242
   ee: https://doi.org/10.1109/TIM.2025.3562242
   url: https://dblp.org/rec/journals/tim/YuanDWW25
+- author: Long Bai 0008, Boyi Ma, Ruohan Wang, Guankun Wang, Beilei Cui, Zhongliang
+    Jiang, Mobarakol Islam, Zhe Min, Jiewen Lai, Nassir Navab, Hongliang Ren 0001
+  title: Multimodal graph representation learning for robust surgical workflow recognition
+    with adversarial feature disentanglement.
+  venue: Inf. Fusion
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/inffus/BaiMWWCJIMLNR25
+  doi: 10.1016/J.INFFUS.2025.103290
+  ee: https://doi.org/10.1016/j.inffus.2025.103290
+  url: https://dblp.org/rec/journals/inffus/BaiMWWCJIMLNR25
+- author: Masuma Aktar, Kuldeep Singh Yadav, Rabul Hussain Laskar
+  title: A Robust and Lightweight Generative Adversarial Network with Zero-Shot Learning
+    for Image Super-Resolution.
+  venue: NCC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ncc/AktarYL25
+  doi: 10.1109/NCC63735.2025.10983879
+  ee: https://doi.org/10.1109/NCC63735.2025.10983879
+  url: https://dblp.org/rec/conf/ncc/AktarYL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -22396,3 +22430,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2504.11160
   ee: https://doi.org/10.48550/arXiv.2504.11160
   url: https://dblp.org/rec/journals/corr/abs-2504-11160
+- author: Long Bai 0008, Boyi Ma, Ruohan Wang, Guankun Wang, Beilei Cui, Zhongliang
+    Jiang, Mobarakol Islam, Zhe Min, Jiewen Lai, Nassir Navab, Hongliang Ren 0001
+  title: Multimodal graph representation learning for robust surgical workflow recognition
+    with adversarial feature disentanglement.
+  venue: Inf. Fusion
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/inffus/BaiMWWCJIMLNR25
+  doi: 10.1016/J.INFFUS.2025.103290
+  ee: https://doi.org/10.1016/j.inffus.2025.103290
+  url: https://dblp.org/rec/journals/inffus/BaiMWWCJIMLNR25
