@@ -20179,6 +20179,17 @@ Adversarial%20Learning:
   doi: 10.1109/NCC63735.2025.10983879
   ee: https://doi.org/10.1109/NCC63735.2025.10983879
   url: https://dblp.org/rec/conf/ncc/AktarYL25
+- author: Yuze Ding, Shibin Zhang
+  title: 'Dynamic Semantic-Constrained Adversarial Training and Defensing: A Reinforcement
+    Learning Framework for LLM-Generated Fake Information Detection.'
+  venue: GAIIS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/gaiis/DingZ25
+  doi: 10.1145/3728725.3728762
+  ee: https://doi.org/10.1145/3728725.3728762
+  url: https://dblp.org/rec/conf/gaiis/DingZ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
