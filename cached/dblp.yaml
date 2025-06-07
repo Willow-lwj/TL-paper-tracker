@@ -20190,6 +20190,16 @@ Adversarial%20Learning:
   doi: 10.1145/3728725.3728762
   ee: https://doi.org/10.1145/3728725.3728762
   url: https://dblp.org/rec/conf/gaiis/DingZ25
+- author: Joonsu Kim, Ju H. Park, S. M. Lee
+  title: Fuzzy Rule Based Generative Adversarial Imitation Learning.
+  venue: ICCE
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccel/KimPL25
+  doi: 10.1109/ICCE63647.2025.10929867
+  ee: https://doi.org/10.1109/ICCE63647.2025.10929867
+  url: https://dblp.org/rec/conf/iccel/KimPL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
