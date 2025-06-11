@@ -20200,6 +20200,37 @@ Adversarial%20Learning:
   doi: 10.1109/ICCE63647.2025.10929867
   ee: https://doi.org/10.1109/ICCE63647.2025.10929867
   url: https://dblp.org/rec/conf/iccel/KimPL25
+- author: Syafira Fitri Auliya, Olya Kudina, Aaron Yi Ding, Ibo van de Poel
+  title: 'AI versus AI for democracy: exploring the potential of adversarial machine
+    learning to enhance privacy and deliberative decision-making in elections.'
+  venue: AI Ethics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/aiethics/AuliyaKDP25
+  doi: 10.1007/S43681-024-00588-2
+  ee: https://doi.org/10.1007/s43681-024-00588-2
+  url: https://dblp.org/rec/journals/aiethics/AuliyaKDP25
+- author: Joonsu Kim, Ju H. Park 0001, S. M. Lee
+  title: Fuzzy Rule Based Generative Adversarial Imitation Learning.
+  venue: ICCE
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccel/KimPL25
+  doi: 10.1109/ICCE63647.2025.10929867
+  ee: https://doi.org/10.1109/ICCE63647.2025.10929867
+  url: https://dblp.org/rec/conf/iccel/KimPL25
+- author: Sanjay S. J, Akash J, Sreehari Rajan, Dimple A. Shajahan, Charu Sharma
+  title: Adversarial Learning Based Knowledge Distillation on 3D Point Clouds.
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/JJRSS25
+  doi: 10.1109/WACV61041.2025.00290
+  ee: https://doi.org/10.1109/WACV61041.2025.00290
+  url: https://dblp.org/rec/conf/wacv/JJRSS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -22463,3 +22494,15 @@ feature%20disentanglement:
   doi: 10.1016/J.INFFUS.2025.103290
   ee: https://doi.org/10.1016/j.inffus.2025.103290
   url: https://dblp.org/rec/journals/inffus/BaiMWWCJIMLNR25
+- author: "Qiwu Luo, Wenlong Xu, Jiaojiao Su, Chunhua Yang 0001, Weihua Gui 0001,\
+    \ Olli Silv\xE9n"
+  title: Efficient Adaptation of Visual Foundation Models for Wood Defect Segmentation
+    via Instance Linking and Feature Disentanglement.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/LuoXSYGS25
+  doi: 10.1109/TIM.2025.3565348
+  ee: https://doi.org/10.1109/TIM.2025.3565348
+  url: https://dblp.org/rec/journals/tim/LuoXSYGS25
