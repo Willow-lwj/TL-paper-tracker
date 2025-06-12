@@ -20231,6 +20231,17 @@ Adversarial%20Learning:
   doi: 10.1109/WACV61041.2025.00290
   ee: https://doi.org/10.1109/WACV61041.2025.00290
   url: https://dblp.org/rec/conf/wacv/JJRSS25
+- author: Fan Qin, Nan Ji, Zeping Ye, Ning Shi, Yu-an Tan 0001
+  title: Enhancing Adversarial Robustness in Object Detection via Multi-task Learning
+    and Class-Aware Adversarial Training.
+  venue: AIS&amp;P
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aisp/QinJYST23
+  doi: 10.1007/978-981-96-1148-5_8
+  ee: https://doi.org/10.1007/978-981-96-1148-5_8
+  url: https://dblp.org/rec/conf/aisp/QinJYST23
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -20404,6 +20415,16 @@ unsupervised%20domain%20adaptation%20data%20augmentation:
   doi: 10.1016/J.NEUCOM.2025.129393
   ee: https://doi.org/10.1016/j.neucom.2025.129393
   url: https://dblp.org/rec/journals/ijon/DongLWTL25
+- author: Julio Ivan Davila Carrazco, Pietro Morerio, Alessio Del Bue, Vittorio Murino
+  title: Learnable Data Augmentation for One-Shot Unsupervised Domain Adaptation.
+  venue: BMVC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/bmvc/CarrazcoMBM23
+  doi: ''
+  ee: http://proceedings.bmvc2023.org/752/
+  url: https://dblp.org/rec/conf/bmvc/CarrazcoMBM23
 domain%20%feature%alignment:
 - author: Zhongyi Wen, Qiang Li 0017, Yatong Wang, Luyan Xu, Huaizong Shao, Guomin
     Sun
