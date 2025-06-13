@@ -20242,6 +20242,39 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-96-1148-5_8
   ee: https://doi.org/10.1007/978-981-96-1148-5_8
   url: https://dblp.org/rec/conf/aisp/QinJYST23
+- author: Chen Feng, Ziquan Liu, Zhuo Zhi, Ilija Bogunovic, Carsten Gerner-Beuerle,
+    Miguel Rodrigues 0001
+  title: 'PROSAC: Provably Safe Certification for Machine Learning Models under Adversarial
+    Attacks.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/FengLZBGR25
+  doi: 10.1609/AAAI.V39I3.32300
+  ee: https://doi.org/10.1609/aaai.v39i3.32300
+  url: https://dblp.org/rec/conf/aaai/FengLZBGR25
+- author: Zhixun He
+  title: Defense Frameworks Against Adversarial Attacks on Deep Learning Models
+  venue: ''
+  year: '2024'
+  type: Books and Theses
+  access: closed
+  key: phd/us/He24d
+  doi: ''
+  ee: https://www.escholarship.org/uc/item/2rw6779d
+  url: https://dblp.org/rec/phd/us/He24d
+- author: "Dino Ienco, C\xE1ssio Fraga Dantas"
+  title: 'DisCoM-KD: Cross-Modal Knowledge Distillation via Disentanglement Representation
+    and Adversarial Learning.'
+  venue: BMVC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/bmvc/IencoD24
+  doi: ''
+  ee: https://bmvc2024.org/proceedings/328/
+  url: https://dblp.org/rec/conf/bmvc/IencoD24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
