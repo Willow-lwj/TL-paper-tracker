@@ -2942,6 +2942,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/NCC63735.2025.10983502
   ee: https://doi.org/10.1109/NCC63735.2025.10983502
   url: https://dblp.org/rec/conf/ncc/ShreeS25
+- author: Zhunga Liu, Xinran Ji, Zuowei Zhang 0001, Yimin Fu
+  title: 'DFEN: A Dual-Feature Extraction Network-Based Open-Set Domain Adaptation
+    Method for Optical Remote Sensing Image Scene Classification.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/LiuJZF25
+  doi: 10.1109/TETCI.2024.3462429
+  ee: https://doi.org/10.1109/TETCI.2024.3462429
+  url: https://dblp.org/rec/journals/tetci/LiuJZF25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -20320,6 +20331,128 @@ Adversarial%20Learning:
   doi: 10.1109/IEEECONF60004.2024.10942949
   ee: https://doi.org/10.1109/IEEECONF60004.2024.10942949
   url: https://dblp.org/rec/conf/acssc/RavariJZITPBL24
+- author: Qinyan Ma, Jing Xiao, Zeqi Shao, Duona Zhang, Yufeng Wang 0004, Wenrui Ding
+  title: Frequency-learning adversarial networks based on transfer learning for cross-scenario
+    signal modulation classification.
+  venue: Frontiers Inf. Technol. Electron. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jzusc/MaXSZWD25
+  doi: 10.1631/FITEE.2400080
+  ee: https://doi.org/10.1631/FITEE.2400080
+  url: https://dblp.org/rec/journals/jzusc/MaXSZWD25
+- author: Lorenzo Simone, Davide Bacciu, Vincenzo Gervasi
+  title: 'ECG synthesis for cardiac arrhythmias: Integrating self-supervised learning
+    and generative adversarial networks.'
+  venue: Artif. Intell. Medicine
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/artmed/SimoneBG25
+  doi: 10.1016/J.ARTMED.2025.103162
+  ee: https://doi.org/10.1016/j.artmed.2025.103162
+  url: https://dblp.org/rec/journals/artmed/SimoneBG25
+- author: Yongsheng Dong, Songtao Liu, Yaxin Li, Lintao Zheng
+  title: Aesthetic-aware adversarial learning network for artistic style transfer.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/DongLLZ25
+  doi: 10.1016/J.NEUCOM.2025.130431
+  ee: https://doi.org/10.1016/j.neucom.2025.130431
+  url: https://dblp.org/rec/journals/ijon/DongLLZ25
+- author: Yue Zhang 0045, Weitian Huang, Xiaoxue Zhang, Sirui Yang, Fa Zhang 0001,
+    Xin Gao 0001, Hongmin Cai
+  title: Learning Uniform Latent Representation via Alternating Adversarial Network
+    for Multi-View Clustering.
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ZhangHZYZGC25
+  doi: 10.1109/TETCI.2025.3540426
+  ee: https://doi.org/10.1109/TETCI.2025.3540426
+  url: https://dblp.org/rec/journals/tetci/ZhangHZYZGC25
+- author: Chenbin Ma, Yangfan Xu, Peng Zhang 0078, Fan Song, Yangyang Sun, Youdan
+    Feng, Yufang He, Guanglei Zhang
+  title: PPG-Based Continuous BP Waveform Estimation Using Polarized Attention-Guided
+    Conditional Adversarial Learning Model.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/MaXZSSFHZ25
+  doi: 10.1109/JBHI.2023.3324319
+  ee: https://doi.org/10.1109/JBHI.2023.3324319
+  url: https://dblp.org/rec/journals/titb/MaXZSSFHZ25
+- author: Xiaokang Zhou, Xuzhe Zheng, Tian Shu, Wei Liang 0006, Kevin I-Kai Wang,
+    Lianyong Qi, Shohei Shimizu, Qun Jin
+  title: Information Theoretic Learning-Enhanced Dual-Generative Adversarial Networks
+    With Causal Representation for Robust OOD Generalization.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/tnn/ZhouZSLWQSJ25
+  doi: 10.1109/TNNLS.2023.3330864
+  ee: https://doi.org/10.1109/TNNLS.2023.3330864
+  url: https://dblp.org/rec/journals/tnn/ZhouZSLWQSJ25
+- author: Sravanti Addepalli, Priyam Dey, Venkatesh Babu Radhakrishnan
+  title: 'ProFeAT: Projected Feature Adversarial Training for Self-Supervised Learning
+    of Robust Representations.'
+  venue: Trans. Mach. Learn. Res.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/AddepalliDR24
+  doi: ''
+  ee: https://openreview.net/forum?id=AUC0Kmn70N
+  url: https://dblp.org/rec/journals/tmlr/AddepalliDR24
+- author: Jen-Yen Chang, Thomas Westfechtel, Takayuki Osa, Tatsuya Harada
+  title: Offline Deep Reinforcement Learning for Visual Distractions via Domain Adversarial
+    Training.
+  venue: Trans. Mach. Learn. Res.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/ChangWOH24
+  doi: ''
+  ee: https://openreview.net/forum?id=dce6ZGkJ1Z
+  url: https://dblp.org/rec/journals/tmlr/ChangWOH24
+- author: "Andi Nika, Jonathan N\xF6ther, Adish Singla, Goran Radanovic"
+  title: 'Defending Against Unknown Corrupted Agents: Reinforcement Learning of Adversarially
+    Robust Nash Equilibria.'
+  venue: Trans. Mach. Learn. Res.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/NikaNSR24
+  doi: ''
+  ee: https://openreview.net/forum?id=aggyMifxLQ
+  url: https://dblp.org/rec/journals/tmlr/NikaNSR24
+- author: Zichen Wang, Rishab Balasubramanian, Hui Yuan 0002, Chenyu Song, Mengdi
+    Wang, Huazheng Wang
+  title: Adversarial Attacks on Online Learning to Rank with Stochastic Click Models.
+  venue: Trans. Mach. Learn. Res.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/WangB0SWW24
+  doi: ''
+  ee: https://openreview.net/forum?id=BKwGowR0Bt
+  url: https://dblp.org/rec/journals/tmlr/WangB0SWW24
+- author: HyeAnn Lee, Donghwan Lee 0002
+  title: Suppressing Overestimation in Q-Learning Through Adversarial Behaviors.
+  venue: Allerton
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/allerton/LeeL24
+  doi: 10.1109/ALLERTON63246.2024.10735317
+  ee: https://doi.org/10.1109/Allerton63246.2024.10735317
+  url: https://dblp.org/rec/conf/allerton/LeeL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -22605,3 +22738,35 @@ feature%20disentanglement:
   doi: 10.1109/TIM.2025.3565348
   ee: https://doi.org/10.1109/TIM.2025.3565348
   url: https://dblp.org/rec/journals/tim/LuoXSYGS25
+- author: Zhiquan He, Kangxing Wu, Yang Wen
+  title: Defect image generation through feature disentanglement using StyleGAN2-ADA.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/HeWW25
+  doi: 10.1016/J.NEUCOM.2025.130455
+  ee: https://doi.org/10.1016/j.neucom.2025.130455
+  url: https://dblp.org/rec/journals/ijon/HeWW25
+- author: Tianling Liu, Hongying Liu, Fanhua Shang, Lequan Yu, Tong Han, Liang Wan
+  title: Completed Feature Disentanglement Learning for Multimodal MRIs Analysis.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/LiuLSYHW25
+  doi: 10.1109/JBHI.2025.3539712
+  ee: https://doi.org/10.1109/JBHI.2025.3539712
+  url: https://dblp.org/rec/journals/titb/LiuLSYHW25
+- author: Dwarikanath Mahapatra, Antonio Jimeno-Yepes, Behzad Bozorgtabar, Sudipta
+    Roy 0002, Zongyuan Ge, Mauricio Reyes 0001
+  title: Multi-Label Generalized Zero Shot Chest X-Ray Classification by Combining
+    Image-Text Information With Feature Disentanglement.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/tmi/MahapatraJBRGR25
+  doi: 10.1109/TMI.2024.3429471
+  ee: https://doi.org/10.1109/TMI.2024.3429471
+  url: https://dblp.org/rec/journals/tmi/MahapatraJBRGR25
