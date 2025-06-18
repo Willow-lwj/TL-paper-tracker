@@ -20453,6 +20453,28 @@ Adversarial%20Learning:
   doi: 10.1109/ALLERTON63246.2024.10735317
   ee: https://doi.org/10.1109/Allerton63246.2024.10735317
   url: https://dblp.org/rec/conf/allerton/LeeL24
+- author: Naghmeh Ghanooni, Waleed Mustafa, Yunwen Lei, Anthony Widjaja Lin, Marius
+    Kloft
+  title: Generalization Bounds with Logarithmic Negative-Sample Dependence for Adversarial
+    Contrastive Learning.
+  venue: Trans. Mach. Learn. Res.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/GhanooniMLLK24
+  doi: ''
+  ee: https://openreview.net/forum?id=OaVi1yjdEc
+  url: https://dblp.org/rec/journals/tmlr/GhanooniMLLK24
+- author: Yijiang Li, Ying Gao 0004, Haohan Wang
+  title: Towards Understanding Adversarial Transferability in Federated Learning.
+  venue: Trans. Mach. Learn. Res.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/Li0W24
+  doi: ''
+  ee: https://openreview.net/forum?id=hafnY2PiTn
+  url: https://dblp.org/rec/journals/tmlr/Li0W24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
