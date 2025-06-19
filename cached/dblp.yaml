@@ -20475,6 +20475,95 @@ Adversarial%20Learning:
   doi: ''
   ee: https://openreview.net/forum?id=hafnY2PiTn
   url: https://dblp.org/rec/journals/tmlr/Li0W24
+- author: Qiwei Liu, Huaicheng Yan 0001, Kaitian Chen, Meng Wang 0013, Zhichen Li
+  title: 'Distributed Nash equilibrium solution for multi-agent game in adversarial
+    environment: A reinforcement learning method.'
+  venue: Autom.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/automatica/LiuYCWL25
+  doi: 10.1016/J.AUTOMATICA.2025.112342
+  ee: https://doi.org/10.1016/j.automatica.2025.112342
+  url: https://dblp.org/rec/journals/automatica/LiuYCWL25
+- author: Yi-Chen Li 0001, Ningjing Chao, Zongzhang Zhang, Fuxiang Zhang, Lei Yuan
+    0001, Yang Yu 0001
+  title: Generalizable Multi-Modal Adversarial Imitation Learning for Non-Stationary
+    Dynamics.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LiCZZYY25
+  doi: 10.1109/TPAMI.2025.3552228
+  ee: https://doi.org/10.1109/TPAMI.2025.3552228
+  url: https://dblp.org/rec/journals/pami/LiCZZYY25
+- author: Leonid Legashev, Arthur Zhigalov, Denis Parfenov
+  title: Analysis of the vulnerability of machine learning regression models to adversarial
+    attacks using data from 5G wireless networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-00487
+  doi: 10.48550/ARXIV.2505.00487
+  ee: https://doi.org/10.48550/arXiv.2505.00487
+  url: https://dblp.org/rec/journals/corr/abs-2505-00487
+- author: Xuan Li, Zhe Yin, Xiaodong Gu, Beijun Shen
+  title: 'Anti-adversarial Learning: Desensitizing Prompts for Large Language Models.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-01273
+  doi: 10.48550/ARXIV.2505.01273
+  ee: https://doi.org/10.48550/arXiv.2505.01273
+  url: https://dblp.org/rec/journals/corr/abs-2505-01273
+- author: Long Bai 0008, Boyi Ma, Ruohan Wang, Guankun Wang, Beilei Cui, Zhongliang
+    Jiang, Mobarakol Islam, Zhe Min, Jiewen Lai, Nassir Navab, Hongliang Ren 0001
+  title: Multimodal Graph Representation Learning for Robust Surgical Workflow Recognition
+    with Adversarial Feature Disentanglement.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-01766
+  doi: 10.48550/ARXIV.2505.01766
+  ee: https://doi.org/10.48550/arXiv.2505.01766
+  url: https://dblp.org/rec/journals/corr/abs-2505-01766
+- author: Chawin Sitawarin
+  title: New Perspectives on Adversarially Robust Machine Learning Systems
+  venue: ''
+  year: '2024'
+  type: Books and Theses
+  access: closed
+  key: phd/us/Sitawarin24
+  doi: ''
+  ee: https://www.escholarship.org/uc/item/7m11z061
+  url: https://dblp.org/rec/phd/us/Sitawarin24
+- author: Jianing Wang 0003, Siying Guo, Zheng Hua, Runhu Huang, Jinyu Hu, Maoguo
+    Gong
+  title: 'CL-CaGAN: Capsule Differential Adversarial Continual Learning for Cross-Domain
+    Hyperspectral Anomaly Detection.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/WangGHHHG24
+  doi: 10.1109/TGRS.2024.3388426
+  ee: https://doi.org/10.1109/TGRS.2024.3388426
+  url: https://dblp.org/rec/journals/tgrs/WangGHHHG24
+- author: Da Ke, Xiang Wang 0013, Zhitao Huang
+  title: Frequency-Selective Adversarial Attack Against Deep Learning-Based Wireless
+    Signal Classifiers.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tifs/KeWH24
+  doi: 10.1109/TIFS.2024.3352423
+  ee: https://doi.org/10.1109/TIFS.2024.3352423
+  url: https://dblp.org/rec/journals/tifs/KeWH24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -22792,3 +22881,15 @@ feature%20disentanglement:
   doi: 10.1109/TMI.2024.3429471
   ee: https://doi.org/10.1109/TMI.2024.3429471
   url: https://dblp.org/rec/journals/tmi/MahapatraJBRGR25
+- author: Long Bai 0008, Boyi Ma, Ruohan Wang, Guankun Wang, Beilei Cui, Zhongliang
+    Jiang, Mobarakol Islam, Zhe Min, Jiewen Lai, Nassir Navab, Hongliang Ren 0001
+  title: Multimodal Graph Representation Learning for Robust Surgical Workflow Recognition
+    with Adversarial Feature Disentanglement.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-01766
+  doi: 10.48550/ARXIV.2505.01766
+  ee: https://doi.org/10.48550/arXiv.2505.01766
+  url: https://dblp.org/rec/journals/corr/abs-2505-01766
