@@ -20564,6 +20564,28 @@ Adversarial%20Learning:
   doi: 10.1109/TIFS.2024.3352423
   ee: https://doi.org/10.1109/TIFS.2024.3352423
   url: https://dblp.org/rec/journals/tifs/KeWH24
+- author: Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun, Dezhong Peng
+  title: Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-04046
+  doi: 10.48550/ARXIV.2505.04046
+  ee: https://doi.org/10.48550/arXiv.2505.04046
+  url: https://dblp.org/rec/journals/corr/abs-2505-04046
+- author: Andreas Kontogiannis, Konstantinos Papathanasiou, Yi Shen 0011, Giorgos
+    Stamou, Michael M. Zavlanos, George A. Vouros
+  title: Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling
+    and Adversarial Exploration.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-05262
+  doi: 10.48550/ARXIV.2505.05262
+  ee: https://doi.org/10.48550/arXiv.2505.05262
+  url: https://dblp.org/rec/journals/corr/abs-2505-05262
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
