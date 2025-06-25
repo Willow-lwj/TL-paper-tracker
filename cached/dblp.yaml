@@ -20586,6 +20586,128 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2505.05262
   ee: https://doi.org/10.48550/arXiv.2505.05262
   url: https://dblp.org/rec/journals/corr/abs-2505-05262
+- author: Minhong Sun, Liang Wei, Chunlai Yu, Zhaoyang Qiu, Jiazhong Teng
+  title: Self-supervised and semi-supervised learning for few-shot specific emitter
+    identification using CNN-transformer with virtual adversarial training.
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/SunWYQT25
+  doi: 10.1007/S10489-025-06645-5
+  ee: https://doi.org/10.1007/s10489-025-06645-5
+  url: https://dblp.org/rec/journals/apin/SunWYQT25
+- author: Jinlei Zhu, Xin Zhang, Xin Ding
+  title: 'RankT: Ranking-Triplets-based adversarial learning for knowledge graph link
+    prediction.'
+  venue: Data Knowl. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/dke/ZhuZD25
+  doi: 10.1016/J.DATAK.2025.102463
+  ee: https://doi.org/10.1016/j.datak.2025.102463
+  url: https://dblp.org/rec/journals/dke/ZhuZD25
+- author: Chenxu Wang 0001, Zhizhong Wan, Panpan Meng, Shihao Wang, Zhanggong Wang
+  title: Graph contrastive learning with high-order feature interactions and adversarial
+    Wasserstein-distance-based alignment.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/WangWMWW25
+  doi: 10.1007/S13042-024-02461-4
+  ee: https://doi.org/10.1007/s13042-024-02461-4
+  url: https://dblp.org/rec/journals/mlc/WangWMWW25
+- author: Yi-Chen Li 0001, Ningjing Chao, Zongzhang Zhang, Fuxiang Zhang, Lei Yuan
+    0005, Yang Yu 0001
+  title: Generalizable Multi-Modal Adversarial Imitation Learning for Non-Stationary
+    Dynamics.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LiCZZYY25
+  doi: 10.1109/TPAMI.2025.3552228
+  ee: https://doi.org/10.1109/TPAMI.2025.3552228
+  url: https://dblp.org/rec/journals/pami/LiCZZYY25
+- author: Matthieu Jonckheere, Chiara Mignacco, Gilles Stoltz
+  title: 'Policy Optimization via Adv2: Adversarial Learning on Advantage Functions.'
+  venue: Trans. Mach. Learn. Res.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/JonckheereMS25
+  doi: ''
+  ee: https://openreview.net/forum?id=Oyueig10Ed
+  url: https://dblp.org/rec/journals/tmlr/JonckheereMS25
+- author: Gen Li 0012, ChunChih Lin, Xiaonan Zhang 0001, Xiaolong Ma, Linke Guo
+  title: Adversarial Robust ViT-Based Automatic Modulation Recognition in Practical
+    Deep Learning-Based Wireless Systems.
+  venue: SP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/0012L0MG25
+  doi: 10.1109/SP61157.2025.00030
+  ee: https://doi.org/10.1109/SP61157.2025.00030
+  url: https://dblp.org/rec/conf/sp/0012L0MG25
+- author: Xuan Li, Zhe Yin, Xiaodong Gu 0002, Beijun Shen
+  title: 'Anti-adversarial Learning: Desensitizing Prompts for Large Language Models.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-01273
+  doi: 10.48550/ARXIV.2505.01273
+  ee: https://doi.org/10.48550/arXiv.2505.01273
+  url: https://dblp.org/rec/journals/corr/abs-2505-01273
+- author: Jinsheng Yuan, Yuhang Hao, Weisi Guo, Yun Wu, Chongyan Gu
+  title: Remote Rowhammer Attack using Adversarial Observations on Federated Learning
+    Clients.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-06335
+  doi: 10.48550/ARXIV.2505.06335
+  ee: https://doi.org/10.48550/arXiv.2505.06335
+  url: https://dblp.org/rec/journals/corr/abs-2505-06335
+- author: Jianing Wang 0003, Siying Guo, Zheng Hua, Runhu Huang, Jinyu Hu, Maoguo
+    Gong
+  title: 'CL-CaGAN: Capsule differential adversarial continuous learning for cross-domain
+    hyperspectral anomaly detection.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-11793
+  doi: 10.48550/ARXIV.2505.11793
+  ee: https://doi.org/10.48550/arXiv.2505.11793
+  url: https://dblp.org/rec/journals/corr/abs-2505-11793
+- author: Yandi Lun, Hao Miao 0001, Jiaxing Shen, Renzhi Wang, Xiang Wang 0015, Senzhang
+    Wang
+  title: 'Resisting TUL attack: balancing data privacy and utility on trajectory via
+    collaborative adversarial learning.'
+  venue: GeoInformatica
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/geoinformatica/LunMSWWW24
+  doi: 10.1007/S10707-023-00507-3
+  ee: https://doi.org/10.1007/s10707-023-00507-3
+  url: https://dblp.org/rec/journals/geoinformatica/LunMSWWW24
+- author: Shudong Li, Danna Lu, Qing Li 0077, Xiaobo Wu, Shumei Li, Zhen Wang 0004
+  title: 'MFLink: User Identity Linkage Across Online Social Networks via Multimodal
+    Fusion and Adversarial Learning.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/LiLLWLW24
+  doi: 10.1109/TETCI.2024.3372374
+  ee: https://doi.org/10.1109/TETCI.2024.3372374
+  url: https://dblp.org/rec/journals/tetci/LiLLWLW24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -22915,3 +23037,25 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2505.01766
   ee: https://doi.org/10.48550/arXiv.2505.01766
   url: https://dblp.org/rec/journals/corr/abs-2505-01766
+- author: Haiqi Xu, Qingshan She, Ming Meng, Yunyuan Gao, Yingchun Zhang
+  title: 'EFDFNet: A multimodal deep fusion network based on feature disentanglement
+    for attention state classification.'
+  venue: Biomed. Signal Process. Control.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/XuSMGZ25
+  doi: 10.1016/J.BSPC.2025.108042
+  ee: https://doi.org/10.1016/j.bspc.2025.108042
+  url: https://dblp.org/rec/journals/bspc/XuSMGZ25
+- author: F. Dornaika, B. Wang, Jinan Charafeddine
+  title: 'Deep Feature Disentanglement for Supervised Contrastive Learning: Application
+    to Image Classification.'
+  venue: Cogn. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cogcom/DornaikaWC25
+  doi: 10.1007/S12559-025-10430-4
+  ee: https://doi.org/10.1007/s12559-025-10430-4
+  url: https://dblp.org/rec/journals/cogcom/DornaikaWC25
