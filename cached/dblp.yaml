@@ -2953,6 +2953,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TETCI.2024.3462429
   ee: https://doi.org/10.1109/TETCI.2024.3462429
   url: https://dblp.org/rec/journals/tetci/LiuJZF25
+- author: Inder Pal Singh, Enjie Ghorbel, Anis Kacem 0001, Djamila Aouada
+  title: 'Domain Adaptation for Multi-label Image Classification: a Discriminator-free
+    Approach.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-14333
+  doi: 10.48550/ARXIV.2505.14333
+  ee: https://doi.org/10.48550/arXiv.2505.14333
+  url: https://dblp.org/rec/journals/corr/abs-2505-14333
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -20708,6 +20719,17 @@ Adversarial%20Learning:
   doi: 10.1109/TETCI.2024.3372374
   ee: https://doi.org/10.1109/TETCI.2024.3372374
   url: https://dblp.org/rec/journals/tetci/LiLLWLW24
+- author: Hana Satou, Alan Mitkiy
+  title: On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive
+    Transfer Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-12681
+  doi: 10.48550/ARXIV.2505.12681
+  ee: https://doi.org/10.48550/arXiv.2505.12681
+  url: https://dblp.org/rec/journals/corr/abs-2505-12681
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
