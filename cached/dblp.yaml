@@ -2964,6 +2964,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2505.14333
   ee: https://doi.org/10.48550/arXiv.2505.14333
   url: https://dblp.org/rec/journals/corr/abs-2505-14333
+- author: Xiao-Cong Zhong, Qisong Wang, Dan Liu 0004, Jing-Xiao Liao, Runze Yang,
+    Sanhe Duan, Guohua Ding, Jinwei Sun
+  title: A deep domain adaptation framework with correlation alignment for EEG-based
+    motor imagery classification.
+  venue: Comput. Biol. Medicine
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/ZhongWLLYDDS23
+  doi: 10.1016/J.COMPBIOMED.2023.107235
+  ee: https://doi.org/10.1016/j.compbiomed.2023.107235
+  url: https://dblp.org/rec/journals/cbm/ZhongWLLYDDS23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -20730,6 +20742,49 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2505.12681
   ee: https://doi.org/10.48550/arXiv.2505.12681
   url: https://dblp.org/rec/journals/corr/abs-2505-12681
+- author: Yulan Hu, Zhirui Yang, Sheng Ouyang, Yong Liu
+  title: Adversarial Masked Graph Autoencoders for Improved Graph Representation Learning.
+  venue: ICMR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mir/HuYOL25
+  doi: 10.1145/3731715.3733270
+  ee: https://doi.org/10.1145/3731715.3733270
+  url: https://dblp.org/rec/conf/mir/HuYOL25
+- author: Yujun Hu, Xiaoyu Zhou, Changbo Wang, Weiliang Meng, Gaoqi He
+  title: 3D Scene Graph Generation with Cross-Modal Alignment and Adversarial Learning.
+  venue: ICMR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mir/HuZWMH25
+  doi: 10.1145/3731715.3733257
+  ee: https://doi.org/10.1145/3731715.3733257
+  url: https://dblp.org/rec/conf/mir/HuZWMH25
+- author: Changchun Yin, Liming Fang 0001
+  title: 'SSTAP: Generating Sample-Specific Transferable Adversarial Patch in Multimodal
+    Contrastive Learning.'
+  venue: ICMR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mir/Yin025
+  doi: 10.1145/3731715.3733494
+  ee: https://doi.org/10.1145/3731715.3733494
+  url: https://dblp.org/rec/conf/mir/Yin025
+- author: Catherine Weaver, Chen Tang 0001, Ce Hao, Kenta Kawamoto, Masayoshi Tomizuka,
+    Wei Zhan
+  title: 'BeTAIL: Behavior Transformer Adversarial Imitation Learning From Human Racing
+    Gameplay.'
+  venue: IEEE Robotics Autom. Lett.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/WeaverTHKTZ24
+  doi: 10.1109/LRA.2024.3416789
+  ee: https://doi.org/10.1109/LRA.2024.3416789
+  url: https://dblp.org/rec/journals/ral/WeaverTHKTZ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -23081,3 +23136,25 @@ feature%20disentanglement:
   doi: 10.1007/S12559-025-10430-4
   ee: https://doi.org/10.1007/s12559-025-10430-4
   url: https://dblp.org/rec/journals/cogcom/DornaikaWC25
+- author: Dingxin Zhang 0001, Jianhui Yu, Chaoyi Zhang, Weidong Cai 0001
+  title: 'PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement
+    and Pose Restoration.'
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangYZ023
+  doi: 10.1609/AAAI.V37I3.25450
+  ee: https://doi.org/10.1609/aaai.v37i3.25450
+  url: https://dblp.org/rec/conf/aaai/ZhangYZ023
+- author: Dingxin Zhang 0001, Jianhui Yu, Chaoyi Zhang, Weidong Cai 0001
+  title: 'PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement
+    and Pose Restoration.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-02535
+  doi: 10.48550/ARXIV.2302.02535
+  ee: https://doi.org/10.48550/arXiv.2302.02535
+  url: https://dblp.org/rec/journals/corr/abs-2302-02535
