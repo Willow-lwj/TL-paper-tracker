@@ -2976,6 +2976,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.COMPBIOMED.2023.107235
   ee: https://doi.org/10.1016/j.compbiomed.2023.107235
   url: https://dblp.org/rec/journals/cbm/ZhongWLLYDDS23
+- author: Haiyang Luo, Shengwei Zhong 0001, Chen Gong 0002
+  title: Prototype-Guided Class-Balanced Active Domain Adaptation for Hyperspectral
+    Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/LuoZG25
+  doi: 10.1109/TGRS.2025.3576654
+  ee: https://doi.org/10.1109/TGRS.2025.3576654
+  url: https://dblp.org/rec/journals/tgrs/LuoZG25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -20785,6 +20796,93 @@ Adversarial%20Learning:
   doi: 10.1109/LRA.2024.3416789
   ee: https://doi.org/10.1109/LRA.2024.3416789
   url: https://dblp.org/rec/journals/ral/WeaverTHKTZ24
+- author: "Joffre R. Constante, Delia G. Colome, Diego E. Echeverria, Edgar Guillermo\
+    \ Lincango, Jos\xE9 L. Camacho"
+  title: Adversarial Learning as a PMU Signal Filtering Technique in Load Models Identification.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/ConstanteCELC25
+  doi: 10.1109/ACCESS.2025.3577897
+  ee: https://doi.org/10.1109/ACCESS.2025.3577897
+  url: https://dblp.org/rec/journals/access/ConstanteCELC25
+- author: Kyuri Choi, Youngjoong Ko
+  title: 'Robust fine-tuning for low-resource NLP: Combining adversarial and metric-based
+    learning to mitigate overfitting.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ChoiK25
+  doi: 10.1016/J.ESWA.2025.127737
+  ee: https://doi.org/10.1016/j.eswa.2025.127737
+  url: https://dblp.org/rec/journals/eswa/ChoiK25
+- author: Nguyen Thanh Tung, Cho Do Xuan, Vu Thanh Long
+  title: Ensemble learning-based adaptive and adversarial techniques for APT attack
+    detection.
+  venue: Int. J. Inf. Sec.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijisec/TungXL25
+  doi: 10.1007/S10207-025-01053-9
+  ee: https://doi.org/10.1007/s10207-025-01053-9
+  url: https://dblp.org/rec/journals/ijisec/TungXL25
+- author: Anita Murmu, Piyush Kumar, Suyel Namasudra, Rajasekhar Reddy Manyam
+  title: GAN-Based Federated Adversarial Learning for Enhancing Security Towards Consumer
+    Digital Ecosystems.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/MurmuKNM25
+  doi: 10.1109/TCE.2024.3522018
+  ee: https://doi.org/10.1109/TCE.2024.3522018
+  url: https://dblp.org/rec/journals/tce/MurmuKNM25
+- author: Kun Yang, Neena Imam
+  title: 'Secure and Private Federated Learning: Achieving Adversarial Resilience
+    through Robust Aggregation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-17226
+  doi: 10.48550/ARXIV.2505.17226
+  ee: https://doi.org/10.48550/arXiv.2505.17226
+  url: https://dblp.org/rec/journals/corr/abs-2505-17226
+- author: Dylan Kline
+  title: Game-invariant Features Through Contrastive and Domain-adversarial Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-17328
+  doi: 10.48550/ARXIV.2505.17328
+  ee: https://doi.org/10.48550/arXiv.2505.17328
+  url: https://dblp.org/rec/journals/corr/abs-2505-17328
+- author: Catalina Tan, Yipeng Hu, Shaheer U. Saeed
+  title: 'SPARS: Self-Play Adversarial Reinforcement Learning for Segmentation of
+    Liver Tumours.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-18989
+  doi: 10.48550/ARXIV.2505.18989
+  ee: https://doi.org/10.48550/arXiv.2505.18989
+  url: https://dblp.org/rec/journals/corr/abs-2505-18989
+- author: Jiyu Hu, Haijiang Zeng, Zhen Tian
+  title: Applications and Effect Evaluation of Generative Adversarial Networks in
+    Semi-Supervised Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-19522
+  doi: 10.48550/ARXIV.2505.19522
+  ee: https://doi.org/10.48550/arXiv.2505.19522
+  url: https://dblp.org/rec/journals/corr/abs-2505-19522
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
