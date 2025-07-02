@@ -20997,6 +20997,84 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2505.24369
   ee: https://doi.org/10.48550/arXiv.2505.24369
   url: https://dblp.org/rec/journals/corr/abs-2505-24369
+- author: Haowen Luo, Chang-Hun Lee, Chaoyong Li, Shaoming He
+  title: Generative Adversarial Imitation Learning-Based Continuous Learning Computational
+    Guidance.
+  venue: IEEE Trans. Aerosp. Electron. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/taes/LuoLLH25
+  doi: 10.1109/TAES.2025.3529674
+  ee: https://doi.org/10.1109/TAES.2025.3529674
+  url: https://dblp.org/rec/journals/taes/LuoLLH25
+- author: "Nour El Houda Sayah Ben Aissa, Chaker Abdelaziz Kerrache, Ahmed Korichi,\
+    \ Abderrahmane Lakas, Enrique Hern\xE1ndez-Orallo, Carlos T. Calafate"
+  title: 'Adversarial resilience in EEG-based BCI systems: a two-tiered approach using
+    GANs and transfer learning.'
+  venue: Clust. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cluster/AissaKKLHC25
+  doi: 10.1007/S10586-025-05187-2
+  ee: https://doi.org/10.1007/s10586-025-05187-2
+  url: https://dblp.org/rec/journals/cluster/AissaKKLHC25
+- author: Chenglu Sun, Shuo Shen, Deyi Xue, Wenzhi Tao, Zixia Zhou
+  title: 'Enhancing AI-Bot Strength and Strategy Diversity in Adversarial Games: A
+    Novel Deep Reinforcement Learning Framework.'
+  venue: IEEE Trans. Games
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tciaig/SunSXTZ25
+  doi: 10.1109/TG.2024.3520970
+  ee: https://doi.org/10.1109/TG.2024.3520970
+  url: https://dblp.org/rec/journals/tciaig/SunSXTZ25
+- author: Dezhao Zhai, Wei Chen 0148, Yinghao Ding, Ming Yu 0007, Qinwei Li, Hang
+    Wu
+  title: Research on Robust Measurement Method of Heart Rate Using Remote Photoplethysmography
+    Based on Adversarial Learning Network With High and Low Frequency Features.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/ZhaiCDYLW25
+  doi: 10.1109/TCSVT.2025.3527972
+  ee: https://doi.org/10.1109/TCSVT.2025.3527972
+  url: https://dblp.org/rec/journals/tcsv/ZhaiCDYLW25
+- author: Anyuan Sang, Zhipeng Wang, Li Yang 0005, Lu Zhou, Junbo Jia, Huipeng Yang
+  title: Generating Adversarial Malware Examples Against Multiple Machine Learning
+    Detectors.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/SangWYZJY25
+  doi: 10.1109/TII.2025.3556075
+  ee: https://doi.org/10.1109/TII.2025.3556075
+  url: https://dblp.org/rec/journals/tii/SangWYZJY25
+- author: Wei Tang 0018, Fazhi He
+  title: 'EAT: Multi-Exposure Image Fusion With Adversarial Learning and Focal Transformer.'
+  venue: IEEE Trans. Multim.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmm/TangH25
+  doi: 10.1109/TMM.2025.3535390
+  ee: https://doi.org/10.1109/TMM.2025.3535390
+  url: https://dblp.org/rec/journals/tmm/TangH25
+- author: Erjin Bao, Ching-Chun Chang, Hanrui Wang 0005, Isao Echizen
+  title: Agentic Copyright Watermarking against Adversarial Evidence Forgery with
+    Purification-Agnostic Curriculum Proxy Learning.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/BaoC0E25
+  doi: 10.1109/ICASSP49660.2025.10889676
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10889676
+  url: https://dblp.org/rec/conf/icassp/BaoC0E25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -23370,3 +23448,34 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2302.02535
   ee: https://doi.org/10.48550/arXiv.2302.02535
   url: https://dblp.org/rec/journals/corr/abs-2302-02535
+- author: Junjie Zhu, Liquan Shen, Zhengyong Wang, Yihan Yu
+  title: Underwater Image Quality Assessment Using Feature Disentanglement and Dynamic
+    Content-Distortion Guidance.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/ZhuSWY25
+  doi: 10.1109/TCSVT.2025.3533598
+  ee: https://doi.org/10.1109/TCSVT.2025.3533598
+  url: https://dblp.org/rec/journals/tcsv/ZhuSWY25
+- author: Xuege Hou, Yali Li 0001, Shengjin Wang
+  title: Attention Augmented Structure-centric Bias Mitigation with Feature Disentanglement.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/Hou0W25
+  doi: 10.1109/ICASSP49660.2025.10889443
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10889443
+  url: https://dblp.org/rec/conf/icassp/Hou0W25
+- author: Yifan Xiong, Dongyue Guo, Lipeng Shen, Wei Mo, Hui Yang, Yi Lin 0006
+  title: Adversarial Feature Disentanglement Framework for Voice Pathology Detection.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/XiongGSMY025
+  doi: 10.1109/ICASSP49660.2025.10888569
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10888569
+  url: https://dblp.org/rec/conf/icassp/XiongGSMY025
