@@ -21187,6 +21187,118 @@ Adversarial%20Learning:
   doi: 10.1145/3648683
   ee: https://doi.org/10.1145/3648683
   url: https://dblp.org/rec/journals/tkdd/LiuZYDYW24
+- author: Tom Gajecki, Waldo Nogueira
+  title: Adversarial Learning For End-To-End Cochlear Speech Denoising Using Lightweight
+    Deep Learning Models.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/GajeckiN25
+  doi: 10.1109/ICASSP49660.2025.10889865
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10889865
+  url: https://dblp.org/rec/conf/icassp/GajeckiN25
+- author: Xin Zeng, Haonan Luo, Zihang Wang, Sijia Li, Zhixuan Shen, Tianrui Li
+  title: A Continual Learning Approach for Embodied Question Answering with Generative
+    Adversarial Imitation Learning.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/ZengLWLSL25
+  doi: 10.1109/ICASSP49660.2025.10889550
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10889550
+  url: https://dblp.org/rec/conf/icassp/ZengLWLSL25
+- author: Xin Zhang 0098, Yanhua Li, Xun Zhou 0001, Jun Luo 0007
+  title: 'cGAIL: Conditional Generative Adversarial Imitation Learning - An Application
+    in Taxi Drivers&apos; Strategy Learning.'
+  venue: IEEE Trans. Big Data
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/ZhangLZL22
+  doi: 10.1109/TBDATA.2020.3039810
+  ee: https://doi.org/10.1109/TBDATA.2020.3039810
+  url: https://dblp.org/rec/journals/tbd/ZhangLZL22
+- author: Yan Liu, Xi Chen, Zheng Lu 0002, Ziyue Wu
+  title: Multiscale Structural Information-Based Laplacian Generative Adversarial
+    Network Representation Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/LiuCLW25
+  doi: 10.1109/ACCESS.2025.3561047
+  ee: https://doi.org/10.1109/ACCESS.2025.3561047
+  url: https://dblp.org/rec/journals/access/LiuCLW25
+- author: Yalin E. Sagduyu, Tugba Erpek
+  title: Adversarial Attack and Defense for LoRa Device Identification and Authentication
+    via Deep Learning.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/SagduyuE25
+  doi: 10.1109/JIOT.2025.3547645
+  ee: https://doi.org/10.1109/JIOT.2025.3547645
+  url: https://dblp.org/rec/journals/iotj/SagduyuE25
+- author: Han Wu, Shugong Zhou
+  title: A Hybrid Security Framework for Web Applications Using Blockchain and Adaptive
+    Adversarial Learning.
+  venue: J. Web Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jwe/WuZ25
+  doi: 10.13052/JWE1540-9589.2432
+  ee: https://doi.org/10.13052/jwe1540-9589.2432
+  url: https://dblp.org/rec/journals/jwe/WuZ25
+- author: Jianqi Gao 0001, Jian Cao 0001, Hang Yu 0006, Yonggang Zhang 0003, Zhen
+    Fang
+  title: 'SENA: Leveraging set-level consistency adversarial learning for robust pre-trained
+    language model adaptation.'
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/GaoCYZF25
+  doi: 10.1016/J.KNOSYS.2025.113831
+  ee: https://doi.org/10.1016/j.knosys.2025.113831
+  url: https://dblp.org/rec/journals/kbs/GaoCYZF25
+- author: Byungjun Kim, Amogh Panchagatti, Peter Gerstoft
+  title: Real-time Adversarial Attack to Deep Learning-based Wi-Fi Human Activity
+    Recognition.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/KimPG25
+  doi: 10.1109/ICASSP49660.2025.10888447
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10888447
+  url: https://dblp.org/rec/conf/icassp/KimPG25
+- author: Lauren Stumpf, Balasundaram Kadirvelu, A. Aldo Faisal
+  title: Multilingual Speaker-Invariant Dysarthria Severity Assessment Using Adversarial
+    Domain Adaptation and Self-Supervised Learning.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/StumpfKF25
+  doi: 10.1109/ICASSP49660.2025.10889800
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10889800
+  url: https://dblp.org/rec/conf/icassp/StumpfKF25
+- author: Yan Ren, Heng Zhang 0001, Wen Yang 0002, Ming Li, Jian Zhang 0082, Hongran
+    Li
+  title: Transferable Adversarial Attack Against Deep Reinforcement Learning-Based
+    Smart Grid Dynamic Pricing System.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/RenZYLZL24
+  doi: 10.1109/TII.2024.3379645
+  ee: https://doi.org/10.1109/TII.2024.3379645
+  url: https://dblp.org/rec/journals/tii/RenZYLZL24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -21370,6 +21482,16 @@ unsupervised%20domain%20adaptation%20data%20augmentation:
   doi: ''
   ee: http://proceedings.bmvc2023.org/752/
   url: https://dblp.org/rec/conf/bmvc/CarrazcoMBM23
+- author: "Sebastian N\xF8rgaard Llambias, Mads Nielsen, Mostafa Mehdipour-Ghazi"
+  title: Data Augmentation-Based Unsupervised Domain Adaptation in Medical Imaging.
+  venue: SCIA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/scia/LlambiasNM25
+  doi: 10.1007/978-3-031-95911-0_13
+  ee: https://doi.org/10.1007/978-3-031-95911-0_13
+  url: https://dblp.org/rec/conf/scia/LlambiasNM25
 domain%20%feature%alignment:
 - author: Zhongyi Wen, Qiang Li 0017, Yatong Wang, Luyan Xu, Huaizong Shao, Guomin
     Sun
@@ -23591,3 +23713,14 @@ feature%20disentanglement:
   doi: 10.1109/ICASSP49660.2025.10888569
   ee: https://doi.org/10.1109/ICASSP49660.2025.10888569
   url: https://dblp.org/rec/conf/icassp/XiongGSMY025
+- author: Fadi Dornaika, B. Wang, Jinan Charafeddine
+  title: 'Deep Feature Disentanglement for Supervised Contrastive Learning: Application
+    to Image Classification.'
+  venue: Cogn. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cogcom/DornaikaWC25
+  doi: 10.1007/S12559-025-10430-4
+  ee: https://doi.org/10.1007/s12559-025-10430-4
+  url: https://dblp.org/rec/journals/cogcom/DornaikaWC25
