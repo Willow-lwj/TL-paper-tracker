@@ -21515,6 +21515,40 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.06565
   ee: https://doi.org/10.48550/arXiv.2506.06565
   url: https://dblp.org/rec/journals/corr/abs-2506-06565
+- author: Fengpeng Li, Kemou Li, Haiwei Wu, Jinyu Tian 0001, Jiantao Zhou 0001
+  title: Toward Robust Learning via Core Feature-Aware Adversarial Training.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/LiLWTZ25
+  doi: 10.1109/TIFS.2025.3581021
+  ee: https://doi.org/10.1109/TIFS.2025.3581021
+  url: https://dblp.org/rec/journals/tifs/LiLWTZ25
+- author: Yuanfu Wang, Pengyu Wang, Chenyang Xi, Bo Tang, Junyi Zhu 0015, Wenqiang
+    Wei, Chen Chen, Chao Yang, Jingfeng Zhang, Chaochao Lu, Yijun Niu, Keming Mao,
+    Zhiyu Li, Feiyu Xiong, Jie Hu, Mingchuan Yang
+  title: Adversarial Preference Learning for Robust LLM Alignment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-24369
+  doi: 10.48550/ARXIV.2505.24369
+  ee: https://doi.org/10.48550/arXiv.2505.24369
+  url: https://dblp.org/rec/journals/corr/abs-2505-24369
+- author: Wenjun Ji, Yuxiang Fu, Luyang Ying, Deng-Ping Fan, Yuyi Wang, Ming-Ming
+    Cheng, Ivor Tsang, Qing Guo
+  title: 'AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I
+    Adversarial Patches.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-09538
+  doi: 10.48550/ARXIV.2506.09538
+  ee: https://doi.org/10.48550/arXiv.2506.09538
+  url: https://dblp.org/rec/journals/corr/abs-2506-09538
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -21742,6 +21776,18 @@ domain%20%feature%alignment:
   doi: 10.1109/TGRS.2023.3317828
   ee: https://doi.org/10.1109/TGRS.2023.3317828
   url: https://dblp.org/rec/journals/tgrs/ZhangWLSW23
+- author: Chen Zhang, Yinghua Wang, Hongwei Liu 0001, Siyuan Wang, Xiaoting Zhang,
+    Chunhui Qu
+  title: 'MFJA: Unsupervised Domain Adaptation Based on Multimodal Feature Fusion
+    and Global-Local Joint Alignment for SAR ATR.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhangWLWZQ25
+  doi: 10.1109/TGRS.2025.3580851
+  ee: https://doi.org/10.1109/TGRS.2025.3580851
+  url: https://dblp.org/rec/journals/tgrs/ZhangWLWZQ25
 feature%20disentanglement:
 - author: Nuoyan Zhou, Dawei Zhou 0004, Decheng Liu, Nannan Wang 0001, Xinbo Gao 0001
   title: Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement.
@@ -23940,3 +23986,24 @@ feature%20disentanglement:
   doi: 10.1007/S12559-025-10430-4
   ee: https://doi.org/10.1007/s12559-025-10430-4
   url: https://dblp.org/rec/journals/cogcom/DornaikaWC25
+- author: Daosong Hu, Mingyue Cui, Kai Huang 0001
+  title: 'UnMoDE: Uncertainty Modeling for Driver Gaze Estimation via Feature Disentanglement.'
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/HuCH25
+  doi: 10.1109/TITS.2025.3556553
+  ee: https://doi.org/10.1109/TITS.2025.3556553
+  url: https://dblp.org/rec/journals/tits/HuCH25
+- author: Xinyue Niu, Akira Furui
+  title: Towards Cross-Subject EMG Pattern Recognition via Dual-Branch Adversarial
+    Feature Disentanglement.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-08555
+  doi: 10.48550/ARXIV.2506.08555
+  ee: https://doi.org/10.48550/arXiv.2506.08555
+  url: https://dblp.org/rec/journals/corr/abs-2506-08555
