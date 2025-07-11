@@ -21549,6 +21549,84 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.09538
   ee: https://doi.org/10.48550/arXiv.2506.09538
   url: https://dblp.org/rec/journals/corr/abs-2506-09538
+- author: Abdul Sami Mohammed, Emmanuel Okafor
+  title: Off-Policy Inspired Imitation Learning for Generation of Adversarial Malware.
+  venue: AIAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aiai/MohammedO25
+  doi: 10.1007/978-3-031-96231-8_19
+  ee: https://doi.org/10.1007/978-3-031-96231-8_19
+  url: https://dblp.org/rec/conf/aiai/MohammedO25
+- author: Kaiqi Zhang, Jing Zhao, Rui Chen
+  title: 'KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads
+    with Adversarial Learning.'
+  venue: CSCWD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cscwd/ZhangZC25
+  doi: 10.1109/CSCWD64889.2025.11033265
+  ee: https://doi.org/10.1109/CSCWD64889.2025.11033265
+  url: https://dblp.org/rec/conf/cscwd/ZhangZC25
+- author: Wenjun Ji, Yuxiang Fu, Luyang Ying, Deng-Ping Fan, Yuyi Wang 0001, Ming-Ming
+    Cheng, Ivor Tsang, Qing Guo 0005
+  title: 'AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I
+    Adversarial Patches.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-09538
+  doi: 10.48550/ARXIV.2506.09538
+  ee: https://doi.org/10.48550/arXiv.2506.09538
+  url: https://dblp.org/rec/journals/corr/abs-2506-09538
+- author: Yingyi Kuang, Luis J. Manso, George Vogiatzis
+  title: Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL)
+    for Multi-goal Robotic Manipulation Tasks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-12676
+  doi: 10.48550/ARXIV.2506.12676
+  ee: https://doi.org/10.48550/arXiv.2506.12676
+  url: https://dblp.org/rec/journals/corr/abs-2506-12676
+- author: Francesco Emanuele Stradi, Matteo Castiglioni, Alberto Marchesi 0001, Nicola
+    Gatti 0001, Christian Kroer
+  title: 'No-Regret Learning Under Adversarial Resource Constraints: A Spending Plan
+    Is All You Need!'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-13244
+  doi: 10.48550/ARXIV.2506.13244
+  ee: https://doi.org/10.48550/arXiv.2506.13244
+  url: https://dblp.org/rec/journals/corr/abs-2506-13244
+- author: Yaqiao Zhu, Hongkai Wen 0001, Geyong Min, Man Luo 0001
+  title: 'HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial
+    Guidance for Large-Scale Traffic Signal Control.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-14391
+  doi: 10.48550/ARXIV.2506.14391
+  ee: https://doi.org/10.48550/arXiv.2506.14391
+  url: https://dblp.org/rec/journals/corr/abs-2506-14391
+- author: Kaleel Mahmood, Caleb Manicke, Ethan Rathbun, Aayushi Verma, Sohaib Ahmad,
+    Nicholas Stamatakis, Laurent Michel, Benjamin Fuller 0001
+  title: 'Busting the Paper Ballot: Voting Meets Adversarial Machine Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-14582
+  doi: 10.48550/ARXIV.2506.14582
+  ee: https://doi.org/10.48550/arXiv.2506.14582
+  url: https://dblp.org/rec/journals/corr/abs-2506-14582
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -24007,3 +24085,13 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2506.08555
   ee: https://doi.org/10.48550/arXiv.2506.08555
   url: https://dblp.org/rec/journals/corr/abs-2506-08555
+- author: Hao Chen 0102, Qi Zhang, Zenan Huang, Haobo Wang 0001, Junbo Zhao 0002
+  title: Towards Domain-Specific Features Disentanglement for Domain Generalization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-03007
+  doi: 10.48550/ARXIV.2310.03007
+  ee: https://doi.org/10.48550/arXiv.2310.03007
+  url: https://dblp.org/rec/journals/corr/abs-2310-03007
