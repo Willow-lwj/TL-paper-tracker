@@ -3055,6 +3055,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.NEUNET.2023.06.005
   ee: https://doi.org/10.1016/j.neunet.2023.06.005
   url: https://dblp.org/rec/journals/nn/ZhangLX23
+- author: Heng Wu 0004, Zijun Zheng, Laishui Lv, Changchun Zhang, Dalal Bardou, Shanzhou
+    Niu, Gaohang Yu
+  title: 'Dara: distribution-aware representation alignment for semi-supervised domain
+    adaptation in image classification.'
+  venue: J. Supercomput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tjs/WuZLZBNY25
+  doi: 10.1007/S11227-024-06886-0
+  ee: https://doi.org/10.1007/s11227-024-06886-0
+  url: https://dblp.org/rec/journals/tjs/WuZLZBNY25
+- author: Adrian Poniatowski, Natalie Gentner, Manuel Barusco, Davide Dalle Pezze,
+    Samuele Salti, Gian Antonio Susto
+  title: Domain Adaptation for Image Classification of Defects in Semiconductor Manufacturing.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-15260
+  doi: 10.48550/ARXIV.2506.15260
+  ee: https://doi.org/10.48550/arXiv.2506.15260
+  url: https://dblp.org/rec/journals/corr/abs-2506-15260
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -21627,6 +21650,94 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.14582
   ee: https://doi.org/10.48550/arXiv.2506.14582
   url: https://dblp.org/rec/journals/corr/abs-2506-14582
+- author: Xingqun Qi, Muyi Sun, Zijian Wang 0009, Jiaming Liu 0003, Qi Li 0005, Fang
+    Zhao 0006, Shanghang Zhang, Caifeng Shan
+  title: Biphasic Face Photo-Sketch Synthesis via Semantic-Driven Generative Adversarial
+    Network With Graph Representation Learning.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/QiSWLLZZS25
+  doi: 10.1109/TNNLS.2023.3341246
+  ee: https://doi.org/10.1109/TNNLS.2023.3341246
+  url: https://dblp.org/rec/journals/tnn/QiSWLLZZS25
+- author: Seungah Son, Andres Saurez, Dongsoo Har
+  title: Continuous Adversarial Text Representation Learning for Affective Recognition.
+  venue: ICAIIC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icaiic/SonSH25
+  doi: 10.1109/ICAIIC64266.2025.10920876
+  ee: https://doi.org/10.1109/ICAIIC64266.2025.10920876
+  url: https://dblp.org/rec/conf/icaiic/SonSH25
+- author: Sunwoo Lee 0006, Jaebak Hwang, Yonghyeon Jo, Seungyul Han
+  title: Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-02844
+  doi: 10.48550/ARXIV.2502.02844
+  ee: https://doi.org/10.48550/arXiv.2502.02844
+  url: https://dblp.org/rec/journals/corr/abs-2502-02844
+- author: Seungah Son, Andres Saurez, Dongsoo Har
+  title: Continuous Adversarial Text Representation Learning for Affective Recognition.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-20613
+  doi: 10.48550/ARXIV.2502.20613
+  ee: https://doi.org/10.48550/arXiv.2502.20613
+  url: https://dblp.org/rec/journals/corr/abs-2502-20613
+- author: Salijona Dyrmishi, Mohamed Djilani, Thibault Simonetto, Salah Ghamizi, Maxime
+    Cordy
+  title: Insights on Adversarial Attacks for Tabular Machine Learning via a Systematic
+    Literature Review.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-15506
+  doi: 10.48550/ARXIV.2506.15506
+  ee: https://doi.org/10.48550/arXiv.2506.15506
+  url: https://dblp.org/rec/journals/corr/abs-2506-15506
+- author: Md. Kamrul Hossain, Walid A. Y. Aljoby, Anis Elgabli, Ahmed M. Abdelmoniem,
+    Khaled A. Harras
+  title: 'AdRo-FL: Informed and Secure Client Selection for Federated Learning in
+    the Presence of Adversarial Aggregator.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-17805
+  doi: 10.48550/ARXIV.2506.17805
+  ee: https://doi.org/10.48550/arXiv.2506.17805
+  url: https://dblp.org/rec/journals/corr/abs-2506-17805
+- author: Ahmad Mohammad Saber, Aditi Maheshwari, Amr M. Youssef, Deepa Kundur
+  title: Adversarial Attacks on Deep Learning-Based False Data Injection Detection
+    in Differential Relays.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-19302
+  doi: 10.48550/ARXIV.2506.19302
+  ee: https://doi.org/10.48550/arXiv.2506.19302
+  url: https://dblp.org/rec/journals/corr/abs-2506-19302
+- author: Abdullah All Tanvir, Xin Zhong
+  title: 'InvZW: Invariant Feature Learning via Noise-Adversarial Training for Robust
+    Image Zero-Watermarking.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-20370
+  doi: 10.48550/ARXIV.2506.20370
+  ee: https://doi.org/10.48550/arXiv.2506.20370
+  url: https://dblp.org/rec/journals/corr/abs-2506-20370
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
