@@ -21738,6 +21738,70 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.20370
   ee: https://doi.org/10.48550/arXiv.2506.20370
   url: https://dblp.org/rec/journals/corr/abs-2506-20370
+- author: Deepak Kumar Panda, Weisi Guo
+  title: Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction
+    in Adversarial Environments.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-21127
+  doi: 10.48550/ARXIV.2506.21127
+  ee: https://doi.org/10.48550/arXiv.2506.21127
+  url: https://dblp.org/rec/journals/corr/abs-2506-21127
+- author: Tajamul Ashraf, Janibul Bashir
+  title: 'TITAN: Query-Token based Domain Adaptive Adversarial Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-21484
+  doi: 10.48550/ARXIV.2506.21484
+  ee: https://doi.org/10.48550/arXiv.2506.21484
+  url: https://dblp.org/rec/journals/corr/abs-2506-21484
+- author: Saad Alqithami
+  title: Hierarchical Adversarially-Resilient Multi-Agent Reinforcement Learning for
+    Cyber-Physical Systems Security.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-22445
+  doi: 10.48550/ARXIV.2506.22445
+  ee: https://doi.org/10.48550/arXiv.2506.22445
+  url: https://dblp.org/rec/journals/corr/abs-2506-22445
+- author: Joshua C. Zhao, Saurabh Bagchi
+  title: Are Fast Methods Stable in Adversarially Robust Transfer Learning?
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-22602
+  doi: 10.48550/ARXIV.2506.22602
+  ee: https://doi.org/10.48550/arXiv.2506.22602
+  url: https://dblp.org/rec/journals/corr/abs-2506-22602
+- author: "Mustafa Hakan Kara, Aysegul Dundar, Ugur G\xFCd\xFCkbay"
+  title: 'Trident: Detecting Face Forgeries with Adversarial Triplet Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-23189
+  doi: 10.48550/ARXIV.2506.23189
+  ee: https://doi.org/10.48550/arXiv.2506.23189
+  url: https://dblp.org/rec/journals/corr/abs-2506-23189
+- author: Siyu Chen, Jiongyi Yang, Xiang Chen, Menglin Zheng, Minnan Wei, Xiaolin
+    Ju
+  title: Improving vulnerability type prediction and line-level detection via adversarial
+    training-based data augmentation and multi-task learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-23534
+  doi: 10.48550/ARXIV.2506.23534
+  ee: https://doi.org/10.48550/arXiv.2506.23534
+  url: https://dblp.org/rec/journals/corr/abs-2506-23534
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
