@@ -21802,6 +21802,86 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.23534
   ee: https://doi.org/10.48550/arXiv.2506.23534
   url: https://dblp.org/rec/journals/corr/abs-2506-23534
+- author: Xuan Wang, Xitong Gao, Dongping Liao, Tianrui Qin, Yu-liang Lu, Cheng-Zhong
+    Xu 0001
+  title: 'A3: Few-shot Prompt Learning of Unlearnable Examples with Cross-Modal Adversarial
+    Feature Alignment.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/WangGLQL025
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Wang_A3_Few-shot_Prompt_Learning_of_Unlearnable_Examples_with_Cross-Modal_Adversarial_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/WangGLQL025
+- author: Jingfu Peng, Yuhong Yang
+  title: 'Adversarial learning for nonparametric regression: Minimax rate and adaptive
+    estimation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-01267
+  doi: 10.48550/ARXIV.2506.01267
+  ee: https://doi.org/10.48550/arXiv.2506.01267
+  url: https://dblp.org/rec/journals/corr/abs-2506-01267
+- author: Zhifeng Wang, Renjiao Yi, Xin Wen 0005, Chenyang Zhu 0002, Kai Xu 0004,
+    Kunlun He
+  title: 'Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic
+    Geometry Generation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-19455
+  doi: 10.48550/ARXIV.2506.19455
+  ee: https://doi.org/10.48550/arXiv.2506.19455
+  url: https://dblp.org/rec/journals/corr/abs-2506-19455
+- author: Qifei Cui, Xinyu Lu
+  title: 'GANet-Seg: Adversarial Learning for Brain Tumor Segmentation with Hybrid
+    Generative Models.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-21245
+  doi: 10.48550/ARXIV.2506.21245
+  ee: https://doi.org/10.48550/arXiv.2506.21245
+  url: https://dblp.org/rec/journals/corr/abs-2506-21245
+- author: Archisman Ghosh, Satwik Kundu, Swaroop Ghosh
+  title: 'Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and
+    Defenses.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-21842
+  doi: 10.48550/ARXIV.2506.21842
+  ee: https://doi.org/10.48550/arXiv.2506.21842
+  url: https://dblp.org/rec/journals/corr/abs-2506-21842
+- author: Siyu Chen, Jiongyi Yang, Xiang Chen 0005, Menglin Zheng, Minnan Wei, Xiaolin
+    Ju
+  title: Improving vulnerability type prediction and line-level detection via adversarial
+    training-based data augmentation and multi-task learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-23534
+  doi: 10.48550/ARXIV.2506.23534
+  ee: https://doi.org/10.48550/arXiv.2506.23534
+  url: https://dblp.org/rec/journals/corr/abs-2506-23534
+- author: Yuchun Fang, Chen Chen, Wei Zhang, Jiahua Wu, Zhaoxiang Zhang 0001, Shaorong
+    Xie
+  title: Prototype learning for adversarial domain adaptation.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/FangCZWZX24
+  doi: 10.1016/J.PATCOG.2024.110653
+  ee: https://doi.org/10.1016/j.patcog.2024.110653
+  url: https://dblp.org/rec/journals/pr/FangCZWZX24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -24270,3 +24350,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2310.03007
   ee: https://doi.org/10.48550/arXiv.2310.03007
   url: https://dblp.org/rec/journals/corr/abs-2310-03007
+- author: Yuxia Geng, Runkai Zhu, Jiaoyan Chen 0001, Jintai Chen, Zhuo Chen, Xiang
+    Chen, Can Xu, Yuxiang Wang, Xiaoliang Xu
+  title: Cross-composition Feature Disentanglement for Compositional Zero-shot Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-09786
+  doi: 10.48550/ARXIV.2408.09786
+  ee: https://doi.org/10.48550/arXiv.2408.09786
+  url: https://dblp.org/rec/journals/corr/abs-2408-09786
