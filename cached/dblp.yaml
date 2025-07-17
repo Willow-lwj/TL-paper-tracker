@@ -3078,6 +3078,16 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2506.15260
   ee: https://doi.org/10.48550/arXiv.2506.15260
   url: https://dblp.org/rec/journals/corr/abs-2506-15260
+- author: Liang Tian, Lihua Zhou, Shuaifeng Li, Yan Gan, Mao Ye 0001
+  title: Mutual supervision multi-source-free domain adaptation of image classification.
+  venue: Appl. Soft Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/TianZLGY25
+  doi: 10.1016/J.ASOC.2025.113479
+  ee: https://doi.org/10.1016/j.asoc.2025.113479
+  url: https://dblp.org/rec/journals/asc/TianZLGY25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -21915,6 +21925,100 @@ Adversarial%20Learning:
   doi: 10.1007/S00521-025-11236-Z
   ee: https://doi.org/10.1007/s00521-025-11236-z
   url: https://dblp.org/rec/journals/nca/KangK25
+- author: Zahi Kapri, Edita Grolman, Ikuya Morikawa, Toshiya Shimizu, Yuval Elovici,
+    Asaf Shabtai
+  title: Using image conversion techniques to detect adversarial examples in machine
+    learning models for tabular data.
+  venue: Appl. Soft Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/KapriGMSES25
+  doi: 10.1016/J.ASOC.2025.113288
+  ee: https://doi.org/10.1016/j.asoc.2025.113288
+  url: https://dblp.org/rec/journals/asc/KapriGMSES25
+- author: Zhenhua Peng, Qingyu Yang, Donghe Li, Feiye Zhang, Pengtao Song
+  title: 'Adversarial attacks on deep reinforcement learning applications in electric
+    vehicle charging scheduling: A dual-stage attack framework.'
+  venue: Appl. Soft Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/PengYLZS25
+  doi: 10.1016/J.ASOC.2025.113450
+  ee: https://doi.org/10.1016/j.asoc.2025.113450
+  url: https://dblp.org/rec/journals/asc/PengYLZS25
+- author: Wenjun Lin, Jianpeng Lin, Jiachun Li, Mian Guo, Ligang He, Weiwei Lin
+  title: An adversarial reinforcement learning method to enhance server energy efficiency
+    via DVFS and dynamic fan speed management.
+  venue: Computing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/computing/LinLLGHL25
+  doi: 10.1007/S00607-025-01497-W
+  ee: https://doi.org/10.1007/s00607-025-01497-w
+  url: https://dblp.org/rec/journals/computing/LinLLGHL25
+- author: Simin Li, Jun Guo 0009, Jingqiao Xiu, Yuwei Zheng, Pu Feng, Xin Yu 0009,
+    Jiakai Wang, Aishan Liu, Yaodong Yang 0001, Bo An 0001, Wenjun Wu 0001, Xianglong
+    Liu 0001
+  title: Attacking cooperative multi-agent reinforcement learning by adversarial minority
+    influence.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/LiGXZFYWLYAWL25
+  doi: 10.1016/J.NEUNET.2025.107747
+  ee: https://doi.org/10.1016/j.neunet.2025.107747
+  url: https://dblp.org/rec/journals/nn/LiGXZFYWLYAWL25
+- author: "Chang Liu, Donghai Guan, Weiwei Yuan, \xC7etin Kaya Ko\xE7"
+  title: 'ITS2Graph: Graph-based generative adversarial learning for imbalanced time
+    series classification.'
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/LiuGYK25
+  doi: 10.1016/J.NEUNET.2025.107770
+  ee: https://doi.org/10.1016/j.neunet.2025.107770
+  url: https://dblp.org/rec/journals/nn/LiuGYK25
+- author: Yongzhen Wang, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo 0001, Mingqiang
+    Wei
+  title: Rethinking mixture of rain removal via depth-guided adversarial learning.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangYNGGW25
+  doi: 10.1016/J.NEUNET.2025.107739
+  ee: https://doi.org/10.1016/j.neunet.2025.107739
+  url: https://dblp.org/rec/journals/nn/WangYNGGW25
+- author: Giuseppe Floris, Christian Scano, Biagio Montaruli, Luca Demetrio, Andrea
+    Valenza, Luca Compagna, Davide Ariu, Luca Piras 0001, Davide Balzarotti, Battista
+    Biggio
+  title: 'ModSec-AdvLearn: Countering Adversarial SQL Injections With Robust Machine
+    Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/FlorisSMDVCAPBB25
+  doi: 10.1109/TIFS.2025.3583234
+  ee: https://doi.org/10.1109/TIFS.2025.3583234
+  url: https://dblp.org/rec/journals/tifs/FlorisSMDVCAPBB25
+- author: Tianjiao Li, Mengran Yu, Chenyu Shi, Yanjun Zhao, Xiaojing Liu, Qiang Zhang,
+    Qi Zhang 0020, Xuanjing Huang 0001, Jiayin Wang
+  title: 'RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization
+    for Machine Translation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-05070
+  doi: 10.48550/ARXIV.2506.05070
+  ee: https://doi.org/10.48550/arXiv.2506.05070
+  url: https://dblp.org/rec/journals/corr/abs-2506-05070
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -24406,3 +24510,14 @@ feature%20disentanglement:
   doi: 10.1109/ICL-GNSS65520.2025.11046129
   ee: https://doi.org/10.1109/ICL-GNSS65520.2025.11046129
   url: https://dblp.org/rec/conf/icl-gnss/HeubleinKFRMO25
+- author: Youjia Shao, Changshuo Wang, Qihang Jia, Wencang Zhao
+  title: Comprehensive disentanglement with fine-grained feature mitigation for domain
+    generalization.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ShaoWJZ25
+  doi: 10.1016/J.NEUNET.2025.107757
+  ee: https://doi.org/10.1016/j.neunet.2025.107757
+  url: https://dblp.org/rec/journals/nn/ShaoWJZ25
