@@ -22019,6 +22019,50 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.05070
   ee: https://doi.org/10.48550/arXiv.2506.05070
   url: https://dblp.org/rec/journals/corr/abs-2506-05070
+- author: Zhongshu Mao, Yiqin Lu, Zhe Cheng, Kaiqiong Chen
+  title: Exploring transferable adversarial attacks for Deep Learning-based Network
+    Intrusion Detection.
+  venue: J. Netw. Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jnca/MaoLCC25
+  doi: 10.1016/J.JNCA.2025.104255
+  ee: https://doi.org/10.1016/j.jnca.2025.104255
+  url: https://dblp.org/rec/journals/jnca/MaoLCC25
+- author: Junjie Liao, Pengwen Xiong, MengChu Zhou, Peter X. Liu, Aiguo Song
+  title: Adversarial Subgraph Contrastive Learning for Predicting Grasp Stability
+    of Robotic Hands With Multimodal Signals.
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/LiaoXZLS25
+  doi: 10.1109/TASE.2025.3585040
+  ee: https://doi.org/10.1109/TASE.2025.3585040
+  url: https://dblp.org/rec/journals/tase/LiaoXZLS25
+- author: Seonghyeon Hwang, Minsu Kim 0006, Steven Euijong Whang
+  title: 'T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration
+    in Class-Incremental Learning.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/Hwang0W25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Hwang_T-CIL_Temperature_Scaling_using_Adversarial_Perturbation_for_Calibration_in_Class-Incremental_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/Hwang0W25
+- author: Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun 0016, Dezhong
+    Peng
+  title: Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-04046
+  doi: 10.48550/ARXIV.2505.04046
+  ee: https://doi.org/10.48550/arXiv.2505.04046
+  url: https://dblp.org/rec/journals/corr/abs-2505-04046
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
