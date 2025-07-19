@@ -22063,6 +22063,28 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2505.04046
   ee: https://doi.org/10.48550/arXiv.2505.04046
   url: https://dblp.org/rec/journals/corr/abs-2505-04046
+- author: Zhu Liu 0004, Zijun Wang, Jinyuan Liu 0001, Fanqi Meng, Long Ma, Risheng
+    Liu
+  title: 'DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/0004W0MML25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DEAL_Data-Efficient_Adversarial_Learning_for_High-Quality_Infrared_Imaging_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/0004W0MML25
+- author: Lilin Zhang, Chengpei Wu, Ning Yang
+  title: Weakly Supervised Contrastive Adversarial Training for Learning Robust Features
+    from Semi-supervised Data.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ZhangWY25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZhangWY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
