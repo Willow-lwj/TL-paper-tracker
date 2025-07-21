@@ -22085,6 +22085,50 @@ Adversarial%20Learning:
   doi: ''
   ee: https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.html
   url: https://dblp.org/rec/conf/cvpr/ZhangWY25
+- author: Haipeng Ji, Xiaoqiang Qiao, Jiang Zhang, Yihang Du, Tao Zhang 0007, Fayu
+    Wan
+  title: Spectrum Anomaly Detection Under Multiple Sensors Using Metric-Adversarial
+    Learning.
+  venue: IEEE Commun. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/icl/JiQZDZW25
+  doi: 10.1109/LCOMM.2025.3527931
+  ee: https://doi.org/10.1109/LCOMM.2025.3527931
+  url: https://dblp.org/rec/journals/icl/JiQZDZW25
+- author: Shujuan Tian, Yi Tan, Han Wang 0021, Haolin Liu, Zhetao Li
+  title: 'ASDIA: An Adversarial Sample to Preserve Privacy Program in Federated Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/TianTWLL25
+  doi: 10.1109/TDSC.2025.3545599
+  ee: https://doi.org/10.1109/TDSC.2025.3545599
+  url: https://dblp.org/rec/journals/tdsc/TianTWLL25
+- author: Chinmay Prakash Swami, Deepak Joshi
+  title: 'Investigating the Impact of Adversarial Attacks on Deep Learning-Based Wearable
+    Robot Controllers: Security, Reliability, and Safety Concerns.'
+  venue: IEEE Trans. Ind. Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/SwamiJ25
+  doi: 10.1109/TII.2025.3563520
+  ee: https://doi.org/10.1109/TII.2025.3563520
+  url: https://dblp.org/rec/journals/tii/SwamiJ25
+- author: Junjian Li, Hulin Kuang, Jin Liu 0012, Hailin Yue, Jianxin Wang 0001
+  title: 'CA2CL: Cluster-Aware Adversarial Contrastive Learning for Pathological Image
+    Analysis.'
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/LiKLYW25
+  doi: 10.1109/JBHI.2025.3552640
+  ee: https://doi.org/10.1109/JBHI.2025.3552640
+  url: https://dblp.org/rec/journals/titb/LiKLYW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -24587,3 +24631,15 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUNET.2025.107757
   ee: https://doi.org/10.1016/j.neunet.2025.107757
   url: https://dblp.org/rec/journals/nn/ShaoWJZ25
+- author: Zhikai Ruan, Canxu Song, Pengfei Xu, Chaoyu Wang, Jing Zhao, Meng Chen,
+    Suoni Li, Qiang Su, Xiaozhen Zhuo, Yue Wu, Mingxi Wan, Diya Wang
+  title: Multiparametric Ultrasound Breast Tumors Diagnosis Within BI-RADS Category
+    4 via Feature Disentanglement and Cross-Fusion.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/RuanSXWZCLSZWWW25
+  doi: 10.1109/TMI.2025.3558786
+  ee: https://doi.org/10.1109/TMI.2025.3558786
+  url: https://dblp.org/rec/journals/tmi/RuanSXWZCLSZWWW25
