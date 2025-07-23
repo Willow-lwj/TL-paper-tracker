@@ -22129,6 +22129,74 @@ Adversarial%20Learning:
   doi: 10.1109/JBHI.2025.3552640
   ee: https://doi.org/10.1109/JBHI.2025.3552640
   url: https://dblp.org/rec/journals/titb/LiKLYW25
+- author: Zhu Liu 0004, Zijun Wang, Jinyuan Liu 0001, Fanqi Meng, Long Ma 0002, Risheng
+    Liu
+  title: 'DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/0004W0MML25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DEAL_Data-Efficient_Adversarial_Learning_for_High-Quality_Infrared_Imaging_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/0004W0MML25
+- author: Seonghyeon Hwang, Minsu Kim 0006, Steven Euijong Whang
+  title: 'T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration
+    in Class-Incremental Learning.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/Hwang0W25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Hwang_T-CIL_Temperature_Scaling_using_Adversarial_Perturbation_for_Calibration_in_Class-Incremental_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/Hwang0W25
+- author: Xuan Wang, Xitong Gao, Dongping Liao, Tianrui Qin, Yu-liang Lu, Cheng-Zhong
+    Xu 0001
+  title: 'A3: Few-shot Prompt Learning of Unlearnable Examples with Cross-Modal Adversarial
+    Feature Alignment.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/WangGLQL025
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Wang_A3_Few-shot_Prompt_Learning_of_Unlearnable_Examples_with_Cross-Modal_Adversarial_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/WangGLQL025
+- author: Lilin Zhang, Chengpei Wu, Ning Yang
+  title: Weakly Supervised Contrastive Adversarial Training for Learning Robust Features
+    from Semi-supervised Data.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ZhangWY25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZhangWY25
+- author: Emilia Rivas, Sabrina Saika, Ahtesham Bakht, Aritran Piplai, Nathaniel D.
+    Bastian, Ankit Shah 0002
+  title: 'Adapting Under Fire: Multi-Agent Reinforcement Learning for Adversarial
+    Drift in Network Security.'
+  venue: SECRYPT
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/secrypt/RivasSBPB025
+  doi: 10.5220/0013640900003979
+  ee: https://doi.org/10.5220/0013640900003979
+  url: https://dblp.org/rec/conf/secrypt/RivasSBPB025
+- author: "Jing Chen, Onat G\xFCng\xF6r, Zhengli Shang, Elvin Li, Tajana Rosing"
+  title: 'DYNAMITE: Dynamic Defense Selection for Enhancing Machine Learning-Based
+    Intrusion Detection Against Adversarial Attacks.'
+  venue: SP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/ChenGSLR25
+  doi: 10.1109/SPW67851.2025.00028
+  ee: https://doi.org/10.1109/SPW67851.2025.00028
+  url: https://dblp.org/rec/conf/sp/ChenGSLR25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -24643,3 +24711,14 @@ feature%20disentanglement:
   doi: 10.1109/TMI.2025.3558786
   ee: https://doi.org/10.1109/TMI.2025.3558786
   url: https://dblp.org/rec/journals/tmi/RuanSXWZCLSZWWW25
+- author: Yuxia Geng, Runkai Zhu, Jiaoyan Chen 0001, Jintai Chen, Zhuo Chen 0007,
+    Xiang Chen 0016, Can Xu, Yuxiang Wang 0001, Xiaoliang Xu
+  title: Cross-composition Feature Disentanglement for Compositional Zero-shot Learning.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2408-09786
+  doi: 10.48550/ARXIV.2408.09786
+  ee: https://doi.org/10.48550/arXiv.2408.09786
+  url: https://dblp.org/rec/journals/corr/abs-2408-09786
