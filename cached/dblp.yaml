@@ -22197,6 +22197,18 @@ Adversarial%20Learning:
   doi: 10.1109/SPW67851.2025.00028
   ee: https://doi.org/10.1109/SPW67851.2025.00028
   url: https://dblp.org/rec/conf/sp/ChenGSLR25
+- author: Zhouhong Gu, Xingzhou Chen, Xiaoran Shi, Tao Wang, Suhang Zheng, Tianyu
+    Li, Hongwei Feng, Yanghua Xiao
+  title: 'GAPO: Learning Preferential Prompt through Generative Adversarial Policy
+    Optimization.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acl/GuCSWZLFX25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.13/
+  url: https://dblp.org/rec/conf/acl/GuCSWZLFX25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
