@@ -22209,6 +22209,51 @@ Adversarial%20Learning:
   doi: ''
   ee: https://aclanthology.org/2025.acl-long.13/
   url: https://dblp.org/rec/conf/acl/GuCSWZLFX25
+- author: Rahmat Izwan Heroza, John Q. Gan, Haider Raza
+  title: 'FedCIAL: Federated Color-Invariant Adversarial Learning for Enhancing Fairness
+    and Performance in Skin Lesion Classification.'
+  venue: CVPR Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/HerozaGR25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025W/FedVision/html/Heroza_FedCIAL_Federated_Color-Invariant_Adversarial_Learning_for_Enhancing_Fairness_and_Performance_CVPRW_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/HerozaGR25
+- author: Zhenshu Ma, Xuan Cai, Changhang Tian, Yuqi Fan, Kemou Jiang, Gangfu Liu,
+    Xuesong Bai, Aoyong Li, Yilong Ren, Haiyang Yu 0002
+  title: 'FullCycle: Full Stage Adversarial Attack For Reinforcement Learning Robustness
+    Evaluation.'
+  venue: CVPR Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/MaCTFJLBLR025
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025W/AdvML/html/Ma_FullCycle_Full_Stage_Adversarial_Attack_For_Reinforcement_Learning_Robustness_Evaluation_CVPRW_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/MaCTFJLBLR025
+- author: "Rosa Zuccar\xE0, Georgia Fargetta, Alessandro Ortis, Sebastiano Battiato"
+  title: Exploiting Adversarial Learning and Topology Augmentation for Open-Set Visual
+    Recognition.
+  venue: CVPR Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ZuccaraFOB25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025W/WiCV/html/Zuccara_Exploiting_Adversarial_Learning_and_Topology_Augmentation_for_Open-Set_Visual_Recognition_CVPRW_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZuccaraFOB25
+- author: Mohamed Amjath, Shagufta Henna
+  title: Differentially Private Federated Adversarial Learning for Robust Malware
+    Detection in Internet of Health Things (IoHTs).
+  venue: SMARTCOMP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smartcomp/AmjathH25
+  doi: 10.1109/SMARTCOMP65954.2025.00091
+  ee: https://doi.org/10.1109/SMARTCOMP65954.2025.00091
+  url: https://dblp.org/rec/conf/smartcomp/AmjathH25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
