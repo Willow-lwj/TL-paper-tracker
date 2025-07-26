@@ -22254,6 +22254,118 @@ Adversarial%20Learning:
   doi: 10.1109/SMARTCOMP65954.2025.00091
   ee: https://doi.org/10.1109/SMARTCOMP65954.2025.00091
   url: https://dblp.org/rec/conf/smartcomp/AmjathH25
+- author: Yan Liu, Xi Chen 0025, Zheng Lu 0002, Ziyue Wu
+  title: Multiscale Structural Information-Based Laplacian Generative Adversarial
+    Network Representation Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/LiuCLW25
+  doi: 10.1109/ACCESS.2025.3561047
+  ee: https://doi.org/10.1109/ACCESS.2025.3561047
+  url: https://dblp.org/rec/journals/access/LiuCLW25
+- author: Mingliang Zhou, Wenhao Shen, Xuekai Wei, Jun Luo 0003, Fan Jia, Xu Zhuang,
+    Weijia Jia 0001
+  title: 'Blind Image Quality Assessment: Exploring Content Fidelity Perceptibility
+    via Quality Adversarial Learning.'
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/ZhouSWLJZJ25
+  doi: 10.1007/S11263-024-02338-7
+  ee: https://doi.org/10.1007/s11263-024-02338-7
+  url: https://dblp.org/rec/journals/ijcv/ZhouSWLJZJ25
+- author: Zhouhong Gu, Xingzhou Chen, Xiaoran Shi, Tao Wang, Suhang Zheng, Tianyu
+    Li, Hongwei Feng, Yanghua Xiao
+  title: 'GAPO: Learning Preferential Prompt through Generative Adversarial Policy
+    Optimization.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/GuCSWZLFX25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.13/
+  url: https://dblp.org/rec/conf/acl/GuCSWZLFX25
+- author: Lingwei Wei, Dou Hu 0001, Wei Zhou 0019, Philip S. Yu, Songlin Hu 0001
+  title: Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake
+    News Detection.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acl/Wei00Y025
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.505/
+  url: https://dblp.org/rec/conf/acl/Wei00Y025
+- author: Rahmat Izwan Heroza, John Q. Gan, Haider Raza
+  title: 'FedCIAL: Federated Color-Invariant Adversarial Learning for Enhancing Fairness
+    and Performance in Skin Lesion Classification.'
+  venue: CVPR Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/HerozaGR25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025W/FedVision/html/Heroza_FedCIAL_Federated_Color-Invariant_Adversarial_Learning_for_Enhancing_Fairness_and_Performance_CVPRW_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/HerozaGR25
+- author: Zhenshu Ma, Xuan Cai, Changhang Tian, Yuqi Fan, Kemou Jiang, Gangfu Liu,
+    Xuesong Bai, Aoyong Li, Yilong Ren, Haiyang Yu 0002
+  title: 'FullCycle: Full Stage Adversarial Attack For Reinforcement Learning Robustness
+    Evaluation.'
+  venue: CVPR Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/MaCTFJLBLR025
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025W/AdvML/html/Ma_FullCycle_Full_Stage_Adversarial_Attack_For_Reinforcement_Learning_Robustness_Evaluation_CVPRW_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/MaCTFJLBLR025
+- author: "Rosa Zuccar\xE0, Georgia Fargetta, Alessandro Ortis, Sebastiano Battiato"
+  title: Exploiting Adversarial Learning and Topology Augmentation for Open-Set Visual
+    Recognition.
+  venue: CVPR Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ZuccaraFOB25
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025W/WiCV/html/Zuccara_Exploiting_Adversarial_Learning_and_Topology_Augmentation_for_Open-Set_Visual_Recognition_CVPRW_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZuccaraFOB25
+- author: Mateusz Kowalczyk, Karolina Seweryn, Joanna Kolodziej, Mateusz Krzyszton
+  title: Adversarial Robustness Of Multimodal Machine Learning Models.
+  venue: ECMS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ecms/KowalczykSKK25
+  doi: 10.7148/2025-0248
+  ee: https://doi.org/10.7148/2025-0248
+  url: https://dblp.org/rec/conf/ecms/KowalczykSKK25
+- author: "Karolina Krzton, Joanna Kolodziej, Adrian Widlak, Mateusz Nawrocki, Jos\xE9\
+    \ F. Sigut"
+  title: Vulnerabilities Of Machine Learning Algorithms To Adversarial Attacks In
+    Medical Images.
+  venue: ECMS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ecms/KrztonKWNS25
+  doi: 10.7148/2025-0255
+  ee: https://doi.org/10.7148/2025-0255
+  url: https://dblp.org/rec/conf/ecms/KrztonKWNS25
+- author: Xingbin Wang, Yan Wang, Yulan Su, Sisi Zhang, Dan Meng 0002, Rui Hou 0001
+  title: 'EnsGuard: A Novel Acceleration Framework for Adversarial Ensemble Learning.'
+  venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tcad/WangWSZMH24
+  doi: 10.1109/TCAD.2024.3390031
+  ee: https://doi.org/10.1109/TCAD.2024.3390031
+  url: https://dblp.org/rec/journals/tcad/WangWSZMH24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -24779,3 +24891,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2408.09786
   ee: https://doi.org/10.48550/arXiv.2408.09786
   url: https://dblp.org/rec/journals/corr/abs-2408-09786
+- author: Yuxia Geng, Runkai Zhu, Jiaoyan Chen 0001, Jintai Chen, Xiang Chen 0016,
+    Zhuo Chen 0007, Shuofei Qiao, Yuxiang Wang 0001, Xiaoliang Xu, Sheng-Jun Huang
+  title: Graph-guided Cross-composition Feature Disentanglement for Compositional
+    Zero-shot Learning.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acl/GengZ0C00Q0XH25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.137/
+  url: https://dblp.org/rec/conf/acl/GengZ0C00Q0XH25
