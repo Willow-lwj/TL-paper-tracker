@@ -22475,6 +22475,76 @@ Adversarial%20Learning:
   doi: 10.1109/DSN-W65791.2025.00062
   ee: https://doi.org/10.1109/DSN-W65791.2025.00062
   url: https://dblp.org/rec/conf/dsn/MarchioriC25a
+- author: Chaofei Li, Ziyuan Zhu, Ruicheng Niu, Tao Leng, Dan Meng 0002
+  title: Enhancing Adversarial Robustness for Deep Metric Learning through Adaptive
+    Adversarial Strategy.
+  venue: CSCWD
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cscwd/LiZNLM23
+  doi: 10.1109/CSCWD57460.2023.10152723
+  ee: https://doi.org/10.1109/CSCWD57460.2023.10152723
+  url: https://dblp.org/rec/conf/cscwd/LiZNLM23
+- author: Er-Ping Zhao, Si-Yun Yu
+  title: Aspect-level sentiment analysis based on vector projection and adversarial
+    contrastive learning.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhaoY25
+  doi: 10.1016/J.ESWA.2025.128637
+  ee: https://doi.org/10.1016/j.eswa.2025.128637
+  url: https://dblp.org/rec/journals/eswa/ZhaoY25
+- author: Mingliang Zhou 0001, Wenhao Shen, Xuekai Wei, Jun Luo 0003, Fan Jia, Xu
+    Zhuang, Weijia Jia 0001
+  title: 'Blind Image Quality Assessment: Exploring Content Fidelity Perceptibility
+    via Quality Adversarial Learning.'
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/ZhouSWLJZJ25
+  doi: 10.1007/S11263-024-02338-7
+  ee: https://doi.org/10.1007/s11263-024-02338-7
+  url: https://dblp.org/rec/journals/ijcv/ZhouSWLJZJ25
+- author: Yuanfu Wang, Pengyu Wang, Chenyang Xi, Bo Tang, Junyi Zhu 0015, Wenqiang
+    Wei, Chen Chen, Chao Yang, Jingfeng Zhang, Chaochao Lu, Yijun Niu, Keming Mao,
+    Zhiyu Li, Feiyu Xiong, Jie Hu, Mingchuan Yang
+  title: Adversarial Preference Learning for Robust LLM Alignment.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/WangWXTZWCYZLNM25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1126/
+  url: https://dblp.org/rec/conf/acl/WangWXTZWCYZLNM25
+- author: Shiqing Yao, Jiajun Chai, Haixin Yu, Yongzhe Chang, Yuanheng Zhu, Xueqian
+    Wang
+  title: Learning Pre-Trained Tacit Behavior for Efficient Multi-Agent Adversarial
+    Coordination.
+  venue: AAMAS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ifaamas/YaoCYCZW25
+  doi: 10.5555/3709347.3744021
+  ee: https://dl.acm.org/doi/10.5555/3709347.3744021
+  url: https://dblp.org/rec/conf/ifaamas/YaoCYCZW25
+- author: Luiz A. C. Bianchi, Rafael C. Pregardier, Luis A. L. Silva, Carlos R. P.
+    dos Santos
+  title: '2Pack-GAN: Exploring Transfer Learning to Fine-Tune Generative Adversarial
+    Networks for Network Packet Generation.'
+  venue: NOMS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/noms/BianchiPSS25
+  doi: 10.1109/NOMS57970.2025.11073639
+  ee: https://doi.org/10.1109/NOMS57970.2025.11073639
+  url: https://dblp.org/rec/conf/noms/BianchiPSS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
