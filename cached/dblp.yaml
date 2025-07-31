@@ -22545,6 +22545,73 @@ Adversarial%20Learning:
   doi: 10.1109/NOMS57970.2025.11073639
   ee: https://doi.org/10.1109/NOMS57970.2025.11073639
   url: https://dblp.org/rec/conf/noms/BianchiPSS25
+- author: Jeongeun Kim, Hyo-Seok Hwang, Junhee Seok
+  title: Adversarial environment design for crowd navigation based on deep reinforcement
+    learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/KimHS25
+  doi: 10.1016/J.ENGAPPAI.2025.111621
+  ee: https://doi.org/10.1016/j.engappai.2025.111621
+  url: https://dblp.org/rec/journals/eaai/KimHS25
+- author: Hanchi Liu, Xin Ma 0001
+  title: Unsupervised domain adaptation framework with global-local adversarial learning
+    and masked image consistency for fish counting in deep-sea aquaculture.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/LiuM25
+  doi: 10.1016/J.ENGAPPAI.2025.111735
+  ee: https://doi.org/10.1016/j.engappai.2025.111735
+  url: https://dblp.org/rec/journals/eaai/LiuM25
+- author: Shweta Roy, Nisha Kandhoul, Sanjay K. Dhurandher
+  title: Generative adversarial network-based imputation and personalized federated
+    learning with Convolutional Neural Network-Long Short-Term Memory for air quality
+    index prediction.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/RoyKD25
+  doi: 10.1016/J.ENGAPPAI.2025.111300
+  ee: https://doi.org/10.1016/j.engappai.2025.111300
+  url: https://dblp.org/rec/journals/eaai/RoyKD25
+- author: Zhengli Zhai, Chunyu Qu, Penghui Li, Shiya Xu, Niuwangjie Niu
+  title: Single node adversarial attack via reinforcement learning on non-target node
+    features for graph neural networks.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/ZhaiQLXN25
+  doi: 10.1007/S13042-025-02545-9
+  ee: https://doi.org/10.1007/s13042-025-02545-9
+  url: https://dblp.org/rec/journals/mlc/ZhaiQLXN25
+- author: Zhengshun Fei, Xiangyu Qin, Jianxin Chen, Shuangquan Wen, Xinjian Xiang
+  title: Metric learning for recommendation with conditional generative adversarial
+    networks based hard negative samples.
+  venue: Pattern Anal. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/paa/FeiQCWX25
+  doi: 10.1007/S10044-025-01512-Y
+  ee: https://doi.org/10.1007/s10044-025-01512-y
+  url: https://dblp.org/rec/journals/paa/FeiQCWX25
+- author: Junhao Dong 0001, Yuan Wang, Xiaohua Xie, Jianhuang Lai, Yew-Soon Ong
+  title: Generalizable and Discriminative Representations for Adversarially Robust
+    Few-Shot Learning.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/DongWXLO25
+  doi: 10.1109/TNNLS.2024.3379172
+  ee: https://doi.org/10.1109/TNNLS.2024.3379172
+  url: https://dblp.org/rec/journals/tnn/DongWXLO25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -25105,3 +25172,35 @@ feature%20disentanglement:
   doi: ''
   ee: https://aclanthology.org/2025.findings-acl.137/
   url: https://dblp.org/rec/conf/acl/GengZ0C00Q0XH25
+- author: Jianjun Yuan 0001, Fujun Wu, Luoming Zhao, Quan Kang
+  title: 'MLFD: Multi-level feature disentanglement robust network with a novel maximum-minimum
+    algorithm for medical image recognition.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/YuanWZK25
+  doi: 10.1016/J.ESWA.2025.128815
+  ee: https://doi.org/10.1016/j.eswa.2025.128815
+  url: https://dblp.org/rec/journals/eswa/YuanWZK25
+- author: Zheng Li, Weibo Cai, Junhao Dong 0001, Jianhuang Lai, Xiaohua Xie
+  title: Feature Disentanglement and Adaptive Fusion for Improving Multi-modal Tracking.
+  venue: PRCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/LiCDLX23
+  doi: 10.1007/978-981-99-8555-5_6
+  ee: https://doi.org/10.1007/978-981-99-8555-5_6
+  url: https://dblp.org/rec/conf/prcv/LiCDLX23
+- author: Shiting Xu, Zhiheng Zhou 0001, Junyuan Shang
+  title: Asymmetric Adversarial-based Feature Disentanglement Learning for Cross-Database
+    Micro-Expression Recognition.
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/XuZS22
+  doi: 10.1145/3503161.3548435
+  ee: https://doi.org/10.1145/3503161.3548435
+  url: https://dblp.org/rec/conf/mm/XuZS22
