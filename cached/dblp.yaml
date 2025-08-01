@@ -22612,6 +22612,52 @@ Adversarial%20Learning:
   doi: 10.1109/TNNLS.2024.3379172
   ee: https://doi.org/10.1109/TNNLS.2024.3379172
   url: https://dblp.org/rec/journals/tnn/DongWXLO25
+- author: Kok-Lim Alvin Yau, Yung-Wey Chong, Xiumei Fan, Faranak Nejati, Mohammad
+    Kazem Chamran, Shalini Darmaraju
+  title: 'Combinations of generative adversarial network and reinforcement learning:
+    A survey.'
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YauCFNCD25
+  doi: 10.1016/J.NEUCOM.2025.130847
+  ee: https://doi.org/10.1016/j.neucom.2025.130847
+  url: https://dblp.org/rec/journals/ijon/YauCFNCD25
+- author: Payal Awwal, Smita Naval
+  title: Development of heuristic adapted serial-based deep learning for efficient
+    adversarial malware detection framework in windows.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/AwwalN25
+  doi: 10.1016/J.KNOSYS.2025.114032
+  ee: https://doi.org/10.1016/j.knosys.2025.114032
+  url: https://dblp.org/rec/journals/kbs/AwwalN25
+- author: Zhenshu Ma, Xuan Cai, Changhang Tian, Yuqi Fan 0003, Kemou Jiang, Gangfu
+    Liu, Xuesong Bai, Aoyong Li, Yilong Ren, Haiyang Yu 0002
+  title: 'FullCycle: Full Stage Adversarial Attack For Reinforcement Learning Robustness
+    Evaluation.'
+  venue: CVPR Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/MaCTFJLBLR025
+  doi: ''
+  ee: https://openaccess.thecvf.com/content/CVPR2025W/AdvML/html/Ma_FullCycle_Full_Stage_Adversarial_Attack_For_Reinforcement_Learning_Robustness_Evaluation_CVPRW_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/MaCTFJLBLR025
+- author: Zifan Zhao, Shihong Yue, Yuwei Zhao
+  title: Contrastive Learning-based Domain Adaptive Adversarial Autoencoder for Solid-Phase
+    Fraction in Pipe.
+  venue: I2MTC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/i2mtc/ZhaoYZ25
+  doi: 10.1109/I2MTC62753.2025.11079004
+  ee: https://doi.org/10.1109/I2MTC62753.2025.11079004
+  url: https://dblp.org/rec/conf/i2mtc/ZhaoYZ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
