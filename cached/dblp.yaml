@@ -22658,6 +22658,104 @@ Adversarial%20Learning:
   doi: 10.1109/I2MTC62753.2025.11079004
   ee: https://doi.org/10.1109/I2MTC62753.2025.11079004
   url: https://dblp.org/rec/conf/i2mtc/ZhaoYZ25
+- author: Lei Shi 0011, Han Wu, Xu Ding 0001, Hao Xu, Sinan Pan
+  title: A generative adversarial network-based client-level handwriting forgery attack
+    in federated learning scenario.
+  venue: Expert Syst. J. Knowl. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/es/ShiWDXP25
+  doi: 10.1111/EXSY.13676
+  ee: https://doi.org/10.1111/exsy.13676
+  url: https://dblp.org/rec/journals/es/ShiWDXP25
+- author: Islam Elgarhy, Mahmoud M. Badr, Mohamed Mahmoud 0001, Jianbing Ni, Maazen
+    Alsabaan, Tariq Alshawi
+  title: Investigation of the Robustness of XAI-Based Federated Learning Against Adversarial
+    Attacks for Smart Grid False Data Detection.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ElgarhyBMNAA25
+  doi: 10.1109/JIOT.2025.3576225
+  ee: https://doi.org/10.1109/JIOT.2025.3576225
+  url: https://dblp.org/rec/journals/iotj/ElgarhyBMNAA25
+- author: Wei Yao 0016, Haixia Peng, Qihao Li, Xuemin Shen
+  title: Modeling Realistic Adversarial Traffic Against Deep-Learning-Based Intrusion
+    Detection System in Industrial IoT.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/YaoPLS25
+  doi: 10.1109/JIOT.2025.3568503
+  ee: https://doi.org/10.1109/JIOT.2025.3568503
+  url: https://dblp.org/rec/journals/iotj/YaoPLS25
+- author: Weikang Ding, Jijun Tong, Qingli Zhou, Meizhen Tong, Zhihuan Zhang
+  title: 'GPMC: Leveraging Conditional Layer Normalization and Adversarial Learning
+    for Enhanced Medical Relation Extraction.'
+  venue: ICIC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/DingTZTZ25
+  doi: 10.1007/978-981-96-9818-9_25
+  ee: https://doi.org/10.1007/978-981-96-9818-9_25
+  url: https://dblp.org/rec/conf/icic/DingTZTZ25
+- author: Ziqi Feng, Yi OuYang, Xiaogang Xu
+  title: 'ARG-Net: Gaze Estimation Based on Adversarial Learning and Learnable Networks.'
+  venue: ICIC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/FengOX25
+  doi: 10.1007/978-981-95-0009-3_34
+  ee: https://doi.org/10.1007/978-981-95-0009-3_34
+  url: https://dblp.org/rec/conf/icic/FengOX25
+- author: Xun Zhu, Yuanyuan Li, Linsheng Guo, Bo Huang, Zhijun Fang
+  title: Adversarial Learning Based Error Detection for Industrial Knowledge Graphs.
+  venue: IEA/AIE
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ieaaie/ZhuLGHF25a
+  doi: 10.1007/978-981-96-8892-0_43
+  ee: https://doi.org/10.1007/978-981-96-8892-0_43
+  url: https://dblp.org/rec/conf/ieaaie/ZhuLGHF25a
+- author: Jingfu Peng, Yuhong Yang 0008
+  title: 'Adversarial learning for nonparametric regression: Minimax rate and adaptive
+    estimation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-01267
+  doi: 10.48550/ARXIV.2506.01267
+  ee: https://doi.org/10.48550/arXiv.2506.01267
+  url: https://dblp.org/rec/journals/corr/abs-2506-01267
+- author: Yaqiao Zhu 0001, Hongkai Wen 0001, Geyong Min, Man Luo 0001
+  title: 'HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial
+    Guidance for Large-Scale Traffic Signal Control.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-14391
+  doi: 10.48550/ARXIV.2506.14391
+  ee: https://doi.org/10.48550/arXiv.2506.14391
+  url: https://dblp.org/rec/journals/corr/abs-2506-14391
+- author: Junwei Hu, Weigang Li 0004, Yong Zhang, Zhiqiang Tian
+  title: Cross-domain few-shot fault diagnosis based on meta-learning and domain adversarial
+    graph convolutional network.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/HuLZT24
+  doi: 10.1016/J.ENGAPPAI.2024.108970
+  ee: https://doi.org/10.1016/j.engappai.2024.108970
+  url: https://dblp.org/rec/journals/eaai/HuLZT24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -25250,3 +25348,38 @@ feature%20disentanglement:
   doi: 10.1145/3503161.3548435
   ee: https://doi.org/10.1145/3503161.3548435
   url: https://dblp.org/rec/conf/mm/XuZS22
+- author: Youjia Shao, Changshuo Wang 0001, Qihang Jia, Wencang Zhao
+  title: Comprehensive disentanglement with fine-grained feature mitigation for domain
+    generalization.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ShaoWJZ25
+  doi: 10.1016/J.NEUNET.2025.107757
+  ee: https://doi.org/10.1016/j.neunet.2025.107757
+  url: https://dblp.org/rec/journals/nn/ShaoWJZ25
+- author: Zijian Zhang, Ruiguo Yu, Xi Wei 0002, Jie Gao 0008, Mei Yu 0004, Xuewei
+    Li 0001, Zhiqiang Liu 0002
+  title: Unsupervised Domain Adaptation Semantic Segmentation on Thyroid Ultrasound
+    Images Based on Task-Oriented Feature Disentanglement.
+  venue: ICME
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/ZhangYWGYLL24
+  doi: 10.1109/ICME57554.2024.10687567
+  ee: https://doi.org/10.1109/ICME57554.2024.10687567
+  url: https://dblp.org/rec/conf/icmcs/ZhangYWGYLL24
+- author: Fan Liu 0003, Liang Yao, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang,
+    Jun Zhou 0011
+  title: Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based
+    Object Detection.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2405-15465
+  doi: 10.48550/ARXIV.2405.15465
+  ee: https://doi.org/10.48550/arXiv.2405.15465
+  url: https://dblp.org/rec/journals/corr/abs-2405-15465
