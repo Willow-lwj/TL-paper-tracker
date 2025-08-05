@@ -3099,6 +3099,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1186/S40708-025-00263-0
   ee: https://doi.org/10.1186/s40708-025-00263-0
   url: https://dblp.org/rec/journals/braininf/OlzaSS25
+- author: Jingpeng Gao, Xiangyu Ji 0001, Geng Chen, Yuhang Huang, Fang Ye
+  title: Pseudo-class distribution guided multi-view unsupervised domain adaptation
+    for hyperspectral image classification.
+  venue: Int. J. Appl. Earth Obs. Geoinformation
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/aeog/GaoJCHY25
+  doi: 10.1016/J.JAG.2025.104356
+  ee: https://doi.org/10.1016/j.jag.2025.104356
+  url: https://dblp.org/rec/journals/aeog/GaoJCHY25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -22756,6 +22767,82 @@ Adversarial%20Learning:
   doi: 10.1016/J.ENGAPPAI.2024.108970
   ee: https://doi.org/10.1016/j.engappai.2024.108970
   url: https://dblp.org/rec/journals/eaai/HuLZT24
+- author: Xiao Luo 0001, Wei Ju 0001, Yiyang Gu, Zhengyang Mao, Luchen Liu, Yuhui
+    Yuan, Ming Zhang 0004
+  title: Self-supervised Graph-level Representation Learning with Adversarial Contrastive
+    Learning.
+  venue: ACM Trans. Knowl. Discov. Data
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tkdd/LuoJGMLYZ24
+  doi: 10.1145/3624018
+  ee: https://doi.org/10.1145/3624018
+  url: https://dblp.org/rec/journals/tkdd/LuoJGMLYZ24
+- author: Syed Mhamudul Hasan, Abdur Rahman Bin Shahid, Ahmed Imteaj
+  title: Evaluating Sustainability and Social Costs of Adversarial Training in Machine
+    Learning.
+  venue: IEEE Consumer Electron. Mag.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cem/HasanSI25
+  doi: 10.1109/MCE.2024.3458350
+  ee: https://doi.org/10.1109/MCE.2024.3458350
+  url: https://dblp.org/rec/journals/cem/HasanSI25
+- author: Wei Ju 0001, Yiyang Gu, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Xiao Luo
+    0001, Hui Xiong 0001, Ming Zhang 0004
+  title: 'GPS: graph contrastive learning via multi-scale augmented views from adversarial
+    pooling.'
+  venue: Sci. China Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/chinaf/JuGMQQLXZ25
+  doi: 10.1007/S11432-022-3952-3
+  ee: https://doi.org/10.1007/s11432-022-3952-3
+  url: https://dblp.org/rec/journals/chinaf/JuGMQQLXZ25
+- author: Na Chen, Ping Li 0024, Jincheng Huang 0005, Kai Zhang 0001
+  title: Denoising Structure against Adversarial Attacks on Graph Representation Learning.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/ChenLHZ25
+  doi: 10.1145/3714428
+  ee: https://doi.org/10.1145/3714428
+  url: https://dblp.org/rec/journals/tist/ChenLHZ25
+- author: Yinglong Shi, Xiaoming Hu, Shuangjie Bai, Yan Liu, Hao Lin
+  title: A Byzantine-robust federated learning against adversarial-majority attacks.
+  venue: J. Supercomput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tjs/ShiHBLL25
+  doi: 10.1007/S11227-025-07619-7
+  ee: https://doi.org/10.1007/s11227-025-07619-7
+  url: https://dblp.org/rec/journals/tjs/ShiHBLL25
+- author: Catalina Tan, Yipeng Hu, Shaheer U. Saeed
+  title: 'SPARS: Self-Play Adversarial Reinforcement Learning for Segmentation of
+    Liver Tumours.'
+  venue: MIUA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miua/TanHS25
+  doi: 10.1007/978-3-031-98694-9_5
+  ee: https://doi.org/10.1007/978-3-031-98694-9_5
+  url: https://dblp.org/rec/conf/miua/TanHS25
+- author: Peng Chen 0030, Xin Du 0002, Zhihui Lu 0002, Hongfeng Chai
+  title: Universal adversarial backdoor attacks to fool vertical federated learning.
+  venue: Comput. Secur.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/compsec/ChenDLC24
+  doi: 10.1016/J.COSE.2023.103601
+  ee: https://doi.org/10.1016/j.cose.2023.103601
+  url: https://dblp.org/rec/journals/compsec/ChenDLC24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -25383,3 +25470,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2405.15465
   ee: https://doi.org/10.48550/arXiv.2405.15465
   url: https://dblp.org/rec/journals/corr/abs-2405-15465
+- author: Peng Wang 0208, Yuan Luo, Zhilin Zhu
+  title: 'FDI-YOLO: Feature disentanglement and interaction network based on YOLO
+    for SAR object detection.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangLZ25
+  doi: 10.1016/J.ESWA.2024.125442
+  ee: https://doi.org/10.1016/j.eswa.2024.125442
+  url: https://dblp.org/rec/journals/eswa/WangLZ25
