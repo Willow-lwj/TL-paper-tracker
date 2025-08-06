@@ -3110,6 +3110,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.JAG.2025.104356
   ee: https://doi.org/10.1016/j.jag.2025.104356
   url: https://dblp.org/rec/journals/aeog/GaoJCHY25
+- author: Jingpeng Gao, Xiangyu Ji 0001, Geng Chen, Yuhang Huang, Fang Ye 0001
+  title: Pseudo-class distribution guided multi-view unsupervised domain adaptation
+    for hyperspectral image classification.
+  venue: Int. J. Appl. Earth Obs. Geoinformation
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/aeog/GaoJCHY25
+  doi: 10.1016/J.JAG.2025.104356
+  ee: https://doi.org/10.1016/j.jag.2025.104356
+  url: https://dblp.org/rec/journals/aeog/GaoJCHY25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -22843,6 +22854,29 @@ Adversarial%20Learning:
   doi: 10.1016/J.COSE.2023.103601
   ee: https://doi.org/10.1016/j.cose.2023.103601
   url: https://dblp.org/rec/journals/compsec/ChenDLC24
+- author: Junhao Dong 0001, Yuan Wang 0030, Xiaohua Xie, Jianhuang Lai, Yew-Soon Ong
+  title: Generalizable and Discriminative Representations for Adversarially Robust
+    Few-Shot Learning.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/DongWXLO25
+  doi: 10.1109/TNNLS.2024.3379172
+  ee: https://doi.org/10.1109/TNNLS.2024.3379172
+  url: https://dblp.org/rec/journals/tnn/DongWXLO25
+- author: Ndeye Gagnessiry Ndiaye, Christoph Ruland, Karl Waedt, Oumayma Zeddini,
+    Erkin Kirdan
+  title: 'FedMqADV: A Unified Framework for End-to-End Evaluation of MQTT-Based Federated
+    Learning in Adversarial Setting.'
+  venue: ICPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icphys/NdiayeRWZK25
+  doi: 10.1109/ICPS65515.2025.11087915
+  ee: https://doi.org/10.1109/ICPS65515.2025.11087915
+  url: https://dblp.org/rec/conf/icphys/NdiayeRWZK25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -25481,3 +25515,13 @@ feature%20disentanglement:
   doi: 10.1016/J.ESWA.2024.125442
   ee: https://doi.org/10.1016/j.eswa.2024.125442
   url: https://dblp.org/rec/journals/eswa/WangLZ25
+- author: Jie Wang 0111, Chaoliang Zhong, Cheng Feng, Jun Sun 0004, Yasuto Yokota
+  title: Feature Disentanglement For Cross-Domain Retina Vessel Segmentation.
+  venue: ICIP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icip/WangZFSY21
+  doi: 10.1109/ICIP42928.2021.9506124
+  ee: https://doi.org/10.1109/ICIP42928.2021.9506124
+  url: https://dblp.org/rec/conf/icip/WangZFSY21
