@@ -22877,6 +22877,28 @@ Adversarial%20Learning:
   doi: 10.1109/ICPS65515.2025.11087915
   ee: https://doi.org/10.1109/ICPS65515.2025.11087915
   url: https://dblp.org/rec/conf/icphys/NdiayeRWZK25
+- author: Ying Wang 0152, Xiaosheng Yu, Chengdong Wu 0001
+  title: An Efficient Hierarchical Optic Disc and Cup Segmentation Network Combined
+    with Multi-task Learning and Adversarial Learning.
+  venue: J. Digit. Imaging
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/jdi/WangYW22
+  doi: 10.1007/S10278-021-00579-3
+  ee: https://doi.org/10.1007/s10278-021-00579-3
+  url: https://dblp.org/rec/journals/jdi/WangYW22
+- author: Xiang Zhang, Ziyue Zhang, Aidong Adam Ding, Yunsi Fei
+  title: 'AccessShadow: Leveraging Adversarial Samples to Counter Deep Learning-Assisted
+    Cache Timing Attacks.'
+  venue: HOST
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/host/ZhangZDF25
+  doi: 10.1109/HOST64725.2025.11050041
+  ee: https://doi.org/10.1109/HOST64725.2025.11050041
+  url: https://dblp.org/rec/conf/host/ZhangZDF25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
