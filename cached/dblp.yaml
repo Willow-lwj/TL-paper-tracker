@@ -3133,6 +3133,17 @@ Domain%20Adaptation%20image%20classification:
   doi: ''
   ee: https://arxiv.org/abs/2103.02808
   url: https://dblp.org/rec/journals/corr/abs-2103-02808
+- author: Peng Zhu, Xiangrong Zhang, Xiao Han 0012, Jin Zhu, Licheng Jiao
+  title: Source-Free Cross-Domain Scene Classification of Remote Sensing Images via
+    Statistics Matching and Noise Adaptation.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhuZHZJ25
+  doi: 10.1109/TGRS.2025.3590697
+  ee: https://doi.org/10.1109/TGRS.2025.3590697
+  url: https://dblp.org/rec/journals/tgrs/ZhuZHZJ25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -22911,6 +22922,88 @@ Adversarial%20Learning:
   doi: 10.1109/HOST64725.2025.11050041
   ee: https://doi.org/10.1109/HOST64725.2025.11050041
   url: https://dblp.org/rec/conf/host/ZhangZDF25
+- author: Jing Yang, Haoshen Qin, Yiping Sun, Hao Wang 0220, Abdullah Ayub Khan, Lip
+    Yee Por, Roohallah Alizadehsani, Pawel Plawiak
+  title: A Generative Adversarial Network-Based Extractive Text Summarization Using
+    Transductive and Reinforcement Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/YangQSWKPAP25
+  doi: 10.1109/ACCESS.2025.3558266
+  ee: https://doi.org/10.1109/ACCESS.2025.3558266
+  url: https://dblp.org/rec/journals/access/YangQSWKPAP25
+- author: I Nyoman Mahayasa Adiputra, Paweena Wanchai, Pei-Chun Lin
+  title: Optimized customer churn prediction using tabular generative adversarial
+    network (GAN)-based hybrid sampling method and cost-sensitive learning.
+  venue: PeerJ Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/peerj-cs/AdiputraWL25
+  doi: 10.7717/PEERJ-CS.2949
+  ee: https://doi.org/10.7717/peerj-cs.2949
+  url: https://dblp.org/rec/journals/peerj-cs/AdiputraWL25
+- author: Manal Abdullah Alohali, Hamed Alqahtani, Shouki A. Ebad, Faiz Abdullah Alotaibi,
+    K. Venkatachalam, Jaehyuk Cho
+  title: Optimized deep learning approach for lung cancer detection using flying fox
+    optimization and bidirectional generative adversarial networks.
+  venue: PeerJ Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/peerj-cs/AlohaliAEAVC25
+  doi: 10.7717/PEERJ-CS.2853
+  ee: https://doi.org/10.7717/peerj-cs.2853
+  url: https://dblp.org/rec/journals/peerj-cs/AlohaliAEAVC25
+- author: Jung-Woo Chang, Ke Sun 0012, Nasimeh Heydaribeni, Seira Hidano, Xinyu Zhang,
+    Farinaz Koushanfar
+  title: 'Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based
+    Wireless Communication Systems.'
+  venue: NDSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/ChangSHHZK25
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/magmaw-modality-agnostic-adversarial-attacks-on-machine-learning-based-wireless-communication-systems/
+  url: https://dblp.org/rec/conf/ndss/ChangSHHZK25
+- author: Jinsheng Yuan, Yuhang Hao, Weisi Guo, Yun Wu 0003, Chongyan Gu
+  title: Remote Rowhammer Attack using Adversarial Observations on Federated Learning
+    Clients.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-06335
+  doi: 10.48550/ARXIV.2505.06335
+  ee: https://doi.org/10.48550/arXiv.2505.06335
+  url: https://dblp.org/rec/journals/corr/abs-2505-06335
+- author: Alper Sarikaya 0002
+  title: "A robust machine learning based IDS design against adversarial attacks in\
+    \ SDN ; Yaz\u0131l\u0131m tan\u0131ml\u0131 a\u011Fda yan\u0131lt\u0131c\u0131\
+    \ sald\u0131r\u0131lara kar\u015F\u0131 makine \xF6\u011Frenimi tabanl\u0131 diren\xE7\
+    li bir sald\u0131r\u0131 tespit sistemi tasar\u0131m\u0131."
+  venue: ''
+  year: '2024'
+  type: Books and Theses
+  access: closed
+  key: phd/basesearch/Alper24
+  doi: ''
+  ee: https://hdl.handle.net/11511/108348
+  url: https://dblp.org/rec/phd/basesearch/Alper24
+- author: Yueming Huang, Jianhua He
+  title: Advancing Architectural Design Through Generative Adversarial Network Deep
+    Learning Technology.
+  venue: Int. J. Distributed Syst. Technol.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijdst/HuangH24
+  doi: 10.4018/IJDST.353305
+  ee: https://doi.org/10.4018/ijdst.353305
+  url: https://dblp.org/rec/journals/ijdst/HuangH24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
