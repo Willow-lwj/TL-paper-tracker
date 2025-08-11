@@ -3144,6 +3144,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3590697
   ee: https://doi.org/10.1109/TGRS.2025.3590697
   url: https://dblp.org/rec/journals/tgrs/ZhuZHZJ25
+- author: Yuxiang Zhang, Wei Li, Wen Jia, Mengmeng Zhang, Ran Tao, Shunlin Liang
+  title: Cross-domain Hyperspectral Image Classification based on Bi-directional Domain
+    Adaptation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-02268
+  doi: 10.48550/ARXIV.2507.02268
+  ee: https://doi.org/10.48550/arXiv.2507.02268
+  url: https://dblp.org/rec/journals/corr/abs-2507-02268
+- author: Wei Li, Jingyang Zhang, Lihao Liu, Guoan Wang, Junjun He, Yang Chen, Lixu
+    Gu
+  title: 'F2TTA: Free-Form Test-Time Adaptation on Cross-Domain Medical Image Classification
+    via Image-Level Disentangled Prompt Tuning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-02437
+  doi: 10.48550/ARXIV.2507.02437
+  ee: https://doi.org/10.48550/arXiv.2507.02437
+  url: https://dblp.org/rec/journals/corr/abs-2507-02437
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -23004,6 +23027,85 @@ Adversarial%20Learning:
   doi: 10.4018/IJDST.353305
   ee: https://doi.org/10.4018/ijdst.353305
   url: https://dblp.org/rec/journals/ijdst/HuangH24
+- author: Fangfang Ye, Jinming Wang, Cao Shuhua, Zhou Dong, Ting Wang, Ezzeddine Touti
+  title: Anomaly detection in UAV-captured crowd images using cumulative frame segmentation
+    and adversarial learning.
+  venue: Inf. Process. Manag.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ipm/YeWSDWT26
+  doi: 10.1016/J.IPM.2025.104320
+  ee: https://doi.org/10.1016/j.ipm.2025.104320
+  url: https://dblp.org/rec/journals/ipm/YeWSDWT26
+- author: Lokesh Gopinath, A. Ruhan Bevi
+  title: 'A Hybrid Network with Multicategory Adversarial Feature Learning: McAFL
+    Fusion.'
+  venue: Int. J. Uncertain. Fuzziness Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijufks/GopinathB25
+  doi: 10.1142/S0218488525400033
+  ee: https://doi.org/10.1142/s0218488525400033
+  url: https://dblp.org/rec/journals/ijufks/GopinathB25
+- author: Chen Chen, Xinwei Zhao, Matthew C. Stamm
+  title: Generative Adversarial Attacks Against Deep- Learning-Based Camera Model
+    Identification.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ChenZS25
+  doi: 10.1109/TIFS.2019.2945198
+  ee: https://doi.org/10.1109/TIFS.2019.2945198
+  url: https://dblp.org/rec/journals/tifs/ChenZS25
+- author: Xuan Cai, Xuesong Bai, Zhiyong Cui, Peng Hang, Haiyang Yu 0002, Yilong Ren
+  title: Adversarial Stress Test for Autonomous Vehicle via Series Reinforcement Learning
+    Tasks With Reward Shaping.
+  venue: IEEE Trans. Intell. Veh.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tiv/CaiBCHYR25
+  doi: 10.1109/TIV.2024.3418887
+  ee: https://doi.org/10.1109/TIV.2024.3418887
+  url: https://dblp.org/rec/journals/tiv/CaiBCHYR25
+- author: Jung-Woo Chang, Ke Sun 0012, Nasimeh Heydaribeni, Seira Hidano, Xinyu Zhang
+    0003, Farinaz Koushanfar
+  title: 'Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based
+    Wireless Communication Systems.'
+  venue: NDSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/ChangSHHZK25
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/magmaw-modality-agnostic-adversarial-attacks-on-machine-learning-based-wireless-communication-systems/
+  url: https://dblp.org/rec/conf/ndss/ChangSHHZK25
+- author: Bruce Fang, Danyi Gao
+  title: Domain-Adversarial Transfer Learning for Fault Root Cause Identification
+    in Cloud Computing Systems.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-02233
+  doi: 10.48550/ARXIV.2507.02233
+  ee: https://doi.org/10.48550/arXiv.2507.02233
+  url: https://dblp.org/rec/journals/corr/abs-2507-02233
+- author: Zhongxiao Li, Antonella Napolitano, Monica Fedele, Xin Gao 0001, Francesco
+    Napolitano
+  title: AI identifies potent inducers of breast cancer stem cell differentiation
+    based on adversarial learning from gene expression data.
+  venue: Briefings Bioinform.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/bib/LiNFGN24
+  doi: 10.1093/BIB/BBAE207
+  ee: https://doi.org/10.1093/bib/bbae207
+  url: https://dblp.org/rec/journals/bib/LiNFGN24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
