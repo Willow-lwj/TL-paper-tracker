@@ -23106,6 +23106,28 @@ Adversarial%20Learning:
   doi: 10.1093/BIB/BBAE207
   ee: https://doi.org/10.1093/bib/bbae207
   url: https://dblp.org/rec/journals/bib/LiNFGN24
+- author: Chen Chen 0059, Xinwei Zhao, Matthew C. Stamm
+  title: Generative Adversarial Attacks Against Deep- Learning-Based Camera Model
+    Identification.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ChenZS25
+  doi: 10.1109/TIFS.2019.2945198
+  ee: https://doi.org/10.1109/TIFS.2019.2945198
+  url: https://dblp.org/rec/journals/tifs/ChenZS25
+- author: Yuchun Fang, Chen Chen, Wei Zhang 0021, Jiahua Wu, Zhaoxiang Zhang 0001,
+    Shaorong Xie
+  title: Prototype learning for adversarial domain adaptation.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/FangCZWZX24
+  doi: 10.1016/J.PATCOG.2024.110653
+  ee: https://doi.org/10.1016/j.patcog.2024.110653
+  url: https://dblp.org/rec/journals/pr/FangCZWZX24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -25765,3 +25787,14 @@ feature%20disentanglement:
   doi: 10.1109/TNNLS.2023.3282306
   ee: https://doi.org/10.1109/TNNLS.2023.3282306
   url: https://dblp.org/rec/journals/tnn/WangYTZL24
+- author: Wen Guo, Wuzhou Quan, Junyu Gao 0002, Tianzhu Zhang 0001, Changsheng Xu
+  title: 'Feature Disentanglement Network: Multi-Object Tracking Needs More Differentiated
+    Features.'
+  venue: ACM Trans. Multim. Comput. Commun. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tomccap/GuoQGZX24
+  doi: 10.1145/3626825
+  ee: https://doi.org/10.1145/3626825
+  url: https://dblp.org/rec/journals/tomccap/GuoQGZX24
