@@ -23128,6 +23128,39 @@ Adversarial%20Learning:
   doi: 10.1016/J.PATCOG.2024.110653
   ee: https://doi.org/10.1016/j.patcog.2024.110653
   url: https://dblp.org/rec/journals/pr/FangCZWZX24
+- author: Sreejeet Maity, Aritra Mitra
+  title: 'Adversarially-Robust TD Learning with Markovian Data: Finite-Time Rates
+    and Fundamental Limits.'
+  venue: AISTATS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/MaityM25
+  doi: ''
+  ee: https://proceedings.mlr.press/v258/maity25a.html
+  url: https://dblp.org/rec/conf/aistats/MaityM25
+- author: Yuchun Fang, Chen Chen 0114, Wei Zhang 0021, Jiahua Wu, Zhaoxiang Zhang
+    0001, Shaorong Xie
+  title: Prototype learning for adversarial domain adaptation.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/FangCZWZX24
+  doi: 10.1016/J.PATCOG.2024.110653
+  ee: https://doi.org/10.1016/j.patcog.2024.110653
+  url: https://dblp.org/rec/journals/pr/FangCZWZX24
+- author: Xingbin Wang, Yan Wang 0120, Yulan Su, Sisi Zhang, Dan Meng 0002, Rui Hou
+    0001
+  title: 'EnsGuard: A Novel Acceleration Framework for Adversarial Ensemble Learning.'
+  venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tcad/WangWSZMH24
+  doi: 10.1109/TCAD.2024.3390031
+  ee: https://doi.org/10.1109/TCAD.2024.3390031
+  url: https://dblp.org/rec/journals/tcad/WangWSZMH24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
