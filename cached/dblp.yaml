@@ -23161,6 +23161,110 @@ Adversarial%20Learning:
   doi: 10.1109/TCAD.2024.3390031
   ee: https://doi.org/10.1109/TCAD.2024.3390031
   url: https://dblp.org/rec/journals/tcad/WangWSZMH24
+- author: Yong Zhang, Feng Liang, Guanghu Yuan, Min Yang 0007, Chengming Li, Xiping
+    Hu
+  title: 'FedPall: Prototype-based Adversarial and Collaborative Learning for Federated
+    Learning with Feature Drift.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-04781
+  doi: 10.48550/ARXIV.2507.04781
+  ee: https://doi.org/10.48550/arXiv.2507.04781
+  url: https://dblp.org/rec/journals/corr/abs-2507-04781
+- author: Youbang Xiao, Zhongguo Yang, Qi Zou, Peng Zhang
+  title: 'Learn from Adversarial Examples: Learning-Based Attack on Time Series Forecasting.'
+  venue: Inf. Technol. Control.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/itc/XiaoYZZ25
+  doi: 10.5755/J01.ITC.54.2.37758
+  ee: https://doi.org/10.5755/j01.itc.54.2.37758
+  url: https://dblp.org/rec/journals/itc/XiaoYZZ25
+- author: Yuanfu Wang, Pengyu Wang, Chenyang Xi, Bo Tang 0011, Junyi Zhu 0015, Wenqiang
+    Wei, Chen Chen, Chao Yang, Jingfeng Zhang, Chaochao Lu, Yijun Niu, Keming Mao,
+    Zhiyu Li, Feiyu Xiong, Jie Hu, Mingchuan Yang
+  title: Adversarial Preference Learning for Robust LLM Alignment.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/WangWXTZWCYZLNM25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1126/
+  url: https://dblp.org/rec/conf/acl/WangWXTZWCYZLNM25
+- author: Yuanfu Wang, Pengyu Wang, Chenyang Xi, Bo Tang 0011, Junyi Zhu 0015, Wenqiang
+    Wei, Chen Chen, Chao Yang, Jingfeng Zhang, Chaochao Lu, Yijun Niu, Keming Mao,
+    Zhiyu Li, Feiyu Xiong, Jie Hu, Mingchuan Yang
+  title: Adversarial Preference Learning for Robust LLM Alignment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-24369
+  doi: 10.48550/ARXIV.2505.24369
+  ee: https://doi.org/10.48550/arXiv.2505.24369
+  url: https://dblp.org/rec/journals/corr/abs-2505-24369
+- author: Edward Raff, Karen Kukla, Michel Benaroch, Joseph Comprix
+  title: Adversarial Machine Learning Attacks on Financial Reporting via Maximum Violated
+    Multi-Objective Attack.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-05441
+  doi: 10.48550/ARXIV.2507.05441
+  ee: https://doi.org/10.48550/arXiv.2507.05441
+  url: https://dblp.org/rec/journals/corr/abs-2507-05441
+- author: Shuo Shao 0002, Yiming Li, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng
+    Li, Yu He, Junfeng Guo, Tianwei Zhang 0004, Dacheng Tao, Zhan Qin
+  title: 'DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial
+    Perspective.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-05622
+  doi: 10.48550/ARXIV.2507.05622
+  ee: https://doi.org/10.48550/arXiv.2507.05622
+  url: https://dblp.org/rec/journals/corr/abs-2507-05622
+- author: Giulio Rossolini, Fabio Brau, Alessandro Biondi 0001, Battista Biggio, Giorgio
+    C. Buttazzo
+  title: Exploiting Edge Features for Transferable Adversarial Attacks in Distributed
+    Machine Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-07259
+  doi: 10.48550/ARXIV.2507.07259
+  ee: https://doi.org/10.48550/arXiv.2507.07259
+  url: https://dblp.org/rec/journals/corr/abs-2507-07259
+- author: Yang Zhang, Zhanxiang Cao, Buqing Nie, Haoyang Li, Yue Gao
+  title: Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid
+    Robots.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-08303
+  doi: 10.48550/ARXIV.2507.08303
+  ee: https://doi.org/10.48550/arXiv.2507.08303
+  url: https://dblp.org/rec/journals/corr/abs-2507-08303
+- author: Peter Crowley, Zachary Serlin, Tyler M. Paine, Makai Mann, Michael Benjamin,
+    Calin Belta
+  title: SPLASH! Sample-efficient Preference-based inverse reinforcement learning
+    for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-08707
+  doi: 10.48550/ARXIV.2507.08707
+  ee: https://doi.org/10.48550/arXiv.2507.08707
+  url: https://dblp.org/rec/journals/corr/abs-2507-08707
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
