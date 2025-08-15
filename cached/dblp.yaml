@@ -23265,6 +23265,51 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2507.08707
   ee: https://doi.org/10.48550/arXiv.2507.08707
   url: https://dblp.org/rec/journals/corr/abs-2507-08707
+- author: Yong Zhang, Feng Liang 0004, Guanghu Yuan, Min Yang 0007, Chengming Li,
+    Xiping Hu
+  title: 'FedPall: Prototype-based Adversarial and Collaborative Learning for Federated
+    Learning with Feature Drift.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-04781
+  doi: 10.48550/ARXIV.2507.04781
+  ee: https://doi.org/10.48550/arXiv.2507.04781
+  url: https://dblp.org/rec/journals/corr/abs-2507-04781
+- author: Wen Zhou 0005, Wangyu Shen, Xinyi Meng
+  title: An Improved Social Force Model-Driven Multi-Agent Generative Adversarial
+    Imitation Learning Framework for Pedestrian Trajectory Prediction.
+  venue: Comput. Animat. Virtual Worlds
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jvca/ZhouSM25
+  doi: 10.1002/CAV.70058
+  ee: https://doi.org/10.1002/cav.70058
+  url: https://dblp.org/rec/journals/jvca/ZhouSM25
+- author: Shuo Shao 0002, Yiming Li 0004, Mengren Zheng, Zhiyang Hu, Yukun Chen 0002,
+    Boheng Li, Yu He, Junfeng Guo, Tianwei Zhang 0004, Dacheng Tao, Zhan Qin
+  title: 'DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial
+    Perspective.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-05622
+  doi: 10.48550/ARXIV.2507.05622
+  ee: https://doi.org/10.48550/arXiv.2507.05622
+  url: https://dblp.org/rec/journals/corr/abs-2507-05622
+- author: Tassilo Klein, Moin Nabi
+  title: Learning Private Representations through Entropy-based Adversarial Training.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-10194
+  doi: 10.48550/ARXIV.2507.10194
+  ee: https://doi.org/10.48550/arXiv.2507.10194
+  url: https://dblp.org/rec/journals/corr/abs-2507-10194
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
