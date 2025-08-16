@@ -23310,6 +23310,52 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2507.10194
   ee: https://doi.org/10.48550/arXiv.2507.10194
   url: https://dblp.org/rec/journals/corr/abs-2507-10194
+- author: Junru Ren, Zhizhong Zheng, Yizhong Wang, Ningning Liang, Shaoyu Wang 0002,
+    Ailong Cai, Lei Li 0019, Bin Yan 0002
+  title: Prior image-based generative adversarial learning for multi-material decomposition
+    in photon counting computed tomography.
+  venue: Comput. Biol. Medicine
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/RenZWLWCLY24
+  doi: 10.1016/J.COMPBIOMED.2024.108854
+  ee: https://doi.org/10.1016/j.compbiomed.2024.108854
+  url: https://dblp.org/rec/journals/cbm/RenZWLWCLY24
+- author: Jiaxu Liu 0003, Jiao Wang 0004, Hao Huang, Jianqing Li 0004
+  title: Specific emitter identification unaffected by time through adversarial domain
+    adaptation and continual learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/LiuWHL24
+  doi: 10.1016/J.ENGAPPAI.2024.109324
+  ee: https://doi.org/10.1016/j.engappai.2024.109324
+  url: https://dblp.org/rec/journals/eaai/LiuWHL24
+- author: Jiao Wang 0002, Shijia Wang, Tao Xu
+  title: Alternate inference-decision reinforcement learning with generative adversarial
+    inferring for bridge bidding.
+  venue: Neural Comput. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/WangWX24
+  doi: 10.1007/S00521-024-09860-2
+  ee: https://doi.org/10.1007/s00521-024-09860-2
+  url: https://dblp.org/rec/journals/nca/WangWX24
+- author: Bing Wang 0018, Ximing Li 0002, Zhiyao Yang, Yuanyuan Guan, Jiayin Li, Sheng-Sheng
+    Wang 0001
+  title: Unsupervised Sentence Representation Learning with Frequency-induced Adversarial
+    tuning and Incomplete sentence filtering.
+  venue: Neural Networks
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangLYGLW24
+  doi: 10.1016/J.NEUNET.2024.106315
+  ee: https://doi.org/10.1016/j.neunet.2024.106315
+  url: https://dblp.org/rec/journals/nn/WangLYGLW24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
