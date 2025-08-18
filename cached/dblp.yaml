@@ -3167,6 +3167,28 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2507.02437
   ee: https://doi.org/10.48550/arXiv.2507.02437
   url: https://dblp.org/rec/journals/corr/abs-2507-02437
+- author: Yujie Liu 0012, Chong Zhao, Yang Lu 0015, Wei Xing 0002, Xuanyuan Qiao
+  title: A source free domain adaptation model based on adversarial learning for image
+    classification.
+  venue: Appl. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/LiuZLXQ23
+  doi: 10.1007/S10489-022-04026-W
+  ee: https://doi.org/10.1007/s10489-022-04026-w
+  url: https://dblp.org/rec/journals/apin/LiuZLXQ23
+- author: Yujie Liu 0012, Xing Wei 0002, Yang Lu 0015, Chong Zhao, Xuanyuan Qiao
+  title: Source Free Domain Adaptation via Combined Discriminative GAN Model for Image
+    Classification.
+  venue: IJCNN
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/LiuWLZQ22
+  doi: 10.1109/IJCNN55064.2022.9891979
+  ee: https://doi.org/10.1109/IJCNN55064.2022.9891979
+  url: https://dblp.org/rec/conf/ijcnn/LiuWLZQ22
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -23356,6 +23378,37 @@ Adversarial%20Learning:
   doi: 10.1016/J.NEUNET.2024.106315
   ee: https://doi.org/10.1016/j.neunet.2024.106315
   url: https://dblp.org/rec/journals/nn/WangLYGLW24
+- author: Taira Tsuchiya, Shinji Ito, Haipeng Luo
+  title: Reinforcement Learning from Adversarial Preferences in Tabular MDPs.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-11706
+  doi: 10.48550/ARXIV.2507.11706
+  ee: https://doi.org/10.48550/arXiv.2507.11706
+  url: https://dblp.org/rec/journals/corr/abs-2507-11706
+- author: Kutub Uddin, Awais Khan 0007, Muhammad Umar Farooq, Khalid Mahmood 0003
+  title: 'SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake
+    Detection against Adversarial Attacks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-13170
+  doi: 10.48550/ARXIV.2507.13170
+  ee: https://doi.org/10.48550/arXiv.2507.13170
+  url: https://dblp.org/rec/journals/corr/abs-2507-13170
+- author: Xinyu Cao, Bimal Adhikari, Shangqing Zhao, Jingxian Wu, Yanjun Pan
+  title: An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-14109
+  doi: 10.48550/ARXIV.2507.14109
+  ee: https://doi.org/10.48550/arXiv.2507.14109
+  url: https://dblp.org/rec/journals/corr/abs-2507-14109
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
