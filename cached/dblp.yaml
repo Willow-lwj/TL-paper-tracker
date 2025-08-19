@@ -23409,6 +23409,38 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2507.14109
   ee: https://doi.org/10.48550/arXiv.2507.14109
   url: https://dblp.org/rec/journals/corr/abs-2507-14109
+- author: Guowen Yuan, Tien-Hsuan Wu, Lianghao Xia, Ben Kao
+  title: Adversarial Demonstration Learning for Low-resource NER Using Dual Similarity.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-15864
+  doi: 10.48550/ARXIV.2507.15864
+  ee: https://doi.org/10.48550/arXiv.2507.15864
+  url: https://dblp.org/rec/journals/corr/abs-2507-15864
+- author: Joobin Jin, Seokjun Hong, Gyeongseon Baek, Yeeun Kim, Byeongjoon Noh
+  title: 'Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using
+    Generative Adversarial Imitation Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-17418
+  doi: 10.48550/ARXIV.2507.17418
+  ee: https://doi.org/10.48550/arXiv.2507.17418
+  url: https://dblp.org/rec/journals/corr/abs-2507-17418
+- author: Junyong Jiang, Buwei Tian, Chenxing Xu, Songze Li, Lu Dong
+  title: Policy Disruption in Reinforcement Learning:Adversarial Attack with Large
+    Language Models and Critical State Identification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-18113
+  doi: 10.48550/ARXIV.2507.18113
+  ee: https://doi.org/10.48550/arXiv.2507.18113
+  url: https://dblp.org/rec/journals/corr/abs-2507-18113
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -26079,3 +26111,14 @@ feature%20disentanglement:
   doi: 10.1145/3626825
   ee: https://doi.org/10.1145/3626825
   url: https://dblp.org/rec/journals/tomccap/GuoQGZX24
+- author: Kahim Wong, Jicheng Zhou, Haiwei Wu, Yain-Whar Si, Jiantao Zhou
+  title: 'ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature
+    and Hierarchical Content Disentanglement.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-16397
+  doi: 10.48550/ARXIV.2507.16397
+  ee: https://doi.org/10.48550/arXiv.2507.16397
+  url: https://dblp.org/rec/journals/corr/abs-2507-16397
