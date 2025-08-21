@@ -23441,6 +23441,160 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2507.18113
   ee: https://doi.org/10.48550/arXiv.2507.18113
   url: https://dblp.org/rec/journals/corr/abs-2507-18113
+- author: Yujie Feng, Xue Tang, Qiuyu Sun, Weisheng Li 0001, Shenhai Zheng
+  title: Semi-supervised medical image segmentation method using multi-scale consistency
+    adversarial learning.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/FengTSLZ26
+  doi: 10.1016/J.BSPC.2025.108250
+  ee: https://doi.org/10.1016/j.bspc.2025.108250
+  url: https://dblp.org/rec/journals/bspc/FengTSLZ26
+- author: Chen Zhou, Jun He, Shixi Yang, Xin Xiong, Yongwei Chi
+  title: Domain generalization for the open-set cross-domain diagnosis of a class-imbalanced
+    rod-fastening rotor dataset based on QGAN and aligned reciprocal points adversarial
+    learning.
+  venue: Adv. Eng. Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/aei/ZhouHYXC25
+  doi: 10.1016/J.AEI.2025.103646
+  ee: https://doi.org/10.1016/j.aei.2025.103646
+  url: https://dblp.org/rec/journals/aei/ZhouHYXC25
+- author: Hozefa Jesawada, Antonio Acernese, Davide Del Vecchio, Giovanni Russo 0002,
+    Carmen Del Vecchio
+  title: 'DR-PETS: Learning-Based Control With Planning in Adversarial Environments.'
+  venue: IEEE Control. Syst. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/csysl/JesawadaAVRV25
+  doi: 10.1109/LCSYS.2025.3587053
+  ee: https://doi.org/10.1109/LCSYS.2025.3587053
+  url: https://dblp.org/rec/journals/csysl/JesawadaAVRV25
+- author: Xiao Zhang, Peng Bao
+  title: Multi-view contrastive learning for graph adversarial defense.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ZhangB25
+  doi: 10.1016/J.NEUNET.2025.107868
+  ee: https://doi.org/10.1016/j.neunet.2025.107868
+  url: https://dblp.org/rec/journals/nn/ZhangB25
+- author: Yunpeng Xiao 0001, Xufeng Li, Tun Li, Rong Wang 0003, Yucai Pang, Guoyin
+    Wang 0001
+  title: A Distributed Generative Adversarial Network for Data Augmentation Under
+    Vertical Federated Learning.
+  venue: IEEE Trans. Big Data
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/XiaoLLWPW25
+  doi: 10.1109/TBDATA.2024.3375150
+  ee: https://doi.org/10.1109/TBDATA.2024.3375150
+  url: https://dblp.org/rec/journals/tbd/XiaoLLWPW25
+- author: "Kai Li 0002, Jingjing Zheng, Wei Ni 0001, Hailong Huang 0001, Pietro Li\xF2\
+    , Falko Dressler, \xD6zg\xFCr B. Akan"
+  title: Biasing Federated Learning With a New Adversarial Graph Attention Network.
+  venue: IEEE Trans. Mob. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmc/LiZNHLDA25
+  doi: 10.1109/TMC.2024.3499371
+  ee: https://doi.org/10.1109/TMC.2024.3499371
+  url: https://dblp.org/rec/journals/tmc/LiZNHLDA25
+- author: Hassan Ashtiani, Vinayak Pathak, Ruth Urner
+  title: Simplifying Adversarially Robust PAC Learning With Tolerance.
+  venue: COLT
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/colt/AshtianiPU25
+  doi: ''
+  ee: https://proceedings.mlr.press/v291/ashtiani25a.html
+  url: https://dblp.org/rec/conf/colt/AshtianiPU25
+- author: Huiwen Wu, Shuo Zhang 0004
+  title: Do Global and Local Perform Cooperatively or Adversarially in Heterogeneous
+    Federated Learning?
+  venue: CPAL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cpal/WuZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v280/wu25a.html
+  url: https://dblp.org/rec/conf/cpal/WuZ25
+- author: Zhu Liu 0004, Zijun Wang, Jinyuan Liu 0001, Fanqi Meng, Long Ma 0002, Risheng
+    Liu
+  title: 'DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/0004W0MML25
+  doi: 10.1109/CVPR52734.2025.02626
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_DEAL_Data-Efficient_Adversarial_Learning_for_High-Quality_Infrared_Imaging_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/0004W0MML25
+- author: Seonghyeon Hwang, Minsu Kim 0006, Steven Euijong Whang
+  title: 'T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration
+    in Class-Incremental Learning.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/Hwang0W25
+  doi: 10.1109/CVPR52734.2025.01429
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Hwang_T-CIL_Temperature_Scaling_using_Adversarial_Perturbation_for_Calibration_in_Class-Incremental_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/Hwang0W25
+- author: Xuan Wang, Xitong Gao, Dongping Liao, Tianrui Qin, Yu-liang Lu, Cheng-Zhong
+    Xu 0001
+  title: 'A3: Few-shot Prompt Learning of Unlearnable Examples with Cross-Modal Adversarial
+    Feature Alignment.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/WangGLQL025
+  doi: 10.1109/CVPR52734.2025.00888
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Wang_A3_Few-shot_Prompt_Learning_of_Unlearnable_Examples_with_Cross-Modal_Adversarial_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/WangGLQL025
+- author: Lilin Zhang, Chengpei Wu, Ning Yang
+  title: Weakly Supervised Contrastive Adversarial Training for Learning Robust Features
+    from Semi-supervised Data.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ZhangWY25
+  doi: 10.1109/CVPR52734.2025.02395
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZhangWY25
+- author: Ziqi Feng, Yi OuYang, Xiaogang Xu 0001
+  title: 'ARG-Net: Gaze Estimation Based on Adversarial Learning and Learnable Networks.'
+  venue: ICIC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/FengOX25
+  doi: 10.1007/978-981-95-0009-3_34
+  ee: https://doi.org/10.1007/978-981-95-0009-3_34
+  url: https://dblp.org/rec/conf/icic/FengOX25
+- author: Shurui Li 0001, Ian Daly, Cuntai Guan, Andrzej Cichocki, Jing Jin 0001
+  title: Inter-participant transfer learning with attention based domain adversarial
+    training for P300 detection.
+  venue: Neural Networks
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/LiDGCJ24
+  doi: 10.1016/J.NEUNET.2024.106655
+  ee: https://doi.org/10.1016/j.neunet.2024.106655
+  url: https://dblp.org/rec/journals/nn/LiDGCJ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
