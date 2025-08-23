@@ -23785,6 +23785,65 @@ Adversarial%20Learning:
   doi: 10.1007/S00138-024-01571-X
   ee: https://doi.org/10.1007/s00138-024-01571-x
   url: https://dblp.org/rec/journals/mva/ChenWGZDZ24
+- author: Chenyu Zhou, Wei Huang 0035, Xinyuan Miao, Yabin Peng, Xianglong Kong, Yi
+    Cao, Xi Chen 0112
+  title: Fortifying graph neural networks against adversarial attacks via ensemble
+    learning.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhouHMPKCC25
+  doi: 10.1016/J.KNOSYS.2024.112867
+  ee: https://doi.org/10.1016/j.knosys.2024.112867
+  url: https://dblp.org/rec/journals/kbs/ZhouHMPKCC25
+- author: Guanxi Chen, Guangyao Bai, Lei Shi 0001, Jie Li 0002, Lin Wei, Yucheng Shi,
+    Yufei Gao 0001, Qiushi Li
+  title: 'Rball Attack: Adversarial Attacks on Trajectory Deep Representation Learning
+    Models.'
+  venue: ICIC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/ChenBSLWSGL25
+  doi: 10.1007/978-981-96-9812-7_21
+  ee: https://doi.org/10.1007/978-981-96-9812-7_21
+  url: https://dblp.org/rec/conf/icic/ChenBSLWSGL25
+- author: Daniele Lanzoni, Olivier Pierre-Louis, Roberto Bergamaschini, Francesco
+    Montalenti
+  title: Learning Kinetic Monte Carlo stochastic dynamics with Deep Generative Adversarial
+    Networks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-21763
+  doi: 10.48550/ARXIV.2507.21763
+  ee: https://doi.org/10.48550/arXiv.2507.21763
+  url: https://dblp.org/rec/journals/corr/abs-2507-21763
+- author: Xi Chen 0112, Wei Huang 0035, Wei Guo, Fan Zhang 0044, Jiayu Du, Zhizhong
+    Zhou
+  title: 'Correction: Adversarial defence by learning differentiated feature representation
+    in deep ensemble.'
+  venue: Mach. Vis. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/mva/ChenHGZDZ24
+  doi: 10.1007/S00138-024-01583-7
+  ee: https://doi.org/10.1007/s00138-024-01583-7
+  url: https://dblp.org/rec/journals/mva/ChenHGZDZ24
+- author: Xi Chen 0112, Huang Wei, Wei Guo, Fan Zhang 0044, Jiayu Du, Zhizhong Zhou
+  title: Adversarial defence by learning differentiated feature representation in
+    deep ensemble.
+  venue: Mach. Vis. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/mva/ChenWGZDZ24
+  doi: 10.1007/S00138-024-01571-X
+  ee: https://doi.org/10.1007/s00138-024-01571-x
+  url: https://dblp.org/rec/journals/mva/ChenWGZDZ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -26488,3 +26547,15 @@ feature%20disentanglement:
   doi: 10.1007/978-981-96-9891-2_12
   ee: https://doi.org/10.1007/978-981-96-9891-2_12
   url: https://dblp.org/rec/conf/icic/NanZFLWJ25
+- author: Yaguan Qian, Chenyu Zhao, Zhaoquan Gu, Bin Wang 0062, Shouling Ji, Wei Wang
+    0012, Boyang Zhou, Pan Zhou 0001
+  title: 'F2AT: Feature-Focusing Adversarial Training via Disentanglement of Natural
+    and Perturbed Patterns.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-14561
+  doi: 10.48550/ARXIV.2310.14561
+  ee: https://doi.org/10.48550/arXiv.2310.14561
+  url: https://dblp.org/rec/journals/corr/abs-2310-14561
