@@ -23844,6 +23844,17 @@ Adversarial%20Learning:
   doi: 10.1007/S00138-024-01571-X
   ee: https://doi.org/10.1007/s00138-024-01571-x
   url: https://dblp.org/rec/journals/mva/ChenWGZDZ24
+- author: Liheng Yuan, Fanghua Ye 0001, Wei Zhou, Wei Yuan 0001, Xinge You
+  title: 'Concept drift adaptation with scarce labels: A novel approach based on diffusion
+    and adversarial learning.'
+  venue: Eng. Appl. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/YuanYZYY24
+  doi: 10.1016/J.ENGAPPAI.2024.109105
+  ee: https://doi.org/10.1016/j.engappai.2024.109105
+  url: https://dblp.org/rec/journals/eaai/YuanYZYY24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -26559,3 +26570,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2310.14561
   ee: https://doi.org/10.48550/arXiv.2310.14561
   url: https://dblp.org/rec/journals/corr/abs-2310-14561
+- author: Wen-Chin Huang, Hao Luo 0019, Hsin-Te Hwang, Chen-Chou Lo, Yu-Huai Peng,
+    Yu Tsao 0001, Hsin-Min Wang
+  title: Unsupervised Representation Disentanglement Using Cross Domain Features and
+    Adversarial Learning in Variational Autoencoder Based Voice Conversion.
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2020'
+  type: Journal Articles
+  access: open
+  key: journals/tetci/HuangLHLPTW20
+  doi: 10.1109/TETCI.2020.2977678
+  ee: https://doi.org/10.1109/TETCI.2020.2977678
+  url: https://dblp.org/rec/journals/tetci/HuangLHLPTW20
