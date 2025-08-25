@@ -26582,3 +26582,35 @@ feature%20disentanglement:
   doi: 10.1109/TETCI.2020.2977678
   ee: https://doi.org/10.1109/TETCI.2020.2977678
   url: https://dblp.org/rec/journals/tetci/HuangLHLPTW20
+- author: Haoan Wang, Shilong Jia, Tieyong Zeng, Guixu Zhang, Zhi Li 0080
+  title: Triple Feature Disentanglement for One-Stage Adaptive Object Detection.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangJZZL24
+  doi: 10.1609/AAAI.V38I6.28348
+  ee: https://doi.org/10.1609/aaai.v38i6.28348
+  url: https://dblp.org/rec/conf/aaai/WangJZZL24
+- author: Hao Chen 0102, Qi Zhang 0077, Zenan Huang, Haobo Wang 0001, Junbo Zhao 0002
+  title: Towards Domain-Specific Features Disentanglement for Domain Generalization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-03007
+  doi: 10.48550/ARXIV.2310.03007
+  ee: https://doi.org/10.48550/arXiv.2310.03007
+  url: https://dblp.org/rec/journals/corr/abs-2310-03007
+- author: Wen-Chin Huang, Hao Luo 0019, Hsin-Te Hwang, Chen-Chou Lo, Yu-Huai Peng,
+    Yu Tsao 0001, Hsin-Min Wang
+  title: Unsupervised Representation Disentanglement using Cross Domain Features and
+    Adversarial Learning in Variational Autoencoder based Voice Conversion.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2001-07849
+  doi: ''
+  ee: https://arxiv.org/abs/2001.07849
+  url: https://dblp.org/rec/journals/corr/abs-2001-07849
