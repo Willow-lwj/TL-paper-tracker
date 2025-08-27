@@ -3211,6 +3211,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.BSPC.2024.107122
   ee: https://doi.org/10.1016/j.bspc.2024.107122
   url: https://dblp.org/rec/journals/bspc/GuoWZT25
+- author: Cunhang Fan, Fan Yang, Jingjing Zhang, Jingpeng Sun, Hao Che, Su Hu, Zhengqi
+    Wen, Zhao Lv
+  title: A Domain Adaptation Framework By Aligning the Inverse Gram Matrices for Cross-Subject
+    Motor Imagery Classification.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/FanYZSCHWL25
+  doi: 10.1109/TCE.2025.3573773
+  ee: https://doi.org/10.1109/TCE.2025.3573773
+  url: https://dblp.org/rec/journals/tce/FanYZSCHWL25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -23912,6 +23924,94 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-96-9921-6_1
   ee: https://doi.org/10.1007/978-981-96-9921-6_1
   url: https://dblp.org/rec/conf/icic/DaiMZL25
+- author: Wenhui Li 0001, Jingyi Wang, Dan Song 0006, Zhengya Sun, Zhiqiang Wei 0002,
+    An-An Liu
+  title: Cross-Domain Adversarial Learning for Sea Surface Temperature Super-Resolution.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/LiWSSWL25
+  doi: 10.1109/JSTARS.2025.3590078
+  ee: https://doi.org/10.1109/JSTARS.2025.3590078
+  url: https://dblp.org/rec/journals/staeors/LiWSSWL25
+- author: Ikram Ud Din, Ahmad Almogren, Joel J. P. C. Rodrigues
+  title: Adversarial Machine Learning for Robust and Secure UAV Detection in Consumer
+    Applications.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/DinAR25
+  doi: 10.1109/TCE.2025.3572255
+  ee: https://doi.org/10.1109/TCE.2025.3572255
+  url: https://dblp.org/rec/journals/tce/DinAR25
+- author: Gaopan Hou, Yu Guan, Weidong Yang, Zhiquan Liu, Yinbin Miao, Yulong Shen
+    0001, Jianfeng Ma 0001
+  title: 'TSTFL-CGAN: Fuzzy Logic-Based Two-Stage Training Federated Learning Conditional
+    Generative Adversarial Network Under Non-IID Data.'
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/HouGYLMSM25
+  doi: 10.1109/TCE.2025.3541140
+  ee: https://doi.org/10.1109/TCE.2025.3541140
+  url: https://dblp.org/rec/journals/tce/HouGYLMSM25
+- author: Ru Peng, Xingyu Chen, Xuguang Lan
+  title: Adversarial Mixup-Based Contrast Learning for Data-Driven Predictive Maintenance
+    in Long-Tailed Recognition.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/PengCL25
+  doi: 10.1109/TCE.2025.3563895
+  ee: https://doi.org/10.1109/TCE.2025.3563895
+  url: https://dblp.org/rec/journals/tce/PengCL25
+- author: Weiliang Chen, Qianqian Ren, Yong Liu 0029, Jianguo Sun, Feng Lin 0004
+  title: Adversarial Self-Supervised Learning for Secure and Robust Urban Region Profiling.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ChenRLSL25
+  doi: 10.1109/TIFS.2025.3594165
+  ee: https://doi.org/10.1109/TIFS.2025.3594165
+  url: https://dblp.org/rec/journals/tifs/ChenRLSL25
+- author: Jixuan Cui, Jun Li 0108, Zhen Mei, Yiyang Ni, Wen Chen 0001, Zengxiang Li
+  title: Adversarial Federated Consensus Learning for Surface Defect Classification
+    Under Data Heterogeneity in IIoT.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/CuiLMNCL25
+  doi: 10.1109/TIM.2025.3593591
+  ee: https://doi.org/10.1109/TIM.2025.3593591
+  url: https://dblp.org/rec/journals/tim/CuiLMNCL25
+- author: Li Wang 0079, Yiping Gao, Liang Gao 0001, Xinyu Li 0001
+  title: Adversarial Contrastive Learning-Enabled Domain Extension Method for Time-Varying
+    Cross-Domain Fault Diagnosis.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/WangGGL25
+  doi: 10.1109/TIM.2025.3595253
+  ee: https://doi.org/10.1109/TIM.2025.3595253
+  url: https://dblp.org/rec/journals/tim/WangGGL25
+- author: Terence Jie Chua, Wenhan Yu, Jun Zhao 0007
+  title: 'Mobile Edge Adversarial Detection for Digital Twinning to the Metaverse:
+    A Deep Reinforcement Learning Approach.'
+  venue: IEEE Trans. Wirel. Commun.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/twc/ChuaYZ25a
+  doi: 10.1109/TWC.2023.3298265
+  ee: https://doi.org/10.1109/TWC.2023.3298265
+  url: https://dblp.org/rec/journals/twc/ChuaYZ25a
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -26683,3 +26783,14 @@ feature%20disentanglement:
   doi: 10.1109/TKDE.2025.3580116
   ee: https://doi.org/10.1109/TKDE.2025.3580116
   url: https://dblp.org/rec/journals/tkde/QianZGWJWZ25
+- author: Zhen Zhou, Qing Zhu, Jianqiao Luo, Mingtao Feng, Yaonan Wang 0001, Tianjian
+    Jiang, Lin Chen 0034, Yang Mo
+  title: A Feature Disentanglement Method for Image Stitching of Printed Circuit Boards.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ZhouZLFWJCM25
+  doi: 10.1109/TIM.2025.3547509
+  ee: https://doi.org/10.1109/TIM.2025.3547509
+  url: https://dblp.org/rec/journals/tim/ZhouZLFWJCM25
