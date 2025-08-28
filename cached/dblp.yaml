@@ -3223,6 +3223,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TCE.2025.3573773
   ee: https://doi.org/10.1109/TCE.2025.3573773
   url: https://dblp.org/rec/journals/tce/FanYZSCHWL25
+- author: Yanni Dong, Xuexiang Qin, Xue Li 0022, Lina Xu
+  title: Multilevel Spatial Feature-Based Manifold Metric Learning for Domain Adaptation
+    in Remote Sensing Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/DongQLX23
+  doi: 10.1109/TGRS.2023.3323579
+  ee: https://doi.org/10.1109/TGRS.2023.3323579
+  url: https://dblp.org/rec/journals/tgrs/DongQLX23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24012,6 +24023,65 @@ Adversarial%20Learning:
   doi: 10.1109/TWC.2023.3298265
   ee: https://doi.org/10.1109/TWC.2023.3298265
   url: https://dblp.org/rec/journals/twc/ChuaYZ25a
+- author: Jing Yang 0054, Haoshen Qin, Yiping Sun, Hao Wang 0220, Abdullah Ayub Khan,
+    Lip Yee Por, Roohallah Alizadehsani, Pawel Plawiak
+  title: A Generative Adversarial Network-Based Extractive Text Summarization Using
+    Transductive and Reinforcement Learning.
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/YangQSWKPAP25
+  doi: 10.1109/ACCESS.2025.3558266
+  ee: https://doi.org/10.1109/ACCESS.2025.3558266
+  url: https://dblp.org/rec/journals/access/YangQSWKPAP25
+- author: Linghao Meng, Yangxi Li, Yuchao Zheng, Yu Feng, Fang Chen 0007, Longfei
+    Ma, Hongen Liao
+  title: Generalized degradation-based adversarial learning for unsupervised super-resolution
+    of endomicroscopy images.
+  venue: Comput. Methods Programs Biomed.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cmpb/MengLZFCML25
+  doi: 10.1016/J.CMPB.2025.108914
+  ee: https://doi.org/10.1016/j.cmpb.2025.108914
+  url: https://dblp.org/rec/journals/cmpb/MengLZFCML25
+- author: Jing Dai, Jiachen Ma 0003, Wei Zhang 0106, Yong Liu 0029
+  title: Graph Contrastive Adversarial Learning for Rumor Detection via Similarity-Preserving.
+  venue: ICIC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/DaiMZL25
+  doi: 10.1007/978-981-96-9921-6_1
+  ee: https://doi.org/10.1007/978-981-96-9921-6_1
+  url: https://dblp.org/rec/conf/icic/DaiMZL25
+- author: "Luiz A. C. Bianchi, Rafael C. Pregardier, Lu\xEDs A. Lima Silva, Carlos\
+    \ R. P. dos Santos"
+  title: '2Pack-GAN: Exploring Transfer Learning to Fine-Tune Generative Adversarial
+    Networks for Network Packet Generation.'
+  venue: NOMS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/noms/BianchiPSS25
+  doi: 10.1109/NOMS57970.2025.11073639
+  ee: https://doi.org/10.1109/NOMS57970.2025.11073639
+  url: https://dblp.org/rec/conf/noms/BianchiPSS25
+- author: Pan Huang 0001, Chentao Li, Peng He 0002, Hualiang Xiao, Yifang Ping, Peng
+    Feng 0002, Sukun Tian, Hu Chen, Francesco Mercaldo, Antonella Santone, Hui-yuan
+    Yeh, Jing Qin 0001
+  title: 'MamlFormer: Priori-experience guiding transformer network via manifold adversarial
+    multi-modal learning for laryngeal histopathological grading.'
+  venue: Inf. Fusion
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/inffus/HuangLHXPFTCMSYQ24
+  doi: 10.1016/J.INFFUS.2024.102333
+  ee: https://doi.org/10.1016/j.inffus.2024.102333
+  url: https://dblp.org/rec/journals/inffus/HuangLHXPFTCMSYQ24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -26794,3 +26864,15 @@ feature%20disentanglement:
   doi: 10.1109/TIM.2025.3547509
   ee: https://doi.org/10.1109/TIM.2025.3547509
   url: https://dblp.org/rec/journals/tim/ZhouZLFWJCM25
+- author: Tao Zhang 0111, Xiaogang Yang, Ruitao Lu, Dingwen Zhang, Xueli Xie, Zhengjie
+    Zhu
+  title: Modal Feature Disentanglement and Contribution Estimation for Multimodality
+    Image Fusion.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ZhangYLZXZ25
+  doi: 10.1109/TIM.2025.3545534
+  ee: https://doi.org/10.1109/TIM.2025.3545534
+  url: https://dblp.org/rec/journals/tim/ZhangYLZXZ25
