@@ -3234,6 +3234,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2023.3323579
   ee: https://doi.org/10.1109/TGRS.2023.3323579
   url: https://dblp.org/rec/journals/tgrs/DongQLX23
+- author: Zhenxi Zhao, Yingyu Cao, Hongbin Yu, Junfen Huang
+  title: 'DA-QuadViT: A domain adaptation motor imagery classification model based
+    on a novel Quadruple ViT structure.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhaoCYH26
+  doi: 10.1016/J.ESWA.2025.129248
+  ee: https://doi.org/10.1016/j.eswa.2025.129248
+  url: https://dblp.org/rec/journals/eswa/ZhaoCYH26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24082,6 +24093,95 @@ Adversarial%20Learning:
   doi: 10.1016/J.INFFUS.2024.102333
   ee: https://doi.org/10.1016/j.inffus.2024.102333
   url: https://dblp.org/rec/journals/inffus/HuangLHXPFTCMSYQ24
+- author: Fang&apos;ai Liu, Yujuan Zhang, Xuqiang Zhuang, Xuejian Gao, Xiaohui Tian
+  title: INN-based dual-generator adversarial contrastive learning network for multi-modal
+    multi-label emotion recognition.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/LiuZZGT26
+  doi: 10.1016/J.ESWA.2025.129109
+  ee: https://doi.org/10.1016/j.eswa.2025.129109
+  url: https://dblp.org/rec/journals/eswa/LiuZZGT26
+- author: Pan Tang, Yepeng Guan
+  title: Cross-system log anomaly detection based on domain adversarial adaptation
+    and batch contrastive learning.
+  venue: Future Gener. Comput. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/fgcs/TangG26
+  doi: 10.1016/J.FUTURE.2025.108022
+  ee: https://doi.org/10.1016/j.future.2025.108022
+  url: https://dblp.org/rec/journals/fgcs/TangG26
+- author: Shuaiqing Deng, Zihao Lei, Guangrui Wen, Yu Su, Zhifen Zhang, Houcheng Su,
+    Xuefeng Chen 0002, Chunsheng Yang
+  title: Sharpness-aware multidomain imbalance generalization with external adversarial
+    learning and intrinsic balanced entropy regularization for intelligent fault diagnosis.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/DengLWSZSCY25
+  doi: 10.1016/J.ENGAPPAI.2025.111954
+  ee: https://doi.org/10.1016/j.engappai.2025.111954
+  url: https://dblp.org/rec/journals/eaai/DengLWSZSCY25
+- author: Zhiwu Shang, Tianchu Pang, Cailu Pan, Leyi Yao, Zifei Wang
+  title: Meta-adversarial transfer learning based on a dual-channel transformer network
+    for aircraft engine remaining useful life prediction.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/ShangPPYW25
+  doi: 10.1016/J.ENGAPPAI.2025.111852
+  ee: https://doi.org/10.1016/j.engappai.2025.111852
+  url: https://dblp.org/rec/journals/eaai/ShangPPYW25
+- author: Zhao Wang, Yue Zhao, Maoguo Gong, Hao Li, Gaogao Liu, Jianlong Tang
+  title: Robust Bi-temporal cross-scene land cover map updating via curriculum-guided
+    self-training and adversarial learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WangZGLLT25
+  doi: 10.1016/J.ENGAPPAI.2025.111870
+  ee: https://doi.org/10.1016/j.engappai.2025.111870
+  url: https://dblp.org/rec/journals/eaai/WangZGLLT25
+- author: Peng Zhu, Baoping Tang, Lei Deng 0008, Qikang Li, Zihao Li
+  title: Discriminative feature learning using class-aware and selective transfer
+    adversarial network for partial cross-domain fault diagnosis of gearboxes.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/ZhuTDLL25
+  doi: 10.1016/J.ENGAPPAI.2025.111964
+  ee: https://doi.org/10.1016/j.engappai.2025.111964
+  url: https://dblp.org/rec/journals/eaai/ZhuTDLL25
+- author: Yanmei Tian, Meng Zhu
+  title: Multimedia emotion representation analysis based on graph convolution adversarial
+    learning and attention mechanism.
+  venue: Intell. Decis. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/idt/TianZ25
+  doi: 10.1177/18724981251338268
+  ee: https://doi.org/10.1177/18724981251338268
+  url: https://dblp.org/rec/journals/idt/TianZ25
+- author: Yanbei Liu, Yu Zhao, Zhitao Xiao, Lei Geng, Xiao Wang 0017, Yanwei Pang,
+    Jerry Chun-Wei Lin
+  title: Multiscale Subgraph Adversarial Contrastive Learning.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/LiuZXGWPL25
+  doi: 10.1109/TNNLS.2025.3543954
+  ee: https://doi.org/10.1109/TNNLS.2025.3543954
+  url: https://dblp.org/rec/journals/tnn/LiuZXGWPL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -26876,3 +26976,26 @@ feature%20disentanglement:
   doi: 10.1109/TIM.2025.3545534
   ee: https://doi.org/10.1109/TIM.2025.3545534
   url: https://dblp.org/rec/journals/tim/ZhangYLZXZ25
+- author: Boyuan Ma, Yongfeng Chen, Jing Tan, Xiang Yin, Jing Qin, Haiyou Huang, Hao
+    Wang, Weihua Xue, Xiaojuan Ban
+  title: Feature disentanglement and cross-domain synthesis via federated style transfer
+    for Non-IID segmentation.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/MaCTYQHWXB26
+  doi: 10.1016/J.ESWA.2025.129059
+  ee: https://doi.org/10.1016/j.eswa.2025.129059
+  url: https://dblp.org/rec/journals/eswa/MaCTYQHWXB26
+- author: Jing Wei, Qingfeng Shi, Fei Shen 0002, Zhengtao Zhang
+  title: Multi-component controllable diversified augmentation of industrial images
+    based on feature disentanglement.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WeiSSZ25
+  doi: 10.1016/J.ENGAPPAI.2025.111963
+  ee: https://doi.org/10.1016/j.engappai.2025.111963
+  url: https://dblp.org/rec/journals/eaai/WeiSSZ25
