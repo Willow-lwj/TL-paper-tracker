@@ -24182,6 +24182,39 @@ Adversarial%20Learning:
   doi: 10.1109/TNNLS.2025.3543954
   ee: https://doi.org/10.1109/TNNLS.2025.3543954
   url: https://dblp.org/rec/journals/tnn/LiuZXGWPL25
+- author: Shenglin Zhang, Yan Wang 0049, Xiang Liu, Zhicheng Ji
+  title: 'Model-free guiding of Boolean control networks: Reinforcement learning and
+    adversarial optimization.'
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangWLJ25
+  doi: 10.1016/J.INS.2025.122576
+  ee: https://doi.org/10.1016/j.ins.2025.122576
+  url: https://dblp.org/rec/journals/isci/ZhangWLJ25
+- author: Md. Abdul Awal, Mrigank Rochan, Chanchal K. Roy
+  title: Investigating adversarial attacks in software analytics via machine learning
+    explainability.
+  venue: Softw. Qual. J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/sqj/AwalRR25
+  doi: 10.1007/S11219-025-09727-2
+  ee: https://doi.org/10.1007/s11219-025-09727-2
+  url: https://dblp.org/rec/journals/sqj/AwalRR25
+- author: Gustavo Claudio Karl Couto, Eric Aislan Antonelo
+  title: Hierarchical Generative Adversarial Imitation Learning With Mid-Level Input
+    Generation for Autonomous Driving on Urban Environments.
+  venue: IEEE Trans. Intell. Veh.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tiv/CoutoA25
+  doi: 10.1109/TIV.2024.3436587
+  ee: https://doi.org/10.1109/TIV.2024.3436587
+  url: https://dblp.org/rec/journals/tiv/CoutoA25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
