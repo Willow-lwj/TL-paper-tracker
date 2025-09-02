@@ -24215,6 +24215,17 @@ Adversarial%20Learning:
   doi: 10.1109/TIV.2024.3436587
   ee: https://doi.org/10.1109/TIV.2024.3436587
   url: https://dblp.org/rec/journals/tiv/CoutoA25
+- author: Luyang Liu, Hiroki Nishikawa, Jinjia Zhou, Ittetsu Taniguchi, Takao Onoye
+  title: Adversarial Learning-Based Reconstruction of Low Sampling Rate Images for
+    Classification.
+  venue: NewCAS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/newcas/LiuNZTO25
+  doi: 10.1109/NEWCAS64648.2025.11107145
+  ee: https://doi.org/10.1109/NewCAS64648.2025.11107145
+  url: https://dblp.org/rec/conf/newcas/LiuNZTO25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
