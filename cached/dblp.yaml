@@ -24226,6 +24226,48 @@ Adversarial%20Learning:
   doi: 10.1109/NEWCAS64648.2025.11107145
   ee: https://doi.org/10.1109/NewCAS64648.2025.11107145
   url: https://dblp.org/rec/conf/newcas/LiuNZTO25
+- author: Pengcheng He, Xiaoyang Tan, Yuehua Cheng
+  title: Boundary-aware adversarial ensemble learning for multivariate time series
+    anomaly detection.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/HeTC25
+  doi: 10.1016/J.KNOSYS.2025.114168
+  ee: https://doi.org/10.1016/j.knosys.2025.114168
+  url: https://dblp.org/rec/journals/kbs/HeTC25
+- author: Claudia Greco, Michele Ianni, Antonella Guzzo, Giancarlo Fortino
+  title: Evasion of Deep Learning Malware Detection via Adversarial Selective Obfuscation.
+  venue: CSR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/csr2/GrecoIGF25
+  doi: 10.1109/CSR64739.2025.11130150
+  ee: https://doi.org/10.1109/CSR64739.2025.11130150
+  url: https://dblp.org/rec/conf/csr2/GrecoIGF25
+- author: "Fran\xE7ois Marin, Pierre-Emmanuel Arduin, Myriam Merad"
+  title: Enhancing Deep Learning Based IDS Adversarial Robustness With Causal Inference.
+  venue: CSR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/csr2/MarinAM25
+  doi: 10.1109/CSR64739.2025.11130144
+  ee: https://doi.org/10.1109/CSR64739.2025.11130144
+  url: https://dblp.org/rec/conf/csr2/MarinAM25
+- author: Lopamudra Praharaj, Maanak Gupta, Deepti Gupta
+  title: Explainability-Aware Adversarial Threats and Mitigation in Federated Learning
+    Based Anomaly Detection for Cooperative Smart Farming.
+  venue: FMEC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/fmec/PraharajGG25
+  doi: 10.1109/FMEC65595.2025.11119362
+  ee: https://doi.org/10.1109/FMEC65595.2025.11119362
+  url: https://dblp.org/rec/conf/fmec/PraharajGG25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
