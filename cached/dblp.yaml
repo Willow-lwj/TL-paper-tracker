@@ -24268,6 +24268,16 @@ Adversarial%20Learning:
   doi: 10.1109/FMEC65595.2025.11119362
   ee: https://doi.org/10.1109/FMEC65595.2025.11119362
   url: https://dblp.org/rec/conf/fmec/PraharajGG25
+- author: Xinyu Cao, Bimal Adhikari, Shangqing Zhao, Jingxian Wu 0001, Yanjun Pan
+  title: An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-14109
+  doi: 10.48550/ARXIV.2507.14109
+  ee: https://doi.org/10.48550/arXiv.2507.14109
+  url: https://dblp.org/rec/journals/corr/abs-2507-14109
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
