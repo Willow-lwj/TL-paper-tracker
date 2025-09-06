@@ -27095,3 +27095,25 @@ feature%20disentanglement:
   doi: 10.1016/J.ENGAPPAI.2025.111963
   ee: https://doi.org/10.1016/j.engappai.2025.111963
   url: https://dblp.org/rec/journals/eaai/WeiSSZ25
+- author: Tianling Liu, Hongying Liu 0001, Fanhua Shang, Lequan Yu, Tong Han, Liang
+    Wan
+  title: Completed Feature Disentanglement Learning for Multimodal MRIs Analysis.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/LiuLSYHW25
+  doi: 10.1109/JBHI.2025.3539712
+  ee: https://doi.org/10.1109/JBHI.2025.3539712
+  url: https://dblp.org/rec/journals/titb/LiuLSYHW25
+- author: Tianling Liu, Hongying Liu 0001, Fanhua Shang, Lequan Yu, Tong Han, Liang
+    Wan
+  title: Completed Feature Disentanglement Learning for Multimodal MRIs Analysis.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-04916
+  doi: 10.48550/ARXIV.2407.04916
+  ee: https://doi.org/10.48550/arXiv.2407.04916
+  url: https://dblp.org/rec/journals/corr/abs-2407-04916
