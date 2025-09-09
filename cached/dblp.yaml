@@ -24278,6 +24278,130 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2507.14109
   ee: https://doi.org/10.48550/arXiv.2507.14109
   url: https://dblp.org/rec/journals/corr/abs-2507-14109
+- author: Suzan Almutairi, Ahmed Barnawi
+  title: 'Enhancing federated learning model adversarial robustness in autonomous
+    vehicles: A lightweight framework with contrastive learning and spatial clustering.'
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/AlmutairiB25
+  doi: 10.1016/J.KNOSYS.2025.114253
+  ee: https://doi.org/10.1016/j.knosys.2025.114253
+  url: https://dblp.org/rec/journals/kbs/AlmutairiB25
+- author: Weidong Wang, Yuxin Wu, Yang Song, Xuan Zhao, Yao Cui, Yuhan Fan, Yanbo
+    Liu, Ziqi Lv
+  title: 'GAN-CLC-DGSR: Generative adversarial network framework with contrastive
+    learning classifier for simultaneous time series data generation and state recognition.'
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/WangWSZCFLL25
+  doi: 10.1007/S10489-025-06856-W
+  ee: https://doi.org/10.1007/s10489-025-06856-w
+  url: https://dblp.org/rec/journals/apin/WangWSZCFLL25
+- author: Wenjie Li, Changming Zhu
+  title: Cross-view attention with adversarial learning for incomplete multi-view
+    clustering.
+  venue: Multim. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/LiZ25
+  doi: 10.1007/S00530-025-01930-2
+  ee: https://doi.org/10.1007/s00530-025-01930-2
+  url: https://dblp.org/rec/journals/mms/LiZ25
+- author: Geng Qin, Huan Liu 0015, Xueyu Zhang, Wei Li 0032, Yuxing Guo, Chuanbin
+    Guo
+  title: Semi-Supervised Medical Hyperspectral Image Segmentation Using Adversarial
+    Consistency Constraint Learning and Cross Indication Network.
+  venue: IEEE Trans. Image Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/QinLZLGG25
+  doi: 10.1109/TIP.2025.3598499
+  ee: https://doi.org/10.1109/TIP.2025.3598499
+  url: https://dblp.org/rec/journals/tip/QinLZLGG25
+- author: Chuyao Wang, Nabil Aouf
+  title: Explainable Deep Adversarial Reinforcement Learning Approach for Robust Autonomous
+    Driving.
+  venue: IEEE Trans. Intell. Veh.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tiv/WangA25
+  doi: 10.1109/TIV.2024.3379367
+  ee: https://doi.org/10.1109/TIV.2024.3379367
+  url: https://dblp.org/rec/journals/tiv/WangA25
+- author: Usman Anwar, Johannes von Oswald, Louis Kirsch, David Krueger 0001, Spencer
+    Frei
+  title: Understanding In-Context Learning of Linear Models in Transformers Through
+    an Adversarial Lens.
+  venue: Trans. Mach. Learn. Res.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/tmlr/AnwarOKKF25
+  doi: ''
+  ee: https://openreview.net/forum?id=CtMXJxO7SJ
+  url: https://dblp.org/rec/journals/tmlr/AnwarOKKF25
+- author: Ahmad Mohammad Saber, Aditi Maheshwari, Amr M. Youssef, Deepa Kundur
+  title: Adversarial Attacks on Deep Learning-Based False Data Injection Detection
+    in Differential Relays.
+  venue: IEEE Trans. Smart Grid
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tsg/SaberMYK25
+  doi: 10.1109/TSG.2025.3579316
+  ee: https://doi.org/10.1109/TSG.2025.3579316
+  url: https://dblp.org/rec/journals/tsg/SaberMYK25
+- author: Ran Zhu, Hongzhe Liu, Mingyu Kang, Wenwu Yu, Jin Zhao
+  title: Adversarial Scenario Generation Integrated Distributionally Robust Deep Reinforcement
+    Learning for Survival of Critical Loads.
+  venue: IEEE Trans. Smart Grid
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tsg/ZhuLKYZ25
+  doi: 10.1109/TSG.2025.3571349
+  ee: https://doi.org/10.1109/TSG.2025.3571349
+  url: https://dblp.org/rec/journals/tsg/ZhuLKYZ25
+- author: Marta Catillo, Antonio Pecchia, Antonio Repola, Umberto Villano
+  title: A Critique on the (Mis)Use of Feature-Space Attacks for Adversarial Machine
+    Learning in NIDS.
+  venue: EDCC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/edcc/CatilloPRV25
+  doi: 10.1109/EDCC66201.2025.00027
+  ee: https://doi.org/10.1109/EDCC66201.2025.00027
+  url: https://dblp.org/rec/conf/edcc/CatilloPRV25
+- author: Sen Zhang 0002, Qingqing Ye 0001, Haibo Hu 0001, Jianliang Xu
+  title: 'AdvSGM: Differentially Private Graph Learning via Adversarial Skip-Gram
+    Model.'
+  venue: ICDE
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/ZhangYHX25
+  doi: 10.1109/ICDE65448.2025.00261
+  ee: https://doi.org/10.1109/ICDE65448.2025.00261
+  url: https://dblp.org/rec/conf/icde/ZhangYHX25
+- author: Wangzhi Li, Tianheng Zhu, Yiheng Feng
+  title: 'WIP: Learning Adversarial Attacks on Adaptive Traffic Signal Control Systems
+    Under Cooperative Perception.'
+  venue: VehicleSec
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/vehiclesec/LiZF25
+  doi: ''
+  ee: https://www.usenix.org/conference/vehiclesec25/presentation/li-wangzhi
+  url: https://dblp.org/rec/conf/vehiclesec/LiZF25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
