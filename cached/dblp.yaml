@@ -3245,6 +3245,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.ESWA.2025.129248
   ee: https://doi.org/10.1016/j.eswa.2025.129248
   url: https://dblp.org/rec/journals/eswa/ZhaoCYH26
+- author: Mingshuo Cai, Bobo Xi, Jiaojiao Li 0001, Shou Feng, Yunsong Li 0001, Zan
+    Li 0001, Jocelyn Chanussot
+  title: 'Mind the Gap: Multilevel Unsupervised Domain Adaptation for Cross-Scene
+    Hyperspectral Image Classification.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/CaiXLFLLC24
+  doi: 10.1109/TGRS.2024.3407952
+  ee: https://doi.org/10.1109/TGRS.2024.3407952
+  url: https://dblp.org/rec/journals/tgrs/CaiXLFLLC24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24402,6 +24414,39 @@ Adversarial%20Learning:
   doi: ''
   ee: https://www.usenix.org/conference/vehiclesec25/presentation/li-wangzhi
   url: https://dblp.org/rec/conf/vehiclesec/LiZF25
+- author: Zhengjue Wang, Zhihui Xin, Chiyu Chen, Hao Zhang 0050, Yuhao Huang, Yunsong
+    Li 0001, Hongwei Liu 0001, Bo Chen 0001
+  title: Learning transferable representations by topic guided graph adversarial network.
+  venue: Signal Process.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/sigpro/WangXC0HL0026
+  doi: 10.1016/J.SIGPRO.2025.110118
+  ee: https://doi.org/10.1016/j.sigpro.2025.110118
+  url: https://dblp.org/rec/journals/sigpro/WangXC0HL0026
+- author: Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Vijay Ganesh
+    0001, Oscar R. Hernandez, Ada Sedova
+  title: 'Robustness of Deep Learning Classification to Adversarial Input on GPUs:
+    Asynchronous Parallel Accumulation Is a Source of Vulnerability.'
+  venue: Euro-Par
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/europar/ShanmugaveluTCGHS25
+  doi: 10.1007/978-3-031-99857-7_22
+  ee: https://doi.org/10.1007/978-3-031-99857-7_22
+  url: https://dblp.org/rec/conf/europar/ShanmugaveluTCGHS25
+- author: Zhengzuo Qin, Yuejiao Wang, Dongdong Zhao, Shi Yan
+  title: Adversarial Imitation Learning Based on Weighted Wasserstein Distance.
+  venue: ISNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isnn/QinWZY25
+  doi: 10.1007/978-981-95-1233-1_6
+  ee: https://doi.org/10.1007/978-981-95-1233-1_6
+  url: https://dblp.org/rec/conf/isnn/QinWZY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
