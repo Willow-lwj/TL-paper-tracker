@@ -3291,6 +3291,16 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.3390/RS16111974
   ee: https://doi.org/10.3390/rs16111974
   url: https://dblp.org/rec/journals/remotesensing/XuSZLL24
+- author: Xin Zhao 0021, Sheng-Sheng Wang 0001, Jun Lin 0003
+  title: Open-Set Black-Box Domain Adaptation for Remote Sensing Image Scene Classification.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/ZhaoWL23
+  doi: 10.1109/LGRS.2023.3303084
+  ee: https://doi.org/10.1109/LGRS.2023.3303084
+  url: https://dblp.org/rec/journals/lgrs/ZhaoWL23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24582,6 +24592,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2508.04955
   ee: https://doi.org/10.48550/arXiv.2508.04955
   url: https://dblp.org/rec/journals/corr/abs-2508-04955
+- author: Jiacheng Yang, Yuanda Wang, Lu Dong 0002, Lei Xue 0003, Changyin Sun 0001
+  title: Active Robust Adversarial Reinforcement Learning Under Temporally Coupled
+    Perturbations.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/YangWDXS25
+  doi: 10.1109/TAI.2024.3499938
+  ee: https://doi.org/10.1109/TAI.2024.3499938
+  url: https://dblp.org/rec/journals/tai/YangWDXS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
