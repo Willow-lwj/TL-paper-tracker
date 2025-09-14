@@ -3301,6 +3301,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/LGRS.2023.3303084
   ee: https://doi.org/10.1109/LGRS.2023.3303084
   url: https://dblp.org/rec/journals/lgrs/ZhaoWL23
+- author: Tian Li, Kun Huang, Yuhan Zhang 0001, Mingchao Li, Weiwei Zhang, Qiang Chen
+    0004
+  title: Multi-stage Domain Adaptation for Subretinal Fluid Classification in Cross-device
+    OCT Images.
+  venue: ACPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acpr/LiHZLZC21
+  doi: 10.1007/978-3-031-02375-0_35
+  ee: https://doi.org/10.1007/978-3-031-02375-0_35
+  url: https://dblp.org/rec/conf/acpr/LiHZLZC21
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24603,6 +24615,51 @@ Adversarial%20Learning:
   doi: 10.1109/TAI.2024.3499938
   ee: https://doi.org/10.1109/TAI.2024.3499938
   url: https://dblp.org/rec/journals/tai/YangWDXS25
+- author: Shunhui Ji, Changrong Huang, Bin Ren, Hai Dong, Lars Grunske, Yan Xiao 0002,
+    Pengcheng Zhang 0001
+  title: 'TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable
+    Adversarial Examples.'
+  venue: ACM Trans. Softw. Eng. Methodol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tosem/JiHRDGXZ25
+  doi: 10.1145/3714463
+  ee: https://doi.org/10.1145/3714463
+  url: https://dblp.org/rec/journals/tosem/JiHRDGXZ25
+- author: Peizhuo Liu
+  title: 'Adversarial Attacks on Reinforcement Learning-based Medical Questionnaire
+    Systems: Input-level Perturbation Strategies and Medical Constraint Validation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-05677
+  doi: 10.48550/ARXIV.2508.05677
+  ee: https://doi.org/10.48550/arXiv.2508.05677
+  url: https://dblp.org/rec/journals/corr/abs-2508-05677
+- author: David Mguni, Yaqi Sun, Haojun Chen, Amir Darabi, Larry Olanrewaju Orimoloye,
+    Yaodong Yang
+  title: Fault Tolerant Multi-Agent Learning with Adversarial Budget Constraints.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-08800
+  doi: 10.48550/ARXIV.2508.08800
+  ee: https://doi.org/10.48550/arXiv.2508.08800
+  url: https://dblp.org/rec/journals/corr/abs-2508-08800
+- author: Jungwoo Kim, Jong-Seok Lee
+  title: Exploring Cross-Stage Adversarial Transferability in Class-Incremental Continual
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-08920
+  doi: 10.48550/ARXIV.2508.08920
+  ee: https://doi.org/10.48550/arXiv.2508.08920
+  url: https://dblp.org/rec/journals/corr/abs-2508-08920
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
