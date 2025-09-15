@@ -24660,6 +24660,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2508.08920
   ee: https://doi.org/10.48550/arXiv.2508.08920
   url: https://dblp.org/rec/journals/corr/abs-2508-08920
+- author: David Mguni, Yaqi Sun, Haojun Chen, Amir Darabi, Larry Olanrewaju Orimoloye,
+    Yaodong Yang 0001
+  title: Fault Tolerant Multi-Agent Learning with Adversarial Budget Constraints.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-08800
+  doi: 10.48550/ARXIV.2508.08800
+  ee: https://doi.org/10.48550/arXiv.2508.08800
+  url: https://dblp.org/rec/journals/corr/abs-2508-08800
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
