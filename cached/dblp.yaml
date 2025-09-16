@@ -24671,6 +24671,62 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2508.08800
   ee: https://doi.org/10.48550/arXiv.2508.08800
   url: https://dblp.org/rec/journals/corr/abs-2508-08800
+- author: Gon Kim, Kyuchang Chang, Yunseon Byun, Jun-Geol Baek
+  title: 'Autonomous PID Tuning: Two-Phase Reinforcement Learning Through Adversarial
+    Imitation Learning Under Imperfect Demonstrations.'
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/KimCBB25
+  doi: 10.1109/TASE.2025.3600504
+  ee: https://doi.org/10.1109/TASE.2025.3600504
+  url: https://dblp.org/rec/journals/tase/KimCBB25
+- author: Manar N. Amin, Muhammad Ali Rushdi 0001, Rasha Kamal, Amr Farouk, Mohamed
+    Gomaa, Noha M. Fouad, Ahmed M. Mahmoud
+  title: A deep learning approach for contrast-agent-free breast lesion detection
+    and classification using adversarial synthesis of contrast-enhanced mammograms.
+  venue: Image Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ivc/AminRKFGFM25
+  doi: 10.1016/J.IMAVIS.2025.105692
+  ee: https://doi.org/10.1016/j.imavis.2025.105692
+  url: https://dblp.org/rec/journals/ivc/AminRKFGFM25
+- author: Chengsheng Yuan 0001, Yifei Chen, Zhili Zhou 0001, Zhihua Xia, Yongfeng
+    Huang 0001
+  title: Compressed Domain Invariant Adversarial Representation Learning for Robust
+    Audio Deepfake Detection.
+  venue: IEEE Signal Process. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/spl/YuanCZXH25
+  doi: 10.1109/LSP.2025.3547850
+  ee: https://doi.org/10.1109/LSP.2025.3547850
+  url: https://dblp.org/rec/journals/spl/YuanCZXH25
+- author: Dazhi Zhan, Xin Liu, Wei Bai, Wei Li, Shize Guo, Zhisong Pan
+  title: 'GAME-RL: Generating Adversarial Malware Examples Against API Call Based
+    Detection via Reinforcement Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/ZhanLBLGP25
+  doi: 10.1109/TDSC.2025.3566708
+  ee: https://doi.org/10.1109/TDSC.2025.3566708
+  url: https://dblp.org/rec/journals/tdsc/ZhanLBLGP25
+- author: Che-Yu Chou, Hung-Hsuan Chen
+  title: 'Contrastive ECOC: Learning Output Codes for Adversarial Defense.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-10491
+  doi: 10.48550/ARXIV.2508.10491
+  ee: https://doi.org/10.48550/arXiv.2508.10491
+  url: https://dblp.org/rec/journals/corr/abs-2508-10491
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
