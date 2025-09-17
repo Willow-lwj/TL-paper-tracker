@@ -3313,6 +3313,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/978-3-031-02375-0_35
   ee: https://doi.org/10.1007/978-3-031-02375-0_35
   url: https://dblp.org/rec/conf/acpr/LiHZLZC21
+- author: Zhixin Xu, Seohoon Lim, Yucheng Lu 0002, Seung-Won Jung
+  title: Reversed domain adaptation for nuclei segmentation-based pathological image
+    classification.
+  venue: Comput. Biol. Medicine
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/XuLLJ24
+  doi: 10.1016/J.COMPBIOMED.2023.107726
+  ee: https://doi.org/10.1016/j.compbiomed.2023.107726
+  url: https://dblp.org/rec/journals/cbm/XuLLJ24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24727,6 +24738,28 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2508.10491
   ee: https://doi.org/10.48550/arXiv.2508.10491
   url: https://dblp.org/rec/journals/corr/abs-2508-10491
+- author: Bo Zhang, Fucheng Pan, Xiaofeng Zhou 0001, Shuai Li 0003, Shurui Liu
+  title: Model-based reinforcement learning with adversarial discriminative domain
+    adaptation.
+  venue: J. Frankl. Inst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jfi/ZhangPZLL25
+  doi: 10.1016/J.JFRANKLIN.2025.107984
+  ee: https://doi.org/10.1016/j.jfranklin.2025.107984
+  url: https://dblp.org/rec/journals/jfi/ZhangPZLL25
+- author: Emmanouil Kritharakis, Dusan Jakovetic, Antonios Makris, Konstantinos Tserpes
+  title: Robust Federated Learning under Adversarial Attacks via Loss-Based Client
+    Clustering.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-12672
+  doi: 10.48550/ARXIV.2508.12672
+  ee: https://doi.org/10.48550/arXiv.2508.12672
+  url: https://dblp.org/rec/journals/corr/abs-2508-12672
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -27577,3 +27610,14 @@ feature%20disentanglement:
   doi: 10.1007/S10115-025-02460-Z
   ee: https://doi.org/10.1007/s10115-025-02460-z
   url: https://dblp.org/rec/journals/kais/LiuZWZ25
+- author: Zhen Zhou 0003, Qing Zhu, Jianqiao Luo, Mingtao Feng, Yaonan Wang 0001,
+    Tianjian Jiang, Lin Chen 0034, Yang Mo
+  title: A Feature Disentanglement Method for Image Stitching of Printed Circuit Boards.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ZhouZLFWJCM25
+  doi: 10.1109/TIM.2025.3547509
+  ee: https://doi.org/10.1109/TIM.2025.3547509
+  url: https://dblp.org/rec/journals/tim/ZhouZLFWJCM25
