@@ -3324,6 +3324,74 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.COMPBIOMED.2023.107726
   ee: https://doi.org/10.1016/j.compbiomed.2023.107726
   url: https://dblp.org/rec/journals/cbm/XuLLJ24
+- author: Yi Huang 0021, Jiangtao Peng, Genwei Zhang, Weiwei Sun 0005, Na Chen, Qian
+    Du 0001
+  title: Adversarial Domain Adaptation Network With Calibrated Prototype and Dynamic
+    Instance Convolution for Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/HuangPZSCD24
+  doi: 10.1109/TGRS.2024.3387990
+  ee: https://doi.org/10.1109/TGRS.2024.3387990
+  url: https://dblp.org/rec/journals/tgrs/HuangPZSCD24
+- author: Yi Huang 0021, Jiangtao Peng, Weiwei Sun 0005
+  title: Instance Similarity-based Adversarial Domain Adaptation Network for Hyperspectral
+    Image Classification.
+  venue: ICIGP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icigp/HuangP024
+  doi: 10.1145/3647649.3647672
+  ee: https://doi.org/10.1145/3647649.3647672
+  url: https://dblp.org/rec/conf/icigp/HuangP024
+- author: Yi Huang 0021, Jiangtao Peng, Yujie Ning, Qiang Cao, Weiwei Sun 0005
+  title: Distribution Alignment and Discriminative Feature Learning for Domain Adaptation
+    in Hyperspectral Image Classification.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/HuangPNCS22
+  doi: 10.1109/LGRS.2021.3128590
+  ee: https://doi.org/10.1109/LGRS.2021.3128590
+  url: https://dblp.org/rec/journals/lgrs/HuangPNCS22
+- author: Jiangtao Peng, Yi Huang 0021, Weiwei Sun 0005, Na Chen, Yujie Ning, Qian
+    Du 0001
+  title: 'Domain Adaptation in Remote Sensing Image Classification: A Survey.'
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/staeors/PengHSCND22
+  doi: 10.1109/JSTARS.2022.3220875
+  ee: https://doi.org/10.1109/jstars.2022.3220875
+  url: https://dblp.org/rec/journals/staeors/PengHSCND22
+- author: Yi Huang 0021, Jiangtao Peng, Weiwei Sun 0005, Na Chen, Qian Du 0001, Yujie
+    Ning, Han Su
+  title: Two-Branch Attention Adversarial Domain Adaptation Network for Hyperspectral
+    Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/HuangPSCDNS22
+  doi: 10.1109/TGRS.2022.3215677
+  ee: https://doi.org/10.1109/TGRS.2022.3215677
+  url: https://dblp.org/rec/journals/tgrs/HuangPSCDNS22
+- author: Yi Huang 0021, Jiangtao Peng, Yujie Ning, Weiwei Sun 0005, Qian Du 0001
+  title: Graph Embedding and Distribution Alignment for Domain Adaptation in Hyperspectral
+    Image Classification.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2021'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/HuangPNSD21
+  doi: 10.1109/JSTARS.2021.3099805
+  ee: https://doi.org/10.1109/JSTARS.2021.3099805
+  url: https://dblp.org/rec/journals/staeors/HuangPNSD21
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
