@@ -3392,6 +3392,40 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2021.3099805
   ee: https://doi.org/10.1109/JSTARS.2021.3099805
   url: https://dblp.org/rec/journals/staeors/HuangPNSD21
+- author: Ahmad Chaddad, Yihang Wu, Reem Kateb, Christian Desrosiers
+  title: Domain adaptation techniques for natural and medical image classification.
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ChaddadWKD25
+  doi: 10.1016/J.INS.2025.122608
+  ee: https://doi.org/10.1016/j.ins.2025.122608
+  url: https://dblp.org/rec/journals/isci/ChaddadWKD25
+- author: Yujie Ning, Jiangtao Peng, Quanyong Liu, Yi Huang 0021, Weiwei Sun 0005,
+    Qian Du 0001
+  title: Contrastive Learning Based on Category Matching for Domain Adaptation in
+    Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/NingPLHSD23
+  doi: 10.1109/TGRS.2023.3295357
+  ee: https://doi.org/10.1109/TGRS.2023.3295357
+  url: https://dblp.org/rec/journals/tgrs/NingPLHSD23
+- author: Yujie Ning, Jiangtao Peng, Lin Sun, Yi Huang 0021, Weiwei Sun 0005, Qian
+    Du 0001
+  title: Adaptive Local Discriminant Analysis and Distribution Matching for Domain
+    Adaptation in Hyperspectral Image Classification.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/NingPSHSD22
+  doi: 10.1109/JSTARS.2022.3181577
+  ee: https://doi.org/10.1109/JSTARS.2022.3181577
+  url: https://dblp.org/rec/journals/staeors/NingPSHSD22
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24828,6 +24862,59 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2508.12672
   ee: https://doi.org/10.48550/arXiv.2508.12672
   url: https://dblp.org/rec/journals/corr/abs-2508-12672
+- author: Arjun Srinivasan, Anubhav Paras, Aniket Bera
+  title: Adversarial Agent Behavior Learning in Autonomous Driving Using Deep Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-15207
+  doi: 10.48550/ARXIV.2508.15207
+  ee: https://doi.org/10.48550/arXiv.2508.15207
+  url: https://dblp.org/rec/journals/corr/abs-2508-15207
+- author: Mengliang Zhang, Jacob M. Luber
+  title: Adversarial Hospital-Invariant Feature Learning for WSI Patch Classification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-14779
+  doi: 10.48550/ARXIV.2508.14779
+  ee: https://doi.org/10.48550/arXiv.2508.14779
+  url: https://dblp.org/rec/journals/corr/abs-2508-14779
+- author: Amin Bigdeli, Negar Arabzadeh, Ebrahim Bagheri, Charles L. A. Clarke
+  title: Adversarial Attacks against Neural Ranking Models via In-Context Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-15283
+  doi: 10.48550/ARXIV.2508.15283
+  ee: https://doi.org/10.48550/arXiv.2508.15283
+  url: https://dblp.org/rec/journals/corr/abs-2508-15283
+- author: Bingguang Lu, Hongsheng Hu, Yuantian Miao, Shaleeza Sohail, Chaoxiang He,
+    Shuo Wang, Xiao Chen
+  title: 'BadFU: Backdoor Federated Learning through Adversarial Machine Unlearning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-15541
+  doi: 10.48550/ARXIV.2508.15541
+  ee: https://doi.org/10.48550/arXiv.2508.15541
+  url: https://dblp.org/rec/journals/corr/abs-2508-15541
+- author: "Kiarash Kazari, Ezzeldin Shereen, Gy\xF6rgy D\xE1n"
+  title: Distributed Detection of Adversarial Attacks in Multi-Agent Reinforcement
+    Learning with Continuous Action Space.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-15764
+  doi: 10.48550/ARXIV.2508.15764
+  ee: https://doi.org/10.48550/arXiv.2508.15764
+  url: https://dblp.org/rec/journals/corr/abs-2508-15764
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -27689,3 +27776,14 @@ feature%20disentanglement:
   doi: 10.1109/TIM.2025.3547509
   ee: https://doi.org/10.1109/TIM.2025.3547509
   url: https://dblp.org/rec/journals/tim/ZhouZLFWJCM25
+- author: Xin Wu, Fei Teng, Ji Zhang, Xingwang Li, Yuxuan Liang
+  title: 'ERIS: An Energy-Guided Feature Disentanglement Framework for Out-of-Distribution
+    Time Series Classification.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-14134
+  doi: 10.48550/ARXIV.2508.14134
+  ee: https://doi.org/10.48550/arXiv.2508.14134
+  url: https://dblp.org/rec/journals/corr/abs-2508-14134
