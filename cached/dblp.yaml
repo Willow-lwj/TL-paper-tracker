@@ -24915,6 +24915,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2508.15764
   ee: https://doi.org/10.48550/arXiv.2508.15764
   url: https://dblp.org/rec/journals/corr/abs-2508-15764
+- author: Hanxuan Zhang, Ju Huo, Yulong Huang, Jiajun Cheng, Xiaofeng Li 0010
+  title: Perception-Aware-Based UAV Trajectory Planner via Generative Adversarial
+    Self-Imitation Learning From Demonstrations.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangHHCL25
+  doi: 10.1109/JIOT.2024.3477450
+  ee: https://doi.org/10.1109/JIOT.2024.3477450
+  url: https://dblp.org/rec/journals/iotj/ZhangHHCL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
