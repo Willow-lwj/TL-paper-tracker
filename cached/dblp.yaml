@@ -3426,6 +3426,16 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2022.3181577
   ee: https://doi.org/10.1109/JSTARS.2022.3181577
   url: https://dblp.org/rec/journals/staeors/NingPSHSD22
+- author: Ahmad Chaddad, Yihang Wu, Reem Kateb, Christian Desrosiers
+  title: Domain Adaptation Techniques for Natural and Medical Image Classification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-20537
+  doi: 10.48550/ARXIV.2508.20537
+  ee: https://doi.org/10.48550/arXiv.2508.20537
+  url: https://dblp.org/rec/journals/corr/abs-2508-20537
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -24926,6 +24936,178 @@ Adversarial%20Learning:
   doi: 10.1109/JIOT.2024.3477450
   ee: https://doi.org/10.1109/JIOT.2024.3477450
   url: https://dblp.org/rec/journals/iotj/ZhangHHCL25
+- author: Dongjun Lee, Changho Hwang, Kimin Lee
+  title: Learning to Generate Unit Test via Adversarial Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-21107
+  doi: 10.48550/ARXIV.2508.21107
+  ee: https://doi.org/10.48550/arXiv.2508.21107
+  url: https://dblp.org/rec/journals/corr/abs-2508-21107
+- author: Yi He 0011, Lifu Du, Wei Chen, Fuyang Chen, Yuntao Xu
+  title: Missing signal reconstruction and aileron fault detection via generative
+    adversarial learning.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/HeDCCX25
+  doi: 10.1016/J.NEUCOM.2024.129205
+  ee: https://doi.org/10.1016/j.neucom.2024.129205
+  url: https://dblp.org/rec/journals/ijon/HeDCCX25
+- author: Gaopan Hou, Yu Guan 0003, Weidong Yang, Zhiquan Liu, Yinbin Miao, Yulong
+    Shen 0001, Jianfeng Ma 0001
+  title: 'TSTFL-CGAN: Fuzzy Logic-Based Two-Stage Training Federated Learning Conditional
+    Generative Adversarial Network Under Non-IID Data.'
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/HouGYLMSM25
+  doi: 10.1109/TCE.2025.3541140
+  ee: https://doi.org/10.1109/TCE.2025.3541140
+  url: https://dblp.org/rec/journals/tce/HouGYLMSM25
+- author: Saurabh Kumar 0007, Cristian Molinaro, Lirika Solaa, V. S. Subrahmanian
+  title: 'GLAMP: Generative Learning for Adversarially-Robust Malware Prediction.'
+  venue: IEEE Trans. Emerg. Top. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tetc/KumarMSS25
+  doi: 10.1109/TETC.2025.3583872
+  ee: https://doi.org/10.1109/TETC.2025.3583872
+  url: https://dblp.org/rec/journals/tetc/KumarMSS25
+- author: "Pengfei Zhu, Ziang Wei, Stefano Sfarra, Rub\xE9n Usamentiaga, Gunther Steenackers,\
+    \ Andreas Mandelis, Xavier Maldague, Hai Zhang 0003"
+  title: 'THz-Super-Resolution Generative Adversarial Network: Deep-Learning-Based
+    Super-Resolution Imaging Using Terahertz Time-Domain Spectroscopy.'
+  venue: IEEE Trans. Ind. Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/ZhuWSUSMMZ25
+  doi: 10.1109/TII.2025.3567262
+  ee: https://doi.org/10.1109/TII.2025.3567262
+  url: https://dblp.org/rec/journals/tii/ZhuWSUSMMZ25
+- author: Jun Fu 0001, Xianrui Ji, Dexiong Chen, Guosheng Hu, Shuang Li 0008, Xiating
+    Feng
+  title: 'AdvMixUp: Adversarial MixUp Regularization for Deep Learning.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/FuJCHLF25
+  doi: 10.1109/TNNLS.2025.3562363
+  ee: https://doi.org/10.1109/TNNLS.2025.3562363
+  url: https://dblp.org/rec/journals/tnn/FuJCHLF25
+- author: Akshara Ravi, Vivek Chaturvedi, Muhammad Shafique 0001
+  title: 'ADVeRL-ELF: ADVersarial ELF Malware Generation using Reinforcement Learning.'
+  venue: DAC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dac/RaviCS25
+  doi: 10.1109/DAC63849.2025.11132466
+  ee: https://doi.org/10.1109/DAC63849.2025.11132466
+  url: https://dblp.org/rec/conf/dac/RaviCS25
+- author: Yimin Liu, Peng Jiang 0007
+  title: Generic Adversarial Attack Framework Against Vertical Federated Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/Liu025
+  doi: 10.24963/IJCAI.2025/646
+  ee: https://doi.org/10.24963/ijcai.2025/646
+  url: https://dblp.org/rec/conf/ijcai/Liu025
+- author: Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, Yuan Sun 0016, Dezhong
+    Peng
+  title: Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/WangDLD0P25
+  doi: 10.24963/IJCAI.2025/720
+  ee: https://doi.org/10.24963/ijcai.2025/720
+  url: https://dblp.org/rec/conf/ijcai/WangDLD0P25
+- author: Krishna Kanth Nakka, Alexandre Alahi
+  title: 'NAT: Learning to Attack Neurons for Enhanced Adversarial Transferability.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-16937
+  doi: 10.48550/ARXIV.2508.16937
+  ee: https://doi.org/10.48550/arXiv.2508.16937
+  url: https://dblp.org/rec/journals/corr/abs-2508-16937
+- author: Dhruv Sarkar, Samrat Mukhopadhyay, Abhishek Sinha
+  title: Online Learning for Approximately-Convex Functions with Long-term Adversarial
+    Constraints.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-16992
+  doi: 10.48550/ARXIV.2508.16992
+  ee: https://doi.org/10.48550/arXiv.2508.16992
+  url: https://dblp.org/rec/journals/corr/abs-2508-16992
+- author: Avishag Shapira, Simon Shigol, Asaf Shabtai
+  title: 'FRAME : Comprehensive Risk Assessment Framework for Adversarial Machine
+    Learning Threats.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-17405
+  doi: 10.48550/ARXIV.2508.17405
+  ee: https://doi.org/10.48550/arXiv.2508.17405
+  url: https://dblp.org/rec/journals/corr/abs-2508-17405
+- author: Fanqi Kong, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang 0001, Song-Chun Zhu,
+    Xue Feng
+  title: Enhancing LLM-Based Social Bot via an Adversarial Learning Framework.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-17711
+  doi: 10.48550/ARXIV.2508.17711
+  ee: https://doi.org/10.48550/arXiv.2508.17711
+  url: https://dblp.org/rec/journals/corr/abs-2508-17711
+- author: Hiroaki Aizawa, Yoshikazu Hayashi
+  title: Flatness-aware Curriculum Learning via Adversarial Difficulty.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-18726
+  doi: 10.48550/ARXIV.2508.18726
+  ee: https://doi.org/10.48550/arXiv.2508.18726
+  url: https://dblp.org/rec/journals/corr/abs-2508-18726
+- author: Chong Tian, Qirong Ho, Xiuying Chen
+  title: A Symbolic Adversarial Learning Framework for Evolving Fake News Generation
+    and Detection.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-19633
+  doi: 10.48550/ARXIV.2508.19633
+  ee: https://doi.org/10.48550/arXiv.2508.19633
+  url: https://dblp.org/rec/journals/corr/abs-2508-19633
+- author: Yu Fu 0013, Changli Liu, Shaoqiang Wang, Enqing Dong, Hui Xia
+  title: 'SSAL-Net: Semi-supervised network integrating self-supervised adversarial
+    learning for diagnosing subtypes of pulmonary nodules.'
+  venue: Biomed. Signal Process. Control.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/FuLWDX24
+  doi: 10.1016/J.BSPC.2024.106585
+  ee: https://doi.org/10.1016/j.bspc.2024.106585
+  url: https://dblp.org/rec/journals/bspc/FuLWDX24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -27798,3 +27980,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2508.14134
   ee: https://doi.org/10.48550/arXiv.2508.14134
   url: https://dblp.org/rec/journals/corr/abs-2508-14134
+- author: Yanchao Bi, Yang Ning, Xiushan Nie, Xiankai Lu, Yongshun Gong, Leida Li
+  title: Towards Region-Adaptive Feature Disentanglement and Enhancement for Small
+    Object Detection.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/BiNNLGL25
+  doi: 10.24963/IJCAI.2025/78
+  ee: https://doi.org/10.24963/ijcai.2025/78
+  url: https://dblp.org/rec/conf/ijcai/BiNNLGL25
