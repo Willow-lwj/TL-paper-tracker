@@ -25108,6 +25108,93 @@ Adversarial%20Learning:
   doi: 10.1016/J.BSPC.2024.106585
   ee: https://doi.org/10.1016/j.bspc.2024.106585
   url: https://dblp.org/rec/journals/bspc/FuLWDX24
+- author: Manzoor Hussain, Zhengyu Shang, Ahmed Dawod Mohammed Ibrahum, Jang-Eui Hong
+  title: 'PEGAT: Prediction Error-Guided Adversarial Training to Enhance Robustness
+    of Deep Learning Models in Autonomous Vehicles.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/HussainSIH25
+  doi: 10.1109/ACCESS.2025.3603337
+  ee: https://doi.org/10.1109/ACCESS.2025.3603337
+  url: https://dblp.org/rec/journals/access/HussainSIH25
+- author: Jinpeng Li, Peng Chen 0007, Yunni Xia, MengChu Zhou, Yong Ma, Yumin Dong,
+    Hui Liu 0003, Qinglan Peng, Xifeng Xu
+  title: Content Caching for IoT Devices by Using Self-Feedback Adversarial Semi-Bandits
+    Learning.
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/LiCXZMDLPX25
+  doi: 10.1109/TASE.2025.3598689
+  ee: https://doi.org/10.1109/TASE.2025.3598689
+  url: https://dblp.org/rec/journals/tase/LiCXZMDLPX25
+- author: Ming Shi 0003, Xiaojun Lin 0001, Lei Jiao 0002
+  title: Power-of-2-Arms for Adversarial Bandit Learning With Switching Costs.
+  venue: IEEE Trans. Netw.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ton/00030025
+  doi: 10.1109/TON.2024.3522073
+  ee: https://doi.org/10.1109/TON.2024.3522073
+  url: https://dblp.org/rec/journals/ton/00030025
+- author: Shahnawaz Khan, Bharavi Mishra, Sultan Alamri, Philippe Pringuet
+  title: Utilizing Generative Adversarial Networks for Preserving Privacy in Developing
+    Machine Learning Models for the Healthcare Industry.
+  venue: DATA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/data/KhanMAP25
+  doi: 10.5220/0013567600003967
+  ee: https://doi.org/10.5220/0013567600003967
+  url: https://dblp.org/rec/conf/data/KhanMAP25
+- author: Haoran Li 0027, Zicheng Zhang, Wang Luo, Congying Han, Jiayu Lv, Tiande
+    Guo, Yudong Hu
+  title: Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement
+    Error.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-16734
+  doi: 10.48550/ARXIV.2502.16734
+  ee: https://doi.org/10.48550/arXiv.2502.16734
+  url: https://dblp.org/rec/journals/corr/abs-2502-16734
+- author: "Carlos Franzreb, Arnab Das, Tim Polzehl, Sebastian M\xF6ller 0001"
+  title: Improving the Speaker Anonymization Evaluation&apos;s Robustness to Target
+    Speakers with Adversarial Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-09803
+  doi: 10.48550/ARXIV.2508.09803
+  ee: https://doi.org/10.48550/arXiv.2508.09803
+  url: https://dblp.org/rec/journals/corr/abs-2508-09803
+- author: Pouya Kananian, Hans-Arno Jacobsen
+  title: Adversarial Robustness in Distributed Quantum Machine Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-11848
+  doi: 10.48550/ARXIV.2508.11848
+  ee: https://doi.org/10.48550/arXiv.2508.11848
+  url: https://dblp.org/rec/journals/corr/abs-2508-11848
+- author: Maryam Aliakbarpour, Vladimir Braverman, Nai-Hui Chia, Yuhan Liu
+  title: Adversarially robust quantum state learning and testing.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-13959
+  doi: 10.48550/ARXIV.2508.13959
+  ee: https://doi.org/10.48550/arXiv.2508.13959
+  url: https://dblp.org/rec/journals/corr/abs-2508-13959
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -25347,6 +25434,30 @@ domain%20%feature%alignment:
   doi: 10.1109/TGRS.2025.3580851
   ee: https://doi.org/10.1109/TGRS.2025.3580851
   url: https://dblp.org/rec/journals/tgrs/ZhangWLWZQ25
+- author: Chen Zhang 0036, Yinghua Wang, Hongwei Liu 0001, Siyuan Wang, Xiaoting Zhang,
+    Chunhui Qu
+  title: 'MFJA: Unsupervised Domain Adaptation Based on Multimodal Feature Fusion
+    and Global-Local Joint Alignment for SAR ATR.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhangWLWZQ25
+  doi: 10.1109/TGRS.2025.3580851
+  ee: https://doi.org/10.1109/TGRS.2025.3580851
+  url: https://dblp.org/rec/journals/tgrs/ZhangWLWZQ25
+- author: Chen Zhang 0036, Yinghua Wang, Hongwei Liu 0001, Yuanshuang Sun, Siyuan
+    Wang
+  title: 'VSFA: Visual and Scattering Topological Feature Fusion and Alignment Network
+    for Unsupervised Domain Adaptation in SAR Target Recognition.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhangWLSW23
+  doi: 10.1109/TGRS.2023.3317828
+  ee: https://doi.org/10.1109/TGRS.2023.3317828
+  url: https://dblp.org/rec/journals/tgrs/ZhangWLSW23
 feature%20disentanglement:
 - author: Nuoyan Zhou, Dawei Zhou 0004, Decheng Liu, Nannan Wang 0001, Xinbo Gao 0001
   title: Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement.
@@ -27991,3 +28102,13 @@ feature%20disentanglement:
   doi: 10.24963/IJCAI.2025/78
   ee: https://doi.org/10.24963/ijcai.2025/78
   url: https://dblp.org/rec/conf/ijcai/BiNNLGL25
+- author: Daichi Haraguchi, Wataru Shimoda, Kota Yamaguchi, Seiichi Uchida
+  title: Total Disentanglement of Font Images Into Style and Character Class Features.
+  venue: ICDAR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdar/HaraguchiSYU25
+  doi: 10.1007/978-3-032-04617-8_16
+  ee: https://doi.org/10.1007/978-3-032-04617-8_16
+  url: https://dblp.org/rec/conf/icdar/HaraguchiSYU25
