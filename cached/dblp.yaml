@@ -25250,6 +25250,127 @@ Adversarial%20Learning:
   doi: 10.24963/IJCAI.2025/720
   ee: https://doi.org/10.24963/ijcai.2025/720
   url: https://dblp.org/rec/conf/ijcai/WangDLD0P25
+- author: Fan Zheng, Hengfei Cui, Yanning Zhang, Yong Xia 0001
+  title: Unsupervised domain adaptation for cardiac MRI segmentation via adversarial
+    learning in latent space.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ZhengCZX26
+  doi: 10.1016/J.PATCOG.2025.112328
+  ee: https://doi.org/10.1016/j.patcog.2025.112328
+  url: https://dblp.org/rec/journals/pr/ZhengCZX26
+- author: Yifan Lu, Peter E. D. Love, Hanbin Luo, Weili Fang
+  title: Mitigating adversarial attacks and building robust deep learning models for
+    assessing risks in tunnel construction.
+  venue: Reliab. Eng. Syst. Saf.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ress/LuLLF26
+  doi: 10.1016/J.RESS.2025.111491
+  ee: https://doi.org/10.1016/j.ress.2025.111491
+  url: https://dblp.org/rec/journals/ress/LuLLF26
+- author: Abbas Omidi, Amirmohammad Shamaei, Mumu Aktar, Regan King, Lara Leijser,
+    Roberto Souza 0001
+  title: Improving skull-stripping for infant MRI via weakly supervised domain adaptation
+    using adversarial learning.
+  venue: Comput. Biol. Medicine
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/OmidiSAKLS25
+  doi: 10.1016/J.COMPBIOMED.2025.110903
+  ee: https://doi.org/10.1016/j.compbiomed.2025.110903
+  url: https://dblp.org/rec/journals/cbm/OmidiSAKLS25
+- author: Pavan Venkata Sainadh Reddy, Yelleti Vivek, Gopi Pranay, Vadlamani Ravi
+  title: Chaotic variational auto encoder-based adversarial machine learning.
+  venue: Comput. Electr. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/ReddyVPR25
+  doi: 10.1016/J.COMPELECENG.2025.110646
+  ee: https://doi.org/10.1016/j.compeleceng.2025.110646
+  url: https://dblp.org/rec/journals/cee/ReddyVPR25
+- author: Zihao Zhang, Jian Zhou, Junyi Shi, Jian Lu
+  title: 'CPIGAN: Infrared and visible image fusion via cross-scale progressive interaction
+    network with adversarial learning.'
+  venue: Comput. Electr. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/ZhangZSL25
+  doi: 10.1016/J.COMPELECENG.2025.110672
+  ee: https://doi.org/10.1016/j.compeleceng.2025.110672
+  url: https://dblp.org/rec/journals/cee/ZhangZSL25
+- author: Wei Sun, Kaiqi Deng, Junbo Gao
+  title: Traffic flow prediction based on generative adversarial network with hybrid
+    spatio temporal features learning.
+  venue: Clust. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cluster/SunDG25
+  doi: 10.1007/S10586-025-05296-Y
+  ee: https://doi.org/10.1007/s10586-025-05296-y
+  url: https://dblp.org/rec/journals/cluster/SunDG25
+- author: Junjia Liu, Zhuo Li 0018, Minghao Yu, Zhipeng Dong, Sylvain Calinon, Darwin
+    G. Caldwell, Fei Chen 0007
+  title: 'Human-Humanoid Robots&apos; Cross-Embodiment Behavior-Skill Transfer Using
+    Decomposed Adversarial Learning From Demonstration: HOTU, a Human-Humanoid Robots&apos;
+    Skill Transfer Framework.'
+  venue: IEEE Robotics Autom. Mag.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ram/LiuLYDCCC25
+  doi: 10.1109/MRA.2025.3527283
+  ee: https://doi.org/10.1109/MRA.2025.3527283
+  url: https://dblp.org/rec/journals/ram/LiuLYDCCC25
+- author: Lintai Wu, Xianjing Cheng, Yong Xu 0001, Huanqiang Zeng, Junhui Hou
+  title: Unsupervised 3D Point Cloud Completion via Multi-View Adversarial Learning.
+  venue: IEEE Trans. Vis. Comput. Graph.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tvcg/WuCXZH25
+  doi: 10.1109/TVCG.2025.3559340
+  ee: https://doi.org/10.1109/TVCG.2025.3559340
+  url: https://dblp.org/rec/journals/tvcg/WuCXZH25
+- author: Alexandra Sheykina, Fabio Palomba, Andrea De Lucia
+  title: 'Exploring Perturbation Patterns and Impact in Adversarial Machine Learning:
+    A Systematic Literature Review.'
+  venue: SEAA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/euromicro/SheykinaPL25
+  doi: 10.1007/978-3-032-04200-2_25
+  ee: https://doi.org/10.1007/978-3-032-04200-2_25
+  url: https://dblp.org/rec/conf/euromicro/SheykinaPL25
+- author: "S\xE8djro Salomon Hotegni, Sebastian Peitz"
+  title: Enhancing Adversarial Robustness Through Multi-objective Representation Learning.
+  venue: ICANN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icann/HotegniP25
+  doi: 10.1007/978-3-032-04558-4_35
+  ee: https://doi.org/10.1007/978-3-032-04558-4_35
+  url: https://dblp.org/rec/conf/icann/HotegniP25
+- author: Yu Zhao, Haitao Wang, Duwen Zhai, Kefan Jin, Zhe Liu 0022
+  title: Hybrid Reinforcement Learning Based Adversarial Strategy Generation for Self-Propelled
+    Acoustic Decoy.
+  venue: RCAR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/rcar/ZhaoWZJL25
+  doi: 10.1109/RCAR65431.2025.11139485
+  ee: https://doi.org/10.1109/RCAR65431.2025.11139485
+  url: https://dblp.org/rec/conf/rcar/ZhaoWZJL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -28213,3 +28334,35 @@ feature%20disentanglement:
   doi: 10.24963/IJCAI.2025/78
   ee: https://doi.org/10.24963/ijcai.2025/78
   url: https://dblp.org/rec/conf/ijcai/BiNNLGL25
+- author: Jiafeng Li, Mengxun Zhi, Yongyu Zheng, Li Zhuo, Jing Zhang
+  title: Coarse-to-fine domain adaptation object detection with feature disentanglement.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/LiZZZZ25
+  doi: 10.1007/S13042-025-02586-0
+  ee: https://doi.org/10.1007/s13042-025-02586-0
+  url: https://dblp.org/rec/journals/mlc/LiZZZZ25
+- author: Qingwei Zeng, Peibo Duan, Yongsheng Huang, Changsheng Zhang 0001
+  title: A Subject-Independent Stress Detection Model Based on Temporal Feature Disentanglement.
+  venue: ICANN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icann/ZengDHZ25
+  doi: 10.1007/978-3-032-04555-3_36
+  ee: https://doi.org/10.1007/978-3-032-04555-3_36
+  url: https://dblp.org/rec/conf/icann/ZengDHZ25
+- author: Shuai Ma, Kechen Song, Menghui Niu, Hongkun Tian, Yanyan Wang 0007, Yunhui
+    Yan
+  title: 'Feature-based domain disentanglement and randomization: A generalized framework
+    for rail surface defect segmentation in unseen scenarios.'
+  venue: Adv. Eng. Informatics
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/aei/MaSNTWY24
+  doi: 10.1016/J.AEI.2023.102274
+  ee: https://doi.org/10.1016/j.aei.2023.102274
+  url: https://dblp.org/rec/journals/aei/MaSNTWY24
