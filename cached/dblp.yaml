@@ -3459,6 +3459,51 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2020.2985072
   ee: https://doi.org/10.1109/TGRS.2020.2985072
   url: https://dblp.org/rec/journals/tgrs/ZhangLPS20
+- author: Peng Zhu 0004, Xiangrong Zhang, Xiao Han 0012, Jin Zhu, Licheng Jiao
+  title: Source-Free Cross-Domain Scene Classification of Remote Sensing Images via
+    Statistics Matching and Noise Adaptation.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhuZHZJ25
+  doi: 10.1109/TGRS.2025.3590697
+  ee: https://doi.org/10.1109/TGRS.2025.3590697
+  url: https://dblp.org/rec/journals/tgrs/ZhuZHZJ25
+- author: Jun Zhang 0050, Jiao Liu 0003, Bin Pan, Zongqing Chen 0001, Xia Xu, Zhenwei
+    Shi 0001
+  title: An Open Set Domain Adaptation Algorithm via Exploring Transferability and
+    Discriminability for Remote Sensing Image Scene Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhangLPCXS22
+  doi: 10.1109/TGRS.2021.3110060
+  ee: https://doi.org/10.1109/TGRS.2021.3110060
+  url: https://dblp.org/rec/journals/tgrs/ZhangLPCXS22
+- author: Jun Zhang 0050, Jiao Liu 0003, Bin Pan, Zhenwei Shi 0001
+  title: Domain Adaptation Based on Correlation Subspace Dynamic Distribution Alignment
+    for Remote Sensing Image Scene Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhangLPS20
+  doi: 10.1109/TGRS.2020.2985072
+  ee: https://doi.org/10.1109/TGRS.2020.2985072
+  url: https://dblp.org/rec/journals/tgrs/ZhangLPS20
+- author: Jun Zhang 0050, Jiao Liu 0003, Lukui Shi, Bin Pan, Xia Xu
+  title: An Open Set Domain Adaptation Network Based on Adversarial Learning for Remote
+    Sensing Image Scene Classification.
+  venue: IGARSS
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/igarss/0050LSPX20
+  doi: 10.1109/IGARSS39084.2020.9323944
+  ee: https://doi.org/10.1109/IGARSS39084.2020.9323944
+  url: https://dblp.org/rec/conf/igarss/0050LSPX20
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -25371,6 +25416,17 @@ Adversarial%20Learning:
   doi: 10.1109/RCAR65431.2025.11139485
   ee: https://doi.org/10.1109/RCAR65431.2025.11139485
   url: https://dblp.org/rec/conf/rcar/ZhaoWZJL25
+- author: Ke Yan 0001, Cheng Lu, Xiang Ma 0004, Zhiwei Ji, Jing Huang 0005
+  title: Intelligent fault diagnosis for air handing units based on improved generative
+    adversarial network and deep reinforcement learning.
+  venue: Expert Syst. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/YanLMJH24
+  doi: 10.1016/J.ESWA.2023.122545
+  ee: https://doi.org/10.1016/j.eswa.2023.122545
+  url: https://dblp.org/rec/journals/eswa/YanLMJH24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -28366,3 +28422,14 @@ feature%20disentanglement:
   doi: 10.1016/J.AEI.2023.102274
   ee: https://doi.org/10.1016/j.aei.2023.102274
   url: https://dblp.org/rec/journals/aei/MaSNTWY24
+- author: Zhen Zhou 0003, Qing Zhu 0003, Jianqiao Luo, Mingtao Feng, Yaonan Wang 0001,
+    Tianjian Jiang, Lin Chen 0034, Yang Mo
+  title: A Feature Disentanglement Method for Image Stitching of Printed Circuit Boards.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ZhouZLFWJCM25
+  doi: 10.1109/TIM.2025.3547509
+  ee: https://doi.org/10.1109/TIM.2025.3547509
+  url: https://dblp.org/rec/journals/tim/ZhouZLFWJCM25
