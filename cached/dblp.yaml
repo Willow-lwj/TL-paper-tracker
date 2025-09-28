@@ -3504,6 +3504,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/IGARSS39084.2020.9323944
   ee: https://doi.org/10.1109/IGARSS39084.2020.9323944
   url: https://dblp.org/rec/conf/igarss/0050LSPX20
+- author: Peng Zhu 0004, Xiangrong Zhang, Xiao Han 0012, Xina Cheng, Jing Gu, Puhua
+    Chen, Licheng Jiao
+  title: Cross-Domain Classification Based on Frequency Component Adaptation for Remote
+    Sensing Images.
+  venue: Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/remotesensing/ZhuZHCGCJ24
+  doi: 10.3390/RS16122134
+  ee: https://doi.org/10.3390/rs16122134
+  url: https://dblp.org/rec/journals/remotesensing/ZhuZHCGCJ24
+- author: Sen Jia 0001, Xiaomei Liu, Meng Xu 0002, Qiao Yan, Jun Zhou 0001, Xiuping
+    Jia, Qingquan Li 0001
+  title: Gradient Feature-Oriented 3-D Domain Adaptation for Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/JiaLXYZJL22
+  doi: 10.1109/TGRS.2021.3073699
+  ee: https://doi.org/10.1109/TGRS.2021.3073699
+  url: https://dblp.org/rec/journals/tgrs/JiaLXYZJL22
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -25427,6 +25450,87 @@ Adversarial%20Learning:
   doi: 10.1016/J.ESWA.2023.122545
   ee: https://doi.org/10.1016/j.eswa.2023.122545
   url: https://dblp.org/rec/journals/eswa/YanLMJH24
+- author: Jiayan Guo, Shangyang Li, Yue Zhao 0043, Yan Zhang
+  title: Learning Robust Representation Through Graph Adversarial Contrastive Learning.
+  venue: DASFAA
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dasfaa/GuoLZZ22
+  doi: 10.1007/978-3-031-00123-9_54
+  ee: https://doi.org/10.1007/978-3-031-00123-9_54
+  url: https://dblp.org/rec/conf/dasfaa/GuoLZZ22
+- author: Zhao Wang, Yue Zhao 0024, Maoguo Gong, Hao Li 0009, Gaogao Liu, Jianlong
+    Tang
+  title: Robust Bi-temporal cross-scene land cover map updating via curriculum-guided
+    self-training and adversarial learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WangZGLLT25
+  doi: 10.1016/J.ENGAPPAI.2025.111870
+  ee: https://doi.org/10.1016/j.engappai.2025.111870
+  url: https://dblp.org/rec/journals/eaai/WangZGLLT25
+- author: Yongzhen Wang, Xuefeng Yan 0001, Yanbiao Niu, Lina Gong, Yanwen Guo 0001,
+    Mingqiang Wei
+  title: Rethinking mixture of rain removal via depth-guided adversarial learning.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangYNGGW25
+  doi: 10.1016/J.NEUNET.2025.107739
+  ee: https://doi.org/10.1016/j.neunet.2025.107739
+  url: https://dblp.org/rec/journals/nn/WangYNGGW25
+- author: Tianyang Duan, Zongyuan Zhang, Zheng Lin 0001, Yue Gao 0001, Ling Xiong,
+    Yong Cui 0001, Hongbin Liang, Xianhao Chen, Heming Cui, Dong Huang 0005
+  title: Rethinking Adversarial Attacks in Reinforcement Learning from Policy Distribution
+    Perspective.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/DuanZL0X0LCC025
+  doi: 10.1109/ICASSP49660.2025.10890540
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10890540
+  url: https://dblp.org/rec/conf/icassp/DuanZL0X0LCC025
+- author: Tianyang Duan, Zongyuan Zhang, Zheng Lin 0001, Yue Gao 0001, Ling Xiong,
+    Yong Cui 0001, Hongbin Liang, Xianhao Chen, Heming Cui, Dong Huang 0005
+  title: Rethinking Adversarial Attacks in Reinforcement Learning from Policy Distribution
+    Perspective.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2501-03562
+  doi: 10.48550/ARXIV.2501.03562
+  ee: https://doi.org/10.48550/arXiv.2501.03562
+  url: https://dblp.org/rec/journals/corr/abs-2501-03562
+- author: Zongyuan Zhang, Tianyang Duan, Zheng Lin 0001, Dong Huang 0005, Zihan Fang,
+    Zekai Sun, Ling Xiong, Hongbin Liang, Heming Cui, Yong Cui 0001, Yue Gao 0001
+  title: Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked
+    Adversarial Attacks.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-20844
+  doi: 10.48550/ARXIV.2503.20844
+  ee: https://doi.org/10.48550/arXiv.2503.20844
+  url: https://dblp.org/rec/journals/corr/abs-2503-20844
+- author: Jiadong He, Liang Yu 0001, Zhiqiang Chen 0003, Dawei Qiu, Dong Yue 0001,
+    Goran Strbac, Meng Zhang 0011, Yujian Ye, Yi Wang 0022
+  title: HMPC-assisted Adversarial Inverse Reinforcement Learning for Smart Home Energy
+    Management.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-00898
+  doi: 10.48550/ARXIV.2506.00898
+  ee: https://doi.org/10.48550/arXiv.2506.00898
+  url: https://dblp.org/rec/journals/corr/abs-2506-00898
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
