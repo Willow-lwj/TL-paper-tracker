@@ -25531,6 +25531,51 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.00898
   ee: https://doi.org/10.48550/arXiv.2506.00898
   url: https://dblp.org/rec/journals/corr/abs-2506-00898
+- author: Baiyang Zheng, Jiong-Ran Wen, Yat-Sze Choy, Cheng-Wei Fei
+  title: 'Physics-constrained EBSD image inpainting via adversarial graph learning:
+    bridging crystallographic rules and multimodal deep learning.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhengWCF26
+  doi: 10.1016/J.ESWA.2025.129667
+  ee: https://doi.org/10.1016/j.eswa.2025.129667
+  url: https://dblp.org/rec/journals/eswa/ZhengWCF26
+- author: Weipeng Chao, Yuanbo Shi, Yushuai Li, Meng Liu, Xiaoling Leng
+  title: Energy management system scheduling optimization based on an improved generative
+    adversarial network deep reinforcement learning algorithm.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/ChaoSLLL25
+  doi: 10.1016/J.ENGAPPAI.2025.112129
+  ee: https://doi.org/10.1016/j.engappai.2025.112129
+  url: https://dblp.org/rec/journals/eaai/ChaoSLLL25
+- author: Truong Ngoc Cuong, Sam-Sang You, Le Ngoc Bao Long, Hwan-Seong Kim 0001,
+    Anh Duy Nguyen, Nguyen Duy Tan
+  title: Maritime supply chain optimization using robust adversarial reinforcement
+    learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/CuongYLKNT25
+  doi: 10.1016/J.ENGAPPAI.2025.112127
+  ee: https://doi.org/10.1016/j.engappai.2025.112127
+  url: https://dblp.org/rec/journals/eaai/CuongYLKNT25
+- author: Jingyu Liu, Yuanda Wang, Changyin Sun 0001
+  title: Unmanned surface vehicle autonomous racing and obstacle avoidance with robust
+    adversarial deep reinforcement learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/LiuWS25
+  doi: 10.1016/J.ENGAPPAI.2025.112250
+  ee: https://doi.org/10.1016/j.engappai.2025.112250
+  url: https://dblp.org/rec/journals/eaai/LiuWS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
