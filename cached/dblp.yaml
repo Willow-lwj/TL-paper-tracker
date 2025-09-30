@@ -25576,6 +25576,72 @@ Adversarial%20Learning:
   doi: 10.1016/J.ENGAPPAI.2025.112250
   ee: https://doi.org/10.1016/j.engappai.2025.112250
   url: https://dblp.org/rec/journals/eaai/LiuWS25
+- author: Hilton Raj, A. V. Vishnuram, Rahul Raman
+  title: 'AdversarialGait: direction invariant gait recognition with adversarial learning.'
+  venue: Neural Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/RajVR25
+  doi: 10.1007/S00521-025-11505-X
+  ee: https://doi.org/10.1007/s00521-025-11505-x
+  url: https://dblp.org/rec/journals/nca/RajVR25
+- author: Shikai Chen, Jin Yuan, Yang Zhang 0002, Zhongchao Shi, Jianping Fan 0007,
+    Xin Geng 0001, Yong Rui
+  title: Collective domain adversarial learning for unsupervised domain adaptation.
+  venue: Frontiers Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/fcsc/ChenYZSFGR25
+  doi: 10.1007/S11704-025-50429-6
+  ee: https://doi.org/10.1007/s11704-025-50429-6
+  url: https://dblp.org/rec/journals/fcsc/ChenYZSFGR25
+- author: Kousik Barik, Sanjay Misra
+  title: A comprehensive defense approach of deep learning-based NIDS against adversarial
+    attacks.
+  venue: Multim. Tools Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mta/BarikM25
+  doi: 10.1007/S11042-025-21008-5
+  ee: https://doi.org/10.1007/s11042-025-21008-5
+  url: https://dblp.org/rec/journals/mta/BarikM25
+- author: Ali Alhwayzee, Saeed Araban, Davood Zabihzadeh
+  title: A Robust Recommender System Against Adversarial and Shilling Attacks Using
+    Diffusion Networks and Self-Adaptive Learning.
+  venue: Symmetry
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/symmetry/AlhwayzeeAZ25
+  doi: 10.3390/SYM17020233
+  ee: https://doi.org/10.3390/sym17020233
+  url: https://dblp.org/rec/journals/symmetry/AlhwayzeeAZ25
+- author: Zerou Ma, Tao Feng 0007
+  title: Query-Efficient Two-Phase Reinforcement Learning Framework for Black-Box
+    Adversarial Attacks.
+  venue: Symmetry
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/symmetry/MaF25
+  doi: 10.3390/SYM17071093
+  ee: https://doi.org/10.3390/sym17071093
+  url: https://dblp.org/rec/journals/symmetry/MaF25
+- author: Zhifeng Wang, Renjiao Yi, Xin Wen 0005, Chenyang Zhu 0002, Kai Xu 0004,
+    Kunlun He
+  title: 'Angio-Diff: learning a self-supervised adversarial diffusion model for angiographic
+    geometry generation.'
+  venue: Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/WangYWZXH25
+  doi: 10.1007/S00371-025-04036-Y
+  ee: https://doi.org/10.1007/s00371-025-04036-y
+  url: https://dblp.org/rec/journals/vc/WangYWZXH25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
