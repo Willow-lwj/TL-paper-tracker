@@ -3527,6 +3527,16 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2021.3073699
   ee: https://doi.org/10.1109/TGRS.2021.3073699
   url: https://dblp.org/rec/journals/tgrs/JiaLXYZJL22
+- author: Cheng Deng 0002, Xianglong Liu 0001, Chao Li 0033, Dacheng Tao
+  title: Active multi-kernel domain adaptation for hyperspectral image classification.
+  venue: Pattern Recognit.
+  year: '2018'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/DengLLT18
+  doi: 10.1016/J.PATCOG.2017.10.007
+  ee: https://doi.org/10.1016/j.patcog.2017.10.007
+  url: https://dblp.org/rec/journals/pr/DengLLT18
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -25642,6 +25652,38 @@ Adversarial%20Learning:
   doi: 10.1007/S00371-025-04036-Y
   ee: https://doi.org/10.1007/s00371-025-04036-y
   url: https://dblp.org/rec/journals/vc/WangYWZXH25
+- author: Shehroz S. Khan, Tianyu Shi, Simon Donato-Woodger, Charlene H. Chu
+  title: Mitigating Digital Ageism in Skin Lesion Detection with Adversarial Learning.
+  venue: Algorithms
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/algorithms/KhanSDC25
+  doi: 10.3390/A18020055
+  ee: https://doi.org/10.3390/a18020055
+  url: https://dblp.org/rec/journals/algorithms/KhanSDC25
+- author: Huaqiang Xie, Kangwei Wang, Li Zhu, Jie Xie, Cheng Wu, Jie Sheng, Jin Zhang
+  title: Two-stage real-world image dehazing method using physics-based dehazing network
+    and contrastive learning generative adversarial network.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/XieWZXWSZ25
+  doi: 10.1016/J.NEUCOM.2025.131002
+  ee: https://doi.org/10.1016/j.neucom.2025.131002
+  url: https://dblp.org/rec/journals/ijon/XieWZXWSZ25
+- author: Yongzhen Wang 0001, Xuefeng Yan 0001, Yanbiao Niu, Lina Gong, Yanwen Guo
+    0001, Mingqiang Wei
+  title: Rethinking mixture of rain removal via depth-guided adversarial learning.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangYNGGW25
+  doi: 10.1016/J.NEUNET.2025.107739
+  ee: https://doi.org/10.1016/j.neunet.2025.107739
+  url: https://dblp.org/rec/journals/nn/WangYNGGW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
