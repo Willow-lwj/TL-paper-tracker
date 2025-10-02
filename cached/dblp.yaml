@@ -3537,6 +3537,28 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.PATCOG.2017.10.007
   ee: https://doi.org/10.1016/j.patcog.2017.10.007
   url: https://dblp.org/rec/journals/pr/DengLLT18
+- author: Kecheng Shi, Rui Huang 0008, Zhe Li, Jianzhi Lyu, Yang Zhao, Guangkui Song,
+    Hong Cheng 0002, Jianwei Zhang 0001
+  title: Plug-and-Play Multi-Domain Fusion Adaptation for Cross-Subject EEG-Based
+    Motor Imagery Classification.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/ShiHLLZSCZ25
+  doi: 10.1109/ICRA55743.2025.11128281
+  ee: https://doi.org/10.1109/ICRA55743.2025.11128281
+  url: https://dblp.org/rec/conf/icra/ShiHLLZSCZ25
+- author: Cheng Deng 0002, Xianglong Liu 0001, Chao Li 0033, Dacheng Tao
+  title: Active Multi-Kernel Domain Adaptation for Hyperspectral Image Classification.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1904-05200
+  doi: ''
+  ee: http://arxiv.org/abs/1904.05200
+  url: https://dblp.org/rec/journals/corr/abs-1904-05200
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -25684,6 +25706,72 @@ Adversarial%20Learning:
   doi: 10.1016/J.NEUNET.2025.107739
   ee: https://doi.org/10.1016/j.neunet.2025.107739
   url: https://dblp.org/rec/journals/nn/WangYNGGW25
+- author: Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis
+  title: Visually Robust Adversarial Imitation Learning from Videos with Contrastive
+    Learning.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/GiammarinoQP25
+  doi: 10.1109/ICRA55743.2025.11127595
+  ee: https://doi.org/10.1109/ICRA55743.2025.11127595
+  url: https://dblp.org/rec/conf/icra/GiammarinoQP25
+- author: Taewoo Kim 0004, Youngwoo Yoon, Jaehong Kim
+  title: Learning Dexterous Bimanual Catch Skills Through Adversarial-Cooperative
+    Heterogeneous-Agent Reinforcement Learning.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/KimYK25
+  doi: 10.1109/ICRA55743.2025.11127559
+  ee: https://doi.org/10.1109/ICRA55743.2025.11127559
+  url: https://dblp.org/rec/conf/icra/KimYK25
+- author: Phillip Rieger
+  title: 'Training AI in Hostile Environments: Adversarially Robust Machine Learning
+    / Phillip Erik Rieger ; Ahmad-Reza Sadeghi, Farinaz Koushanfar.'
+  venue: ''
+  year: '2025'
+  type: Books and Theses
+  access: closed
+  key: phd/dnb/Rieger25
+  doi: ''
+  ee: http://tuprints.ulb.tu-darmstadt.de/30052/
+  url: https://dblp.org/rec/phd/dnb/Rieger25
+- author: Stergios E. Bachoumas, Panagiotis Artemiadis 0001
+  title: Learning Adversarial Policies for Swarm Leader Identification Using a Probing
+    Agent.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/BachoumasA25
+  doi: 10.1109/ICRA55743.2025.11128045
+  ee: https://doi.org/10.1109/ICRA55743.2025.11128045
+  url: https://dblp.org/rec/conf/icra/BachoumasA25
+- author: Huiming Pan, Dongxuan Li, Chen Chen, Shuo Jiang, Peter B. Shull
+  title: An Adversarial Learning Framework for Reliable Myoelectric Force Estimation
+    Under Fatigue.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/PanLCJS25
+  doi: 10.1109/ICRA55743.2025.11128839
+  ee: https://doi.org/10.1109/ICRA55743.2025.11128839
+  url: https://dblp.org/rec/conf/icra/PanLCJS25
+- author: Ziyu Zhang, Johann Laconte, Daniil Lisus, Timothy D. Barfoot
+  title: 'Prepared for the Worst: Resilience Analysis of the ICP Algorithm via Learning-Based
+    Worst-Case Adversarial Attacks.'
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/ZhangLLB25
+  doi: 10.1109/ICRA55743.2025.11128007
+  ee: https://doi.org/10.1109/ICRA55743.2025.11128007
+  url: https://dblp.org/rec/conf/icra/ZhangLLB25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
