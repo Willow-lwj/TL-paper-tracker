@@ -3559,6 +3559,18 @@ Domain%20Adaptation%20image%20classification:
   doi: ''
   ee: http://arxiv.org/abs/1904.05200
   url: https://dblp.org/rec/journals/corr/abs-1904-05200
+- author: Kecheng Shi, Rui Huang 0008, Zhe Li, Jianzhi Lyu, Yang Zhao 0024, Guangkui
+    Song, Hong Cheng 0002, Jianwei Zhang 0001
+  title: Plug-and-Play Multi-Domain Fusion Adaptation for Cross-Subject EEG-Based
+    Motor Imagery Classification.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/ShiHLLZSCZ25
+  doi: 10.1109/ICRA55743.2025.11128281
+  ee: https://doi.org/10.1109/ICRA55743.2025.11128281
+  url: https://dblp.org/rec/conf/icra/ShiHLLZSCZ25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -25772,6 +25784,94 @@ Adversarial%20Learning:
   doi: 10.1109/ICRA55743.2025.11128007
   ee: https://doi.org/10.1109/ICRA55743.2025.11128007
   url: https://dblp.org/rec/conf/icra/ZhangLLB25
+- author: Taewoo Kim 0004, Youngwoo Yoon, Jaehong Kim 0001
+  title: Learning Dexterous Bimanual Catch Skills Through Adversarial-Cooperative
+    Heterogeneous-Agent Reinforcement Learning.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/KimYK25
+  doi: 10.1109/ICRA55743.2025.11127559
+  ee: https://doi.org/10.1109/ICRA55743.2025.11127559
+  url: https://dblp.org/rec/conf/icra/KimYK25
+- author: Van-Linh Nguyen, Lan-Huong Nguyen, Ren-Hung Hwang, Berk Canberk, Trung Q.
+    Duong
+  title: Quantum Machine Learning for 6G Network Intelligence and Adversarial Threats.
+  venue: IEEE Commun. Stand. Mag.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/csm/NguyenNHCD25
+  doi: 10.1109/MCOMSTD.2025.3575261
+  ee: https://doi.org/10.1109/MCOMSTD.2025.3575261
+  url: https://dblp.org/rec/journals/csm/NguyenNHCD25
+- author: Yanqi Hao, Chuan Luo 0001, Tianrui Li 0001, Junbo Zhang 0004, Hongmei Chen
+    0001
+  title: Adversarial Transfer Learning-Based Hybrid Recurrent Network for Air Quality
+    Prediction.
+  venue: Int. J. Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/ijis/HaoLLZC25
+  doi: 10.1155/INT/6014262
+  ee: https://doi.org/10.1155/int/6014262
+  url: https://dblp.org/rec/journals/ijis/HaoLLZC25
+- author: Wenqian Li 0005, Pengfei Fang, Hui Xue 0002
+  title: 'SVasP: Self-Versatility Adversarial Style Perturbation for Cross-Domain
+    Few-Shot Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiF025
+  doi: 10.1609/AAAI.V39I15.33676
+  ee: https://doi.org/10.1609/aaai.v39i15.33676
+  url: https://dblp.org/rec/conf/aaai/LiF025
+- author: Ahtesham Bakht, Ankit Shah 0002, Nathaniel D. Bastian
+  title: 'Towards Attribution in Network Attacks: A Deep Learning-Based Robust Framework
+    for Intrusion Detection and Adversarial Toolchain Identification.'
+  venue: HICSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/hicss/Bakht0B25
+  doi: 10.24251/HICSS.2025.046
+  ee: https://doi.org/10.24251/HICSS.2025.046
+  url: https://dblp.org/rec/conf/hicss/Bakht0B25
+- author: Christian Carrizales, Xiaodong (Frank) Zhang, Trevor Bihl
+  title: Reinforcement Learning for Adversarial Environments.
+  venue: HICSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/hicss/CarrizalesZB25
+  doi: 10.24251/HICSS.2025.099
+  ee: https://doi.org/10.24251/HICSS.2025.099
+  url: https://dblp.org/rec/conf/hicss/CarrizalesZB25
+- author: Yang Gao, Sagar Samtani, Ankit Shah
+  title: 'Improving the Adversarial Robustness of Machine Learning-based Phishing
+    Website Detectors: An Autoencoder-based Auxiliary Approach.'
+  venue: HICSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/hicss/GaoSS25
+  doi: 10.24251/HICSS.2025.050
+  ee: https://doi.org/10.24251/HICSS.2025.050
+  url: https://dblp.org/rec/conf/hicss/GaoSS25
+- author: Wenjie Liu, Fuyou Miao 0001, Xu Wang
+  title: Solving Medical Multi-Label Domain Adaptation via Wasserstein Adversarial
+    Learning with Class-Level Alignment.
+  venue: MICCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/LiuMW25
+  doi: 10.1007/978-3-032-04981-0_54
+  ee: https://doi.org/10.1007/978-3-032-04981-0_54
+  url: https://dblp.org/rec/conf/miccai/LiuMW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
