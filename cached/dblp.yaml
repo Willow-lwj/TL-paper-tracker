@@ -25872,6 +25872,63 @@ Adversarial%20Learning:
   doi: 10.1007/978-3-032-04981-0_54
   ee: https://doi.org/10.1007/978-3-032-04981-0_54
   url: https://dblp.org/rec/conf/miccai/LiuMW25
+- author: Xinzhe Xie, Buyu Guo, Peiliang Li 0002, Shuangyan He, Sangjun Zhou
+  title: Multi-focus image fusion with visual state space model and dual adversarial
+    learning.
+  venue: Comput. Electr. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/XieGLHZ25
+  doi: 10.1016/J.COMPELECENG.2025.110238
+  ee: https://doi.org/10.1016/j.compeleceng.2025.110238
+  url: https://dblp.org/rec/journals/cee/XieGLHZ25
+- author: Xiaocao Ouyang, Yanhua Li, Jie Zhang, Xin Yang 0012, Yan Yang, Junbo Zhang,
+    Wei Huang, Tianrui Li, Zhiquan Liu
+  title: Enhancing cross-city spatio-temporal prediction via dynamic multi-scale hypergraph
+    learning with domain adversarial training.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/OuyangLZYYZHLL25
+  doi: 10.1016/J.KNOSYS.2025.114352
+  ee: https://doi.org/10.1016/j.knosys.2025.114352
+  url: https://dblp.org/rec/journals/kbs/OuyangLZYYZHLL25
+- author: Youze Wang, Wenbo Hu 0001, Yinpeng Dong, Hanwang Zhang, Hang Su 0006, Richang
+    Hong
+  title: Exploring Transferability of Multimodal Adversarial Samples for Vision-Language
+    Pre-Training Models With Contrastive Learning.
+  venue: IEEE Trans. Multim.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmm/WangHDZSH25
+  doi: 10.1109/TMM.2025.3581811
+  ee: https://doi.org/10.1109/TMM.2025.3581811
+  url: https://dblp.org/rec/journals/tmm/WangHDZSH25
+- author: Wenjie Liu 0008, Fuyou Miao 0001, Xu Wang
+  title: Solving Medical Multi-Label Domain Adaptation via Wasserstein Adversarial
+    Learning with Class-Level Alignment.
+  venue: MICCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/LiuMW25
+  doi: 10.1007/978-3-032-04981-0_54
+  ee: https://doi.org/10.1007/978-3-032-04981-0_54
+  url: https://dblp.org/rec/conf/miccai/LiuMW25
+- author: "Jos\xE9 Teixeira, Pascal Kl\xF6ckner, Diana Montezuma, Melis Erdal Cesur,\
+    \ Jo\xE3o Fraga, Hugo M. Horlings, Jaime S. Cardoso 0001, Sara Pires de Oliveira"
+  title: Leveraging Adversarial Learning for Pathological Fidelity in Virtual Staining.
+  venue: DGM4MICCAI@MICCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/TeixeiraKMCFHCO25
+  doi: 10.1007/978-3-032-05472-2_20
+  ee: https://doi.org/10.1007/978-3-032-05472-2_20
+  url: https://dblp.org/rec/conf/miccai/TeixeiraKMCFHCO25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -26089,6 +26146,17 @@ unsupervised%20domain%20adaptation%20data%20augmentation:
   doi: ''
   ee: https://arxiv.org/abs/2109.12169
   url: https://dblp.org/rec/journals/corr/abs-2109-12169
+- author: Peng Zhao, Jiakun Shi, Ping Ye, Huiting Liu, Xia Ji
+  title: Robust label propagation based on prior-guided cross domain data augmentation
+    for few-shot unsupervised domain adaptation.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhaoSYLJ25
+  doi: 10.1016/J.KNOSYS.2025.114432
+  ee: https://doi.org/10.1016/j.knosys.2025.114432
+  url: https://dblp.org/rec/journals/kbs/ZhaoSYLJ25
 domain%20%feature%alignment:
 - author: Zhongyi Wen, Qiang Li 0017, Yatong Wang, Luyan Xu, Huaizong Shao, Guomin
     Sun
@@ -28878,3 +28946,14 @@ feature%20disentanglement:
   doi: 10.1109/TIM.2025.3547509
   ee: https://doi.org/10.1109/TIM.2025.3547509
   url: https://dblp.org/rec/journals/tim/ZhouZLFWJCM25
+- author: Yu-Hsuan Lin, Hung-Wen Tsai, Meng-Ru Shen, Pau-Choo Chung
+  title: Domain generalization via feature disentanglement with reconstruction for
+    pathology image segmentation.
+  venue: CAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ieeecai/LinTSC23
+  doi: 10.1109/CAI54212.2023.00073
+  ee: https://doi.org/10.1109/CAI54212.2023.00073
+  url: https://dblp.org/rec/conf/ieeecai/LinTSC23
