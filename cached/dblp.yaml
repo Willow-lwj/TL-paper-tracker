@@ -25929,6 +25929,97 @@ Adversarial%20Learning:
   doi: 10.1007/978-3-032-05472-2_20
   ee: https://doi.org/10.1007/978-3-032-05472-2_20
   url: https://dblp.org/rec/conf/miccai/TeixeiraKMCFHCO25
+- author: Leo Hyun Park, Jaeuk Kim, Myung Gyo Oh, Jaewoo Park 0004, Taekyoung Kwon
+    0002
+  title: 'Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep
+    Learning via Adversarial Training.'
+  venue: AISec@CCS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aisec-ws/ParkKOP024
+  doi: 10.1145/3689932.3694765
+  ee: https://doi.org/10.1145/3689932.3694765
+  url: https://dblp.org/rec/conf/aisec-ws/ParkKOP024
+- author: Leo Hyun Park, Jaeuk Kim, Myung Gyo Oh, Jaewoo Park 0004, Taekyoung Kwon
+    0002
+  title: 'Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep
+    Learning via Adversarial Training.'
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2402-12187
+  doi: 10.48550/ARXIV.2402.12187
+  ee: https://doi.org/10.48550/arXiv.2402.12187
+  url: https://dblp.org/rec/journals/corr/abs-2402-12187
+- author: Xiaoling Guo
+  title: Legal framework development through adversarial transfer learning for consumer
+    grievance classification in algorithmic price discrimination contexts.
+  venue: Int. J. Inf. Commun. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijict/Guo25a
+  doi: 10.1504/IJICT.2025.147766
+  ee: https://doi.org/10.1504/IJICT.2025.147766
+  url: https://dblp.org/rec/journals/ijict/Guo25a
+- author: Lijun Zhang, Xiao Liu 0030, Kaleel Mahmood, Caiwen Ding, Hui Guan
+  title: Attacking all tasks at once using adversarial examples in multi-task learning.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ZhangLMDG25
+  doi: 10.1016/J.NEUCOM.2025.131503
+  ee: https://doi.org/10.1016/j.neucom.2025.131503
+  url: https://dblp.org/rec/journals/ijon/ZhangLMDG25
+- author: Xiaocao Ouyang, Yanhua Li, Jie Zhang, Xin Yang 0012, Yan Yang 0001, Junbo
+    Zhang 0004, Wei Huang 0037, Tianrui Li 0001, Zhiquan Liu
+  title: Enhancing cross-city spatio-temporal prediction via dynamic multi-scale hypergraph
+    learning with domain adversarial training.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/OuyangLZYYZHLL25
+  doi: 10.1016/J.KNOSYS.2025.114352
+  ee: https://doi.org/10.1016/j.knosys.2025.114352
+  url: https://dblp.org/rec/journals/kbs/OuyangLZYYZHLL25
+- author: Anjum Iqbal, Weiqiang Kong, Yasir Iqbal, Umer Sadiq Khan, Shah Fahad Khan,
+    Ijaz Hussain
+  title: Enhancing fast adversarial training with momentum-driven initialization and
+    max-norm regularization for robust deep learning models.
+  venue: Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/IqbalKIKKH25
+  doi: 10.1007/S00371-025-04113-2
+  ee: https://doi.org/10.1007/s00371-025-04113-2
+  url: https://dblp.org/rec/journals/vc/IqbalKIKKH25
+- author: Amirmohammad Bamdad, Ali Owfi, Fatemeh Afghah
+  title: Adaptive Meta-learning-based Adversarial Training for Robust Automatic Modulation
+    Classification.
+  venue: ICC Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/BamdadOA25
+  doi: 10.1109/ICCWORKSHOPS67674.2025.11162364
+  ee: https://doi.org/10.1109/ICCWorkshops67674.2025.11162364
+  url: https://dblp.org/rec/conf/icc/BamdadOA25
+- author: Hao Jian Huang, Hakan T. Otal, Muhammed Abdullah Canbaz
+  title: 'Federated Learning in Adversarial Environments: Testbed Design and Poisoning
+    Resilience in Cybersecurity.'
+  venue: ICC Workshops
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/HuangOC25
+  doi: 10.1109/ICCWORKSHOPS67674.2025.11162297
+  ee: https://doi.org/10.1109/ICCWorkshops67674.2025.11162297
+  url: https://dblp.org/rec/conf/icc/HuangOC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -28957,3 +29048,13 @@ feature%20disentanglement:
   doi: 10.1109/CAI54212.2023.00073
   ee: https://doi.org/10.1109/CAI54212.2023.00073
   url: https://dblp.org/rec/conf/ieeecai/LinTSC23
+- author: Jiafeng Li, Mengxun Zhi, Yongyu Zheng, Li Zhuo 0001, Jing Zhang
+  title: Coarse-to-fine domain adaptation object detection with feature disentanglement.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/LiZZZZ25
+  doi: 10.1007/S13042-025-02586-0
+  ee: https://doi.org/10.1007/s13042-025-02586-0
+  url: https://dblp.org/rec/journals/mlc/LiZZZZ25
