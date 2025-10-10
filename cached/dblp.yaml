@@ -26084,6 +26084,28 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.01235
   ee: https://doi.org/10.48550/arXiv.2509.01235
   url: https://dblp.org/rec/journals/corr/abs-2509-01235
+- author: Fengling Li 0001, Tianshi Wang 0001, Lei Zhu 0002, Jingjing Li 0001, Heng
+    Tao Shen
+  title: 'Attack as Defense: Proactive Adversarial Multi-Modal Learning to Evade Retrieval.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LiWZLS25
+  doi: 10.1109/TPAMI.2025.3546334
+  ee: https://doi.org/10.1109/TPAMI.2025.3546334
+  url: https://dblp.org/rec/journals/pami/LiWZLS25
+- author: Oliver Werthwein, Constantin Kronbichler, Marc Schroth, Wilhelm Stork
+  title: Enhancing Automated Feedback for Fitness Exercises Using Pose Estimation
+    and Semi-Supervised Generative Adversarial Learning.
+  venue: CAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ieeecai/WerthweinKSS25
+  doi: 10.1109/CAI64502.2025.00138
+  ee: https://doi.org/10.1109/CAI64502.2025.00138
+  url: https://dblp.org/rec/conf/ieeecai/WerthweinKSS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
