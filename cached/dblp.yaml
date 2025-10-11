@@ -26106,6 +26106,51 @@ Adversarial%20Learning:
   doi: 10.1109/CAI64502.2025.00138
   ee: https://doi.org/10.1109/CAI64502.2025.00138
   url: https://dblp.org/rec/conf/ieeecai/WerthweinKSS25
+- author: Chengsheng Yuan 0001, Yifei Chen 0013, Zhili Zhou 0001, Zhihua Xia, Yongfeng
+    Huang 0001
+  title: Compressed Domain Invariant Adversarial Representation Learning for Robust
+    Audio Deepfake Detection.
+  venue: IEEE Signal Process. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/spl/YuanCZXH25
+  doi: 10.1109/LSP.2025.3547850
+  ee: https://doi.org/10.1109/LSP.2025.3547850
+  url: https://dblp.org/rec/journals/spl/YuanCZXH25
+- author: Yuchun Han, Weiping Wang 0003, Zhe Qu, Shigeng Zhang
+  title: Tactics and Techniques Text Classification Based on Adversarial Contrastive
+    Learning and Meta-Path.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/HanWQZ25
+  doi: 10.1109/TIFS.2025.3609218
+  ee: https://doi.org/10.1109/TIFS.2025.3609218
+  url: https://dblp.org/rec/journals/tifs/HanWQZ25
+- author: Rongyao Cai, Kexin Zhang 0007, Hanchen Tai, Yang Zhou, Yuanyuan Ding, Chunlin
+    Zhou, Yong Liu 0007
+  title: Adversarial Multimodal Contrastive Learning for Robust Industrial Fault Diagnosis.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/CaiZTZDZL25
+  doi: 10.1109/TIM.2025.3608323
+  ee: https://doi.org/10.1109/TIM.2025.3608323
+  url: https://dblp.org/rec/journals/tim/CaiZTZDZL25
+- author: Yu Liu 0021, Jingyang Hu, Hongbo Jiang 0001, Kehua Yang, Wei Zhang, Zheng
+    Qin 0001
+  title: 'CSID: Enhancing Wi-Fi Based Gait Recognition via Adversarial Learning.'
+  venue: IEEE Trans. Mob. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmc/LiuHJYZQ25
+  doi: 10.1109/TMC.2025.3583946
+  ee: https://doi.org/10.1109/TMC.2025.3583946
+  url: https://dblp.org/rec/journals/tmc/LiuHJYZQ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
