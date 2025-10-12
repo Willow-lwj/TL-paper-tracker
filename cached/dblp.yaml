@@ -3571,6 +3571,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/ICRA55743.2025.11128281
   ee: https://doi.org/10.1109/ICRA55743.2025.11128281
   url: https://dblp.org/rec/conf/icra/ShiHLLZSCZ25
+- author: Li Ma 0005, Yichen Yang, Guichen Wang, Zhaokui Li, Weiwei Sun 0005, Qian
+    Du 0001
+  title: Open-Set Domain Adaptation for Hyperspectral Image Classification Based on
+    Reconstruction Discrepancy and Feature Alignment.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/MaYWLSD25
+  doi: 10.1109/JSTARS.2025.3604868
+  ee: https://doi.org/10.1109/JSTARS.2025.3604868
+  url: https://dblp.org/rec/journals/staeors/MaYWLSD25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -26142,6 +26154,61 @@ Adversarial%20Learning:
   url: https://dblp.org/rec/journals/tim/CaiZTZDZL25
 - author: Yu Liu 0021, Jingyang Hu, Hongbo Jiang 0001, Kehua Yang, Wei Zhang, Zheng
     Qin 0001
+  title: 'CSID: Enhancing Wi-Fi Based Gait Recognition via Adversarial Learning.'
+  venue: IEEE Trans. Mob. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmc/LiuHJYZQ25
+  doi: 10.1109/TMC.2025.3583946
+  ee: https://doi.org/10.1109/TMC.2025.3583946
+  url: https://dblp.org/rec/journals/tmc/LiuHJYZQ25
+- author: Kamal Basulaiman, Faisal Albeladi, Faisal M. Almutairi, Ahmed Saeed 0007,
+    Masoud Barati
+  title: 'LBSCA: Learning Real-Time Power System State Estimation Under Hidden Adversarial
+    Attacks.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/BasulaimanAASB25
+  doi: 10.1109/ACCESS.2025.3610609
+  ee: https://doi.org/10.1109/ACCESS.2025.3610609
+  url: https://dblp.org/rec/journals/access/BasulaimanAASB25
+- author: P. Navaneethakrishnan, Smitha Elsa Peter, Sishaj P. Simon, M. Irshad Ahamed
+  title: Meta-learning Enabled Score-Based Generative Adversarial Networks (GANs).
+  venue: Int. J. Comput. Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcisys/NavaneethakrishnanPSA25
+  doi: 10.1007/S44196-025-00933-1
+  ee: https://doi.org/10.1007/s44196-025-00933-1
+  url: https://dblp.org/rec/journals/ijcisys/NavaneethakrishnanPSA25
+- author: Tharindu Lakshan Yasarathna, Nhien-An Le-Khac
+  title: 'SoK: Systematic analysis of adversarial threats against deep learning approaches
+    for autonomous anomaly detection systems in SDN-IoT networks.'
+  venue: J. Inf. Secur. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/istr/YasarathnaL25
+  doi: 10.1016/J.JISA.2025.104220
+  ee: https://doi.org/10.1016/j.jisa.2025.104220
+  url: https://dblp.org/rec/journals/istr/YasarathnaL25
+- author: Yi Wang, Weiwei Sun 0005, Xiangchao Meng, Gang Yang 0006, Yuxian Wang
+  title: A Classifier Adaptation and Adversarial Learning Joint Framework for Cross-Scene
+    Coastal Wetland Mapping on Hyperspectral Imagery.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/WangSMYW25
+  doi: 10.1109/JSTARS.2025.3603628
+  ee: https://doi.org/10.1109/JSTARS.2025.3603628
+  url: https://dblp.org/rec/journals/staeors/WangSMYW25
+- author: Yu Liu 0021, Jingyang Hu, Hongbo Jiang 0001, Kehua Yang, Wei Zhang 0074,
+    Zheng Qin 0001
   title: 'CSID: Enhancing Wi-Fi Based Gait Recognition via Adversarial Learning.'
   venue: IEEE Trans. Mob. Comput.
   year: '2025'
