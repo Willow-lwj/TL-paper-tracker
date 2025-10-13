@@ -26218,6 +26218,40 @@ Adversarial%20Learning:
   doi: 10.1109/TMC.2025.3583946
   ee: https://doi.org/10.1109/TMC.2025.3583946
   url: https://dblp.org/rec/journals/tmc/LiuHJYZQ25
+- author: Cheng-Kai Yeh, Hsing-Wang Lee, Chung-Hung Kuo, Hen-Hsen Huang
+  title: 'AR2: Adversarial Reinforcement Learning for Abstract Reasoning in Large
+    Language Models.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-03537
+  doi: 10.48550/ARXIV.2509.03537
+  ee: https://doi.org/10.48550/arXiv.2509.03537
+  url: https://dblp.org/rec/journals/corr/abs-2509-03537
+- author: Arturo Flores Alvarez, Fatemeh Zargarbashi, Havel Liu, Shiqi Wang, Liam
+    Edwards, Jessica Anz, Alex Xu, Fan Shi, Stelian Coros, Dennis W. Hong
+  title: 'Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically
+    Constrained Humanoids.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-05581
+  doi: 10.48550/ARXIV.2509.05581
+  ee: https://doi.org/10.48550/arXiv.2509.05581
+  url: https://dblp.org/rec/journals/corr/abs-2509-05581
+- author: Yuanyuan Wu, Zhenlin Qin, Leizhen Wang, Xiaolei Ma, Zhenliang Ma
+  title: Group Effect Enhanced Generative Adversarial Imitation Learning for Individual
+    Travel Behavior Modeling under Incentives.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-06656
+  doi: 10.48550/ARXIV.2509.06656
+  ee: https://doi.org/10.48550/arXiv.2509.06656
+  url: https://dblp.org/rec/journals/corr/abs-2509-06656
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -29266,3 +29300,14 @@ feature%20disentanglement:
   doi: 10.1007/S13042-025-02586-0
   ee: https://doi.org/10.1007/s13042-025-02586-0
   url: https://dblp.org/rec/journals/mlc/LiZZZZ25
+- author: Yao Fu 0009, Biao Huang 0013, Yujun Wen, Pengzhou Zhang
+  title: 'FDR-MSA: Enhancing multimodal sentiment analysis through feature disentanglement
+    and reconstruction.'
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/kbs/FuHWZ24
+  doi: 10.1016/J.KNOSYS.2024.111965
+  ee: https://doi.org/10.1016/j.knosys.2024.111965
+  url: https://dblp.org/rec/journals/kbs/FuHWZ24
