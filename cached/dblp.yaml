@@ -26252,6 +26252,29 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.06656
   ee: https://doi.org/10.48550/arXiv.2509.06656
   url: https://dblp.org/rec/journals/corr/abs-2509-06656
+- author: Arturo Flores Alvarez, Fatemeh Zargarbashi, Havel Liu, Shiqi Wang, Liam
+    Edwards, Jessica Anz, Alex Xu, Fan Shi 0002, Stelian Coros, Dennis W. Hong
+  title: 'Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically
+    Constrained Humanoids.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-05581
+  doi: 10.48550/ARXIV.2509.05581
+  ee: https://doi.org/10.48550/arXiv.2509.05581
+  url: https://dblp.org/rec/journals/corr/abs-2509-05581
+- author: Kai Tan 0007, Dongyang Zhan, Lin Ye, Hongli Zhang 0001, Binxing Fang
+  title: A Practical Adversarial Attack against Sequence-based Deep Learning Malware
+    Classifiers.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-11836
+  doi: 10.48550/ARXIV.2509.11836
+  ee: https://doi.org/10.48550/arXiv.2509.11836
+  url: https://dblp.org/rec/journals/corr/abs-2509-11836
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
