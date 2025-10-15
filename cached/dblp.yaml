@@ -26275,6 +26275,41 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.11836
   ee: https://doi.org/10.48550/arXiv.2509.11836
   url: https://dblp.org/rec/journals/corr/abs-2509-11836
+- author: Zhouhong Gu, Xingzhou Chen, Xiaoran Shi, Tao Wang, Suhang Zheng, Tianyu
+    Li 0007, Hongwei Feng, Yanghua Xiao
+  title: 'GAPO: Learning Preferential Prompt through Generative Adversarial Policy
+    Optimization.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/GuCSWZLFX25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.13/
+  url: https://dblp.org/rec/conf/acl/GuCSWZLFX25
+- author: Zhouhong Gu, Xingzhou Chen, Xiaoran Shi, Tao Wang, Suhang Zheng, Tianyu
+    Li 0007, Hongwei Feng, Yanghua Xiao
+  title: 'GAPO: Learning Preferential Prompt through Generative Adversarial Policy
+    Optimization.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-20194
+  doi: 10.48550/ARXIV.2503.20194
+  ee: https://doi.org/10.48550/arXiv.2503.20194
+  url: https://dblp.org/rec/journals/corr/abs-2503-20194
+- author: Archisman Ghosh 0001, Satwik Kundu, Swaroop Ghosh
+  title: 'Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and
+    Defenses.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-21842
+  doi: 10.48550/ARXIV.2506.21842
+  ee: https://doi.org/10.48550/arXiv.2506.21842
+  url: https://dblp.org/rec/journals/corr/abs-2506-21842
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
