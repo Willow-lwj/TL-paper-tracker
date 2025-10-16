@@ -26310,6 +26310,28 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.21842
   ee: https://doi.org/10.48550/arXiv.2506.21842
   url: https://dblp.org/rec/journals/corr/abs-2506-21842
+- author: Xuan Feng 0002, Tianlong Gu, Xiaoli Liu, Liang Chang 0003
+  title: 'Learning from Mistakes: Self-correct Adversarial Training for Chinese Unnatural
+    Text Correction.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/FengGL025
+  doi: 10.1609/AAAI.V39I22.34561
+  ee: https://doi.org/10.1609/aaai.v39i22.34561
+  url: https://dblp.org/rec/conf/aaai/FengGL025
+- author: Xiaoming Chen 0006, Dehao Han, Qiang Qu 0004, Yiran Shen 0001
+  title: 'VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via
+    Adversarial Learning with Visual Field Attention.'
+  venue: VR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/vr/ChenHQ025
+  doi: 10.1109/VR59515.2025.00066
+  ee: https://doi.org/10.1109/VR59515.2025.00066
+  url: https://dblp.org/rec/conf/vr/ChenHQ025
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
