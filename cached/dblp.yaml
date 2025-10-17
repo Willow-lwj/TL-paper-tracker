@@ -26332,6 +26332,28 @@ Adversarial%20Learning:
   doi: 10.1109/VR59515.2025.00066
   ee: https://doi.org/10.1109/VR59515.2025.00066
   url: https://dblp.org/rec/conf/vr/ChenHQ025
+- author: Collin Guo
+  title: 'From Autoencoders to CycleGAN: Robust Unpaired Face Manipulation via Adversarial
+    Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-12176
+  doi: 10.48550/ARXIV.2509.12176
+  ee: https://doi.org/10.48550/arXiv.2509.12176
+  url: https://dblp.org/rec/journals/corr/abs-2509-12176
+- author: Artem Savkin, Thomas Lapotre, Kevin Strauss, Uzair Akbar, Federico Tombari
+  title: Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition
+    in Autonomous Driving.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-13507
+  doi: 10.48550/ARXIV.2509.13507
+  ee: https://doi.org/10.48550/arXiv.2509.13507
+  url: https://dblp.org/rec/journals/corr/abs-2509-13507
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
