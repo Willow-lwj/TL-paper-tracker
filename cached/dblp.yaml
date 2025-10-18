@@ -26354,6 +26354,74 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.13507
   ee: https://doi.org/10.48550/arXiv.2509.13507
   url: https://dblp.org/rec/journals/corr/abs-2509-13507
+- author: Shuaiyan Li, Xiaorui Wang, Yuchen Zhu, Jingxuan Ge, Donghai Zhao, Hongxia
+    Xu, Tingjun Hou, Chang-Yu Hsieh
+  title: 'PepBAN: A Deep Learning Framework with Bilinear Attention and Adversarial
+    Learning for Peptide-Protein Interaction Prediction.'
+  venue: J. Chem. Inf. Model.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jcisd/LiWZGZXHH25
+  doi: 10.1021/ACS.JCIM.5C01713
+  ee: https://doi.org/10.1021/acs.jcim.5c01713
+  url: https://dblp.org/rec/journals/jcisd/LiWZGZXHH25
+- author: Azizi Ariffin, Faiz Zaki, Hazim Hanif, Nor Badrul Anuar
+  title: Adversarial attack and defence of federated learning-based network traffic
+    classification in edge computing environment.
+  venue: Comput. Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cn/AriffinZHA25
+  doi: 10.1016/J.COMNET.2025.111739
+  ee: https://doi.org/10.1016/j.comnet.2025.111739
+  url: https://dblp.org/rec/journals/cn/AriffinZHA25
+- author: Peihao Dong, Jingchun Wang, Shen Gao, Fuhui Zhou, Qihui Wu 0001
+  title: Explainable Deep-Learning-Based Adversarial Defense for Automatic Modulation
+    Classification.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/DongWGZW25
+  doi: 10.1109/JIOT.2025.3593034
+  ee: https://doi.org/10.1109/JIOT.2025.3593034
+  url: https://dblp.org/rec/journals/iotj/DongWGZW25
+- author: Hantao Zhao, Zhihao Liang, Tianxing Ma, Xiaomeng Shi, Mubbasir Kapadia,
+    Tyler Thrash, Christoph Hoelscher, Jinyuan Jia 0002, Bo Liu 0004, Jiuxin Cao
+  title: Adversarial Reinforcement Learning for Enhanced Decision-Making of Evacuation
+    Guidance Robots in Intelligent Fire Scenarios.
+  venue: IEEE Trans. Comput. Soc. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcss/ZhaoLMSKTHJLC25
+  doi: 10.1109/TCSS.2024.3502420
+  ee: https://doi.org/10.1109/TCSS.2024.3502420
+  url: https://dblp.org/rec/journals/tcss/ZhaoLMSKTHJLC25
+- author: Dazhi Zhan, Xin Liu 0042, Wei Bai, Wei Li, Shize Guo, Zhisong Pan
+  title: 'GAME-RL: Generating Adversarial Malware Examples Against API Call Based
+    Detection via Reinforcement Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/ZhanLBLGP25
+  doi: 10.1109/TDSC.2025.3566708
+  ee: https://doi.org/10.1109/TDSC.2025.3566708
+  url: https://dblp.org/rec/journals/tdsc/ZhanLBLGP25
+- author: Yuqing Yang, Anh Nguyen 0011, Zhisheng Yan
+  title: 'A Patch Can Disrupt Live Video Streaming: Physical Adversarial Attacks on
+    Deep Learning Compression.'
+  venue: ACM Trans. Multim. Comput. Commun. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tomccap/YangNY25
+  doi: 10.1145/3750047
+  ee: https://doi.org/10.1145/3750047
+  url: https://dblp.org/rec/journals/tomccap/YangNY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
