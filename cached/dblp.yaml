@@ -3583,6 +3583,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2025.3604868
   ee: https://doi.org/10.1109/JSTARS.2025.3604868
   url: https://dblp.org/rec/journals/staeors/MaYWLSD25
+- author: Qi Zhen, Xiangrong Zhang, Zhenyu Li, Biao Hou, Xu Tang 0004, Li Gao, Licheng
+    Jiao
+  title: Few-Shot Hyperspectral Image Classification Based on Domain Adaptation of
+    Class Balance.
+  venue: IGARSS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/igarss/ZhenZLHTGJ22
+  doi: 10.1109/IGARSS46834.2022.9883302
+  ee: https://doi.org/10.1109/IGARSS46834.2022.9883302
+  url: https://dblp.org/rec/conf/igarss/ZhenZLHTGJ22
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -26422,6 +26434,17 @@ Adversarial%20Learning:
   doi: 10.1145/3750047
   ee: https://doi.org/10.1145/3750047
   url: https://dblp.org/rec/journals/tomccap/YangNY25
+- author: Dazhi Zhan, Xin Liu 0042, Wei Bai, Wei Li 0116, Shize Guo, Zhisong Pan
+  title: 'GAME-RL: Generating Adversarial Malware Examples Against API Call Based
+    Detection via Reinforcement Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/ZhanLBLGP25
+  doi: 10.1109/TDSC.2025.3566708
+  ee: https://doi.org/10.1109/TDSC.2025.3566708
+  url: https://dblp.org/rec/journals/tdsc/ZhanLBLGP25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
