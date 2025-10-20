@@ -26445,6 +26445,117 @@ Adversarial%20Learning:
   doi: 10.1109/TDSC.2025.3566708
   ee: https://doi.org/10.1109/TDSC.2025.3566708
   url: https://dblp.org/rec/journals/tdsc/ZhanLBLGP25
+- author: Weixuan Wang, Minghao Wu, Barry Haddow, Alexandra Birch
+  title: 'Learning to Summarize by Learning to Quiz: Adversarial Agentic Collaboration
+    for Long Document Summarization.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-20900
+  doi: 10.48550/ARXIV.2509.20900
+  ee: https://doi.org/10.48550/arXiv.2509.20900
+  url: https://dblp.org/rec/journals/corr/abs-2509-20900
+- author: Xiaokun Luan, Xiyue Zhang 0001, Jingyi Wang 0004, Meng Sun 0002
+  title: Protecting Deep Learning Model Copyrights With Adversarial Example-Free Reuse
+    Detection.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/LuanZWS25
+  doi: 10.1109/TNNLS.2025.3578664
+  ee: https://doi.org/10.1109/TNNLS.2025.3578664
+  url: https://dblp.org/rec/journals/tnn/LuanZWS25
+- author: Abdul Basit 0010, Faisal Naeem, Georges Kaddoum
+  title: Multi-Agent Reinforcement Learning for Resilient Channel Access in Smart
+    Grid Networks Under Intelligent Adversarial Interference.
+  venue: ICC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/BasitNK25
+  doi: 10.1109/ICC52391.2025.11161495
+  ee: https://doi.org/10.1109/ICC52391.2025.11161495
+  url: https://dblp.org/rec/conf/icc/BasitNK25
+- author: Grace Colette Tessa Masse, Abderrahim Benslimane, Vianney Kengne Tchendji,
+    Ahmed H. Anwar Hemida, Zhou Su, Shuai Han 0002
+  title: Deception-Based Defense Against Model Poisoning Attacks in Federated Learning
+    Using Generative Adversarial Network (GAN).
+  venue: ICC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/MasseBTHSH25
+  doi: 10.1109/ICC52391.2025.11161880
+  ee: https://doi.org/10.1109/ICC52391.2025.11161880
+  url: https://dblp.org/rec/conf/icc/MasseBTHSH25
+- author: John Richeson, Salma Aboelmagd, Umair Mughal, Abdulrahman Takiddin, Muhammad
+    Ismail 0001
+  title: Ensemble Learning-Based Intrusion Detection System for Aerial Base Stations
+    Against Adversarial Evasion Attacks.
+  venue: ICC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/RichesonAMTI25
+  doi: 10.1109/ICC52391.2025.11160712
+  ee: https://doi.org/10.1109/ICC52391.2025.11160712
+  url: https://dblp.org/rec/conf/icc/RichesonAMTI25
+- author: Quazi Mamun, Md Mehedi Hasan, Tu Dac Ho, Zhenni Pan, Shigeru Shimamoto
+  title: 'Adversarial Attacks on Machine Learning-Based IDS for V2X Networks: A CICIoV2024
+    Study.'
+  venue: VTC2025-Spring
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/vtc/MamunHHPS25
+  doi: 10.1109/VTC2025-SPRING65109.2025.11174733
+  ee: https://doi.org/10.1109/VTC2025-Spring65109.2025.11174733
+  url: https://dblp.org/rec/conf/vtc/MamunHHPS25
+- author: Dongyang Zhan, Kai Tan 0007, Lin Ye, Xiangzhan Yu, Hongli Zhang, Zheng He
+  title: An Adversarial Robust Behavior Sequence Anomaly Detection Approach Based
+    on Critical Behavior Unit Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-15756
+  doi: 10.48550/ARXIV.2509.15756
+  ee: https://doi.org/10.48550/arXiv.2509.15756
+  url: https://dblp.org/rec/journals/corr/abs-2509-15756
+- author: Zhangqi Jiang, Tingjin Luo, Xu Yang, Xinyan Liang
+  title: Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning
+    with Tensorial Imputation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-15955
+  doi: 10.48550/ARXIV.2509.15955
+  ee: https://doi.org/10.48550/arXiv.2509.15955
+  url: https://dblp.org/rec/journals/corr/abs-2509-15955
+- author: "Saeid Sheikhi, Panos Kostakos 0001, Lauri Lov\xE9n"
+  title: 'Hybrid Reputation Aggregation: A Robust Defense Mechanism for Adversarial
+    Federated Learning in 5G and Edge Network Environments.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-18044
+  doi: 10.48550/ARXIV.2509.18044
+  ee: https://doi.org/10.48550/arXiv.2509.18044
+  url: https://dblp.org/rec/journals/corr/abs-2509-18044
+- author: Alexander Robey
+  title: Algorithms for Adversarially Robust Deep Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-19100
+  doi: 10.48550/ARXIV.2509.19100
+  ee: https://doi.org/10.48550/arXiv.2509.19100
+  url: https://dblp.org/rec/journals/corr/abs-2509-19100
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -29504,3 +29615,26 @@ feature%20disentanglement:
   doi: 10.1016/J.KNOSYS.2024.111965
   ee: https://doi.org/10.1016/j.knosys.2024.111965
   url: https://dblp.org/rec/journals/kbs/FuHWZ24
+- author: Han Liu, Yi Li, Biplab Sikdar
+  title: 'GenFi: Enhancing WiFi-Based Human Activity Recognition to Unseen Scenario
+    Via Feature Disentanglement and Meta-Learning.'
+  venue: ICC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/LiuLS25
+  doi: 10.1109/ICC52391.2025.11161690
+  ee: https://doi.org/10.1109/ICC52391.2025.11161690
+  url: https://dblp.org/rec/conf/icc/LiuLS25
+- author: Fujin Wang, Zhibin Zhao 0002, Zhi Zhai, Yanjie Guo, Huan Xi, Shibin Wang,
+    Xuefeng Chen 0002
+  title: Feature disentanglement and tendency retainment with domain adaptation for
+    Lithium-ion battery capacity estimation.
+  venue: Reliab. Eng. Syst. Saf.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ress/WangZZGXWC23
+  doi: 10.1016/J.RESS.2022.108897
+  ee: https://doi.org/10.1016/j.ress.2022.108897
+  url: https://dblp.org/rec/journals/ress/WangZZGXWC23
