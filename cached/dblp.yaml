@@ -3595,6 +3595,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/IGARSS46834.2022.9883302
   ee: https://doi.org/10.1109/IGARSS46834.2022.9883302
   url: https://dblp.org/rec/conf/igarss/ZhenZLHTGJ22
+- author: Yuxiang Zhang 0005, Wei Li 0032, Wen Jia, Mengmeng Zhang 0005, Ran Tao 0003,
+    Shunlin Liang
+  title: Cross-domain Hyperspectral Image Classification based on Bi-directional Domain
+    Adaptation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-02268
+  doi: 10.48550/ARXIV.2507.02268
+  ee: https://doi.org/10.48550/arXiv.2507.02268
+  url: https://dblp.org/rec/journals/corr/abs-2507-02268
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -26556,6 +26568,86 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.19100
   ee: https://doi.org/10.48550/arXiv.2509.19100
   url: https://dblp.org/rec/journals/corr/abs-2509-19100
+- author: Saniya Zafar, Jonathan White, Phil Legg
+  title: Federated Learning with Adversarial Optimisation for Secure and Efficient
+    5G Edge Computing Networks.
+  venue: Big Data Cogn. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/bdcc/ZafarWL25
+  doi: 10.3390/BDCC9090238
+  ee: https://doi.org/10.3390/bdcc9090238
+  url: https://dblp.org/rec/journals/bdcc/ZafarWL25
+- author: Chuanjun Zhao, Xuzhuang Sun, Xinyi Yang 0007, Lu Kang, Lihua Shen, Jing
+    Gao, Yanjie Wang
+  title: Enhancing multi-source cross-domain sentiment classification with generative
+    adversarial networks and transfer learning.
+  venue: Clust. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cluster/ZhaoSYKSGW25
+  doi: 10.1007/S10586-025-05653-X
+  ee: https://doi.org/10.1007/s10586-025-05653-x
+  url: https://dblp.org/rec/journals/cluster/ZhaoSYKSGW25
+- author: Hanxuan Zhang, Ju Huo, Yulong Huang 0003, Jiajun Cheng, Xiaofeng Li 0010
+  title: Perception-Aware-Based UAV Trajectory Planner via Generative Adversarial
+    Self-Imitation Learning From Demonstrations.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ZhangHHCL25
+  doi: 10.1109/JIOT.2024.3477450
+  ee: https://doi.org/10.1109/JIOT.2024.3477450
+  url: https://dblp.org/rec/journals/iotj/ZhangHHCL25
+- author: Bo She, Fangyin Tan, Yang Zhao, Haidi Dong
+  title: Open-set domain adaptation fusion method based on weighted adversarial learning
+    for machinery fault diagnosis.
+  venue: J. Intell. Manuf.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jim/SheTZD25
+  doi: 10.1007/S10845-024-02496-Y
+  ee: https://doi.org/10.1007/s10845-024-02496-y
+  url: https://dblp.org/rec/journals/jim/SheTZD25
+- author: Yizhe Yuan, Bingsen Xue, Bangzheng Pu, Chengxiang Wang 0004, Cheng Jin 0005
+  title: PRINTER:Deformation-Aware Adversarial Learning for Virtual IHC Staining with
+    In Situ Fidelity.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-01214
+  doi: 10.48550/ARXIV.2509.01214
+  ee: https://doi.org/10.48550/arXiv.2509.01214
+  url: https://dblp.org/rec/journals/corr/abs-2509-01214
+- author: Arturo Flores Alvarez, Fatemeh Zargarbashi, Havel Liu, Shiqi Wang 0033,
+    Liam Edwards, Jessica Anz, Alex Xu, Fan Shi 0002, Stelian Coros, Dennis W. Hong
+  title: 'Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically
+    Constrained Humanoids.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-05581
+  doi: 10.48550/ARXIV.2509.05581
+  ee: https://doi.org/10.48550/arXiv.2509.05581
+  url: https://dblp.org/rec/journals/corr/abs-2509-05581
+- author: Dongyang Zhan, Kai Tan 0007, Lin Ye, Xiangzhan Yu, Hongli Zhang 0001, Zheng
+    He
+  title: An Adversarial Robust Behavior Sequence Anomaly Detection Approach Based
+    on Critical Behavior Unit Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-15756
+  doi: 10.48550/ARXIV.2509.15756
+  ee: https://doi.org/10.48550/arXiv.2509.15756
+  url: https://dblp.org/rec/journals/corr/abs-2509-15756
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -29638,3 +29730,14 @@ feature%20disentanglement:
   doi: 10.1016/J.RESS.2022.108897
   ee: https://doi.org/10.1016/j.ress.2022.108897
   url: https://dblp.org/rec/journals/ress/WangZZGXWC23
+- author: Han Liu, Yi Li, Biplab Sikdar 0001
+  title: 'GenFi: Enhancing WiFi-Based Human Activity Recognition to Unseen Scenario
+    Via Feature Disentanglement and Meta-Learning.'
+  venue: ICC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/LiuLS25
+  doi: 10.1109/ICC52391.2025.11161690
+  ee: https://doi.org/10.1109/ICC52391.2025.11161690
+  url: https://dblp.org/rec/conf/icc/LiuLS25
