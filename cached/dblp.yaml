@@ -26648,6 +26648,116 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.15756
   ee: https://doi.org/10.48550/arXiv.2509.15756
   url: https://dblp.org/rec/journals/corr/abs-2509-15756
+- author: You Zhou, Lijiang Chen, Shuchang Lyu, Guangxia Cui, Wenpei Bai, Zheng Zhou,
+    Meng Li, Guangliang Cheng, Huiyu Zhou 0001, Qi Zhao 0001
+  title: 'Adversarial Versus Federated: An Adversarial Learning based Multi-Modality
+    Cross-Domain Federated Medical Segmentation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-23907
+  doi: 10.48550/ARXIV.2509.23907
+  ee: https://doi.org/10.48550/arXiv.2509.23907
+  url: https://dblp.org/rec/journals/corr/abs-2509-23907
+- author: Sheikh Md. Mushfiqur Rahman, Nasir U. Eisty
+  title: 'Learning-Based Testing for Deep Learning: Enhancing Model Robustness with
+    Adversarial Input Prioritization.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-23961
+  doi: 10.48550/ARXIV.2509.23961
+  ee: https://doi.org/10.48550/arXiv.2509.23961
+  url: https://dblp.org/rec/journals/corr/abs-2509-23961
+- author: Yueyao Li, Bin Wu
+  title: Joint generative and alignment adversarial learning for robust incomplete
+    multi-view clustering.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/LiW26
+  doi: 10.1016/J.NEUNET.2025.108141
+  ee: https://doi.org/10.1016/j.neunet.2025.108141
+  url: https://dblp.org/rec/journals/nn/LiW26
+- author: Yilun Jin, Kun Zhu 0008, Feng Tang, Jiaxuan Shi, Yong Chen 0020
+  title: 'Experience Speaks Louder: Black-box Hard-label Adversarial Attack through
+    Reinforcement Learning.'
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/Jin0TS025
+  doi: 10.1145/3711896.3736946
+  ee: https://doi.org/10.1145/3711896.3736946
+  url: https://dblp.org/rec/conf/kdd/Jin0TS025
+- author: Walid El Maouaki, Nouhaila Innan, Alberto Marchisio, Taoufik Said, Muhammad
+    Shafique 0001, Mohamed Bennai
+  title: 'RobQFL: Robust Quantum Federated Learning in Adversarial Environment.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-04914
+  doi: 10.48550/ARXIV.2509.04914
+  ee: https://doi.org/10.48550/arXiv.2509.04914
+  url: https://dblp.org/rec/journals/corr/abs-2509-04914
+- author: Ning Huang, Zhentao Xie, Qinchuan Li
+  title: Learning Multi-Skill Legged Locomotion Using Conditional Adversarial Motion
+    Priors.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-21810
+  doi: 10.48550/ARXIV.2509.21810
+  ee: https://doi.org/10.48550/arXiv.2509.21810
+  url: https://dblp.org/rec/journals/corr/abs-2509-21810
+- author: "Daniele Foffano, Alessio Russo, Alexandre Prouti\xE8re"
+  title: Adversarial Diffusion for Robust Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-23846
+  doi: 10.48550/ARXIV.2509.23846
+  ee: https://doi.org/10.48550/arXiv.2509.23846
+  url: https://dblp.org/rec/journals/corr/abs-2509-23846
+- author: Inkyu Park, Jeong-Gwan Lee, Taehwan Kwon, Juheon Choi, Seungku Kim, Junsu
+    Kim, Kimin Lee
+  title: Adversarial Reinforcement Learning Framework for ESP Cheater Simulation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-24274
+  doi: 10.48550/ARXIV.2509.24274
+  ee: https://doi.org/10.48550/arXiv.2509.24274
+  url: https://dblp.org/rec/journals/corr/abs-2509-24274
+- author: FaQiang Qian, WeiKun Zhang, Ziliang Wang, Kang An, Xuhui Zheng, Liangjian
+    Wen, Mengya Gao, Yong Dai, Yichao Wu
+  title: 'UniAPL: A Unified Adversarial Preference Learning Framework for Instruct-Following.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-25148
+  doi: 10.48550/ARXIV.2509.25148
+  ee: https://doi.org/10.48550/arXiv.2509.25148
+  url: https://dblp.org/rec/journals/corr/abs-2509-25148
+- author: Tharindu Lakshan Yasarathna, Nhien-An Le-Khac
+  title: 'SoK: Systematic analysis of adversarial threats against deep learning approaches
+    for autonomous anomaly detection systems in SDN-IoT networks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-26350
+  doi: 10.48550/ARXIV.2509.26350
+  ee: https://doi.org/10.48550/arXiv.2509.26350
+  url: https://dblp.org/rec/journals/corr/abs-2509-26350
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -29741,3 +29851,26 @@ feature%20disentanglement:
   doi: 10.1109/ICC52391.2025.11161690
   ee: https://doi.org/10.1109/ICC52391.2025.11161690
   url: https://dblp.org/rec/conf/icc/LiuLS25
+- author: Nana Jia, Zhiao Zhang, Tong Jia
+  title: 'MDSFD-Net: Alzheimer&apos;s disease diagnosis with missing modality via
+    disentanglement learning and feature distillation.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/JiaZJ26
+  doi: 10.1016/J.NEUNET.2025.108128
+  ee: https://doi.org/10.1016/j.neunet.2025.108128
+  url: https://dblp.org/rec/journals/nn/JiaZJ26
+- author: Cao Qin, Yunzhou Zhang, Yingda Liu, Delong Zhu 0001, Sonya A. Coleman, Dermot
+    Kerr
+  title: Structure-Aware Feature Disentanglement With Knowledge Transfer for Appearance-Changing
+    Place Recognition.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/QinZLZCK23
+  doi: 10.1109/TNNLS.2021.3105175
+  ee: https://doi.org/10.1109/TNNLS.2021.3105175
+  url: https://dblp.org/rec/journals/tnn/QinZLZCK23
