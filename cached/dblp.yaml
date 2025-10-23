@@ -26758,6 +26758,41 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.26350
   ee: https://doi.org/10.48550/arXiv.2509.26350
   url: https://dblp.org/rec/journals/corr/abs-2509-26350
+- author: Junjie Huang, Qi Cao 0005, Ruobing Xie, Shaoliang Zhang, Feng Xia 0006,
+    Huawei Shen, Xueqi Cheng
+  title: Adversarial Learning Data Augmentation for Graph Contrastive Learning in
+    Recommendation.
+  venue: DASFAA
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dasfaa/HuangCXZXSC23
+  doi: 10.1007/978-3-031-30672-3_25
+  ee: https://doi.org/10.1007/978-3-031-30672-3_25
+  url: https://dblp.org/rec/conf/dasfaa/HuangCXZXSC23
+- author: Junjie Huang, Qi Cao 0005, Ruobing Xie, Shaoliang Zhang, Feng Xia 0006,
+    Huawei Shen, Xueqi Cheng
+  title: Adversarial Learning Data Augmentation for Graph Contrastive Learning in
+    Recommendation.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-02317
+  doi: 10.48550/ARXIV.2302.02317
+  ee: https://doi.org/10.48550/arXiv.2302.02317
+  url: https://dblp.org/rec/journals/corr/abs-2302-02317
+- author: Naipunnya Raj, Rajiv Sangle, Avinash Singh, Krishna Kumar Sabapathy
+  title: 'Quantum Generative Adversarial Autoencoders: Learning latent representations
+    for quantum data generation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2509-16186
+  doi: 10.48550/ARXIV.2509.16186
+  ee: https://doi.org/10.48550/arXiv.2509.16186
+  url: https://dblp.org/rec/journals/corr/abs-2509-16186
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
