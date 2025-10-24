@@ -29909,3 +29909,14 @@ feature%20disentanglement:
   doi: 10.1109/TNNLS.2021.3105175
   ee: https://doi.org/10.1109/TNNLS.2021.3105175
   url: https://dblp.org/rec/journals/tnn/QinZLZCK23
+- author: Xiaogang Zhu 0003, Bo Lin, Xinan He, Jianfeng Xu, Feng Ding 0007
+  title: 'TMFD: Two-Stage Meta-learning Feature Disentanglement Framework for DeepFake
+    Detection.'
+  venue: IJCB
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icb/0001LHX024
+  doi: 10.1109/IJCB62174.2024.10744435
+  ee: https://doi.org/10.1109/IJCB62174.2024.10744435
+  url: https://dblp.org/rec/conf/icb/0001LHX024
