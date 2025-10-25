@@ -26793,6 +26793,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.16186
   ee: https://doi.org/10.48550/arXiv.2509.16186
   url: https://dblp.org/rec/journals/corr/abs-2509-16186
+- author: Stephanie Ness
+  title: 'Enhancing Remaining Useful Life Prediction Against Adversarial Attacks:
+    An Active Learning Approach.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/Ness25d
+  doi: 10.1109/ACCESS.2025.3611453
+  ee: https://doi.org/10.1109/ACCESS.2025.3611453
+  url: https://dblp.org/rec/journals/access/Ness25d
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
