@@ -3607,6 +3607,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2507.02268
   ee: https://doi.org/10.48550/arXiv.2507.02268
   url: https://dblp.org/rec/journals/corr/abs-2507-02268
+- author: Chunhui Zhao 0003, Boao Qin, Shou Feng, Wenxiang Zhu, Lifu Zhang 0002, Jinchang
+    Ren
+  title: An Unsupervised Domain Adaptation Method Towards Multi-Level Features and
+    Decision Boundaries for Cross-Scene Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhaoQFZZR22
+  doi: 10.1109/TGRS.2022.3230378
+  ee: https://doi.org/10.1109/tgrs.2022.3230378
+  url: https://dblp.org/rec/journals/tgrs/ZhaoQFZZR22
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -26828,6 +26840,40 @@ Adversarial%20Learning:
   doi: 10.5555/3709347.3744021
   ee: https://dl.acm.org/doi/10.5555/3709347.3744021
   url: https://dblp.org/rec/conf/ifaamas/YaoCYCZW25
+- author: Hao Shen 0001, Jiacheng Wu, Jing Wang, Zhengguang Wu
+  title: 'Adversarial dynamic games for Markov jump systems: A policy iteration Q-learning
+    method.'
+  venue: Autom.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/automatica/ShenWWW26
+  doi: 10.1016/J.AUTOMATICA.2025.112591
+  ee: https://doi.org/10.1016/j.automatica.2025.112591
+  url: https://dblp.org/rec/journals/automatica/ShenWWW26
+- author: Yue Zhao, Farhan Ullah 0001, Chien-Ming Chen 0001, Mohammed Amoon, Saru
+    Kumari
+  title: Efficient malware detection using hybrid approach of transfer learning and
+    generative adversarial examples with image representation.
+  venue: Expert Syst. J. Knowl. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/es/ZhaoUCAK25
+  doi: 10.1111/EXSY.13693
+  ee: https://doi.org/10.1111/exsy.13693
+  url: https://dblp.org/rec/journals/es/ZhaoUCAK25
+- author: Xinyu Cao, Bimal Adhikari, Shangqing Zhao, Jingxian Wu 0001, Yanjun Pan
+    0001
+  title: An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-14109
+  doi: 10.48550/ARXIV.2507.14109
+  ee: https://doi.org/10.48550/arXiv.2507.14109
+  url: https://dblp.org/rec/journals/corr/abs-2507-14109
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -29955,3 +30001,25 @@ feature%20disentanglement:
   doi: 10.1109/IJCB62174.2024.10744435
   ee: https://doi.org/10.1109/IJCB62174.2024.10744435
   url: https://dblp.org/rec/conf/icb/0001LHX024
+- author: Yingfan Cheng, Huabin Wang, Wu Zheng, Xin Li
+  title: 'Illumination and identity feature disentanglement network: Optimizing the
+    performance of finger-vein recognition in outdoor multi-illumination.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ChengWZL26
+  doi: 10.1016/J.PATCOG.2025.112472
+  ee: https://doi.org/10.1016/j.patcog.2025.112472
+  url: https://dblp.org/rec/journals/pr/ChengWZL26
+- author: Zhenyu Kuang, Chuchu He, Yue Huang 0001, Xinghao Ding, Huafeng Li 0001
+  title: Joint Image and Feature Levels Disentanglement for Generalizable Vehicle
+    Re-identification.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/KuangHHDL23
+  doi: 10.1109/TITS.2023.3314213
+  ee: https://doi.org/10.1109/TITS.2023.3314213
+  url: https://dblp.org/rec/journals/tits/KuangHHDL23
