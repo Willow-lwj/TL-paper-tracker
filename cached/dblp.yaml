@@ -26874,6 +26874,175 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2507.14109
   ee: https://doi.org/10.48550/arXiv.2507.14109
   url: https://dblp.org/rec/journals/corr/abs-2507-14109
+- author: Hao Shen 0001, Jiacheng Wu, Jing Wang 0071, Zhengguang Wu
+  title: 'Adversarial dynamic games for Markov jump systems: A policy iteration Q-learning
+    method.'
+  venue: Autom.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/automatica/ShenWWW26
+  doi: 10.1016/J.AUTOMATICA.2025.112591
+  ee: https://doi.org/10.1016/j.automatica.2025.112591
+  url: https://dblp.org/rec/journals/automatica/ShenWWW26
+- author: Jing Yang 0054, Yajie Wan, Su Diao, Osama Alfarraj, Fahad Alblehai, Amr
+    Tolba, Zaffar Ahmed Shaikh, Lip Yee Por, Roohallah Alizadehsani, Yudong Zhang
+  title: Melanoma Detection through Combining Reinforcement Learning, Generative Adversarial
+    Network, and Bayesian Optimization.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/YangWDAATSPAZ26
+  doi: 10.1016/J.BSPC.2025.108668
+  ee: https://doi.org/10.1016/j.bspc.2025.108668
+  url: https://dblp.org/rec/journals/bspc/YangWDAATSPAZ26
+- author: Li Wang, Yiping Gao, Liang Gao, Xinyu Li
+  title: Unseen class feature regeneration adversarial learning method for time-varying
+    cross-domain fault diagnosis.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangGGL26
+  doi: 10.1016/J.ESWA.2025.129938
+  ee: https://doi.org/10.1016/j.eswa.2025.129938
+  url: https://dblp.org/rec/journals/eswa/WangGGL26
+- author: Keon Kim, Yongsuk Choi
+  title: 'Focusing on what humans see: Robustness enhancement through adversarial
+    supervised contrastive learning.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/KimC26
+  doi: 10.1016/J.NEUCOM.2025.131842
+  ee: https://doi.org/10.1016/j.neucom.2025.131842
+  url: https://dblp.org/rec/journals/ijon/KimC26
+- author: Nachuan Ma, Zhengfei Song, Qiang Hu, Xiaoyu Tang, Chengxi Zhang, Rui Fan
+    0001, Lihua Xie 0001
+  title: 'WP-CrackNet: A collaborative adversarial learning framework for end-to-end
+    weakly-supervised road crack detection.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/MaSHTZFX26
+  doi: 10.1016/J.NEUCOM.2025.131845
+  ee: https://doi.org/10.1016/j.neucom.2025.131845
+  url: https://dblp.org/rec/journals/ijon/MaSHTZFX26
+- author: Biao He, Erni Ji, Xiaofen Zong, Zhen Liang, Gan Huang, Li Zhang
+  title: 'GraSTI-ACL: Graph spatial-temporal infomax with adversarial contrastive
+    learning for brain disorders diagnosis based on resting-state fMRI.'
+  venue: Medical Image Anal.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/HeJZLHZ26
+  doi: 10.1016/J.MEDIA.2025.103815
+  ee: https://doi.org/10.1016/j.media.2025.103815
+  url: https://dblp.org/rec/journals/mia/HeJZLHZ26
+- author: Sadredin Hokmi, Pegah Moushaee, Mohammad Haeri
+  title: Perturbation-Controlled Deep Q-Learning With Human-Teaming for Enhancing
+    Adversarial Robustness.
+  venue: IEEE Control. Syst. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/csysl/HokmiMH25
+  doi: 10.1109/LCSYS.2025.3594257
+  ee: https://doi.org/10.1109/LCSYS.2025.3594257
+  url: https://dblp.org/rec/journals/csysl/HokmiMH25
+- author: Rivaldo Mersis Brilianto, George Michael Tampubolon, Dongho Lee, Chul Kim
+  title: Machine learning-driven gerotor profile synthesis and optimization using
+    Conditional Generative Adversarial Networks.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/BriliantoTLK25
+  doi: 10.1016/J.ENGAPPAI.2025.112604
+  ee: https://doi.org/10.1016/j.engappai.2025.112604
+  url: https://dblp.org/rec/journals/eaai/BriliantoTLK25
+- author: Fateme Shahabi Nejad, Mohammad Mehdi Ebadzadeh
+  title: A fast and stable framework for generative adversarial imitation learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/NejadE25
+  doi: 10.1016/J.ENGAPPAI.2025.112460
+  ee: https://doi.org/10.1016/j.engappai.2025.112460
+  url: https://dblp.org/rec/journals/eaai/NejadE25
+- author: Myeonggyun Son, Hyungson Ki
+  title: Transient electrodynamic simulation of laser beam reflection on inclined
+    surfaces using a generative adversarial network-based deep learning model.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/SonK25
+  doi: 10.1016/J.ENGAPPAI.2025.112561
+  ee: https://doi.org/10.1016/j.engappai.2025.112561
+  url: https://dblp.org/rec/journals/eaai/SonK25
+- author: Yue Zhao 0014, Farhan Ullah 0001, Chien-Ming Chen 0001, Mohammed Amoon,
+    Saru Kumari
+  title: Efficient malware detection using hybrid approach of transfer learning and
+    generative adversarial examples with image representation.
+  venue: Expert Syst. J. Knowl. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/es/ZhaoUCAK25
+  doi: 10.1111/EXSY.13693
+  ee: https://doi.org/10.1111/exsy.13693
+  url: https://dblp.org/rec/journals/es/ZhaoUCAK25
+- author: Li Liu 0029, Tao Zhang, Xiaolong Li, Yingchun Wu, Ching-Chun Chang, Anhong
+    Wang, Chin-Chen Chang
+  title: Generative adversarial network with circuitous feature collection for image
+    steganographic cost learning.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiuZLWCWC25
+  doi: 10.1016/J.NEUCOM.2025.131758
+  ee: https://doi.org/10.1016/j.neucom.2025.131758
+  url: https://dblp.org/rec/journals/ijon/LiuZLWCWC25
+- author: Peiming Shi, Yan Zhao, Xuefang Xu, Dongying Han
+  title: A small-sample cross-domain bearing fault diagnosis method based on knowledge-enhanced
+    domain adversarial learning.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ShiZXH25
+  doi: 10.1016/J.NEUCOM.2025.131699
+  ee: https://doi.org/10.1016/j.neucom.2025.131699
+  url: https://dblp.org/rec/journals/ijon/ShiZXH25
+- author: Mohammed A. Chyad, B. B. Zaidan, A. A. Zaidan 0001, Hossein Pilehkouhi,
+    Roqia Aalaa, Sarah Qahtan, Hassan A. AlSattar, Dragan Pamucar 0001, Vladimir Simic
+  title: Exploring adversarial deep learning for fusion in multi-color channel skin
+    detection applications.
+  venue: Inf. Fusion
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/inffus/ChyadZZPAQAPS25
+  doi: 10.1016/J.INFFUS.2024.102632
+  ee: https://doi.org/10.1016/j.inffus.2024.102632
+  url: https://dblp.org/rec/journals/inffus/ChyadZZPAQAPS25
+- author: "Marc Mau\xDFner, Volker Reers"
+  title: Study of robustness of Quantum Machine Learning and its countermeasures against
+    adversarial attacks when facing noise.
+  venue: INFORMATIK
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/gi/MaussnerR25
+  doi: 10.18420/INF2025_157
+  ee: https://doi.org/10.18420/inf2025_157
+  url: https://dblp.org/rec/conf/gi/MaussnerR25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -30023,3 +30192,25 @@ feature%20disentanglement:
   doi: 10.1109/TITS.2023.3314213
   ee: https://doi.org/10.1109/TITS.2023.3314213
   url: https://dblp.org/rec/journals/tits/KuangHHDL23
+- author: Linda Ma, Jia-Xuan Jiang, Shubin Zeng, Yuee Li, Zhong Wang 0006
+  title: Frequency view feature interpolation and disentanglement for single-source
+    domain generalization in retinal vessel segmentation.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/MaJZLW26
+  doi: 10.1016/J.BSPC.2025.108814
+  ee: https://doi.org/10.1016/j.bspc.2025.108814
+  url: https://dblp.org/rec/journals/bspc/MaJZLW26
+- author: Alexander Rakowski, Remo Monti, Viktoriia Huryn, Marta Lemanczyk, Uwe Ohler,
+    Christoph Lippert
+  title: Metadata-guided feature disentanglement for functional genomics.
+  venue: Bioinform.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/bioinformatics/RakowskiMHLOL24
+  doi: 10.1093/BIOINFORMATICS/BTAE403
+  ee: https://doi.org/10.1093/bioinformatics/btae403
+  url: https://dblp.org/rec/journals/bioinformatics/RakowskiMHLOL24
