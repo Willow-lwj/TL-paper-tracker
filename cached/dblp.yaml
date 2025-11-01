@@ -27147,6 +27147,72 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-95-3543-9_17
   ee: https://doi.org/10.1007/978-981-95-3543-9_17
   url: https://dblp.org/rec/conf/icics/ZhangJG25
+- author: Tao Zhang 0125, Chuanzhong Xuan, Zhaohui Tang, Xinyu Gao, Fei Cheng, Suhui
+    Liu
+  title: Cross-domain adversarial learning for forage mapping and alpha-diversity
+    assessment from UAV hyperspectral imagery in desert rangelands.
+  venue: Comput. Electron. Agric.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cea/ZhangXTGCL25
+  doi: 10.1016/J.COMPAG.2025.111001
+  ee: https://doi.org/10.1016/j.compag.2025.111001
+  url: https://dblp.org/rec/journals/cea/ZhangXTGCL25
+- author: Mohammad Yarjanli, Neda Mahdinasab
+  title: 'A Hybrid Deep Learning Model for E-Commerce Recommendations: Sentiment Analysis
+    With Autoencoders and Generative Adversarial Networks.'
+  venue: Int. J. Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/ijis/YarjanliM25
+  doi: 10.1155/INT/3852068
+  ee: https://doi.org/10.1155/int/3852068
+  url: https://dblp.org/rec/journals/ijis/YarjanliM25
+- author: Xueyan Ding, Xiyu Chen, Yixin Sui, Yafei Wang, Jianxin Zhang 0001
+  title: Underwater Image Enhancement Using a Diffusion Model with Adversarial Learning.
+  venue: J. Imaging
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/jimaging/DingCSWZ25
+  doi: 10.3390/JIMAGING11070212
+  ee: https://doi.org/10.3390/jimaging11070212
+  url: https://dblp.org/rec/journals/jimaging/DingCSWZ25
+- author: Junaid Zafar, Vincent Koc, Haroon Zafar
+  title: Dual-Stream Contrastive Latent Learning Generative Adversarial Network for
+    Brain Image Synthesis and Tumor Classification.
+  venue: J. Imaging
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/jimaging/ZafarKZ25
+  doi: 10.3390/JIMAGING11040101
+  ee: https://doi.org/10.3390/jimaging11040101
+  url: https://dblp.org/rec/journals/jimaging/ZafarKZ25
+- author: Ran Zhu, Hongzhe Liu 0002, Mingyu Kang, Wenwu Yu, Jin Zhao
+  title: Adversarial Scenario Generation Integrated Distributionally Robust Deep Reinforcement
+    Learning for Survival of Critical Loads.
+  venue: IEEE Trans. Smart Grid
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tsg/ZhuLKYZ25
+  doi: 10.1109/TSG.2025.3571349
+  ee: https://doi.org/10.1109/TSG.2025.3571349
+  url: https://dblp.org/rec/journals/tsg/ZhuLKYZ25
+- author: Jun Li, Yanwei Xu
+  title: Deep learning models are vulnerable, but adversarial examples are even more
+    vulnerable.
+  venue: Zenodo
+  year: '2025'
+  type: Data and Artifacts
+  access: open
+  key: data/11/LiX25
+  doi: 10.5281/ZENODO.15508744
+  ee: https://doi.org/10.5281/zenodo.15508744
+  url: https://dblp.org/rec/data/11/LiX25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -27365,6 +27431,17 @@ unsupervised%20domain%20adaptation%20data%20augmentation:
   ee: https://arxiv.org/abs/2109.12169
   url: https://dblp.org/rec/journals/corr/abs-2109-12169
 - author: Peng Zhao, Jiakun Shi, Ping Ye, Huiting Liu, Xia Ji
+  title: Robust label propagation based on prior-guided cross domain data augmentation
+    for few-shot unsupervised domain adaptation.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhaoSYLJ25
+  doi: 10.1016/J.KNOSYS.2025.114432
+  ee: https://doi.org/10.1016/j.knosys.2025.114432
+  url: https://dblp.org/rec/journals/kbs/ZhaoSYLJ25
+- author: Peng Zhao, Jiakun Shi, Ping Ye, Huiting Liu 0001, Xia Ji
   title: Robust label propagation based on prior-guided cross domain data augmentation
     for few-shot unsupervised domain adaptation.
   venue: Knowl. Based Syst.
@@ -30329,3 +30406,27 @@ feature%20disentanglement:
   doi: 10.1109/ACCESS.2025.3616770
   ee: https://doi.org/10.1109/ACCESS.2025.3616770
   url: https://dblp.org/rec/journals/access/QinSZS25
+- author: Zhenguang Liu, Xinyang Yu, Ruili Wang, Shuai Ye, Zhe Ma 0002, Jianfeng Dong,
+    Sifeng He, Feng Qian 0006, Xiaobo Zhang, Roger Zimmermann, Lei Yang 0061
+  title: Video Infringement Detection via Feature Disentanglement and Mutual Information
+    Maximization.
+  venue: ACM Multimedia
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/LiuYWYMDHQZZY23
+  doi: 10.1145/3581783.3612002
+  ee: https://doi.org/10.1145/3581783.3612002
+  url: https://dblp.org/rec/conf/mm/LiuYWYMDHQZZY23
+- author: Zhenguang Liu, Xinyang Yu, Ruili Wang, Shuai Ye, Zhe Ma 0002, Jianfeng Dong,
+    Sifeng He, Feng Qian 0006, Xiaobo Zhang, Roger Zimmermann, Lei Yang 0061
+  title: Video Infringement Detection via Feature Disentanglement and Mutual Information
+    Maximization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-06877
+  doi: 10.48550/ARXIV.2309.06877
+  ee: https://doi.org/10.48550/arXiv.2309.06877
+  url: https://dblp.org/rec/journals/corr/abs-2309-06877
