@@ -27452,6 +27452,17 @@ unsupervised%20domain%20adaptation%20data%20augmentation:
   doi: 10.1016/J.KNOSYS.2025.114432
   ee: https://doi.org/10.1016/j.knosys.2025.114432
   url: https://dblp.org/rec/journals/kbs/ZhaoSYLJ25
+- author: Peng Zhao 0010, Jiakun Shi, Ping Ye, Huiting Liu 0001, Xia Ji 0002
+  title: Robust label propagation based on prior-guided cross domain data augmentation
+    for few-shot unsupervised domain adaptation.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhaoSYLJ25
+  doi: 10.1016/J.KNOSYS.2025.114432
+  ee: https://doi.org/10.1016/j.knosys.2025.114432
+  url: https://dblp.org/rec/journals/kbs/ZhaoSYLJ25
 domain%20%feature%alignment:
 - author: Zhongyi Wen, Qiang Li 0017, Yatong Wang, Luyan Xu, Huaizong Shao, Guomin
     Sun
@@ -30430,3 +30441,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2309.06877
   ee: https://doi.org/10.48550/arXiv.2309.06877
   url: https://dblp.org/rec/journals/corr/abs-2309-06877
+- author: Kahim Wong, Jicheng Zhou, Haiwei Wu, Yain-Whar Si, Jiantao Zhou 0001
+  title: 'ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature
+    and Hierarchical Content Disentanglement.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-16397
+  doi: 10.48550/ARXIV.2507.16397
+  ee: https://doi.org/10.48550/arXiv.2507.16397
+  url: https://dblp.org/rec/journals/corr/abs-2507-16397
