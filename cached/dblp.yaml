@@ -3630,6 +3630,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3611972
   ee: https://doi.org/10.1109/TGRS.2025.3611972
   url: https://dblp.org/rec/journals/tgrs/XuWZJL25
+- author: Baocheng Chen, Geng Zhang, Tieqiao Chen, Meng Wang 0038, Jia Liu, Yihao
+    Wang, Renhao Zhang, Siyuan Li, Bingliang Hu
+  title: 'SpectralDINO: Dual Mixture-of-Subspaces Low-Rank Adaptation for Cross-Domain
+    Hyperspectral Image Few-Shot Classification.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ChenZCWLWZLH25
+  doi: 10.1109/TGRS.2025.3617218
+  ee: https://doi.org/10.1109/TGRS.2025.3617218
+  url: https://dblp.org/rec/journals/tgrs/ChenZCWLWZLH25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -27213,6 +27225,29 @@ Adversarial%20Learning:
   doi: 10.5281/ZENODO.15508744
   ee: https://doi.org/10.5281/zenodo.15508744
   url: https://dblp.org/rec/data/11/LiX25
+- author: Biao He, Erni Ji, Xiaofen Zong, Zhen Liang, Gan Huang, Li Zhang
+  title: 'GraSTI-ACL: Graph spatial-temporal infomax with adversarial contrastive
+    learning for brain disorders diagnosis based on resting-state fMRI.'
+  venue: Medical Image Anal.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/mia/HeJZLHZ26
+  doi: 10.1016/J.MEDIA.2025.103815
+  ee: https://doi.org/10.1016/j.media.2025.103815
+  url: https://dblp.org/rec/journals/mia/HeJZLHZ26
+- author: Azizi Ariffin, Faiz Zaki, Hazim Hanif, Nor Badrul Anuar
+  title: Mitigating adversarial attacks in federated learning based network traffic
+    classification applications using secure hierarchical remote attestation and adaptive
+    aggregation framework.
+  venue: PeerJ Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/peerj-cs/AriffinZHA25
+  doi: 10.7717/PEERJ-CS.3215
+  ee: https://doi.org/10.7717/peerj-cs.3215
+  url: https://dblp.org/rec/journals/peerj-cs/AriffinZHA25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
