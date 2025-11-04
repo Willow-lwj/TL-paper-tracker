@@ -3642,6 +3642,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3617218
   ee: https://doi.org/10.1109/TGRS.2025.3617218
   url: https://dblp.org/rec/journals/tgrs/ChenZCWLWZLH25
+- author: Kunhong Wu, Fan Jia 0006, Yahong Han
+  title: 'Domain-specific feature elimination: multi-source domain adaptation for
+    image classification.'
+  venue: Frontiers Comput. Sci.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/fcsc/WuJH23
+  doi: 10.1007/S11704-022-2146-X
+  ee: https://doi.org/10.1007/s11704-022-2146-x
+  url: https://dblp.org/rec/journals/fcsc/WuJH23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
