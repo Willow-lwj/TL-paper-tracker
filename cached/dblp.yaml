@@ -3653,6 +3653,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/S11704-022-2146-X
   ee: https://doi.org/10.1007/s11704-022-2146-x
   url: https://dblp.org/rec/journals/fcsc/WuJH23
+- author: Ke Bi, Zhaokui Li, Yushi Chen 0002, Qian Du 0001, Li Ma 0005, Yan Wang 0087,
+    Zhuoqun Fang, Mingtai Qi
+  title: Open-Set Domain Adaptation for Hyperspectral Image Classification Based on
+    Weighted Generative Adversarial Networks and Dynamic Thresholding.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/BiLCDMWFQ25
+  doi: 10.1109/TGRS.2025.3549951
+  ee: https://doi.org/10.1109/TGRS.2025.3549951
+  url: https://dblp.org/rec/journals/tgrs/BiLCDMWFQ25
+- author: Zhuoqun Fang, Yuexin Yang, Zhaokui Li, Wei Li 0032, Yushi Chen 0002, Li
+    Ma 0005, Qian Du 0001
+  title: Confident Learning-Based Domain Adaptation for Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/FangYLLCMD22
+  doi: 10.1109/TGRS.2022.3166817
+  ee: https://doi.org/10.1109/TGRS.2022.3166817
+  url: https://dblp.org/rec/journals/tgrs/FangYLLCMD22
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -27259,6 +27282,64 @@ Adversarial%20Learning:
   doi: 10.7717/PEERJ-CS.3215
   ee: https://doi.org/10.7717/peerj-cs.3215
   url: https://dblp.org/rec/journals/peerj-cs/AriffinZHA25
+- author: Mingliang Zhou 0001, Wenhao Shen, Xuekai Wei, Jun Luo 0003, Fan Jia 0005,
+    Xu Zhuang, Weijia Jia 0001
+  title: 'Blind Image Quality Assessment: Exploring Content Fidelity Perceptibility
+    via Quality Adversarial Learning.'
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/ZhouSWLJZJ25
+  doi: 10.1007/S11263-024-02338-7
+  ee: https://doi.org/10.1007/s11263-024-02338-7
+  url: https://dblp.org/rec/journals/ijcv/ZhouSWLJZJ25
+- author: Yu-Chen Lai, Wei-Ta Chu
+  title: 'ALSA-UAD: Unsupervised anomaly detection on histopathology images using
+    adversarial learning and simulated anomaly.'
+  venue: J. Vis. Commun. Image Represent.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jvcir/LaiC25
+  doi: 10.1016/J.JVCIR.2025.104601
+  ee: https://doi.org/10.1016/j.jvcir.2025.104601
+  url: https://dblp.org/rec/journals/jvcir/LaiC25
+- author: Wenbo Li, Yang-Yang Dong, Chunxi Dong, Ronghua Guo, Zhiyuan Li
+  title: A Radar Signal Open-Set Deinterleaving Method Based on Laplacian Pyramid
+    Reconstruction and Adversarial Reciprocal Point Learning.
+  venue: IEEE Trans. Aerosp. Electron. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/taes/LiDDGL25
+  doi: 10.1109/TAES.2025.3563145
+  ee: https://doi.org/10.1109/TAES.2025.3563145
+  url: https://dblp.org/rec/journals/taes/LiDDGL25
+- author: Arturo Flores Alvarez, Fatemeh Zargarbashi, Havel Liu, Shiqi Wang 0033,
+    Liam Edwards, Jessica Anz, Alex Xu, Fan Shi 0002, Stelian Coros, Dennis W. Hong
+  title: 'Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically
+    Constrained Humanoids.'
+  venue: Humanoids
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/humanoids/AlvarezZLWEAXSCH25
+  doi: 10.1109/HUMANOIDS65713.2025.11203191
+  ee: https://doi.org/10.1109/Humanoids65713.2025.11203191
+  url: https://dblp.org/rec/conf/humanoids/AlvarezZLWEAXSCH25
+- author: Yipu Zhang 0001, Likai Wang 0010, Kuan-Jui Su, Aiying Zhang, Hao Zhu, Xiaowen
+    Liu, Hui Shen, Vince D. Calhoun, Yuping Wang, Hong-Wen Deng
+  title: A Privacy-Preserving Domain Adversarial Federated learning for multi-site
+    brain functional connectivity analysis.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-01885
+  doi: 10.48550/ARXIV.2502.01885
+  ee: https://doi.org/10.48550/arXiv.2502.01885
+  url: https://dblp.org/rec/journals/corr/abs-2502-01885
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
