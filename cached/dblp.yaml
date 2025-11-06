@@ -3676,6 +3676,60 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2022.3166817
   ee: https://doi.org/10.1109/TGRS.2022.3166817
   url: https://dblp.org/rec/journals/tgrs/FangYLLCMD22
+- author: Wang Miao, Wenqi Han, Jie Geng 0005, Wen Jiang 0002
+  title: Hierarchical Feature Progressive Alignment Network for Remote Sensing Image
+    Scene Classification in Multitarget Domain Adaptation.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/MiaoHGJ24
+  doi: 10.1109/TGRS.2023.3347618
+  ee: https://doi.org/10.1109/TGRS.2023.3347618
+  url: https://dblp.org/rec/journals/tgrs/MiaoHGJ24
+- author: Qingsong Xu 0001, Yilei Shi, Xin Yuan 0002, Xiao Xiang Zhu 0001
+  title: Universal Domain Adaptation for Remote Sensing Image Scene Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/tgrs/XuSYZ23
+  doi: 10.1109/TGRS.2023.3235988
+  ee: https://doi.org/10.1109/TGRS.2023.3235988
+  url: https://dblp.org/rec/journals/tgrs/XuSYZ23
+- author: Qingsong Xu 0001, Yilei Shi, Xin Yuan 0002, Xiao Xiang Zhu 0001
+  title: Universal Domain Adaptation for Remote Sensing Image Scene Classification.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2301-11387
+  doi: 10.48550/ARXIV.2301.11387
+  ee: https://doi.org/10.48550/arXiv.2301.11387
+  url: https://dblp.org/rec/journals/corr/abs-2301-11387
+- author: Qingsong Xu 0001, Yilei Shi, Xiaoxiang Zhu 0001
+  title: Universal Domain Adaptation without Source Data for Remote Sensing Image
+    Scene Classification.
+  venue: IGARSS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/igarss/XuSZ22
+  doi: 10.1109/IGARSS46834.2022.9884889
+  ee: https://doi.org/10.1109/IGARSS46834.2022.9884889
+  url: https://dblp.org/rec/conf/igarss/XuSZ22
+- author: Xiaorui Ma, Xuerong Mou, Jie Wang 0003, Xiaokai Liu, Jie Geng 0005, Hongyu
+    Wang 0001
+  title: Cross-Dataset Hyperspectral Image Classification Based on Adversarial Domain
+    Adaptation.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/MaMWLGW21
+  doi: 10.1109/TGRS.2020.3015357
+  ee: https://doi.org/10.1109/TGRS.2020.3015357
+  url: https://dblp.org/rec/journals/tgrs/MaMWLGW21
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -27340,6 +27394,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2502.01885
   ee: https://doi.org/10.48550/arXiv.2502.01885
   url: https://dblp.org/rec/journals/corr/abs-2502-01885
+- author: Baofeng Ji, Mengna Liu, Shahid Mumtaz, Huitao Fan, Shaoyong Guo
+  title: Optimization of Meta-Learning Algorithms Based on Adversarial Training in
+    Vehicular and Mobile Communications.
+  venue: IEEE Trans. Veh. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tvt/JiLMFG25
+  doi: 10.1109/TVT.2025.3573915
+  ee: https://doi.org/10.1109/TVT.2025.3573915
+  url: https://dblp.org/rec/journals/tvt/JiLMFG25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
