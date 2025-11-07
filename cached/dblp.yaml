@@ -27405,6 +27405,107 @@ Adversarial%20Learning:
   doi: 10.1109/TVT.2025.3573915
   ee: https://doi.org/10.1109/TVT.2025.3573915
   url: https://dblp.org/rec/journals/tvt/JiLMFG25
+- author: Yong Zhang, Feng Liang 0004, Guanghu Yuan, Min Yang 0007, Chengming Li 0004,
+    Xiping Hu
+  title: 'FedPall: Prototype-based Adversarial and Collaborative Learning for Federated
+    Learning with Feature Drift.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-04781
+  doi: 10.48550/ARXIV.2507.04781
+  ee: https://doi.org/10.48550/arXiv.2507.04781
+  url: https://dblp.org/rec/journals/corr/abs-2507-04781
+- author: Wenbo Zheng 0001, Lan Yan, Chao Gou, Fei-Yue Wang 0001
+  title: 'Fighting fire with fire: A spatial-frequency ensemble relation network with
+    generative adversarial learning for adversarial image classification.'
+  venue: Int. J. Intell. Syst.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/ijis/ZhengYGW21
+  doi: 10.1002/INT.22372
+  ee: https://doi.org/10.1002/int.22372
+  url: https://dblp.org/rec/journals/ijis/ZhengYGW21
+- author: Wenbo Zheng 0001, Lan Yan, Fei-Yue Wang 0001, Chao Gou
+  title: 'Learning from the Negativity: Deep Negative Correlation Meta-Learning for
+    Adversarial Image Classification.'
+  venue: MMM
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mmm/ZhengYWG21
+  doi: 10.1007/978-3-030-67832-6_43
+  ee: https://doi.org/10.1007/978-3-030-67832-6_43
+  url: https://dblp.org/rec/conf/mmm/ZhengYWG21
+- author: Tiangang Li, Shi Ying, Xiangbo Tian, Ting Zhang, Yong Wang
+  title: 'ASTRA: Adversarial Sim-to-Real Transfer Reinforcement Learning for Autoscaling
+    in Cloud Systems.'
+  venue: IEEE Trans. Software Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tse/LiYTZW25
+  doi: 10.1109/TSE.2025.3603995
+  ee: https://doi.org/10.1109/TSE.2025.3603995
+  url: https://dblp.org/rec/journals/tse/LiYTZW25
+- author: "Francisco M. Calatrava-Nicol\xE1s, Shoko Miyauchi, V\xEDtor Fortes Rey,\
+    \ Paul Lukowicz, Todor Stoyanov, \xD3scar Mart\xEDnez Mozos"
+  title: Embedded Inter-Subject Variability in Adversarial Learning for Inertial Sensor-Based
+    Human Activity Recognition.
+  venue: MLSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mlsp/CalatravaNicolasMRLSM25
+  doi: 10.1109/MLSP62443.2025.11204225
+  ee: https://doi.org/10.1109/MLSP62443.2025.11204225
+  url: https://dblp.org/rec/conf/mlsp/CalatravaNicolasMRLSM25
+- author: Xiaoyu Luo, Qiongxiu Li
+  title: 'Demem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization.'
+  venue: MLSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mlsp/LuoL25
+  doi: 10.1109/MLSP62443.2025.11204331
+  ee: https://doi.org/10.1109/MLSP62443.2025.11204331
+  url: https://dblp.org/rec/conf/mlsp/LuoL25
+- author: Sanjay S J, Akash J, Sreehari Rajan, Dimple A. Shajahan, Charu Sharma
+  title: Adversarial Learning Based Knowledge Distillation on 3D Point Clouds.
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/JJRSS25
+  doi: 10.1109/WACV61041.2025.00290
+  ee: https://doi.org/10.1109/WACV61041.2025.00290
+  url: https://dblp.org/rec/conf/wacv/JJRSS25
+- author: Rida Noor, Abdul Wahid 0005, Sibghat Ullah Bazai, Asad Khan, Meie Fang,
+    Syam M. S, Uzair Aslam Bhatti, Yazeed Yasin Ghadi
+  title: 'DLGAN: Undersampled MRI reconstruction using Deep Learning based Generative
+    Adversarial Network.'
+  venue: Biomed. Signal Process. Control.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/NoorWBKFSBG24
+  doi: 10.1016/J.BSPC.2024.106218
+  ee: https://doi.org/10.1016/j.bspc.2024.106218
+  url: https://dblp.org/rec/journals/bspc/NoorWBKFSBG24
+- author: Jinping Liu 0003, Junqi Zhao, Jingri Xiao, Gangjin Zhao, Pengfei Xu 0007,
+    Yimei Yang, Subo Gong
+  title: Unsupervised domain adaptation multi-level adversarial learning-based crossing-domain
+    retinal vessel segmentation.
+  venue: Comput. Biol. Medicine
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/LiuZXZXYG24
+  doi: 10.1016/J.COMPBIOMED.2024.108759
+  ee: https://doi.org/10.1016/j.compbiomed.2024.108759
+  url: https://dblp.org/rec/journals/cbm/LiuZXZXYG24
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
