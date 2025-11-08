@@ -3730,6 +3730,30 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2020.3015357
   ee: https://doi.org/10.1109/TGRS.2020.3015357
   url: https://dblp.org/rec/journals/tgrs/MaMWLGW21
+- author: Aotian Zheng, Jenq-Neng Hwang, Rania Hussein, Farron Wallace, Kelsey Magrane,
+    Lauren Shiosaka
+  title: Target Distribution Agnostic Domain Adaptation for in-the-Wild Image Classification
+    under Both Domain and Label Shifts.
+  venue: ICME
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/ZhengHHWMS25
+  doi: 10.1109/ICME59968.2025.11210134
+  ee: https://doi.org/10.1109/ICME59968.2025.11210134
+  url: https://dblp.org/rec/conf/icmcs/ZhengHHWMS25
+- author: Ziqi Xin, Zhongwei Li, Mingming Xu 0001, Leiquan Wang, Guangbo Ren, Jianbu
+    Wang, Yabin Hu
+  title: Feature disentanglement based domain adaptation network for cross-scene coastal
+    wetland hyperspectral image classification.
+  venue: Int. J. Appl. Earth Obs. Geoinformation
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/aeog/XinLXWRWH24
+  doi: 10.1016/J.JAG.2024.103850
+  ee: https://doi.org/10.1016/j.jag.2024.103850
+  url: https://dblp.org/rec/journals/aeog/XinLXWRWH24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -27506,6 +27530,28 @@ Adversarial%20Learning:
   doi: 10.1016/J.COMPBIOMED.2024.108759
   ee: https://doi.org/10.1016/j.compbiomed.2024.108759
   url: https://dblp.org/rec/journals/cbm/LiuZXZXYG24
+- author: Zheng Chen, Wengang Zhou 0001, Houqiang Li
+  title: Active Object Tracking with Occluded Targets Estimation and Adversarial Reinforcement
+    Learning.
+  venue: ICME
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/ChenZL25
+  doi: 10.1109/ICME59968.2025.11210141
+  ee: https://doi.org/10.1109/ICME59968.2025.11210141
+  url: https://dblp.org/rec/conf/icmcs/ChenZL25
+- author: Wanning Zhu, Libao Zhang
+  title: Contrastive Adversarial Learning for Region-Aware Weakly Annotated Object
+    Segmentation in Hazy Remote Sensing Images.
+  venue: ICME
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/ZhuZ25
+  doi: 10.1109/ICME59968.2025.11209983
+  ee: https://doi.org/10.1109/ICME59968.2025.11209983
+  url: https://dblp.org/rec/conf/icmcs/ZhuZ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -30745,3 +30791,26 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2507.16397
   ee: https://doi.org/10.48550/arXiv.2507.16397
   url: https://dblp.org/rec/journals/corr/abs-2507-16397
+- author: Yang Qu, Zhencai Shen, Yingyi Chen, Ping Zhong 0003
+  title: Graph-based Meta-Learning and Feature Disentanglement for Domain Generalization
+    Crowd Counting.
+  venue: ICME
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/QuSCZ25
+  doi: 10.1109/ICME59968.2025.11209513
+  ee: https://doi.org/10.1109/ICME59968.2025.11209513
+  url: https://dblp.org/rec/conf/icmcs/QuSCZ25
+- author: Ziqi Xin, Zhongwei Li, Mingming Xu 0001, Leiquan Wang, Guangbo Ren, Jianbu
+    Wang, Yabin Hu
+  title: Feature disentanglement based domain adaptation network for cross-scene coastal
+    wetland hyperspectral image classification.
+  venue: Int. J. Appl. Earth Obs. Geoinformation
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/aeog/XinLXWRWH24
+  doi: 10.1016/J.JAG.2024.103850
+  ee: https://doi.org/10.1016/j.jag.2024.103850
+  url: https://dblp.org/rec/journals/aeog/XinLXWRWH24
