@@ -27552,6 +27552,62 @@ Adversarial%20Learning:
   doi: 10.1109/ICME59968.2025.11209983
   ee: https://doi.org/10.1109/ICME59968.2025.11209983
   url: https://dblp.org/rec/conf/icmcs/ZhuZ25
+- author: Rong Liu, Mengqing Zhou, Jiaqi Yang, Junjue Wang
+  title: Adaptive Smooth Adversarial Learning for Cross-Domain Hyperspectral Image
+    Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/LiuZYW25
+  doi: 10.1109/TGRS.2025.3620393
+  ee: https://doi.org/10.1109/TGRS.2025.3620393
+  url: https://dblp.org/rec/journals/tgrs/LiuZYW25
+- author: Yuxuan Liu 0015, Hongwei Ge, Yong Luo, Chunguo Wu
+  title: 'Find Hidden Modality Divergence: Adversarial Aware Learning for Unsupervised
+    Visible-Infrared Person Re-Identification.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/LiuGLW25
+  doi: 10.1109/TNNLS.2025.3591116
+  ee: https://doi.org/10.1109/TNNLS.2025.3591116
+  url: https://dblp.org/rec/journals/tnn/LiuGLW25
+- author: Shashank Reddy Chirra, Jayden Teoh, Praveen Paruchuri, Pradeep Varakantham
+  title: On Discovering Algorithms for Adversarial Imitation Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-00922
+  doi: 10.48550/ARXIV.2510.00922
+  ee: https://doi.org/10.48550/arXiv.2510.00922
+  url: https://dblp.org/rec/journals/corr/abs-2510-00922
+- author: Isaac Peterson, Christopher Allred, Jacob Morrey, Mario Harper
+  title: A Framework for Scalable Heterogeneous Multi-Agent Adversarial Reinforcement
+    Learning in IsaacLab.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-01264
+  doi: 10.48550/ARXIV.2510.01264
+  ee: https://doi.org/10.48550/arXiv.2510.01264
+  url: https://dblp.org/rec/journals/corr/abs-2510-01264
+- author: Zhenyu Pan, Yiting Zhang, Zhuo Liu, Yolo Yunlong Tang, Zeliang Zhang, Haozheng
+    Luo, Yuwei Han, Jianshu Zhang, Dennis Wu, Hong-Yu Chen, Haoran Lu, Haoyang Fang,
+    Manling Li, Chenliang Xu, Philip S. Yu, Han Liu 0002
+  title: 'AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution
+    in Multi-Agent Reinforcement Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-01586
+  doi: 10.48550/ARXIV.2510.01586
+  ee: https://doi.org/10.48550/arXiv.2510.01586
+  url: https://dblp.org/rec/journals/corr/abs-2510-01586
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -30814,3 +30870,14 @@ feature%20disentanglement:
   doi: 10.1016/J.JAG.2024.103850
   ee: https://doi.org/10.1016/j.jag.2024.103850
   url: https://dblp.org/rec/journals/aeog/XinLXWRWH24
+- author: Francesco Galati, Daniele Falcetta, Rosa Cortese, Ferran Prados, Ninon Burgos,
+    Maria A. Zuluaga
+  title: Multi-Domain Brain Vessel Segmentation Through Feature Disentanglement.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-00665
+  doi: 10.48550/ARXIV.2510.00665
+  ee: https://doi.org/10.48550/arXiv.2510.00665
+  url: https://dblp.org/rec/journals/corr/abs-2510-00665
