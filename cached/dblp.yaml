@@ -27608,6 +27608,39 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.01586
   ee: https://doi.org/10.48550/arXiv.2510.01586
   url: https://dblp.org/rec/journals/corr/abs-2510-01586
+- author: Shujuan Tian, Yi Tan, Han Wang 0021, Haolin Liu 0001, Zhetao Li
+  title: 'ASDIA: An Adversarial Sample to Preserve Privacy Program in Federated Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/TianTWLL25
+  doi: 10.1109/TDSC.2025.3545599
+  ee: https://doi.org/10.1109/TDSC.2025.3545599
+  url: https://dblp.org/rec/journals/tdsc/TianTWLL25
+- author: Abrar Shahid, Ibteeker Mahir Ishum, AKM Tahmidul Haque, M. Sohel Rahman,
+    A. B. M. Alim Al Islam
+  title: Adversarial Reinforcement Learning for Offensive and Defensive Agents in
+    a Simulated Zero-Sum Network Environment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-05157
+  doi: 10.48550/ARXIV.2510.05157
+  ee: https://doi.org/10.48550/arXiv.2510.05157
+  url: https://dblp.org/rec/journals/corr/abs-2510-05157
+- author: Zizhao Wang, Dingcheng Li, Vaishakh Keshava, Phillip Wallis, Ananth Balashankar,
+    Peter Stone, Lukas Rutishauser
+  title: Adversarial Reinforcement Learning for Large Language Model Agent Safety.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-05442
+  doi: 10.48550/ARXIV.2510.05442
+  ee: https://doi.org/10.48550/arXiv.2510.05442
+  url: https://dblp.org/rec/journals/corr/abs-2510-05442
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
