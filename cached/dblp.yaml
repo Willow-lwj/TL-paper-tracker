@@ -27641,6 +27641,41 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.05442
   ee: https://doi.org/10.48550/arXiv.2510.05442
   url: https://dblp.org/rec/journals/corr/abs-2510-05442
+- author: Da Ju, Jing Xu 0014, Y-Lan Boureau, Jason Weston
+  title: 'Learning from data in the mixed adversarial non-adversarial case: Finding
+    the helpers and ignoring the trolls.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2208-03295
+  doi: 10.48550/ARXIV.2208.03295
+  ee: https://doi.org/10.48550/arXiv.2208.03295
+  url: https://dblp.org/rec/journals/corr/abs-2208-03295
+- author: Yuanfu Wang, Pengyu Wang, Chenyang Xi, Bo Tang 0011, Junyi Zhu 0015, Wenqiang
+    Wei, Chen Chen, Chao Yang 0026, Jingfeng Zhang, Chaochao Lu, Yijun Niu, Keming
+    Mao, Zhiyu Li, Feiyu Xiong, Jie Hu, Mingchuan Yang
+  title: Adversarial Preference Learning for Robust LLM Alignment.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/WangWXTZWCYZLNM25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1126/
+  url: https://dblp.org/rec/conf/acl/WangWXTZWCYZLNM25
+- author: Yuanfu Wang, Pengyu Wang, Chenyang Xi, Bo Tang 0011, Junyi Zhu 0015, Wenqiang
+    Wei, Chen Chen, Chao Yang 0026, Jingfeng Zhang, Chaochao Lu, Yijun Niu, Keming
+    Mao, Zhiyu Li, Feiyu Xiong, Jie Hu, Mingchuan Yang
+  title: Adversarial Preference Learning for Robust LLM Alignment.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2505-24369
+  doi: 10.48550/ARXIV.2505.24369
+  ee: https://doi.org/10.48550/arXiv.2505.24369
+  url: https://dblp.org/rec/journals/corr/abs-2505-24369
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
