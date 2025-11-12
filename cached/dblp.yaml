@@ -27676,6 +27676,62 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2505.24369
   ee: https://doi.org/10.48550/arXiv.2505.24369
   url: https://dblp.org/rec/journals/corr/abs-2505-24369
+- author: Ke Guo, Haochen Liu, Xiaojun Wu, Chen Lv
+  title: 'DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent
+    Generative Adversarial Imitation Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-06913
+  doi: 10.48550/ARXIV.2510.06913
+  ee: https://doi.org/10.48550/arXiv.2510.06913
+  url: https://dblp.org/rec/journals/corr/abs-2510-06913
+- author: Junchao Fan, Xiaolin Chang
+  title: 'Robust Driving Control for Autonomous Vehicles: An Intelligent General-sum
+    Constrained Adversarial Reinforcement Learning Approach.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09041
+  doi: 10.48550/ARXIV.2510.09041
+  ee: https://doi.org/10.48550/arXiv.2510.09041
+  url: https://dblp.org/rec/journals/corr/abs-2510-09041
+- author: Ze Peng, Jian Zhang, Jintao Guo, Lei Qi 0001, Yang Gao 0001, Yinghuan Shi
+  title: On the Implicit Adversariality of Catastrophic Forgetting in Deep Continual
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09181
+  doi: 10.48550/ARXIV.2510.09181
+  ee: https://doi.org/10.48550/arXiv.2510.09181
+  url: https://dblp.org/rec/journals/corr/abs-2510-09181
+- author: Shangzhe Li, Dongruo Zhou, Weitong Zhang
+  title: Near-Optimal Second-Order Guarantees for Model-Based Adversarial Imitation
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09487
+  doi: 10.48550/ARXIV.2510.09487
+  ee: https://doi.org/10.48550/arXiv.2510.09487
+  url: https://dblp.org/rec/journals/corr/abs-2510-09487
+- author: Zhao Tong, Chunlin Gong, Yimeng Gu, Haichao Shi, Qiang Liu, Shu Wu, Xiao-Yu
+    Zhang
+  title: Group-Adaptive Adversarial Learning for Robust Fake News Detection Against
+    Malicious Comments.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09712
+  doi: 10.48550/ARXIV.2510.09712
+  ee: https://doi.org/10.48550/arXiv.2510.09712
+  url: https://dblp.org/rec/journals/corr/abs-2510-09712
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -30949,3 +31005,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2510.00665
   ee: https://doi.org/10.48550/arXiv.2510.00665
   url: https://dblp.org/rec/journals/corr/abs-2510-00665
+- author: Yuhao Pan, Xiucheng Wang, Nan Cheng, Wenchao Xu 0001
+  title: Cross-Receiver Generalization for RF Fingerprint Identification via Feature
+    Disentanglement and Adversarial Training.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09405
+  doi: 10.48550/ARXIV.2510.09405
+  ee: https://doi.org/10.48550/arXiv.2510.09405
+  url: https://dblp.org/rec/journals/corr/abs-2510-09405
