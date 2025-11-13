@@ -27732,6 +27732,118 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.09712
   ee: https://doi.org/10.48550/arXiv.2510.09712
   url: https://dblp.org/rec/journals/corr/abs-2510-09712
+- author: Qizhou Peng, Yang Zheng, Yu Wen 0001, Yanna Wu, Yingying Du
+  title: Neutral Agent-based Adversarial Policy Learning against Deep Reinforcement
+    Learning in Multi-party Open Systems.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-10937
+  doi: 10.48550/ARXIV.2510.10937
+  ee: https://doi.org/10.48550/arXiv.2510.10937
+  url: https://dblp.org/rec/journals/corr/abs-2510-10937
+- author: Aidos Askhatuly, Dinara Berdysheva, Azamat Berdyshev, Aigul Adamova, Didar
+    Yedilkhan
+  title: 'Adversarial Attacks and Defense Mechanisms in Machine Learning: A Structured
+    Review of Methods, Domains, and Open Challenges.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/AskhatulyBBAY25
+  doi: 10.1109/ACCESS.2025.3624409
+  ee: https://doi.org/10.1109/ACCESS.2025.3624409
+  url: https://dblp.org/rec/journals/access/AskhatulyBBAY25
+- author: Atef H. Bondok, Mahmoud M. Badr, Mohamed M. E. A. Mahmoud, Tariq Alshawi,
+    Jianbing Ni, Maazen Alsabaan
+  title: Securing Smart Grid Federated Learning Against Advanced Evasion Attacks Using
+    Ensemble-Based Adversarial Training.
+  venue: IEEE Internet Things J.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/BondokBMANA25
+  doi: 10.1109/JIOT.2025.3599106
+  ee: https://doi.org/10.1109/JIOT.2025.3599106
+  url: https://dblp.org/rec/journals/iotj/BondokBMANA25
+- author: Junzhong Ji, Gan Liu, Xingyu Wang
+  title: 'CSBNC-PAL: Consistency Semi-Supervised Brain Network Classification Framework
+    With Prototypical-Adversarial Learning.'
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/JiLW25
+  doi: 10.1109/JBHI.2025.3569734
+  ee: https://doi.org/10.1109/JBHI.2025.3569734
+  url: https://dblp.org/rec/journals/titb/JiLW25
+- author: Ze Peng, Jian Zhang 0090, Jintao Guo, Lei Qi 0001, Yang Gao 0001, Yinghuan
+    Shi
+  title: On the Implicit Adversariality of Catastrophic Forgetting in Deep Continual
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09181
+  doi: 10.48550/ARXIV.2510.09181
+  ee: https://doi.org/10.48550/arXiv.2510.09181
+  url: https://dblp.org/rec/journals/corr/abs-2510-09181
+- author: Ruida Wang, Jiarui Yao, Rui Pan 0002, Shizhe Diao, Tong Zhang 0001
+  title: 'GAR: Generative Adversarial Reinforcement Learning for Formal Theorem Proving.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-11769
+  doi: 10.48550/ARXIV.2510.11769
+  ee: https://doi.org/10.48550/arXiv.2510.11769
+  url: https://dblp.org/rec/journals/corr/abs-2510-11769
+- author: Xiaohang Tang, Zhuowen Cheng, Satyabrat Kumar
+  title: Robust Adversarial Reinforcement Learning in Stochastic Games via Sequence
+    Modeling.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-11877
+  doi: 10.48550/ARXIV.2510.11877
+  ee: https://doi.org/10.48550/arXiv.2510.11877
+  url: https://dblp.org/rec/journals/corr/abs-2510-11877
+- author: Shingo Ayabe, Hiroshi Kera, Kazuhiko Kawamoto
+  title: Adversarial Fine-tuning in Offline-to-Online Reinforcement Learning for Robust
+    Robot Control.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-13358
+  doi: 10.48550/ARXIV.2510.13358
+  ee: https://doi.org/10.48550/arXiv.2510.13358
+  url: https://dblp.org/rec/journals/corr/abs-2510-13358
+- author: Yisen Wang, Yichuan Mo, Hongjun Wang, Junyi Li, Zhouchen Lin
+  title: 'Generalist++: A Meta-learning Framework for Mitigating Trade-off in Adversarial
+    Training.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-13361
+  doi: 10.48550/ARXIV.2510.13361
+  ee: https://doi.org/10.48550/arXiv.2510.13361
+  url: https://dblp.org/rec/journals/corr/abs-2510-13361
+- author: Ziqing Lu, Lifeng Lai, Weiyu Xu
+  title: 'Provably Invincible Adversarial Attacks on Reinforcement Learning Systems:
+    A Rate-Distortion Information-Theoretic Approach.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-13792
+  doi: 10.48550/ARXIV.2510.13792
+  ee: https://doi.org/10.48550/arXiv.2510.13792
+  url: https://dblp.org/rec/journals/corr/abs-2510-13792
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
