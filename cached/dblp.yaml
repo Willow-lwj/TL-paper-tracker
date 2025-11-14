@@ -3754,6 +3754,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.JAG.2024.103850
   ee: https://doi.org/10.1016/j.jag.2024.103850
   url: https://dblp.org/rec/journals/aeog/XinLXWRWH24
+- author: Xiuyu Huang, Kup-Sze Choi, Nan Zhou 0010, Yuanpeng Zhang 0004, Badong Chen,
+    Witold Pedrycz
+  title: Shallow Inception Domain Adaptation Network for EEG-Based Motor Imagery Classification.
+  venue: IEEE Trans. Cogn. Dev. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tamd/HuangCZZCP24
+  doi: 10.1109/TCDS.2023.3279262
+  ee: https://doi.org/10.1109/TCDS.2023.3279262
+  url: https://dblp.org/rec/journals/tamd/HuangCZZCP24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -27844,6 +27855,41 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.13792
   ee: https://doi.org/10.48550/arXiv.2510.13792
   url: https://dblp.org/rec/journals/corr/abs-2510-13792
+- author: Xin Zeng, Haonan Luo, Zihang Wang 0002, Sijia Li, Zhixuan Shen, Tianrui
+    Li 0001
+  title: A Continual Learning Approach for Embodied Question Answering with Generative
+    Adversarial Imitation Learning.
+  venue: ICASSP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/ZengLWLSL25
+  doi: 10.1109/ICASSP49660.2025.10889550
+  ee: https://doi.org/10.1109/ICASSP49660.2025.10889550
+  url: https://dblp.org/rec/conf/icassp/ZengLWLSL25
+- author: Sarah Almaghrabi, Mohammad Saiedur Rahaman, Mashud Rana, Margaret Hamilton
+    0001
+  title: 'Generative adversarial networks and transfer learning for renewable energy
+    forecasting: a multi-source knowledge fusion approach.'
+  venue: Neural Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/AlmaghrabiRRH25
+  doi: 10.1007/S00521-025-11645-0
+  ee: https://doi.org/10.1007/s00521-025-11645-0
+  url: https://dblp.org/rec/journals/nca/AlmaghrabiRRH25
+- author: Yisen Wang 0001, Yichuan Mo, Hongjun Wang, Junyi Li, Zhouchen Lin
+  title: 'Generalist++: A Meta-learning Framework for Mitigating Trade-off in Adversarial
+    Training.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-13361
+  doi: 10.48550/ARXIV.2510.13361
+  ee: https://doi.org/10.48550/arXiv.2510.13361
+  url: https://dblp.org/rec/journals/corr/abs-2510-13361
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -31128,3 +31174,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2510.09405
   ee: https://doi.org/10.48550/arXiv.2510.09405
   url: https://dblp.org/rec/journals/corr/abs-2510-09405
+- author: Ningge Hu, Xiao Li, Zihao Zhao, Min Fang, Jiaqing Liu
+  title: Multi-binary network with feature disentanglement for Open-set Specific Emitter
+    Identification.
+  venue: Signal Process.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/sigpro/HuLZFL26
+  doi: 10.1016/J.SIGPRO.2025.110344
+  ee: https://doi.org/10.1016/j.sigpro.2025.110344
+  url: https://dblp.org/rec/journals/sigpro/HuLZFL26
