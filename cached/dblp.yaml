@@ -27946,6 +27946,106 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.14635
   ee: https://doi.org/10.48550/arXiv.2510.14635
   url: https://dblp.org/rec/journals/corr/abs-2510-14635
+- author: Qingyao Li, Xinyi Dai, Weiwen Liu, Xiangyang Li 0014, Yasheng Wang, Ruiming
+    Tang, Yong Yu 0001, Weinan Zhang 0001
+  title: 'ATGen: Adversarial Reinforcement Learning for Test Case Generation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-14635
+  doi: 10.48550/ARXIV.2510.14635
+  ee: https://doi.org/10.48550/arXiv.2510.14635
+  url: https://dblp.org/rec/journals/corr/abs-2510-14635
+- author: Nachuan Ma, Zhengfei Song, Qiang Hu, Xiaoyu Tang, Chengxi Zhang, Rui Fan
+    0001, Lihua Xie 0001
+  title: 'WP-CrackNet: A Collaborative Adversarial Learning Framework for End-to-End
+    Weakly-Supervised Road Crack Detection.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-17566
+  doi: 10.48550/ARXIV.2510.17566
+  ee: https://doi.org/10.48550/arXiv.2510.17566
+  url: https://dblp.org/rec/journals/corr/abs-2510-17566
+- author: Insu Jeon, Wonkwang Lee, Myeongjang Pyeon, Gunhee Kim
+  title: 'IB-GAN: Disentangled Representation Learning with Information Bottleneck
+    Generative Adversarial Networks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-20165
+  doi: 10.48550/ARXIV.2510.20165
+  ee: https://doi.org/10.48550/arXiv.2510.20165
+  url: https://dblp.org/rec/journals/corr/abs-2510-20165
+- author: Yichao Wu, Yirui Wang 0007, Panpan Ding, Hailong Wang, Bingqian Zhu, Chun
+    Liu 0008
+  title: 'Enhancing Security in Deep Reinforcement Learning: A Comprehensive Survey
+    on Adversarial Attacks and Defenses.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-20314
+  doi: 10.48550/ARXIV.2510.20314
+  ee: https://doi.org/10.48550/arXiv.2510.20314
+  url: https://dblp.org/rec/journals/corr/abs-2510-20314
+- author: Wei Shao 0006, Yuhao Wang, Rongguang He, Muhammad Ejaz Ahmed, Seyit Camtepe
+  title: 'AdaDoS: Adaptive DoS Attack via Deep Adversarial Reinforcement Learning
+    in SDN.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-20566
+  doi: 10.48550/ARXIV.2510.20566
+  ee: https://doi.org/10.48550/arXiv.2510.20566
+  url: https://dblp.org/rec/journals/corr/abs-2510-20566
+- author: Yuhong Luo, Austin Hoag, Xintong Wang, Philip S. Thomas, Przemyslaw A. Grabowicz
+  title: Fair Representation Learning with Controllable High Confidence Guarantees
+    via Adversarial Inference.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-21017
+  doi: 10.48550/ARXIV.2510.21017
+  ee: https://doi.org/10.48550/arXiv.2510.21017
+  url: https://dblp.org/rec/journals/corr/abs-2510-21017
+- author: Mahavir Dabas, Tran Huynh, Nikhil Reddy Billa, Jiachen T. Wang, Peng Gao,
+    Charith Peris, Yao Ma, Rahul Gupta, Ming Jin, Prateek Mittal, Ruoxi Jia 0001
+  title: "Adversarial D\xE9j\xE0 Vu: Jailbreak Dictionary Learning for Stronger Generalization\
+    \ to Unseen Attacks."
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-21910
+  doi: 10.48550/ARXIV.2510.21910
+  ee: https://doi.org/10.48550/arXiv.2510.21910
+  url: https://dblp.org/rec/journals/corr/abs-2510-21910
+- author: Mirco A. Mannucci
+  title: 'Logical GANs: Adversarial Learning through Ehrenfeucht Fraisse Games.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-22824
+  doi: 10.48550/ARXIV.2510.22824
+  ee: https://doi.org/10.48550/arXiv.2510.22824
+  url: https://dblp.org/rec/journals/corr/abs-2510-22824
+- author: Tu Anh Hoang Nguyen, Dang Nguyen, Tri-Nhan Vo, Thuc Duy Le, Sunil Gupta
+  title: Causal-Aware Generative Adversarial Networks with Reinforcement Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-24046
+  doi: 10.48550/ARXIV.2510.24046
+  ee: https://doi.org/10.48550/arXiv.2510.24046
+  url: https://dblp.org/rec/journals/corr/abs-2510-24046
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -31241,3 +31341,13 @@ feature%20disentanglement:
   doi: 10.1016/J.SIGPRO.2025.110344
   ee: https://doi.org/10.1016/j.sigpro.2025.110344
   url: https://dblp.org/rec/journals/sigpro/HuLZFL26
+- author: Zixuan Hu, Li Shen 0008, Shenqi Lai, Chun Yuan 0003
+  title: Task-Adaptive Feature Disentanglement and Hallucination for Few-Shot Classification.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/HuSLY23
+  doi: 10.1109/TCSVT.2023.3238804
+  ee: https://doi.org/10.1109/TCSVT.2023.3238804
+  url: https://dblp.org/rec/journals/tcsv/HuSLY23
