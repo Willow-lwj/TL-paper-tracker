@@ -28046,6 +28046,73 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.24046
   ee: https://doi.org/10.48550/arXiv.2510.24046
   url: https://dblp.org/rec/journals/corr/abs-2510-24046
+- author: Giulio Rossolini, Fabio Brau, Alessandro Biondi 0001, Battista Biggio, Giorgio
+    C. Buttazzo
+  title: Exploiting edge features for transferable adversarial attacks in distributed
+    machine learning.
+  venue: Internet Things
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iot/RossoliniBBBB25
+  doi: 10.1016/J.IOT.2025.101795
+  ee: https://doi.org/10.1016/j.iot.2025.101795
+  url: https://dblp.org/rec/journals/iot/RossoliniBBBB25
+- author: "Tianwei Lan, Farid Na\xEFt-Abdesselam"
+  title: 'LAMLAD: LLM-Based Adversarial Attack Against Machine Learning for Android
+    Malware Detection.'
+  venue: CNS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cns/LanN25
+  doi: 10.1109/CNS66487.2025.11195008
+  ee: https://doi.org/10.1109/CNS66487.2025.11195008
+  url: https://dblp.org/rec/conf/cns/LanN25
+- author: Yimin Liu 0002, Peng Jiang 0007
+  title: Generic Adversarial Attack Framework Against Vertical Federated Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Liu025
+  doi: 10.24963/IJCAI.2025/646
+  ee: https://doi.org/10.24963/ijcai.2025/646
+  url: https://dblp.org/rec/conf/ijcai/Liu025
+- author: Mahavir Dabas, Tran Huynh, Nikhil Reddy Billa, Jiachen T. Wang, Peng Gao
+    0008, Charith Peris, Yao Ma, Rahul Gupta 0001, Ming Jin 0002, Prateek Mittal,
+    Ruoxi Jia 0001
+  title: "Adversarial D\xE9j\xE0 Vu: Jailbreak Dictionary Learning for Stronger Generalization\
+    \ to Unseen Attacks."
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-21910
+  doi: 10.48550/ARXIV.2510.21910
+  ee: https://doi.org/10.48550/arXiv.2510.21910
+  url: https://dblp.org/rec/journals/corr/abs-2510-21910
+- author: Ziqi Ma, Changda Tian, Yue Gao 0005
+  title: 'Manipulate as Human: Learning Task-oriented Manipulation Skills by Adversarial
+    Motion Priors.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-24257
+  doi: 10.48550/ARXIV.2510.24257
+  ee: https://doi.org/10.48550/arXiv.2510.24257
+  url: https://dblp.org/rec/journals/corr/abs-2510-24257
+- author: Yutong Zheng, Qingna Li
+  title: A Unified Bilevel Model for Adversarial Learning and A Case Study.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-25121
+  doi: 10.48550/ARXIV.2510.25121
+  ee: https://doi.org/10.48550/arXiv.2510.25121
+  url: https://dblp.org/rec/journals/corr/abs-2510-25121
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
