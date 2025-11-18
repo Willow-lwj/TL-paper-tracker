@@ -3765,6 +3765,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TCDS.2023.3279262
   ee: https://doi.org/10.1109/TCDS.2023.3279262
   url: https://dblp.org/rec/journals/tamd/HuangCZZCP24
+- author: Juepeng Zheng, Wenzhao Wu, Haohuan Fu, Weijia Li, Runmin Dong, Lixian Zhang
+    0002, Shuai Yuan 0005
+  title: Unsupervised Mixed Multi-Target Domain Adaptation for Remote Sensing Images
+    Classification.
+  venue: IGARSS
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/igarss/ZhengWFLDZY20
+  doi: 10.1109/IGARSS39084.2020.9323602
+  ee: https://doi.org/10.1109/IGARSS39084.2020.9323602
+  url: https://dblp.org/rec/conf/igarss/ZhengWFLDZY20
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28113,6 +28125,83 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.25121
   ee: https://doi.org/10.48550/arXiv.2510.25121
   url: https://dblp.org/rec/journals/corr/abs-2510-25121
+- author: Samarup Bhattacharya, Anubhab Bhattacharya, Abir Chakraborty
+  title: 'ANCHOR: Integrating Adversarial Training with Hard-mined Supervised Contrastive
+    Learning for Robust Representation Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-27599
+  doi: 10.48550/ARXIV.2510.27599
+  ee: https://doi.org/10.48550/arXiv.2510.27599
+  url: https://dblp.org/rec/journals/corr/abs-2510-27599
+- author: Daofu Zhang, Mehrdad Pournaderi, Hanne M. Clifford, Yu Xiang, Pramod K.
+    Varshney
+  title: On the Adversarial Robustness of Learning-based Conformal Novelty Detection.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-00463
+  doi: 10.48550/ARXIV.2510.00463
+  ee: https://doi.org/10.48550/arXiv.2510.00463
+  url: https://dblp.org/rec/journals/corr/abs-2510-00463
+- author: Yannis Montreuil, Letian Yu, Axel Carlier, Lai Xing Ng, Wei Tsang Ooi
+  title: Adversarial Robustness in One-Stage Learning-to-Defer.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-10988
+  doi: 10.48550/ARXIV.2510.10988
+  ee: https://doi.org/10.48550/arXiv.2510.10988
+  url: https://dblp.org/rec/journals/corr/abs-2510-10988
+- author: Dennis J. Marquis, Blake Wilhelm, Devaprakash Muniraj, Mazen Farhood
+  title: Adversarial Reinforcement Learning for Robust Control of Fixed-Wing Aircraft
+    under Model Uncertainty.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-16650
+  doi: 10.48550/ARXIV.2510.16650
+  ee: https://doi.org/10.48550/arXiv.2510.16650
+  url: https://dblp.org/rec/journals/corr/abs-2510-16650
+- author: "Ant\xF4nio H. Ribeiro, David V\xE4vinggren, Dave Zachariah, Thomas B. Sch\xF6\
+    n, Francis R. Bach"
+  title: 'Kernel Learning with Adversarial Features: Numerical Efficiency and Adaptive
+    Regularization.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-20883
+  doi: 10.48550/ARXIV.2510.20883
+  ee: https://doi.org/10.48550/arXiv.2510.20883
+  url: https://dblp.org/rec/journals/corr/abs-2510-20883
+- author: Suklav Ghosh, Sonal Kumar, Arijit Sur
+  title: 'C-LEAD: Contrastive Learning for Enhanced Adversarial Defense.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-27249
+  doi: 10.48550/ARXIV.2510.27249
+  ee: https://doi.org/10.48550/arXiv.2510.27249
+  url: https://dblp.org/rec/journals/corr/abs-2510-27249
+- author: Marios Impraimakis, Evangelia Nektaria Palkanoglou
+  title: 'A generative adversarial network optimization method for damage detection
+    and digital twinning by deep AI fault learning: Z24 Bridge structural health monitoring
+    benchmark validation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-00099
+  doi: 10.48550/ARXIV.2511.00099
+  ee: https://doi.org/10.48550/arXiv.2511.00099
+  url: https://dblp.org/rec/journals/corr/abs-2511-00099
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
