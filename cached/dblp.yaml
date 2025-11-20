@@ -3788,6 +3788,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.COMPBIOMED.2023.107726
   ee: https://doi.org/10.1016/j.compbiomed.2023.107726
   url: https://dblp.org/rec/journals/cbm/XuLLJ24
+- author: Shiyao Fan, Jinghui Yang, Liguo Wang 0001
+  title: 'TDPDA: A Triple-Classifier-Based Dynamic Selection Progressive Domain Adaptation
+    Method for Hyperspectral Image Classification.'
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/FanYW25
+  doi: 10.1109/JSTARS.2025.3622137
+  ee: https://doi.org/10.1109/JSTARS.2025.3622137
+  url: https://dblp.org/rec/journals/staeors/FanYW25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28224,6 +28235,93 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.14635
   ee: https://doi.org/10.48550/arXiv.2510.14635
   url: https://dblp.org/rec/journals/corr/abs-2510-14635
+- author: Dua&apos;a Mkhiemir Akhtom, Manmeet Mahinderjit Singh 0001, XinYing Chew
+  title: Adversarial attacks and adversarial robustness in pre-trained deep learning
+    models for disease diagnosis.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/AkhtomSC25
+  doi: 10.1007/S13042-025-02807-6
+  ee: https://doi.org/10.1007/s13042-025-02807-6
+  url: https://dblp.org/rec/journals/mlc/AkhtomSC25
+- author: Li Wang 0079, Yiping Gao, Liang Gao 0001, Xinyu Li 0001
+  title: Unseen class feature regeneration adversarial learning method for time-varying
+    cross-domain fault diagnosis.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangGGL26
+  doi: 10.1016/J.ESWA.2025.129938
+  ee: https://doi.org/10.1016/j.eswa.2025.129938
+  url: https://dblp.org/rec/journals/eswa/WangGGL26
+- author: Bowen Deng, Lin Feng, Fancheng Yang, Siwen Li, Shuo Qin
+  title: 'GCDR: Graph Contrastive learning adversarial Defense algorithm for Recommendation.'
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/DengFYLQ25
+  doi: 10.1007/S10489-025-06918-Z
+  ee: https://doi.org/10.1007/s10489-025-06918-z
+  url: https://dblp.org/rec/journals/apin/DengFYLQ25
+- author: Thi-Thuy-Duong Pham, Duc-Phong Nguyen, Hien-Duyen Nguyen-Le, Tan-Nhu Nguyen,
+    Tien-Tuan Dao
+  title: A competitive benchmarking among geometric deep learning, generative adversarial
+    network, and point transformer for 3-D skull part segmentation.
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/PhamNNND25
+  doi: 10.1007/S10489-025-06864-W
+  ee: https://doi.org/10.1007/s10489-025-06864-w
+  url: https://dblp.org/rec/journals/apin/PhamNNND25
+- author: Yongfei Li, Yuanbo Guo, Chen Fang, Yifeng Wang, Qingli Chen, Yongjin Hu
+  title: A distributed bijection-backdoor-based adversarial examples defense method
+    in federated learning.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/LiGFWCH25
+  doi: 10.1007/S13042-025-02750-6
+  ee: https://doi.org/10.1007/s13042-025-02750-6
+  url: https://dblp.org/rec/journals/mlc/LiGFWCH25
+- author: Tao Bai, Xingjian Tian, Yonghao Xu, Bihan Wen
+  title: On the Adversarial Vulnerabilities of Transfer Learning in Remote Sensing.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/BaiTXW25
+  doi: 10.1109/TGRS.2025.3614488
+  ee: https://doi.org/10.1109/TGRS.2025.3614488
+  url: https://dblp.org/rec/journals/tgrs/BaiTXW25
+- author: Rong Liu, Mengqing Zhou, Jiaqi Yang 0005, Junjue Wang
+  title: Adaptive Smooth Adversarial Learning for Cross-Domain Hyperspectral Image
+    Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/LiuZYW25
+  doi: 10.1109/TGRS.2025.3620393
+  ee: https://doi.org/10.1109/TGRS.2025.3620393
+  url: https://dblp.org/rec/journals/tgrs/LiuZYW25
+- author: Yulong Wang 0001, Yifei Fu, Wenwei Kong, Chang Liu, Sen Su
+  title: 'PoisonPatch: Natural Adversarial Patches via Diffusion Models and Federated
+    Learning Poisoning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/WangFKLS25
+  doi: 10.1109/TIFS.2025.3620155
+  ee: https://doi.org/10.1109/TIFS.2025.3620155
+  url: https://dblp.org/rec/journals/tifs/WangFKLS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -28544,6 +28642,19 @@ domain%20%feature%alignment:
   doi: 10.1109/TGRS.2023.3317828
   ee: https://doi.org/10.1109/TGRS.2023.3317828
   url: https://dblp.org/rec/journals/tgrs/ZhangWLSW23
+- author: Zhongyi Wen, Zhikai Zhai, Jiahui Xiang, Qiang Li 0017, Wei Zhang, Huaizong
+    Shao
+  title: 'GCODWFA: Gradient Collaborative Optimization With Dynamic Weighted Feature
+    Alignment for Unsupervised Domain Adaptation in Radio Frequency Fingerprinting
+    Identification.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/WenZXLZS25
+  doi: 10.1109/TIFS.2025.3630037
+  ee: https://doi.org/10.1109/TIFS.2025.3630037
+  url: https://dblp.org/rec/journals/tifs/WenZXLZS25
 feature%20disentanglement:
 - author: Nuoyan Zhou, Dawei Zhou 0004, Decheng Liu, Nannan Wang 0001, Xinbo Gao 0001
   title: Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement.
