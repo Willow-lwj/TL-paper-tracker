@@ -28322,6 +28322,64 @@ Adversarial%20Learning:
   doi: 10.1109/TIFS.2025.3620155
   ee: https://doi.org/10.1109/TIFS.2025.3620155
   url: https://dblp.org/rec/journals/tifs/WangFKLS25
+- author: Suyi Li 0005, Chenyi Jiang, Shidong Wang, Yang Long 0001, Zheng Zhang 0006,
+    Haofeng Zhang 0001
+  title: Contextual Interaction via Primitive-based Adversarial Training for Compositional
+    Zero-shot Learning.
+  venue: ACM Trans. Multim. Comput. Commun. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tomccap/LiJWLZZ25
+  doi: 10.1145/3712596
+  ee: https://doi.org/10.1145/3712596
+  url: https://dblp.org/rec/journals/tomccap/LiJWLZZ25
+- author: Youngmoon Jung, Yong-Hyeok Lee, Myunghun Jung, Jaeyoung Roh, Chang Woo Han,
+    Hoon-Young Cho
+  title: Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in
+    Open-Vocabulary Keyword Spotting.
+  venue: INTERSPEECH
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/interspeech/JungLJRHC25
+  doi: 10.21437/INTERSPEECH.2025-378
+  ee: https://doi.org/10.21437/Interspeech.2025-378
+  url: https://dblp.org/rec/conf/interspeech/JungLJRHC25
+- author: Peter Crowley, Zachary Serlin, Tyler M. Paine, Makai Mann, Michael R. Benjamin,
+    Calin Belta
+  title: SPLASH! Sample-efficient Preference-based inverse reinforcement learning
+    for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-08707
+  doi: 10.48550/ARXIV.2507.08707
+  ee: https://doi.org/10.48550/arXiv.2507.08707
+  url: https://dblp.org/rec/journals/corr/abs-2507-08707
+- author: Ali Owfi, Amirmohammad Bamdad, Tolunay Seyfi, Fatemeh Afghah
+  title: 'Adapt under Attack and Domain Shift: Unified Adversarial Meta-Learning and
+    Domain Adaptation for Robust Automatic Modulation Classification.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-01172
+  doi: 10.48550/ARXIV.2511.01172
+  ee: https://doi.org/10.48550/arXiv.2511.01172
+  url: https://dblp.org/rec/journals/corr/abs-2511-01172
+- author: Mian Wu, Gavin Zhang, Sewon Min, Sergey Levine, Aviral Kumar
+  title: 'RLAC: Reinforcement Learning with Adversarial Critic for Free-Form Generation
+    Tasks.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-01758
+  doi: 10.48550/ARXIV.2511.01758
+  ee: https://doi.org/10.48550/arXiv.2511.01758
+  url: https://dblp.org/rec/journals/corr/abs-2511-01758
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -28643,6 +28701,19 @@ domain%20%feature%alignment:
   ee: https://doi.org/10.1109/TGRS.2023.3317828
   url: https://dblp.org/rec/journals/tgrs/ZhangWLSW23
 - author: Zhongyi Wen, Zhikai Zhai, Jiahui Xiang, Qiang Li 0017, Wei Zhang, Huaizong
+    Shao
+  title: 'GCODWFA: Gradient Collaborative Optimization With Dynamic Weighted Feature
+    Alignment for Unsupervised Domain Adaptation in Radio Frequency Fingerprinting
+    Identification.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/WenZXLZS25
+  doi: 10.1109/TIFS.2025.3630037
+  ee: https://doi.org/10.1109/TIFS.2025.3630037
+  url: https://dblp.org/rec/journals/tifs/WenZXLZS25
+- author: Zhongyi Wen, Zhikai Zhai, Jiahui Xiang, Qiang Li 0017, Wei Zhang 0100, Huaizong
     Shao
   title: 'GCODWFA: Gradient Collaborative Optimization With Dynamic Weighted Feature
     Alignment for Unsupervised Domain Adaptation in Radio Frequency Fingerprinting
