@@ -3799,6 +3799,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2025.3622137
   ee: https://doi.org/10.1109/JSTARS.2025.3622137
   url: https://dblp.org/rec/journals/staeors/FanYW25
+- author: Ahmad Chaddad, Yihang Wu, Yuchen Jiang 0002, Ahmed Bouridane, Christian
+    Desrosiers
+  title: Simulations of Common Unsupervised Domain Adaptation Algorithms for Image
+    Classification.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/ChaddadWJBD25
+  doi: 10.1109/TIM.2025.3527531
+  ee: https://doi.org/10.1109/TIM.2025.3527531
+  url: https://dblp.org/rec/journals/tim/ChaddadWJBD25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28380,6 +28392,74 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2511.01758
   ee: https://doi.org/10.48550/arXiv.2511.01758
   url: https://dblp.org/rec/journals/corr/abs-2511-01758
+- author: "Pedro H. Barros, T\xFAlio Polido, Judy C. Guevara, Leandro Villas, Daniel\
+    \ L. Guidoni, Nelson L. S. da Fonseca, Heitor S. Ramos"
+  title: Personalized federated learning for sedentary behavior classification with
+    heterogeneous feature distributions under adversarial threats.
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/BarrosPGVGFR25
+  doi: 10.1109/IJCNN64981.2025.11227203
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11227203
+  url: https://dblp.org/rec/conf/ijcnn/BarrosPGVGFR25
+- author: Wenning Hu, Lianke Zhou, Ming He, Nianbin Wang
+  title: 'Uncertainty-Guided Curriculum Design: robust policy learning with adversarial
+    environment.'
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/HuZHW25
+  doi: 10.1109/IJCNN64981.2025.11228697
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11228697
+  url: https://dblp.org/rec/conf/ijcnn/HuZHW25
+- author: Xin Wei, Chuan Liu, Yang Yang, Jun Zhou
+  title: Improving Sentence Embeddings of Extractive Question Answering Based on Adversarial
+    and Contrastive Learning.
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/WeiLYZ25
+  doi: 10.1109/IJCNN64981.2025.11228009
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11228009
+  url: https://dblp.org/rec/conf/ijcnn/WeiLYZ25
+- author: Hanxiao Wu, Zhaowen Li, Feilong Chen, Zhiyu Wang, Jiali Xu, Liquan Hu, Huaixuan
+    Cao, Yin Li, Jinqiao Wang, Jianlong Chang
+  title: 'Make &quot;V&quot; and &quot;Q&quot; Inseparable: Deliberately Dual-Channel
+    Adversarial Learning for Robust Visual Question Answering.'
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/WuLCWXHCLWC25
+  doi: 10.1109/IJCNN64981.2025.11228973
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11228973
+  url: https://dblp.org/rec/conf/ijcnn/WuLCWXHCLWC25
+- author: Miaolin Xing, Jielong Zhou, Shunmei Meng, Nan Liu, Xuyun Zhang
+  title: 'Towards Effective Edge Unlearning: Enhancing Graph Unlearning via Contrastive
+    Learning with Adversarial Example.'
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/XingZMLZ25
+  doi: 10.1109/IJCNN64981.2025.11227397
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11227397
+  url: https://dblp.org/rec/conf/ijcnn/XingZMLZ25
+- author: Hui Zhou, Zheng Qin, Yipeng Zou, Xin Deng, Jiaxin Jiang, Ge Xiao, Hao Chen
+  title: Do Adversarial Perturbations Truly Mitigate Gradient Inversion in Federated
+    Learning?
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/ZhouQZDJXC25
+  doi: 10.1109/IJCNN64981.2025.11228101
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11228101
+  url: https://dblp.org/rec/conf/ijcnn/ZhouQZDJXC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
