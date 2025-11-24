@@ -3811,6 +3811,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TIM.2025.3527531
   ee: https://doi.org/10.1109/TIM.2025.3527531
   url: https://dblp.org/rec/journals/tim/ChaddadWJBD25
+- author: Ahmad Chaddad, Yihang Wu, Yuchen Jiang 0002, Ahmed Bouridane, Christian
+    Desrosiers
+  title: Simulations of Common Unsupervised Domain Adaptation Algorithms for Image
+    Classification.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2502-10694
+  doi: 10.48550/ARXIV.2502.10694
+  ee: https://doi.org/10.48550/arXiv.2502.10694
+  url: https://dblp.org/rec/journals/corr/abs-2502-10694
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28460,6 +28472,17 @@ Adversarial%20Learning:
   doi: 10.1109/IJCNN64981.2025.11228101
   ee: https://doi.org/10.1109/IJCNN64981.2025.11228101
   url: https://dblp.org/rec/conf/ijcnn/ZhouQZDJXC25
+- author: Wenning Hu, Lianke Zhou, Ming He 0002, Nianbin Wang
+  title: 'Uncertainty-Guided Curriculum Design: robust policy learning with adversarial
+    environment.'
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/HuZHW25
+  doi: 10.1109/IJCNN64981.2025.11228697
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11228697
+  url: https://dblp.org/rec/conf/ijcnn/HuZHW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
