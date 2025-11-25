@@ -28483,6 +28483,28 @@ Adversarial%20Learning:
   doi: 10.1109/IJCNN64981.2025.11228697
   ee: https://doi.org/10.1109/IJCNN64981.2025.11228697
   url: https://dblp.org/rec/conf/ijcnn/HuZHW25
+- author: Chenchen Zhao 0001, Hao Li
+  title: Condition-Invariant Physical Adversarial Attacks via Pixel-Wise Adversarial
+    Learning.
+  venue: ICONIP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/ZhaoL21
+  doi: 10.1007/978-3-030-92270-2_32
+  ee: https://doi.org/10.1007/978-3-030-92270-2_32
+  url: https://dblp.org/rec/conf/iconip/ZhaoL21
+- author: Kaleel Mahmood, Caleb Manicke, Ethan Rathbun, Aayushi Verma, Sohaib Ahmad,
+    Nicholas Stamatakis, Laurent Michel, Benjamin Fuller 0001
+  title: 'Busting the Paper Ballot: Voting Meets Adversarial Machine Learning.'
+  venue: CCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/MahmoodMRVASM025
+  doi: 10.1145/3719027.3744882
+  ee: https://doi.org/10.1145/3719027.3744882
+  url: https://dblp.org/rec/conf/ccs/MahmoodMRVASM025
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -31814,3 +31836,13 @@ feature%20disentanglement:
   doi: 10.1109/TCSVT.2023.3238804
   ee: https://doi.org/10.1109/TCSVT.2023.3238804
   url: https://dblp.org/rec/journals/tcsv/HuSLY23
+- author: Jiafeng Li 0001, Mengxun Zhi, Yongyu Zheng, Li Zhuo 0001, Jing Zhang 0023
+  title: Coarse-to-fine domain adaptation object detection with feature disentanglement.
+  venue: Int. J. Mach. Learn. Cybern.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mlc/LiZZZZ25
+  doi: 10.1007/S13042-025-02586-0
+  ee: https://doi.org/10.1007/s13042-025-02586-0
+  url: https://dblp.org/rec/journals/mlc/LiZZZZ25
