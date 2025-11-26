@@ -28505,6 +28505,98 @@ Adversarial%20Learning:
   doi: 10.1145/3719027.3744882
   ee: https://doi.org/10.1145/3719027.3744882
   url: https://dblp.org/rec/conf/ccs/MahmoodMRVASM025
+- author: Faria Nawshin, Devrim Unal, Mohammad Hammoudeh, Ponnuthurai N. Suganthan
+  title: A Novel Genetic Algorithm Optimized Adversarial Attack in Federated Learning
+    for Android-Based Mobile Systems.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/NawshinUHS25
+  doi: 10.1109/TCE.2025.3577905
+  ee: https://doi.org/10.1109/TCE.2025.3577905
+  url: https://dblp.org/rec/journals/tce/NawshinUHS25
+- author: Yuwen Qian, Yunfan Bai, Zhen Mei 0001, Shuning Zhang, Yiyang Ni, Long Shi
+    0001, Feng Shu 0002
+  title: Adversarial Machine Learning Assisted Hybrid Chaotic Covert Communication
+    in OFDM With Subcarrier Index Modulation.
+  venue: IEEE Trans. Commun.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcom/QianBMZNSS25
+  doi: 10.1109/TCOMM.2025.3578841
+  ee: https://doi.org/10.1109/TCOMM.2025.3578841
+  url: https://dblp.org/rec/journals/tcom/QianBMZNSS25
+- author: Jiantong Zhang, Yujiao Zhu, Tao Luo 0005, Zhilong Zhang, Ye Hu, Mingzhe
+    Chen
+  title: 'Performance Optimization of Semantic Communications With Heterogeneous Knowledge:
+    An Adversarial Reinforcement Learning Approach.'
+  venue: IEEE Trans. Commun.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcom/ZhangZLZHC25
+  doi: 10.1109/TCOMM.2025.3576917
+  ee: https://doi.org/10.1109/TCOMM.2025.3576917
+  url: https://dblp.org/rec/journals/tcom/ZhangZLZHC25
+- author: Dong Hu, Chao Huang 0006, Jingda Wu, Xin Yuan 0008
+  title: 'Toward Multi-Task Generalization in Autonomous Navigation: A Human-in-the-Loop
+    Adversarial Reinforcement Learning With Diffusion Policy.'
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/HuHWY25
+  doi: 10.1109/TITS.2025.3591239
+  ee: https://doi.org/10.1109/TITS.2025.3591239
+  url: https://dblp.org/rec/journals/tits/HuHWY25
+- author: Zhen Liu, Xun Gong 0007, Nan Li 0015, Hang Gao, Yeting Lin, Ting Qu, Yunfeng
+    Hu 0003, Hong Chen 0003
+  title: Adversarial Driving Behavior Generation via Fuzzy Reward Reinforcement Learning
+    Incorporating Human Risk Cognition.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/LiuGLGLQHC25
+  doi: 10.1109/TITS.2025.3587305
+  ee: https://doi.org/10.1109/TITS.2025.3587305
+  url: https://dblp.org/rec/journals/tits/LiuGLGLQHC25
+- author: "F\xE9lix Fuentes-Hurtado, Jean-Baptiste Sibarita, Virgile Viasnoff"
+  title: Generalizable Denoising of Microscopy Images Using Generative Adversarial
+    Networks and Contrastive Learning.
+  venue: IDEAL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ideal/FuentesHurtadoSV25
+  doi: 10.1007/978-3-032-10486-1_1
+  ee: https://doi.org/10.1007/978-3-032-10486-1_1
+  url: https://dblp.org/rec/conf/ideal/FuentesHurtadoSV25
+- author: Benjamin Schindler, Melle Mendikowski, Thomas Schmid 0003, Sam Verboven
+  title: When to Use Discriminator Ensembles? Cross-Domain Evidence of Multi-Adversarial
+    Learning.
+  venue: IDEAL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ideal/SchindlerMSV25
+  doi: 10.1007/978-3-032-10486-1_32
+  ee: https://doi.org/10.1007/978-3-032-10486-1_32
+  url: https://dblp.org/rec/conf/ideal/SchindlerMSV25
+- author: Ze Peng 0001, Jian Zhang 0090, Jintao Guo, Lei Qi 0001, Yang Gao 0001, Yinghuan
+    Shi
+  title: On the Implicit Adversariality of Catastrophic Forgetting in Deep Continual
+    Learning.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09181
+  doi: 10.48550/ARXIV.2510.09181
+  ee: https://doi.org/10.48550/arXiv.2510.09181
+  url: https://dblp.org/rec/journals/corr/abs-2510-09181
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
