@@ -3823,6 +3823,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2502.10694
   ee: https://doi.org/10.48550/arXiv.2502.10694
   url: https://dblp.org/rec/journals/corr/abs-2502-10694
+- author: Zhongle Ren, Zhe Du, Yu Zhang, Feng Sha, Weibin Li 0002, Biao Hou
+  title: Multi-Step Unsupervised Domain Adaptation in Image and Feature Space for
+    Synthetic Aperture Radar Image Terrain Classification.
+  venue: Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/remotesensing/RenDZSLH24
+  doi: 10.3390/RS16111901
+  ee: https://doi.org/10.3390/rs16111901
+  url: https://dblp.org/rec/journals/remotesensing/RenDZSLH24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28597,6 +28608,50 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.09181
   ee: https://doi.org/10.48550/arXiv.2510.09181
   url: https://dblp.org/rec/journals/corr/abs-2510-09181
+- author: Erping Zhao, Si-Yun Yu
+  title: Aspect-level sentiment analysis based on vector projection and adversarial
+    contrastive learning.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhaoY25
+  doi: 10.1016/J.ESWA.2025.128637
+  ee: https://doi.org/10.1016/j.eswa.2025.128637
+  url: https://dblp.org/rec/journals/eswa/ZhaoY25
+- author: Qihang Peng, Hongliang Guo 0003, Zhengyan Zhang, Chih-Yung Wen, Yaochu Jin
+  title: 'PF-MAAC: A learning-based method for probabilistic optimization in time-constrained
+    non-adversarial moving target search.'
+  venue: Swarm Evol. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/swevo/PengGZWJ25
+  doi: 10.1016/J.SWEVO.2024.101785
+  ee: https://doi.org/10.1016/j.swevo.2024.101785
+  url: https://dblp.org/rec/journals/swevo/PengGZWJ25
+- author: Baofeng Ji, Mengna Liu, Shahid Mumtaz, Huitao Fan, Shaoyong Guo 0001
+  title: Optimization of Meta-Learning Algorithms Based on Adversarial Training in
+    Vehicular and Mobile Communications.
+  venue: IEEE Trans. Veh. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tvt/JiLMFG25
+  doi: 10.1109/TVT.2025.3573915
+  ee: https://doi.org/10.1109/TVT.2025.3573915
+  url: https://dblp.org/rec/journals/tvt/JiLMFG25
+- author: Huiming Pan, Dongxuan Li, Chen Chen 0045, Shuo Jiang, Peter B. Shull
+  title: An Adversarial Learning Framework for Reliable Myoelectric Force Estimation
+    Under Fatigue.
+  venue: ICRA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icra/PanLCJS25
+  doi: 10.1109/ICRA55743.2025.11128839
+  ee: https://doi.org/10.1109/ICRA55743.2025.11128839
+  url: https://dblp.org/rec/conf/icra/PanLCJS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
