@@ -3857,6 +3857,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3632329
   ee: https://doi.org/10.1109/TGRS.2025.3632329
   url: https://dblp.org/rec/journals/tgrs/QieLSDMWW25
+- author: Zhen Ye 0007, Tao Sun 0021, Zhan Cao, Lin Bai, James E. Fowler
+  title: Few-Shot Learning Using Residual Channel Attention and Prototype Domain Adaptation
+    for Hyperspectral Image Classification.
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/YeSCBF23
+  doi: 10.1109/LGRS.2023.3320406
+  ee: https://doi.org/10.1109/LGRS.2023.3320406
+  url: https://dblp.org/rec/journals/lgrs/YeSCBF23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28685,6 +28696,17 @@ Adversarial%20Learning:
   doi: 10.1016/J.BSPC.2025.108991
   ee: https://doi.org/10.1016/j.bspc.2025.108991
   url: https://dblp.org/rec/journals/bspc/JangAC26
+- author: Ying Wang 0152, Xiaosheng Yu 0001, Chengdong Wu 0001
+  title: An Efficient Hierarchical Optic Disc and Cup Segmentation Network Combined
+    with Multi-task Learning and Adversarial Learning.
+  venue: J. Digit. Imaging
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/jdi/WangYW22
+  doi: 10.1007/S10278-021-00579-3
+  ee: https://doi.org/10.1007/s10278-021-00579-3
+  url: https://dblp.org/rec/journals/jdi/WangYW22
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
