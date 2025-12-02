@@ -3868,6 +3868,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/LGRS.2023.3320406
   ee: https://doi.org/10.1109/LGRS.2023.3320406
   url: https://dblp.org/rec/journals/lgrs/YeSCBF23
+- author: Shounak Chakraborty 0002, Moumita Roy 0001
+  title: Domain adaptation for land-cover classification of remotely sensed images
+    using ensemble of Multilayer Perceptrons.
+  venue: RAIT
+  year: '2016'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/rait/0002R16
+  doi: 10.1109/RAIT.2016.7507955
+  ee: https://doi.org/10.1109/RAIT.2016.7507955
+  url: https://dblp.org/rec/conf/rait/0002R16
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
