@@ -3879,6 +3879,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/RAIT.2016.7507955
   ee: https://doi.org/10.1109/RAIT.2016.7507955
   url: https://dblp.org/rec/conf/rait/0002R16
+- author: Indrajit Kalita, Shounak Chakraborty 0002, Talla Giridhara Ganesh Reddy,
+    Moumita Roy 0001
+  title: A deep learning-based technique for firm classification and domain adaptation
+    in land cover classification using time-series aerial images.
+  venue: Earth Sci. Informatics
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/esi/KalitaCRR24
+  doi: 10.1007/S12145-023-01190-6
+  ee: https://doi.org/10.1007/s12145-023-01190-6
+  url: https://dblp.org/rec/journals/esi/KalitaCRR24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28718,6 +28730,18 @@ Adversarial%20Learning:
   doi: 10.1007/S10278-021-00579-3
   ee: https://doi.org/10.1007/s10278-021-00579-3
   url: https://dblp.org/rec/journals/jdi/WangYW22
+- author: Tao Zhang 0125, Chuanzhong Xuan, Zhaohui Tang 0002, Xinyu Gao, Fei Cheng,
+    Suhui Liu
+  title: Cross-domain adversarial learning for forage mapping and alpha-diversity
+    assessment from UAV hyperspectral imagery in desert rangelands.
+  venue: Comput. Electron. Agric.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cea/ZhangXTGCL25
+  doi: 10.1016/J.COMPAG.2025.111001
+  ee: https://doi.org/10.1016/j.compag.2025.111001
+  url: https://dblp.org/rec/journals/cea/ZhangXTGCL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
