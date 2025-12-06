@@ -28754,6 +28754,136 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2509.23907
   ee: https://doi.org/10.48550/arXiv.2509.23907
   url: https://dblp.org/rec/journals/corr/abs-2509-23907
+- author: Thomas Paniagua, Chinmay Savadikar, Tianfu Wu 0001
+  title: Adversarial Perturbations Are Formed by Iteratively Learning Linear Combinations
+    of the Right Singular Vectors of the Adversarial Jacobian.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/PaniaguaS025
+  doi: ''
+  ee: https://openreview.net/forum?id=3q6T4hQ4Dy
+  url: https://dblp.org/rec/conf/icml/PaniaguaS025
+- author: Dongjie Li, Dong Li 0044, Guang Lian
+  title: Variational Graph Autoencoder with Adversarial Mutual Information Learning
+    for Network Representation Learning.
+  venue: ACM Trans. Knowl. Discov. Data
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tkdd/LiLL23
+  doi: 10.1145/3555809
+  ee: https://doi.org/10.1145/3555809
+  url: https://dblp.org/rec/journals/tkdd/LiLL23
+- author: Sunwoo Lee 0006, Jaebak Hwang, Yonghyeon Jo, Seungyul Han
+  title: Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0006HJH25
+  doi: ''
+  ee: https://openreview.net/forum?id=1Iny6XlON0
+  url: https://dblp.org/rec/conf/icml/0006HJH25
+- author: Sushant Agarwal, Amit Deshpande 0001, Rajmohan Rajaraman, Ravi Sundaram
+  title: Optimal Fair Learning Robust to Adversarial Distribution Shift.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Agarwal0RS25
+  doi: ''
+  ee: https://openreview.net/forum?id=TGcXwWdQQj
+  url: https://dblp.org/rec/conf/icml/Agarwal0RS25
+- author: Jun-Qi Guo, Meng-Zhang Qian, Wei Gao 0008, Zhi-Hua Zhou
+  title: On the Diversity of Adversarial Ensemble Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/GuoQ0Z25
+  doi: ''
+  ee: https://openreview.net/forum?id=LAIwq7aWNv
+  url: https://dblp.org/rec/conf/icml/GuoQ0Z25
+- author: Andreas Kontogiannis, Konstantinos Papathanasiou, Yi Shen 0011, Giorgos
+    Stamou, Michael M. Zavlanos, George A. Vouros
+  title: Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling
+    and Adversarial Exploration.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/KontogiannisP0S25
+  doi: ''
+  ee: https://openreview.net/forum?id=TCsdlqzZNL
+  url: https://dblp.org/rec/conf/icml/KontogiannisP0S25
+- author: Junyan Liu, Arnab Maiti, Artin Tajdini, Kevin Jamieson 0001, Lillian J.
+    Ratliff
+  title: Learning to Incentivize in Repeated Principal-Agent Problems with Adversarial
+    Agent Arrivals.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LiuMT0R25
+  doi: ''
+  ee: https://openreview.net/forum?id=4JyULSyPl6
+  url: https://dblp.org/rec/conf/icml/LiuMT0R25
+- author: Yannis Montreuil, Axel Carlier, Lai Xing Ng, Wei Tsang Ooi
+  title: 'Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and Guarantees.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MontreuilCNO25
+  doi: ''
+  ee: https://openreview.net/forum?id=h3KHwZCnxH
+  url: https://dblp.org/rec/conf/icml/MontreuilCNO25
+- author: Ethan Rathbun, Alina Oprea, Christopher Amato
+  title: Adversarial Inception Backdoor Attacks against Reinforcement Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/RathbunOA25
+  doi: ''
+  ee: https://openreview.net/forum?id=yTsbZQTsAu
+  url: https://dblp.org/rec/conf/icml/RathbunOA25
+- author: Francesco Emanuele Stradi, Matteo Castiglioni, Alberto Marchesi 0001, Nicola
+    Gatti 0001
+  title: Learning Adversarial MDPs with Stochastic Hard Constraints.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/StradiC0025
+  doi: ''
+  ee: https://openreview.net/forum?id=s0AwKb1dAW
+  url: https://dblp.org/rec/conf/icml/StradiC0025
+- author: Francesco Emanuele Stradi, Anna Lunghi, Matteo Castiglioni, Alberto Marchesi
+    0001, Nicola Gatti 0001
+  title: 'Policy Optimization for CMDPs with Bandit Feedback: Learning Stochastic
+    and Adversarial Constraints.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/StradiLC0025
+  doi: ''
+  ee: https://openreview.net/forum?id=sncnyt4CzJ
+  url: https://dblp.org/rec/conf/icml/StradiLC0025
+- author: Yulun Wu, Doron L. Bergman
+  title: Zero-shot Meta-learning for Tabular Prediction Tasks with Adversarially Pre-trained
+    Transformer.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WuB25
+  doi: ''
+  ee: https://openreview.net/forum?id=q9lITFNKds
+  url: https://dblp.org/rec/conf/icml/WuB25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
