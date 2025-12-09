@@ -28884,6 +28884,29 @@ Adversarial%20Learning:
   doi: ''
   ee: https://openreview.net/forum?id=q9lITFNKds
   url: https://dblp.org/rec/conf/icml/WuB25
+- author: Han Jiang, Jifa Zhang, Mingqian Liu, Nan Zhao 0001, Arumugam Nallanathan,
+    Yonghui Li 0001
+  title: Variable Step-Size Adversarial Attacks Against Deep Learning Based End-to-End
+    Autoencoder.
+  venue: IEEE Trans. Veh. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tvt/JiangZLZNL25
+  doi: 10.1109/TVT.2025.3582045
+  ee: https://doi.org/10.1109/TVT.2025.3582045
+  url: https://dblp.org/rec/journals/tvt/JiangZLZNL25
+- author: Pegah Mansourian, Ning Zhang 0007, Arunita Jaekel, Tim Allsopp
+  title: Enhancing Machine Learning-Based IDS for Vehicular Networks by Addressing
+    Adversarial Attacks.
+  venue: IEEE Trans. Veh. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tvt/MansourianZJA25
+  doi: 10.1109/TVT.2025.3581456
+  ee: https://doi.org/10.1109/TVT.2025.3581456
+  url: https://dblp.org/rec/journals/tvt/MansourianZJA25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -32225,3 +32248,15 @@ feature%20disentanglement:
   doi: 10.1007/S13042-025-02586-0
   ee: https://doi.org/10.1007/s13042-025-02586-0
   url: https://dblp.org/rec/journals/mlc/LiZZZZ25
+- author: Hang Sun, Zhixuan Huang, Bo Du 0001, Lyuyang Tong, Jun Wan 0005, Mei Yu,
+    Peng Chen
+  title: Latent Feature Disentanglement Bidirectional Prompting Network for Unsupervised
+    Cloud Removal.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/SunHDTWYC25
+  doi: 10.1109/TGRS.2025.3626592
+  ee: https://doi.org/10.1109/TGRS.2025.3626592
+  url: https://dblp.org/rec/journals/tgrs/SunHDTWYC25
