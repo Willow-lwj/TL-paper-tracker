@@ -3891,6 +3891,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/S12145-023-01190-6
   ee: https://doi.org/10.1007/s12145-023-01190-6
   url: https://dblp.org/rec/journals/esi/KalitaCRR24
+- author: Juepeng Zheng, Yi Zhao 0024, Wenzhao Wu, Mengxuan Chen, Weijia Li, Haohuan
+    Fu
+  title: Partial Domain Adaptation for Scene Classification From Remote Sensing Imagery.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/tgrs/ZhengZWCLF23
+  doi: 10.1109/TGRS.2022.3229039
+  ee: https://doi.org/10.1109/TGRS.2022.3229039
+  url: https://dblp.org/rec/journals/tgrs/ZhengZWCLF23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -28907,6 +28918,26 @@ Adversarial%20Learning:
   doi: 10.1109/TVT.2025.3581456
   ee: https://doi.org/10.1109/TVT.2025.3581456
   url: https://dblp.org/rec/journals/tvt/MansourianZJA25
+- author: Yilong Wang 0001, Jiahao Zhang, Tianxiang Zhao 0001, Suhang Wang
+  title: 'Towards Reliable GNNs: Adversarial Calibration Learning for Confidence Estimation.'
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/0001Z0W25
+  doi: 10.1145/3746252.3761232
+  ee: https://doi.org/10.1145/3746252.3761232
+  url: https://dblp.org/rec/conf/cikm/0001Z0W25
+- author: Che-Yu Chou, Hung-Hsuan Chen
+  title: 'Contrastive ECOC: Learning Output Codes for Adversarial Defense.'
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/ChouC25
+  doi: 10.1145/3746252.3760871
+  ee: https://doi.org/10.1145/3746252.3760871
+  url: https://dblp.org/rec/conf/cikm/ChouC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -32260,3 +32291,14 @@ feature%20disentanglement:
   doi: 10.1109/TGRS.2025.3626592
   ee: https://doi.org/10.1109/TGRS.2025.3626592
   url: https://dblp.org/rec/journals/tgrs/SunHDTWYC25
+- author: Zheng Cui, Dong Nie, Pengcheng Xue, Xia Wu 0001, Daoqiang Zhang, Xuyun Wen
+  title: 'BrainX: A Universal Brain Decoding Framework with Feature Disentanglement
+    and Neuro-Geometric Representation Learning.'
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/CuiNX0ZW25
+  doi: 10.1145/3746252.3761402
+  ee: https://doi.org/10.1145/3746252.3761402
+  url: https://dblp.org/rec/conf/cikm/CuiNX0ZW25
