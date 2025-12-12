@@ -28938,6 +28938,60 @@ Adversarial%20Learning:
   doi: 10.1145/3746252.3760871
   ee: https://doi.org/10.1145/3746252.3760871
   url: https://dblp.org/rec/conf/cikm/ChouC25
+- author: Kainat Rizwan, Muhammad Asif Habib, Salman Raza, Mudassar Ahmad 0001
+  title: 'RNAF: ResilienceNet Adversarial Framework Using Deep Reinforcement Learning
+    for Adversarial Attacks on Digital Images.'
+  venue: IEEE Access
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/access/RizwanHRA25
+  doi: 10.1109/ACCESS.2025.3636942
+  ee: https://doi.org/10.1109/ACCESS.2025.3636942
+  url: https://dblp.org/rec/journals/access/RizwanHRA25
+- author: Cheng-Kai Yeh, Hsing-Wang Lee, Chung-Hung Kuo, Hen-Hsen Huang
+  title: 'AR2: Adversarial Reinforcement Learning for Abstract Reasoning in Large
+    Language Models.'
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/YehLKH25
+  doi: 10.1145/3746252.3760850
+  ee: https://doi.org/10.1145/3746252.3760850
+  url: https://dblp.org/rec/conf/cikm/YehLKH25
+- author: Chunjiang Zhu, Blake Gaines, Jing Deng, Jinbo Bi
+  title: Adversarially Attacking Graph Properties and Sparsification in Graph Learning.
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/ZhuGDB25
+  doi: 10.1145/3746252.3760882
+  ee: https://doi.org/10.1145/3746252.3760882
+  url: https://dblp.org/rec/conf/cikm/ZhuGDB25
+- author: Luying Zhong, Xuan Lai, Junjie Zhang 0010, Zhiqin Huang, Zheyi Chen
+  title: 'GuardFGL: Similarity-driven Federated Graph Learning with Adversarial Robustness
+    and Membership Privacy.'
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/ZhongL0HC25
+  doi: 10.1145/3711896.3736994
+  ee: https://doi.org/10.1145/3711896.3736994
+  url: https://dblp.org/rec/conf/kdd/ZhongL0HC25
+- author: Zizhao Wang, Dingcheng Li, Vaishakh Keshava, Phillip Wallis, Ananth Balashankar,
+    Peter Stone 0001, Lukas Rutishauser
+  title: Adversarial Reinforcement Learning for Large Language Model Agent Safety.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-05442
+  doi: 10.48550/ARXIV.2510.05442
+  ee: https://doi.org/10.48550/arXiv.2510.05442
+  url: https://dblp.org/rec/journals/corr/abs-2510-05442
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
