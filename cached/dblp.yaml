@@ -32356,3 +32356,15 @@ feature%20disentanglement:
   doi: 10.1145/3746252.3761402
   ee: https://doi.org/10.1145/3746252.3761402
   url: https://dblp.org/rec/conf/cikm/CuiNX0ZW25
+- author: Wen Guo 0003, Wuzhou Quan, Junyu Gao 0002, Tianzhu Zhang 0001, Changsheng
+    Xu
+  title: 'Feature Disentanglement Network: Multi-Object Tracking Needs More Differentiated
+    Features.'
+  venue: ACM Trans. Multim. Comput. Commun. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tomccap/GuoQGZX24
+  doi: 10.1145/3626825
+  ee: https://doi.org/10.1145/3626825
+  url: https://dblp.org/rec/journals/tomccap/GuoQGZX24
