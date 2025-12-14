@@ -28992,6 +28992,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2510.05442
   ee: https://doi.org/10.48550/arXiv.2510.05442
   url: https://dblp.org/rec/journals/corr/abs-2510-05442
+- author: Hristo Petkov, Calum MacLellan, Feng Dong 0005
+  title: 'DAGAF: A directed acyclic generative adversarial framework for joint structure
+    learning and tabular data synthesis.'
+  venue: Appl. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/apin/PetkovMD25
+  doi: 10.1007/S10489-025-06410-8
+  ee: https://doi.org/10.1007/s10489-025-06410-8
+  url: https://dblp.org/rec/journals/apin/PetkovMD25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
