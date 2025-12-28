@@ -29106,6 +29106,18 @@ Adversarial%20Learning:
   doi: 10.1109/TPDS.2024.3521016
   ee: https://doi.org/10.1109/tpds.2024.3521016
   url: https://dblp.org/rec/journals/tpds/ManuAYLS25
+- author: Wenjun Ji, Yuxiang Fu, Luyang Ying, Deng-Ping Fan, Yuyi Wang 0001, Ming-Ming
+    Cheng, Ivor W. Tsang, Qing Guo 0005
+  title: 'AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I
+    Adversarial Patches.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-09538
+  doi: 10.48550/ARXIV.2506.09538
+  ee: https://doi.org/10.48550/arXiv.2506.09538
+  url: https://dblp.org/rec/journals/corr/abs-2506-09538
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
