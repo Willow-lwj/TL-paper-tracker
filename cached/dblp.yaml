@@ -3914,6 +3914,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.MEDIA.2024.103261
   ee: https://doi.org/10.1016/j.media.2024.103261
   url: https://dblp.org/rec/journals/mia/MahapatraTGRBGR24
+- author: Jingwen Wang, Yisong Yang, Kemal Polat
+  title: Emotion classification of artistic images using domain adaptation and transfer
+    learning.
+  venue: PeerJ Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/peerj-cs/WangYP25
+  doi: 10.7717/PEERJ-CS.3250
+  ee: https://doi.org/10.7717/peerj-cs.3250
+  url: https://dblp.org/rec/journals/peerj-cs/WangYP25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -29118,6 +29129,276 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.09538
   ee: https://doi.org/10.48550/arXiv.2506.09538
   url: https://dblp.org/rec/journals/corr/abs-2506-09538
+- author: Sajal Saha, Saikat Das, Glaucio H. S. Carvalho
+  title: A hybrid deep learning model for adversarially resilient Internet traffic
+    prediction.
+  venue: Comput. Electr. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/SahaDC26
+  doi: 10.1016/J.COMPELECENG.2025.110832
+  ee: https://doi.org/10.1016/j.compeleceng.2025.110832
+  url: https://dblp.org/rec/journals/cee/SahaDC26
+- author: Xin Yu, Fangkun Li, Qiaoyun Wang, Wei Chen, Bingzheng Fan
+  title: Forensic image classification with active learning and generative adversarial
+    network-based data augmentation.
+  venue: Digit. Signal Process.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/dsp/YuLWCF26
+  doi: 10.1016/J.DSP.2025.105649
+  ee: https://doi.org/10.1016/j.dsp.2025.105649
+  url: https://dblp.org/rec/journals/dsp/YuLWCF26
+- author: Xiaoyin Peng, Bin Yuan, Wei Zhang, Shuhong Wu, Tianyi Fan, Baohua Wang,
+    Zhihui Chen
+  title: A deep learning architecture for fast simulation of subsurface in-situ pressure
+    profile dynamics based on Conditional Wasserstein Generative Adversarial Network
+    with Gradient Penalty.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/PengYZWFWC26
+  doi: 10.1016/J.ENGAPPAI.2025.113277
+  ee: https://doi.org/10.1016/j.engappai.2025.113277
+  url: https://dblp.org/rec/journals/eaai/PengYZWFWC26
+- author: Peizheng Wang, Wanna Cui
+  title: 'SALARec: Dual-Alignment Contrastive Learning with Preference-Aware Adversarial
+    Augmentation for Sequential Recommendation.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangC26
+  doi: 10.1016/J.ESWA.2025.130070
+  ee: https://doi.org/10.1016/j.eswa.2025.130070
+  url: https://dblp.org/rec/journals/eswa/WangC26
+- author: Yuhan Xie, Chen Lyu, Zheng Qu, Chunmei Liu
+  title: Advancing cross-domain emergency classification with multi-view adversarial
+    learning.
+  venue: Inf. Process. Manag.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ipm/XieLQL26
+  doi: 10.1016/J.IPM.2025.104442
+  ee: https://doi.org/10.1016/j.ipm.2025.104442
+  url: https://dblp.org/rec/journals/ipm/XieLQL26
+- author: Zhenyu Liang, Lipeng Wang, Yunfeng Diao, Yangyang Wang, Hua Mu, Lei Zuo,
+    Haoqi Gao, Zhaoxin Fan, Xing Yang
+  title: Understanding the adversarial robustness of deep learning-based single-pixel
+    imaging.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LiangWDWMZGFY26
+  doi: 10.1016/J.PATCOG.2025.112555
+  ee: https://doi.org/10.1016/j.patcog.2025.112555
+  url: https://dblp.org/rec/journals/pr/LiangWDWMZGFY26
+- author: Ziyang Liu, Zhiqiang Yan, Qianhao Ning, Yinxi Lu, Zijian Wang, Hongyuan
+    Wang
+  title: Naturalistic physical adversarial camouflage for object detection via differentiable
+    rendering and style learning.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LiuYNLWW26
+  doi: 10.1016/J.PATCOG.2025.112621
+  ee: https://doi.org/10.1016/j.patcog.2025.112621
+  url: https://dblp.org/rec/journals/pr/LiuYNLWW26
+- author: Wan-Ju Wu, Szu-Hao Huang, Chiao-Ting Chen, Shuo Fang
+  title: 'RGAL: Node-adaptive training strategies for reinforced graph adversarial
+    learning.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/WuHCF26
+  doi: 10.1016/J.PATCOG.2025.112615
+  ee: https://doi.org/10.1016/j.patcog.2025.112615
+  url: https://dblp.org/rec/journals/pr/WuHCF26
+- author: Hengheng Xiong, Dapeng Man, Jiguang Lv, Chen Xu 0008, Fanyi Zeng, Yuyan
+    Shi, Mingzhu Lai, Wu Yang 0001
+  title: Decoupling representation learning and classifier for long-tailed adversarial
+    training.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/XiongMLXZSLY26
+  doi: 10.1016/J.PATCOG.2025.112607
+  ee: https://doi.org/10.1016/j.patcog.2025.112607
+  url: https://dblp.org/rec/journals/pr/XiongMLXZSLY26
+- author: Guofeng Zhu, Fei Zhu 0003
+  title: Action adversarial robust reinforcement learning via Stackelberg game.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ZhuZ26
+  doi: 10.1016/J.PATCOG.2025.112580
+  ee: https://doi.org/10.1016/j.patcog.2025.112580
+  url: https://dblp.org/rec/journals/pr/ZhuZ26
+- author: Haoyu Wang 0011, Zilong Yin, Bin Chen, Yujie Zeng, Xiyue Yan, Chenyu Zhou,
+    Anji Li
+  title: 'ROFED-LLM: Robust Federated Learning for Large Language Models in Adversarial
+    Wireless Environments.'
+  venue: IEEE Trans. Netw. Sci. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tnse/WangYCZYZL26
+  doi: 10.1109/TNSE.2025.3590975
+  ee: https://doi.org/10.1109/TNSE.2025.3590975
+  url: https://dblp.org/rec/journals/tnse/WangYCZYZL26
+- author: Shinan Song, Xing Wang, Shike Dong, Jingyan Jiang
+  title: Robust Deep Active Learning via Distance-Measured Data Mixing and Adversarial
+    Training.
+  venue: Entropy
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/entropy/SongWDJ25
+  doi: 10.3390/E27111159
+  ee: https://doi.org/10.3390/e27111159
+  url: https://dblp.org/rec/journals/entropy/SongWDJ25
+- author: Wei Zhang, Ting Li, Ping He, Yuqing Yang, Shengrui Wang
+  title: An Outlier Suppression and Adversarial Learning Model for Anomaly Detection
+    in Multivariate Time Series.
+  venue: Entropy
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/entropy/ZhangLHYW25
+  doi: 10.3390/E27111151
+  ee: https://doi.org/10.3390/e27111151
+  url: https://dblp.org/rec/journals/entropy/ZhangLHYW25
+- author: R. N. L. S. Kalpana, A. K. Patro, D. N. Rao
+  title: Hybrid Deep Learning Framework for Adversarial Attack Prediction in Wireless
+    Body Area Networks Using Spatiotemporal Data.
+  venue: Int. J. Commun. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcomsys/KalpanaPR25
+  doi: 10.1002/DAC.70247
+  ee: https://doi.org/10.1002/dac.70247
+  url: https://dblp.org/rec/journals/ijcomsys/KalpanaPR25
+- author: Peng Zhang, Zhipeng Ke, Xiaohan Mao, Xinzhuang Zhang, Wei Xiao
+  title: Dual-Channel Multiscale Graph Transformer with Adversarial Contrastive Learning
+    and Low-Rank Disentangled Stratified Negative Sampling for Drug Repositioning.
+  venue: J. Chem. Inf. Model.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jcisd/ZhangKMZX25
+  doi: 10.1021/ACS.JCIM.5C02298
+  ee: https://doi.org/10.1021/acs.jcim.5c02298
+  url: https://dblp.org/rec/journals/jcisd/ZhangKMZX25
+- author: Yatie Xiao, Siyuan Chen 0005, Kongyang Chen, Qingxiao Guan, Zhenbang Liu
+  title: Towards adversarial patch attacks on deep crowd-counting networks via density-aware
+    normalized feature learning.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/XiaoCCGL25
+  doi: 10.1016/J.KNOSYS.2025.114785
+  ee: https://doi.org/10.1016/j.knosys.2025.114785
+  url: https://dblp.org/rec/journals/kbs/XiaoCCGL25
+- author: Hubert Baniecki, Przemyslaw Biecek
+  title: 'Birds look like cars: adversarial analysis of intrinsically interpretable
+    deep learning.'
+  venue: Mach. Learn.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ml/BanieckiB25
+  doi: 10.1007/S10994-025-06896-W
+  ee: https://doi.org/10.1007/s10994-025-06896-w
+  url: https://dblp.org/rec/journals/ml/BanieckiB25
+- author: Wanwan Shi, Yahui Long, Jiawei Luo 0001, Ying Liu 0027, Zehao Xiong, Bo
+    Wang, Zhongyuan Xu
+  title: 'scGANCL: Bidirectional Generative Adversarial Network for Imputing scRNA-Seq
+    Data With Contrastive Learning.'
+  venue: IEEE Trans. Comput. Biol. Bioinform.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcbb/ShiLLLXWX25
+  doi: 10.1109/TCBBIO.2025.3530928
+  ee: https://doi.org/10.1109/tcbbio.2025.3530928
+  url: https://dblp.org/rec/journals/tcbb/ShiLLLXWX25
+- author: Tianyi Chen, Hongxin Fu, Hao Wang, Yan Huang 0031, Si Wu 0002, Yong Xu 0007,
+    Dapeng Oliver Wu
+  title: '3DMM-GAN: Multi-Modal Alignment With Adversarial Learning for Compositional
+    3D Human Image Synthesis.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ChenFWHWXW25
+  doi: 10.1109/TETCI.2025.3607392
+  ee: https://doi.org/10.1109/TETCI.2025.3607392
+  url: https://dblp.org/rec/journals/tetci/ChenFWHWXW25
+- author: Decheng Liu, Zhou Zhou, Chunlei Peng, Nannan Wang 0001, Ruimin Hu, Xinbo
+    Gao 0001
+  title: Toward Fair Adversarial Defense via Class Encourage-Suppress Robust Learning.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/LiuZPWHG25
+  doi: 10.1109/TIFS.2025.3632217
+  ee: https://doi.org/10.1109/TIFS.2025.3632217
+  url: https://dblp.org/rec/journals/tifs/LiuZPWHG25
+- author: Huafeng Qin, Hulei Deng, Hailong Hu, Yantao Li 0001, Mounim A. El-Yacoubi
+  title: 'AdVeinSAM: Adversarial Learning-Based Large Model for Palm-Vein Feature
+    Segmentation.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/QinDHLE25
+  doi: 10.1109/TIFS.2025.3632226
+  ee: https://doi.org/10.1109/TIFS.2025.3632226
+  url: https://dblp.org/rec/journals/tifs/QinDHLE25
+- author: Manzoor Hussain, Jang-Eui Hong
+  title: Evaluating and Improving Adversarial Robustness of Deep Learning Models for
+    Intelligent Vehicle Safety.
+  venue: IEEE Trans. Reliab.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tr/HussainH25
+  doi: 10.1109/TR.2024.3458805
+  ee: https://doi.org/10.1109/TR.2024.3458805
+  url: https://dblp.org/rec/journals/tr/HussainH25
+- author: Xiaochen Zhang 0002, Sen Yan, Chen Wang, Te Han
+  title: Generalizable Fault Diagnosis Under Distribution Shifts Induced by Unseen
+    Working Conditions via Synthetic and Adversarial Sample Learning.
+  venue: IEEE Trans. Reliab.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tr/ZhangYWH25
+  doi: 10.1109/TR.2025.3616336
+  ee: https://doi.org/10.1109/TR.2025.3616336
+  url: https://dblp.org/rec/journals/tr/ZhangYWH25
+- author: Chunjiang Zhu, Blake Gaines, Jing Deng 0001, Jinbo Bi
+  title: Adversarially Attacking Graph Properties and Sparsification in Graph Learning.
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/ZhuGDB25
+  doi: 10.1145/3746252.3760882
+  ee: https://doi.org/10.1145/3746252.3760882
+  url: https://dblp.org/rec/conf/cikm/ZhuGDB25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -32494,3 +32775,35 @@ feature%20disentanglement:
   doi: 10.1145/3626825
   ee: https://doi.org/10.1145/3626825
   url: https://dblp.org/rec/journals/tomccap/GuoQGZX24
+- author: Jeong Ryong Lee, Geonhui Son, Dosik Hwang
+  title: 'FeDi: Feature disentanglement for self-supervised learning.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LeeSH26
+  doi: 10.1016/J.PATCOG.2025.112619
+  ee: https://doi.org/10.1016/j.patcog.2025.112619
+  url: https://dblp.org/rec/journals/pr/LeeSH26
+- author: Yongbo Cheng, Junheng Qv, Liangqi Wan, Te Han
+  title: Bayesian Adversarial Adaptation Network With Feature Disentanglement for
+    Remaining Useful Life Prediction.
+  venue: IEEE Trans. Reliab.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tr/ChengQWH25
+  doi: 10.1109/TR.2025.3626149
+  ee: https://doi.org/10.1109/TR.2025.3626149
+  url: https://dblp.org/rec/journals/tr/ChengQWH25
+- author: Ziwei Zeng, Lihong Li, Peixian Teng
+  title: Research on feature disentanglement and reconstruction network based on autoencoder
+    for few-shot fine-grained image classification.
+  venue: Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/ZengLT25
+  doi: 10.1007/S00371-025-04176-1
+  ee: https://doi.org/10.1007/s00371-025-04176-1
+  url: https://dblp.org/rec/journals/vc/ZengLT25
