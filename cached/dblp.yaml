@@ -29399,6 +29399,29 @@ Adversarial%20Learning:
   doi: 10.1145/3746252.3760882
   ee: https://doi.org/10.1145/3746252.3760882
   url: https://dblp.org/rec/conf/cikm/ZhuGDB25
+- author: Wei Zhang 0308, Ting Li, Ping He, Yuqing Yang, Shengrui Wang
+  title: An Outlier Suppression and Adversarial Learning Model for Anomaly Detection
+    in Multivariate Time Series.
+  venue: Entropy
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/entropy/ZhangLHYW25
+  doi: 10.3390/E27111151
+  ee: https://doi.org/10.3390/e27111151
+  url: https://dblp.org/rec/journals/entropy/ZhangLHYW25
+- author: Tianyi Chen, Hongxin Fu, Hao Wang 0193, Yan Huang 0031, Si Wu 0002, Yong
+    Xu 0007, Dapeng Oliver Wu
+  title: '3DMM-GAN: Multi-Modal Alignment With Adversarial Learning for Compositional
+    3D Human Image Synthesis.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ChenFWHWXW25
+  doi: 10.1109/TETCI.2025.3607392
+  ee: https://doi.org/10.1109/TETCI.2025.3607392
+  url: https://dblp.org/rec/journals/tetci/ChenFWHWXW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
