@@ -3925,6 +3925,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.7717/PEERJ-CS.3250
   ee: https://doi.org/10.7717/peerj-cs.3250
   url: https://dblp.org/rec/journals/peerj-cs/WangYP25
+- author: Yuxiang Zhang, Wei Li 0032, Wen Jia, Mengmeng Zhang 0005, Ran Tao 0003,
+    Shunlin Liang
+  title: Cross-Domain Hyperspectral Image Classification Based on Bi-Directional Domain
+    Adaptation.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/ZhangLJZTL25
+  doi: 10.1109/TCSVT.2025.3586282
+  ee: https://doi.org/10.1109/TCSVT.2025.3586282
+  url: https://dblp.org/rec/journals/tcsv/ZhangLJZTL25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -29422,6 +29434,62 @@ Adversarial%20Learning:
   doi: 10.1109/TETCI.2025.3607392
   ee: https://doi.org/10.1109/TETCI.2025.3607392
   url: https://dblp.org/rec/journals/tetci/ChenFWHWXW25
+- author: Baoyuan Wu, Mingli Zhu, Meixi Zheng, Zihao Zhu 0001, Shaokui Wei, Mingda
+    Zhang, Hongrui Chen, Danni Yuan, Li Liu 0036, Qingshan Liu 0001
+  title: 'Defenses in Adversarial Machine Learning: A Systematic Survey From the Lifecycle
+    Perspective.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/WuZZZWZCYLL26
+  doi: 10.1109/TPAMI.2025.3611340
+  ee: https://doi.org/10.1109/TPAMI.2025.3611340
+  url: https://dblp.org/rec/journals/pami/WuZZZWZCYLL26
+- author: Basharat Ali, Guihai Chen
+  title: 'Neuromorphic quantum adversarial learning (NQAL): a bio-inspired paradigm
+    for DNS over HTTPS threat detection.'
+  venue: EURASIP J. Inf. Secur.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/ejisec/AliC25
+  doi: 10.1186/S13635-025-00215-5
+  ee: https://doi.org/10.1186/s13635-025-00215-5
+  url: https://dblp.org/rec/journals/ejisec/AliC25
+- author: Jiefu Chen, Tong Chen, Zheng Wang, Guofeng Yi
+  title: Spatio-Temporal Focus With Active Learning in Sparse Closed Box Adversarial
+    Attacks for Video Recognition.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/ChenCWY25
+  doi: 10.1109/TCE.2025.3585421
+  ee: https://doi.org/10.1109/TCE.2025.3585421
+  url: https://dblp.org/rec/journals/tce/ChenCWY25
+- author: Longxiang Xue, Luying Zhong, Junjie Zhang 0010, Zheyi Chen, Hongju Cheng,
+    Jie Li 0002
+  title: Decentralized Federated Learning for Adversarial Anomaly Detection in Consumer-Grade
+    UAV-Assisted MEC Systems.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/XueZZCCL25
+  doi: 10.1109/TCE.2025.3617540
+  ee: https://doi.org/10.1109/TCE.2025.3617540
+  url: https://dblp.org/rec/journals/tce/XueZZCCL25
+- author: Herman Verinaz-Jadan, Su Yan 0003, Catherine Higgitt, Pier Luigi Dragotti
+  title: Cross-Modal Self-Supervised Adversarial Learning for MA-XRF Super-Resolution.
+  venue: EUSIPCO
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eusipco/VerinazJadanYHD25
+  doi: ''
+  ee: https://ieeexplore.ieee.org/document/11226773
+  url: https://dblp.org/rec/conf/eusipco/VerinazJadanYHD25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
