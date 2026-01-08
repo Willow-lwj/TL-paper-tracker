@@ -3937,6 +3937,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TCSVT.2025.3586282
   ee: https://doi.org/10.1109/TCSVT.2025.3586282
   url: https://dblp.org/rec/journals/tcsv/ZhangLJZTL25
+- author: Yuxiang Zhang 0005, Wei Li 0032, Wen Jia, Mengmeng Zhang 0005, Ran Tao 0003,
+    Shunlin Liang
+  title: Cross-Domain Hyperspectral Image Classification Based on Bi-Directional Domain
+    Adaptation.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/ZhangLJZTL25
+  doi: 10.1109/TCSVT.2025.3586282
+  ee: https://doi.org/10.1109/TCSVT.2025.3586282
+  url: https://dblp.org/rec/journals/tcsv/ZhangLJZTL25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -29490,6 +29502,126 @@ Adversarial%20Learning:
   doi: ''
   ee: https://ieeexplore.ieee.org/document/11226773
   url: https://dblp.org/rec/conf/eusipco/VerinazJadanYHD25
+- author: Baoyuan Wu, Li Liu 0036, Zihao Zhu 0001, Qingshan Liu 0001, Zhaofeng He,
+    Siwei Lyu
+  title: 'Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight
+    Attack and Adversarial Example.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-09457
+  doi: 10.48550/ARXIV.2302.09457
+  ee: https://doi.org/10.48550/arXiv.2302.09457
+  url: https://dblp.org/rec/journals/corr/abs-2302-09457
+- author: Yuhan Xie, Chen Lyu 0002, Zheng Qu, Chunmei Liu
+  title: Advancing cross-domain emergency classification with multi-view adversarial
+    learning.
+  venue: Inf. Process. Manag.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ipm/XieLQL26
+  doi: 10.1016/J.IPM.2025.104442
+  ee: https://doi.org/10.1016/j.ipm.2025.104442
+  url: https://dblp.org/rec/journals/ipm/XieLQL26
+- author: Yvon Apedo, Huanjie Tao, Wu Gao, Chao Xie, Shusen Zhao
+  title: Unsupervised Domain Adaptation for Crack Segmentation via Cross-Domain Stylization
+    and Dual Adversarial Feature Learning.
+  venue: J. Comput. Civ. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jccee/ApedoTGXZ26
+  doi: 10.1061/JCCEE5.CPENG-7223
+  ee: https://doi.org/10.1061/jccee5.cpeng-7223
+  url: https://dblp.org/rec/journals/jccee/ApedoTGXZ26
+- author: Lucheng Chen, Bing Chen, Chenglin Zhu, Weiwei Zhai, Jifu Cui, E. Yu
+  title: 'AD-FL  : adversarial defense in federated learning via attention denoising.'
+  venue: Connect. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/connection/ChenCZZCY25
+  doi: 10.1080/09540091.2025.2603028
+  ee: https://doi.org/10.1080/09540091.2025.2603028
+  url: https://dblp.org/rec/journals/connection/ChenCZZCY25
+- author: Cameron Mehlman, Gregory Falco
+  title: 'Satellite Chasers: Divergent Adversarial Reinforcement Learning to Engage
+    Intelligent Adversaries on Orbit.'
+  venue: J. Aerosp. Inf. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jacic/MehlmanF25
+  doi: 10.2514/1.I011632
+  ee: https://doi.org/10.2514/1.i011632
+  url: https://dblp.org/rec/journals/jacic/MehlmanF25
+- author: Jiefu Chen, Tong Chen, Zheng Wang 0044, Guofeng Yi
+  title: Spatio-Temporal Focus With Active Learning in Sparse Closed Box Adversarial
+    Attacks for Video Recognition.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/ChenCWY25
+  doi: 10.1109/TCE.2025.3585421
+  ee: https://doi.org/10.1109/TCE.2025.3585421
+  url: https://dblp.org/rec/journals/tce/ChenCWY25
+- author: Li He, Hanchen Liu, Junru Sheng, Lihua Zhang, Zhiyan Dong
+  title: Robust Reinforcement Learning based on Momentum Adversarial Training.
+  venue: IROS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/HeLSZD25
+  doi: 10.1109/IROS60139.2025.11246765
+  ee: https://doi.org/10.1109/IROS60139.2025.11246765
+  url: https://dblp.org/rec/conf/iros/HeLSZD25
+- author: Hongmin Mu, Zhengcai Cao
+  title: Anomaly Knowledge Learning for Patch-Agnostic Defense against Adversarial
+    Patches.
+  venue: IROS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/MuC25
+  doi: 10.1109/IROS60139.2025.11246128
+  ee: https://doi.org/10.1109/IROS60139.2025.11246128
+  url: https://dblp.org/rec/conf/iros/MuC25
+- author: Zhangpeng Tu, Zilin Xing, Xin Wu, Suohang Zhang, Canjun Yang
+  title: Adversarial Augmentation for Task-Parameterized Underwater Skill Learning
+    via Digital Twins*.
+  venue: IROS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/TuXWZY25
+  doi: 10.1109/IROS60139.2025.11247244
+  ee: https://doi.org/10.1109/IROS60139.2025.11247244
+  url: https://dblp.org/rec/conf/iros/TuXWZY25
+- author: Zongyuan Zhang, Tianyang Duan, Zheng Lin 0001, Dong Huang 0005, Zihan Fang,
+    Zekai Sun, Ling Xiong, Hongbin Liang, Heming Cui, Yong Cui 0001, Yue Gao 0001
+  title: Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked
+    Adversarial Attacks.
+  venue: IROS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iros/ZhangDLHFSXLCCG25
+  doi: 10.1109/IROS60139.2025.11246652
+  ee: https://doi.org/10.1109/IROS60139.2025.11246652
+  url: https://dblp.org/rec/conf/iros/ZhangDLHFSXLCCG25
+- author: Wenhan Dong, Chao Lin 0003, Xinlei He 0001, Shengmin Xu, Xinyi Huang 0001
+  title: Privacy-Preserving Federated Learning via Homomorphic Adversarial Networks.
+  venue: KSEM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ksem/DongLHXH25
+  doi: 10.1007/978-981-95-3052-6_30
+  ee: https://doi.org/10.1007/978-981-95-3052-6_30
+  url: https://dblp.org/rec/conf/ksem/DongLHXH25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
