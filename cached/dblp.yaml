@@ -29622,6 +29622,51 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-95-3052-6_30
   ee: https://doi.org/10.1007/978-981-95-3052-6_30
   url: https://dblp.org/rec/conf/ksem/DongLHXH25
+- author: Zhenxi Zhang, Haoyue Tan, Peiru Li, Heng Zhou 0006, Xiaoran Shi, Yu Li 0035,
+    Yun Lin, Feng Zhou 0001
+  title: An Adversarial Margin Driven Rectified Prototypical Learning Method for Few-Shot
+    Incremental Automatic Modulation Recognition.
+  venue: IEEE Wirel. Commun. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/wcl/ZhangTLZSLLZ26
+  doi: 10.1109/LWC.2025.3641556
+  ee: https://doi.org/10.1109/LWC.2025.3641556
+  url: https://dblp.org/rec/journals/wcl/ZhangTLZSLLZ26
+- author: Mahdi Ajdani
+  title: 'Deep Learning-Based Intrusion Detection Systems: A Novel Approach Using
+    Generative Adversarial Networks (GANs).'
+  venue: Int. J. Inf. Secur. Priv.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijisp/Ajdani25
+  doi: 10.4018/IJISP.383299
+  ee: https://doi.org/10.4018/ijisp.383299
+  url: https://dblp.org/rec/journals/ijisp/Ajdani25
+- author: Sydney Pugh, Ivan Ruchkin, James Weimer, Insup Lee 0001
+  title: Evaluating Robustness of Learning-Enabled Medical Cyber-Physical Systems
+    with Naturally Adversarial Datasets.
+  venue: ACM Trans. Cyber Phys. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tcps/PughRWL25
+  doi: 10.1145/3734695
+  ee: https://doi.org/10.1145/3734695
+  url: https://dblp.org/rec/journals/tcps/PughRWL25
+- author: Hamda Bouzabia, Tri Nhu Do, Georges Kaddoum
+  title: Generative AI-Empowered Resilient Adaptive ISAC Against Adversarial Machine
+    Learning Attacks.
+  venue: IEEE Trans. Veh. Technol.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tvt/BouzabiaDK25
+  doi: 10.1109/TVT.2025.3583924
+  ee: https://doi.org/10.1109/TVT.2025.3583924
+  url: https://dblp.org/rec/journals/tvt/BouzabiaDK25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
