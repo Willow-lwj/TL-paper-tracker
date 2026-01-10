@@ -29667,6 +29667,29 @@ Adversarial%20Learning:
   doi: 10.1109/TVT.2025.3583924
   ee: https://doi.org/10.1109/TVT.2025.3583924
   url: https://dblp.org/rec/journals/tvt/BouzabiaDK25
+- author: Zhenxi Zhang, Haoyue Tan, Peiru Li, Heng Zhou 0006, Xiaoran Shi, Yu Li 0035,
+    Yun Lin 0005, Feng Zhou 0001
+  title: An Adversarial Margin Driven Rectified Prototypical Learning Method for Few-Shot
+    Incremental Automatic Modulation Recognition.
+  venue: IEEE Wirel. Commun. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/wcl/ZhangTLZSLLZ26
+  doi: 10.1109/LWC.2025.3641556
+  ee: https://doi.org/10.1109/LWC.2025.3641556
+  url: https://dblp.org/rec/journals/wcl/ZhangTLZSLLZ26
+- author: Min Li, Yuansong Qiao, Brian Lee
+  title: Adversarial Robustness Evaluation for Multi-View Deep Learning Cybersecurity
+    Anomaly Detection.
+  venue: Future Internet
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/fi/LiQL25a
+  doi: 10.3390/FI17100459
+  ee: https://doi.org/10.3390/fi17100459
+  url: https://dblp.org/rec/journals/fi/LiQL25a
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -33075,3 +33098,13 @@ feature%20disentanglement:
   doi: 10.1007/S00371-025-04176-1
   ee: https://doi.org/10.1007/s00371-025-04176-1
   url: https://dblp.org/rec/journals/vc/ZengLT25
+- author: Yingduo Tong, Zhenyu Lu 0003, Yize Dong, Yonggang Lu
+  title: Class-Level Feature Disentanglement for Multi-Label Image Classification.
+  venue: Future Internet
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/fi/TongLDL25
+  doi: 10.3390/FI17110486
+  ee: https://doi.org/10.3390/fi17110486
+  url: https://dblp.org/rec/journals/fi/TongLDL25
