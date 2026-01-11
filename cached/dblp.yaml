@@ -29690,6 +29690,17 @@ Adversarial%20Learning:
   doi: 10.3390/FI17100459
   ee: https://doi.org/10.3390/fi17100459
   url: https://dblp.org/rec/journals/fi/LiQL25a
+- author: Min Li, Yuansong Qiao, Brian Lee 0001
+  title: Adversarial Robustness Evaluation for Multi-View Deep Learning Cybersecurity
+    Anomaly Detection.
+  venue: Future Internet
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/fi/LiQL25a
+  doi: 10.3390/FI17100459
+  ee: https://doi.org/10.3390/fi17100459
+  url: https://dblp.org/rec/journals/fi/LiQL25a
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
