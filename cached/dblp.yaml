@@ -29701,6 +29701,63 @@ Adversarial%20Learning:
   doi: 10.3390/FI17100459
   ee: https://doi.org/10.3390/fi17100459
   url: https://dblp.org/rec/journals/fi/LiQL25a
+- author: Mengfan He, Xiaoxiao Pang, Yangbo Li
+  title: An Adaptive Convolution Neural Network-Based Multimedia Generative Adversarial
+    Learning Framework for Style Transfer of Movie Videos.
+  venue: J. Circuits Syst. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jcsc/HePL26
+  doi: 10.1142/S0218126625503475
+  ee: https://doi.org/10.1142/s0218126625503475
+  url: https://dblp.org/rec/journals/jcsc/HePL26
+- author: Chengyuan Zhang, Ping Wang 0009
+  title: 'Adaptive Masked Autoencoder Defense: A Robust Defense Strategy Against Adversarial
+    Attacks in Deep Learning Models.'
+  venue: J. Circuits Syst. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jcsc/ZhangW26
+  doi: 10.1142/S0218126625503578
+  ee: https://doi.org/10.1142/s0218126625503578
+  url: https://dblp.org/rec/journals/jcsc/ZhangW26
+- author: "Giuseppe Guarino, C\xE1ssio F. Dantas, Dino Ienco, Raffaele Gaetano, Gemine\
+    \ Vivone, Matteo Ciotola, Giuseppe Scarpa"
+  title: 'SAHARA: Heterogeneous Semi-Supervised Transfer Learning With Adversarial
+    Adaptation and Dynamic Pseudo-Labeling.'
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/GuarinoDIGVCS26
+  doi: 10.1109/LGRS.2025.3635269
+  ee: https://doi.org/10.1109/LGRS.2025.3635269
+  url: https://dblp.org/rec/journals/lgrs/GuarinoDIGVCS26
+- author: Reza Ebrahimi 0001, James Lee Hu, Ning Zhang, Jay F. Nunamaker Jr., Hsinchun
+    Chen
+  title: 'Defending Deep Learning-Based Raw Malware Detectors Against Adversarial
+    Attacks: A Sequence Modeling Approach.'
+  venue: J. Manag. Inf. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jmis/EbrahimiHZNC25
+  doi: 10.1080/07421222.2025.2561384
+  ee: https://doi.org/10.1080/07421222.2025.2561384
+  url: https://dblp.org/rec/journals/jmis/EbrahimiHZNC25
+- author: Yaping Zhao, Longfeng Wang, Gustave Florentin Nkoulou Mvondo, Xing Yang
+  title: A Hybrid Sampling Algorithm Based on Generative Adversarial Networks and
+    Reinforcement Learning for Medical Insurance Fraud Detection.
+  venue: ICONIP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/ZhaoWMY25
+  doi: 10.1007/978-981-95-4367-0_24
+  ee: https://doi.org/10.1007/978-981-95-4367-0_24
+  url: https://dblp.org/rec/conf/iconip/ZhaoWMY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -33119,3 +33176,13 @@ feature%20disentanglement:
   doi: 10.3390/FI17110486
   ee: https://doi.org/10.3390/fi17110486
   url: https://dblp.org/rec/journals/fi/TongLDL25
+- author: Jiayi Xu 0002, Zhengyang Wu, Chenming Zhang, Xiaogang Jin, Yaohua Ji
+  title: Feature Disentanglement in GANs for Photorealistic Multi-view Hair Transfer.
+  venue: Comput. Graph. Forum
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cgf/XuWZJJ25
+  doi: 10.1111/CGF.70245
+  ee: https://doi.org/10.1111/cgf.70245
+  url: https://dblp.org/rec/journals/cgf/XuWZJJ25
