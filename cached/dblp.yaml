@@ -33186,3 +33186,13 @@ feature%20disentanglement:
   doi: 10.1111/CGF.70245
   ee: https://doi.org/10.1111/cgf.70245
   url: https://dblp.org/rec/journals/cgf/XuWZJJ25
+- author: Jiayi Xu 0002, Zhengyang Wu, Chenming Zhang, Xiaogang Jin 0001, Yaohua Ji
+  title: Feature Disentanglement in GANs for Photorealistic Multi-view Hair Transfer.
+  venue: Comput. Graph. Forum
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cgf/XuWZJJ25
+  doi: 10.1111/CGF.70245
+  ee: https://doi.org/10.1111/cgf.70245
+  url: https://dblp.org/rec/journals/cgf/XuWZJJ25
