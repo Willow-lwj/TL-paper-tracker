@@ -29758,6 +29758,50 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-95-4367-0_24
   ee: https://doi.org/10.1007/978-981-95-4367-0_24
   url: https://dblp.org/rec/conf/iconip/ZhaoWMY25
+- author: Wenbin Xiang, Jie Zhang, Peng Zhang, Ming Wang, Hongsen Li
+  title: Adversarial learning enhanced multi-agent cooperative reinforcement learning
+    for parallel batch processing machine scheduling in wafer fabrication.
+  venue: Comput. Ind. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/candie/XiangZZWL26
+  doi: 10.1016/J.CIE.2025.111660
+  ee: https://doi.org/10.1016/j.cie.2025.111660
+  url: https://dblp.org/rec/journals/candie/XiangZZWL26
+- author: Wenda He, Xiangrui Cai, Huayue Zhong, Weishan Zou, Yuping Lai, Xiaojie Yuan
+  title: 'Dirichlet process mixture mechanism with extended stochastic variational
+    inference: Bayesian adversarial learning for IoT intrusion detection.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/HeCZZLY26
+  doi: 10.1016/J.NEUCOM.2025.132374
+  ee: https://doi.org/10.1016/j.neucom.2025.132374
+  url: https://dblp.org/rec/journals/ijon/HeCZZLY26
+- author: Rommel Gutierrez, William Eduardo Villegas-Ch., Jaime Govea
+  title: Adaptive consensus optimization in blockchain using reinforcement learning
+    and validation in adversarial environments.
+  venue: Frontiers Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/frai/GutierrezVG25
+  doi: 10.3389/FRAI.2025.1672273
+  ee: https://doi.org/10.3389/frai.2025.1672273
+  url: https://dblp.org/rec/journals/frai/GutierrezVG25
+- author: Xiaochen Zhang 0002, Sen Yan, Chen Wang 0160, Te Han
+  title: Generalizable Fault Diagnosis Under Distribution Shifts Induced by Unseen
+    Working Conditions via Synthetic and Adversarial Sample Learning.
+  venue: IEEE Trans. Reliab.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tr/ZhangYWH25
+  doi: 10.1109/TR.2025.3616336
+  ee: https://doi.org/10.1109/TR.2025.3616336
+  url: https://dblp.org/rec/journals/tr/ZhangYWH25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -33196,3 +33240,15 @@ feature%20disentanglement:
   doi: 10.1111/CGF.70245
   ee: https://doi.org/10.1111/cgf.70245
   url: https://dblp.org/rec/journals/cgf/XuWZJJ25
+- author: Yikun Yang, Lifei Duan, Kechen Hou, Zhongfeng Kang, Xiaowei Zhang, Bin Hu
+    0001
+  title: 'FDDGNet: An information bottleneck-inspired feature disentanglement network
+    for cross-subject EEG-based emotion recognition.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YangDHKZH26
+  doi: 10.1016/J.NEUCOM.2025.132368
+  ee: https://doi.org/10.1016/j.neucom.2025.132368
+  url: https://dblp.org/rec/journals/ijon/YangDHKZH26
