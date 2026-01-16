@@ -29802,6 +29802,29 @@ Adversarial%20Learning:
   doi: 10.1109/TR.2025.3616336
   ee: https://doi.org/10.1109/TR.2025.3616336
   url: https://dblp.org/rec/journals/tr/ZhangYWH25
+- author: Zhenxin Cai, Gejiacheng Lu, Yu Wang 0078, Guan Gui 0001, Jin Sha 0001
+  title: Robust Cross-Domain Drone RFFI Method Using Domain-Invariant Adversarial
+    Learning and Manifold Regularization.
+  venue: IEEE Trans. Cogn. Commun. Netw.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tccn/CaiLWGS26
+  doi: 10.1109/TCCN.2025.3561305
+  ee: https://doi.org/10.1109/TCCN.2025.3561305
+  url: https://dblp.org/rec/journals/tccn/CaiLWGS26
+- author: John Richeson, Salma Aboelmagd, Umair Ahmad Mughal, Abdulrahman Takiddin,
+    Muhammad Ismail 0001
+  title: Ensemble Learning-Based Intrusion Detection System for Aerial Base Stations
+    Against Adversarial Evasion Attacks.
+  venue: ICC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/RichesonAMTI25
+  doi: 10.1109/ICC52391.2025.11160712
+  ee: https://doi.org/10.1109/ICC52391.2025.11160712
+  url: https://dblp.org/rec/conf/icc/RichesonAMTI25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -33252,3 +33275,47 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUCOM.2025.132368
   ee: https://doi.org/10.1016/j.neucom.2025.132368
   url: https://dblp.org/rec/journals/ijon/YangDHKZH26
+- author: Yikun Yang, Lifei Duan, Kechen Hou, Zhongfeng Kang, Xiaowei Zhang 0001,
+    Bin Hu 0001
+  title: 'FDDGNet: An information bottleneck-inspired feature disentanglement network
+    for cross-subject EEG-based emotion recognition.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YangDHKZH26
+  doi: 10.1016/J.NEUCOM.2025.132368
+  ee: https://doi.org/10.1016/j.neucom.2025.132368
+  url: https://dblp.org/rec/journals/ijon/YangDHKZH26
+- author: Yuchen Bao, Yiting Wang, Wenjian Huang, Haowei Wang, Shen Chen, Taiping
+    Yao, Shouhong Ding, Jianguo Zhang
+  title: 'TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-13399
+  doi: 10.48550/ARXIV.2511.13399
+  ee: https://doi.org/10.48550/arXiv.2511.13399
+  url: https://dblp.org/rec/journals/corr/abs-2511-13399
+- author: Junhong Liu, Yuan Zhang, Tao Huang, Wenchao Xu, Renyu Yang
+  title: Distilling Cross-Modal Knowledge via Feature Disentanglement.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-19887
+  doi: 10.48550/ARXIV.2511.19887
+  ee: https://doi.org/10.48550/arXiv.2511.19887
+  url: https://dblp.org/rec/journals/corr/abs-2511-19887
+- author: Xinyi Che, Wenbo Wang, Jian Guan, Qijun Zhao
+  title: Orthogonal Disentanglement with Projected Feature Alignment for Multimodal
+    Emotion Recognition in Conversation.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-22463
+  doi: 10.48550/ARXIV.2511.22463
+  ee: https://doi.org/10.48550/arXiv.2511.22463
+  url: https://dblp.org/rec/journals/corr/abs-2511-22463
