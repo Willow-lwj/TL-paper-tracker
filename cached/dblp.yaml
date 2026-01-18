@@ -29858,6 +29858,84 @@ Adversarial%20Learning:
   doi: 10.3390/INFO16100867
   ee: https://doi.org/10.3390/info16100867
   url: https://dblp.org/rec/journals/information/ZhangLLTNXW25
+- author: Mahmoud Mohamed, Fayaz Aljuaid
+  title: 'ARMOR: A multi-layered adaptive defense framework for robust deep learning
+    systems against evolving adversarial threats.'
+  venue: Comput. Stand. Interfaces
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/csi/MohamedA26
+  doi: 10.1016/J.CSI.2025.104117
+  ee: https://doi.org/10.1016/j.csi.2025.104117
+  url: https://dblp.org/rec/journals/csi/MohamedA26
+- author: Nandini Arimanda, Ramya Vaishnavi Radhakrishnan, Padmavathi U.
+  title: 'FL-IDS++: A dynamic federated learning framework for intrusion detection
+    with personalized non-IID data, adversarial resilience and energy-efficient lightweight
+    models.'
+  venue: Future Gener. Comput. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/fgcs/ArimandaRU26
+  doi: 10.1016/J.FUTURE.2025.108234
+  ee: https://doi.org/10.1016/j.future.2025.108234
+  url: https://dblp.org/rec/journals/fgcs/ArimandaRU26
+- author: Zhigang Wang, Yuzi Li, Qinghua Zhang, Junfeng Zhao 0005
+  title: 'ProtoFedGAN: A novel federated learning framework for training generative
+    adversarial networks via dynamic dual-prototype alignment.'
+  venue: Future Gener. Comput. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/fgcs/WangLZZ26
+  doi: 10.1016/J.FUTURE.2025.108353
+  ee: https://doi.org/10.1016/j.future.2025.108353
+  url: https://dblp.org/rec/journals/fgcs/WangLZZ26
+- author: Fenfei Gu, Mideth Abisado
+  title: Research on Multi-Task Learning Facial Attribute Recognition Model Based
+    on Adversarial Training and Differential Privacy.
+  venue: J. Inf. Hiding Multim. Signal Process.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/jihmsp/GuA25
+  doi: ''
+  ee: http://bit.kuas.edu.tw/~jihmsp/2025/vol16/N4/10.JIHMSP-250716.pdf
+  url: https://dblp.org/rec/journals/jihmsp/GuA25
+- author: "G\xFCls\xFCm Yigit, Mehmet Fatih Amasyali"
+  title: 'Adversarial distractor generation for MCQA: Leveraging in-context learning
+    and rule-based approaches.'
+  venue: Nat. Lang. Process. J.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/nlpj/YigitA25
+  doi: 10.1016/J.NLP.2025.100186
+  ee: https://doi.org/10.1016/j.nlp.2025.100186
+  url: https://dblp.org/rec/journals/nlpj/YigitA25
+- author: Seyed Ahmad Soleymani, Mohsen Eslamnejad, Mohammad Shojafar, Rahim Tafazolli
+  title: Detecting and Mitigating Adversarial Machine Learning in Open RAN Using Digital
+    Twin.
+  venue: IEEE Wirel. Commun. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/wcl/SoleymaniEST25
+  doi: 10.1109/LWC.2025.3609661
+  ee: https://doi.org/10.1109/LWC.2025.3609661
+  url: https://dblp.org/rec/journals/wcl/SoleymaniEST25
+- author: Olga Kurasova, Viktor Medvedev, Juozapas Rokas Cypas, Juozas Dautartas
+  title: 'Poster: Targeted Evasion of Malware Detection Using Adversarial Machine
+    Learning.'
+  venue: NCA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/nca/KurasovaMCD25
+  doi: 10.1109/NCA67271.2025.00056
+  ee: https://doi.org/10.1109/NCA67271.2025.00056
+  url: https://dblp.org/rec/conf/nca/KurasovaMCD25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
