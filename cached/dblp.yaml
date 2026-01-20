@@ -29936,6 +29936,27 @@ Adversarial%20Learning:
   doi: 10.1109/NCA67271.2025.00056
   ee: https://doi.org/10.1109/NCA67271.2025.00056
   url: https://dblp.org/rec/conf/nca/KurasovaMCD25
+- author: Tanzil Hassan, Francesca Meneghello 0001, Francesco Restuccia 0001
+  title: 'AdvO-RAN: Adversarial Deep Reinforcement Learning in AI-Driven Open Radio
+    Access Networks.'
+  venue: MobiHoc
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mobihoc/Hassan0025
+  doi: 10.1145/3704413.3764425
+  ee: https://doi.org/10.1145/3704413.3764425
+  url: https://dblp.org/rec/conf/mobihoc/Hassan0025
+- author: Amin Bigdeli, Negar Arabzadeh, Ebrahim Bagheri, Charles L. A. Clarke
+  title: Adversarial Attacks against Neural Ranking Models via In-Context Learning.
+  venue: SIGIR-AP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sigir-ap/BigdeliABC25
+  doi: 10.1145/3767695.3769517
+  ee: https://doi.org/10.1145/3767695.3769517
+  url: https://dblp.org/rec/conf/sigir-ap/BigdeliABC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
