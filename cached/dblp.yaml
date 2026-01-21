@@ -29957,6 +29957,63 @@ Adversarial%20Learning:
   doi: 10.1145/3767695.3769517
   ee: https://doi.org/10.1145/3767695.3769517
   url: https://dblp.org/rec/conf/sigir-ap/BigdeliABC25
+- author: Byung Chang Chung, Gyu-Bum Han
+  title: A DeepSHAP-Based Adversarial Attack on Machine Learning-Based Network Intrusion
+    Detection.
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/ChungH26
+  doi: 10.1109/ACCESS.2025.3650123
+  ee: https://doi.org/10.1109/ACCESS.2025.3650123
+  url: https://dblp.org/rec/journals/access/ChungH26
+- author: "Harbinder Singh 0001, Oscar D\xE9niz-Su\xE1rez, Juan Daniel Mu\xF1oz, Jes\xFA\
+    s Ruiz-Santaquiteria, Hugo Albandea Merino, Gloria Bueno"
+  title: Robust firearm detection based on learning prior distributions on adversarial
+    autoencoders.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/SinghDMRMB26
+  doi: 10.1016/J.ESWA.2025.130936
+  ee: https://doi.org/10.1016/j.eswa.2025.130936
+  url: https://dblp.org/rec/journals/eswa/SinghDMRMB26
+- author: Yuqian Wang, Gang Liu, Xiaojing Zhu, Jiaxing Zou, Lei Chen
+  title: Temporal-frequency enhanced fourier neural operator and collaborative adversarial
+    learning for multi-physics-coupled transient simulation of natural gas pipelines.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangLZZC26
+  doi: 10.1016/J.ESWA.2025.130550
+  ee: https://doi.org/10.1016/j.eswa.2025.130550
+  url: https://dblp.org/rec/journals/eswa/WangLZZC26
+- author: Hai Yuan, Xiao Yang, Jun Wang, Zhengwen Shen, Yan Gu, Zaiyu Pan
+  title: Progressive collaborative adversarial learning with missing modality for
+    comprehensive multi-modal hand biometrics dataset.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/YuanYWSGP26
+  doi: 10.1016/J.ESWA.2025.130645
+  ee: https://doi.org/10.1016/j.eswa.2025.130645
+  url: https://dblp.org/rec/journals/eswa/YuanYWSGP26
+- author: Zhifu Zhu 0001, Xiping Yuan, Shu Gan, Raobo Li, Weidong Luo, Cheng Chen
+    0029, Rui Bi
+  title: 'DDCL-GAN: a novel dual-domain contrastive learning generative adversarial
+    network for unsupervised multimodal remote sensing image change detection.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhuYGLLCB26
+  doi: 10.1016/J.ESWA.2025.130995
+  ee: https://doi.org/10.1016/j.eswa.2025.130995
+  url: https://dblp.org/rec/journals/eswa/ZhuYGLLCB26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -33451,3 +33508,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2511.22463
   ee: https://doi.org/10.48550/arXiv.2511.22463
   url: https://dblp.org/rec/journals/corr/abs-2511-22463
+- author: Yuting Chen, Juanjuan Shi, Changqing Shen, Hao Yang, Zehui Hua, Weiguo Huang,
+    Zhongkui Zhu
+  title: Time-frequency aware feature disentanglement learning for intelligent bearing
+    fault diagnosis under variable speed conditions.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ChenSSYHHZ26
+  doi: 10.1016/J.ESWA.2025.130664
+  ee: https://doi.org/10.1016/j.eswa.2025.130664
+  url: https://dblp.org/rec/journals/eswa/ChenSSYHHZ26
