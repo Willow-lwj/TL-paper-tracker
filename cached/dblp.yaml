@@ -30014,6 +30014,62 @@ Adversarial%20Learning:
   doi: 10.1016/J.ESWA.2025.130995
   ee: https://doi.org/10.1016/j.eswa.2025.130995
   url: https://dblp.org/rec/journals/eswa/ZhuYGLLCB26
+- author: Yiming Ren, Yang Xu, Sicong Zhang, Xiaoyao Xie
+  title: Contrastive adversarial learning with dual-sample guidance for transferable
+    attacks on vision-language pre-training models.
+  venue: Multim. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/RenXZX26
+  doi: 10.1007/S00530-025-02051-6
+  ee: https://doi.org/10.1007/s00530-025-02051-6
+  url: https://dblp.org/rec/journals/mms/RenXZX26
+- author: Yanwanyu Xi, Chang Tang, Junjie Huang 0001, Xingchen Hu 0001, Yuanyuan Liu
+    0004, Xinwang Liu 0002
+  title: Contrastive and Dual Adversarial Representation Learning for Multi-View Clustering.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/XiTHHLL26
+  doi: 10.1109/TKDE.2025.3611368
+  ee: https://doi.org/10.1109/TKDE.2025.3611368
+  url: https://dblp.org/rec/journals/tkde/XiTHHLL26
+- author: Dudi Biton, Jacob Shams, Satoru Koda, Asaf Shabtai, Yuval Elovici, Ben Nassi
+  title: Towards an End-to-End (E2E) Adversarial Learning and Application in the Physical
+    World.
+  venue: J. Cybersecur. Priv.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/jocsap/BitonSKSEN25
+  doi: 10.3390/JCP5040108
+  ee: https://doi.org/10.3390/jcp5040108
+  url: https://dblp.org/rec/journals/jocsap/BitonSKSEN25
+- author: Wei Wang, Zhenyong Zhang, Xin Wang, Xuguo Jiao
+  title: Black-box adversarial attacks on deep reinforcement learning-based proportional-integral-derivative
+    controllers for load frequency control.
+  venue: Frontiers Inf. Technol. Electron. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jzusc/WangZWJ25
+  doi: 10.1631/FITEE.2401021
+  ee: https://doi.org/10.1631/FITEE.2401021
+  url: https://dblp.org/rec/journals/jzusc/WangZWJ25
+- author: Tianqi Wang, Jingqi Xia, Leixiong Shi, Chenyuan Wang, Zhichao Lan, Pengfei
+    Zhang, Xilin Liu
+  title: Kinship Verification via Angular Margin Metric Learning and Gender Relation
+    Discriminating Adversarial Decoupling.
+  venue: PRCV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/WangXSWLZL25
+  doi: 10.1007/978-981-95-5699-1_4
+  ee: https://doi.org/10.1007/978-981-95-5699-1_4
+  url: https://dblp.org/rec/conf/prcv/WangXSWLZL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
