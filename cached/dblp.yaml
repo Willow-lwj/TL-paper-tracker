@@ -30070,6 +30070,41 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-95-5699-1_4
   ee: https://doi.org/10.1007/978-981-95-5699-1_4
   url: https://dblp.org/rec/conf/prcv/WangXSWLZL25
+- author: Wei Wang, Zhenyong Zhang, Xin Wang 0044, Xuguo Jiao
+  title: Black-box adversarial attacks on deep reinforcement learning-based proportional-integral-derivative
+    controllers for load frequency control.
+  venue: Frontiers Inf. Technol. Electron. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/jzusc/WangZWJ25
+  doi: 10.1631/FITEE.2401021
+  ee: https://doi.org/10.1631/FITEE.2401021
+  url: https://dblp.org/rec/journals/jzusc/WangZWJ25
+- author: Zhen Liu 0054, Xun Gong 0007, Nan Li 0015, Hang Gao, Yeting Lin, Ting Qu,
+    Yunfeng Hu 0003, Hong Chen 0003
+  title: Adversarial Driving Behavior Generation via Fuzzy Reward Reinforcement Learning
+    Incorporating Human Risk Cognition.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/LiuGLGLQHC25
+  doi: 10.1109/TITS.2025.3587305
+  ee: https://doi.org/10.1109/TITS.2025.3587305
+  url: https://dblp.org/rec/journals/tits/LiuGLGLQHC25
+- author: Tianjiao Li, Mengran Yu, Chenyu Shi, Yanjun Zhao 0001, Xiaojing Liu, Qiang
+    Zhang, Qi Zhang 0020, Xuanjing Huang 0001, Jiayin Wang
+  title: 'RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization
+    for Machine Translation.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2506-05070
+  doi: 10.48550/ARXIV.2506.05070
+  ee: https://doi.org/10.48550/arXiv.2506.05070
+  url: https://dblp.org/rec/journals/corr/abs-2506-05070
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
