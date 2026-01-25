@@ -30105,6 +30105,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2506.05070
   ee: https://doi.org/10.48550/arXiv.2506.05070
   url: https://dblp.org/rec/journals/corr/abs-2506-05070
+- author: Yuxiang Liu, Shengfan Cao
+  title: 'State-Conditional Adversarial Learning: An Off-Policy Visual Domain Transfer
+    Method for End-to-End Imitation Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-05335
+  doi: 10.48550/ARXIV.2512.05335
+  ee: https://doi.org/10.48550/arXiv.2512.05335
+  url: https://dblp.org/rec/journals/corr/abs-2512-05335
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -33611,3 +33622,14 @@ feature%20disentanglement:
   doi: 10.1016/J.ESWA.2025.130664
   ee: https://doi.org/10.1016/j.eswa.2025.130664
   url: https://dblp.org/rec/journals/eswa/ChenSSYHHZ26
+- author: Bo Liu, Qiao Qin, Qinghui He
+  title: 'CausalCLIP: Causally-Informed Feature Disentanglement and Filtering for
+    Generalizable Detection of Generated Images.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-13285
+  doi: 10.48550/ARXIV.2512.13285
+  ee: https://doi.org/10.48550/arXiv.2512.13285
+  url: https://dblp.org/rec/journals/corr/abs-2512-13285
