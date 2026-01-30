@@ -30328,6 +30328,61 @@ Adversarial%20Learning:
   doi: 10.1145/3746027.3755487
   ee: https://doi.org/10.1145/3746027.3755487
   url: https://dblp.org/rec/conf/mm/YuanXP0J25
+- author: Yuan Zhou, Xiaofeng Yue
+  title: Local-to-global multi-modal domain adversarial learning framework for multi-source
+    domain mechanical fault diagnosis.
+  venue: Appl. Soft Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/ZhouY26
+  doi: 10.1016/J.ASOC.2026.114626
+  ee: https://doi.org/10.1016/j.asoc.2026.114626
+  url: https://dblp.org/rec/journals/asc/ZhouY26
+- author: Zhen Zeng, Jiangtao Ren
+  title: 'T2RIAD: A Two-Stage Framework for Truck Re-ID With Domain Adversarial and
+    Distillation Learning.'
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/ZengR26
+  doi: 10.1109/TITS.2025.3629354
+  ee: https://doi.org/10.1109/TITS.2025.3629354
+  url: https://dblp.org/rec/journals/tits/ZengR26
+- author: "Mang Ning, Albert Ali Salah, Itir \xD6nal Ertugrul"
+  title: Revisiting Representation Learning and Identity Adversarial Training for
+    Facial Behavior Understanding.
+  venue: FG
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/fgr/NingSE25
+  doi: 10.1109/FG61629.2025.11099375
+  ee: https://doi.org/10.1109/FG61629.2025.11099375
+  url: https://dblp.org/rec/conf/fgr/NingSE25
+- author: Yizhe Yuan, Bingsen Xue, Bangzheng Pu, Chengxiang Wang 0004, Cheng Jin 0005
+  title: 'PRINTER: Deformation-Aware Adversarial Learning for Virtual IHC Staining
+    with In Situ Fidelity.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/YuanXP0J25
+  doi: 10.1145/3746027.3755487
+  ee: https://doi.org/10.1145/3746027.3755487
+  url: https://dblp.org/rec/conf/mm/YuanXP0J25
+- author: Muhammad Shahzad Arif, Sami Muhaidat, Paschalis C. Sofotasios
+  title: 'Bait Tactics: Misleading DRL-Based Cognitive Anti-Jamming Communications
+    via Adversarial Learning.'
+  venue: PIMRC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/pimrc/ArifMS25a
+  doi: 10.1109/PIMRC62392.2025.11275524
+  ee: https://doi.org/10.1109/PIMRC62392.2025.11275524
+  url: https://dblp.org/rec/conf/pimrc/ArifMS25a
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
