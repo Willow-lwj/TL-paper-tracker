@@ -30383,6 +30383,127 @@ Adversarial%20Learning:
   doi: 10.1109/PIMRC62392.2025.11275524
   ee: https://doi.org/10.1109/PIMRC62392.2025.11275524
   url: https://dblp.org/rec/conf/pimrc/ArifMS25a
+- author: Vivek Ranjan, Dayashankar Singh
+  title: Deepfake Audio Detection Using Generative Adversarial Network-Based Spatial-Temporal
+    Feature Learning.
+  venue: Int. J. Softw. Eng. Knowl. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijseke/RanjanS26
+  doi: 10.1142/S0218194025500676
+  ee: https://doi.org/10.1142/S0218194025500676
+  url: https://dblp.org/rec/journals/ijseke/RanjanS26
+- author: Yongmin Kim, Yujun Yang, Hyunsoo Yoon
+  title: Weighted adversarial learning with wavelet kernels and large margin networks
+    for the cross-domain fault diagnosis of rolling bearings under a class imbalance.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/KimYY26
+  doi: 10.1016/J.KNOSYS.2025.115166
+  ee: https://doi.org/10.1016/j.knosys.2025.115166
+  url: https://dblp.org/rec/journals/kbs/KimYY26
+- author: Qiuli Wang 0001, Yongxu Liu 0005, Li Ma, Yue Zhang 0042, Kaiyan Li 0005,
+    Xianqi Wang 0002, Yong Lin, S. Kevin Zhou, Wei Chen 0090, Xiaohong Yao
+  title: Unsupervised stain-aware pixel-adversarial transfer learning for virtual
+    immunohistochemical staining.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WangLMZLWLZCY26
+  doi: 10.1016/J.KNOSYS.2025.115169
+  ee: https://doi.org/10.1016/j.knosys.2025.115169
+  url: https://dblp.org/rec/journals/kbs/WangLMZLWLZCY26
+- author: Zhenghua Xu 0001, Jiaqi Tang 0013, Dan Yao, Zhenzhen Wang, Thomas Lukasiewicz
+  title: 'AttCL-GAN: Attentional contrastive learning-based generative adversarial
+    network for modality completion of medical images.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/XuTYWL26
+  doi: 10.1016/J.KNOSYS.2025.115017
+  ee: https://doi.org/10.1016/j.knosys.2025.115017
+  url: https://dblp.org/rec/journals/kbs/XuTYWL26
+- author: Yiman Hu, Yixiong Zou, Xiaosen Wang, Yuhua Li 0003, Kun He 0001, Ruixuan
+    Li 0001
+  title: Alleviating noise memorization for adversarially robust few-shot learning.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/HuZWLHL26
+  doi: 10.1016/J.NEUNET.2025.108515
+  ee: https://doi.org/10.1016/j.neunet.2025.108515
+  url: https://dblp.org/rec/journals/nn/HuZWLHL26
+- author: Siyuan Peng, Shuzhao Xu, Zhijing Yang, Xiaojun Yang, Feiping Nie 0001
+  title: Adversarial incomplete multi-view clustering with adaptive contrastive learning.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/PengXYYN26
+  doi: 10.1016/J.NEUNET.2025.108484
+  ee: https://doi.org/10.1016/j.neunet.2025.108484
+  url: https://dblp.org/rec/journals/nn/PengXYYN26
+- author: Yawen Shen, Hui Yang, Ping Li 0024
+  title: Improving the robustness of graph contrastive learning against adversarial
+    attacks via hierarchical medoid-based contrasting.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ShenYL26
+  doi: 10.1016/J.NEUNET.2025.108357
+  ee: https://doi.org/10.1016/j.neunet.2025.108357
+  url: https://dblp.org/rec/journals/nn/ShenYL26
+- author: Bin Wang 0027, Yuxuan Gao, Shenglin Guo
+  title: 'PDE-GANet: Partial differential equation discovery powered by adversarial
+    learning.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangGG26
+  doi: 10.1016/J.NEUNET.2025.108387
+  ee: https://doi.org/10.1016/j.neunet.2025.108387
+  url: https://dblp.org/rec/journals/nn/WangGG26
+- author: Yunting Zhang, Lin Ye, Baisong Li, Hongli Zhang
+  title: 'AdaptiveWordBug: Generating adversarial texts with an adaptive scoring strategy
+    against deep learning classifiers.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ZhangYLZ26
+  doi: 10.1016/J.NEUNET.2025.108262
+  ee: https://doi.org/10.1016/j.neunet.2025.108262
+  url: https://dblp.org/rec/journals/nn/ZhangYLZ26
+- author: Jiaxuan Zhu, Ming Shao, Libo Sun 0001, Siyu Xia
+  title: 'ACL-SAR: model agnostic adversarial contrastive learning for robust skeleton-based
+    action recognition.'
+  venue: Vis. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/ZhuSSX25
+  doi: 10.1007/S00371-024-03548-3
+  ee: https://doi.org/10.1007/s00371-024-03548-3
+  url: https://dblp.org/rec/journals/vc/ZhuSSX25
+- author: Dengjin Li, Yanming Guo, Yuxiang Xie, Zheng Li, Jiangming Chen, Xiaolong
+    Li, Mingrui Lao
+  title: 'Learning from Peers: Collaborative Ensemble Adversarial Training.'
+  venue: PRCV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/LiGXLCLL25
+  doi: 10.1007/978-981-95-4987-0_3
+  ee: https://doi.org/10.1007/978-981-95-4987-0_3
+  url: https://dblp.org/rec/conf/prcv/LiGXLCLL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
