@@ -3949,6 +3949,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TCSVT.2025.3586282
   ee: https://doi.org/10.1109/TCSVT.2025.3586282
   url: https://dblp.org/rec/journals/tcsv/ZhangLJZTL25
+- author: Ziyao Wang, Chengxuan Pei, Xianping Ma, Man-On Pun
+  title: Zero-shot domain adaptation for remote sensing image classification with
+    vision-language models.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangPMP26
+  doi: 10.1016/J.NEUCOM.2025.132470
+  ee: https://doi.org/10.1016/j.neucom.2025.132470
+  url: https://dblp.org/rec/journals/ijon/WangPMP26
+- author: Jiaxu Guo, Yushan Lai, Jinxiao Zhang, Juepeng Zheng, Haohuan Fu, Lin Gan
+    0008, Liang Hu 0001, Gaochao Xu, Xilong Che
+  title: "C\xB3DA: A Universal Domain Adaptation Method for Scene Classification From\
+    \ Remote Sensing Imagery."
+  venue: IEEE Geosci. Remote. Sens. Lett.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/lgrs/GuoLZZFGHXC24
+  doi: 10.1109/LGRS.2024.3383061
+  ee: https://doi.org/10.1109/LGRS.2024.3383061
+  url: https://dblp.org/rec/journals/lgrs/GuoLZZFGHXC24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -30504,6 +30527,117 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-95-4987-0_3
   ee: https://doi.org/10.1007/978-981-95-4987-0_3
   url: https://dblp.org/rec/conf/prcv/LiGXLCLL25
+- author: Lei Shi 0011, Han Wu, Xu Ding 0001, Hao Xu, Sinan Pan
+  title: A Client-Level Conditional Generative Adversarial Network-Based Data Reconstruction
+    Attack and Its Defense in Clustered Federated Learning Scenario.
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/ShiWDXP26
+  doi: 10.1109/JIOT.2025.3637061
+  ee: https://doi.org/10.1109/JIOT.2025.3637061
+  url: https://dblp.org/rec/journals/iotj/ShiWDXP26
+- author: "Saeid Sheikhi, Panos Kostakos 0001, Lauri Lov\xE9n"
+  title: 'Hybrid Reputation Aggregation: A Robust Defense Mechanism for Adversarial
+    Federated Learning in 5G and Edge Network Environments.'
+  venue: IEEE Open J. Commun. Soc.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/ojcs/SheikhiKL26
+  doi: 10.1109/OJCOMS.2025.3646134
+  ee: https://doi.org/10.1109/OJCOMS.2025.3646134
+  url: https://dblp.org/rec/journals/ojcs/SheikhiKL26
+- author: Tianjiao Pu, Shuai Du, Lei Dong, Ji Qiao
+  title: Distributed Robust Dispatch for Networked Microgrids With Coalition Game-Guided
+    Multiagent Adversarial Safe Reinforcement Learning.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/PuDDQ26
+  doi: 10.1109/TII.2025.3609841
+  ee: https://doi.org/10.1109/TII.2025.3609841
+  url: https://dblp.org/rec/journals/tii/PuDDQ26
+- author: Xin Wen, Shijie Guo, Yanqing Dong, Mengni Zhou, Jie Xiang 0002
+  title: 'Multi-site fMRI-based mental disorder detection using adversarial learning:
+    an ABIDE study.'
+  venue: CogSci
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cogsci/WenGDZ025
+  doi: ''
+  ee: https://escholarship.org/uc/item/29w9n71k
+  url: https://dblp.org/rec/conf/cogsci/WenGDZ025
+- author: Fanqi Kong, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang 0001, Song-Chun Zhu,
+    Xue Feng
+  title: Enhancing LLM-Based Social Bot via an Adversarial Learning Framework.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/KongZCYZF25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1185
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1185
+  url: https://dblp.org/rec/conf/emnlp/KongZCYZF25
+- author: Chong Tian, Qirong Ho, Xiuying Chen
+  title: A Symbolic Adversarial Learning Framework for Evolving Fake News Generation
+    and Detection.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/TianHC25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.619
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.619
+  url: https://dblp.org/rec/conf/emnlp/TianHC25
+- author: Md. Zulfikar Alom, Tran Gia Bao Ngo, Murat Kantarcioglu, Cuneyt Gurcan Akcora
+  title: 'GOttack: Universal Adversarial Attacks on Graph Neural Networks via Graph
+    Orbits Learning.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/AlomNKA25
+  doi: ''
+  ee: https://openreview.net/forum?id=YbURbViE7l
+  url: https://dblp.org/rec/conf/iclr/AlomNKA25
+- author: Xinyao Lu, Di Wang, Guohao Zong, Chaoting Li, Weihua Feng, Sanying Feng,
+    Le Zhao, Lei Shu
+  title: 'Adversarial Spectral Transfer: Cycle-Consistent Learning for standard-free
+    NIR Data Conversion.'
+  venue: INDIN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/indin/LuWZLFFZS25
+  doi: 10.1109/INDIN64977.2025.11279651
+  ee: https://doi.org/10.1109/INDIN64977.2025.11279651
+  url: https://dblp.org/rec/conf/indin/LuWZLFFZS25
+- author: Zhengzuo Qin, Yuejiao Wang, Dongdong Zhao 0002, Shi Yan
+  title: Adversarial Imitation Learning Based on Weighted Wasserstein Distance.
+  venue: ISNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isnn/QinWZY25
+  doi: 10.1007/978-981-95-1233-1_6
+  ee: https://doi.org/10.1007/978-981-95-1233-1_6
+  url: https://dblp.org/rec/conf/isnn/QinWZY25
+- author: Xinhai Yan, Libing Wu, Zhuangzhuang Zhang, Bingyi Liu, Lijuan Huo, Jing
+    Wang 0036
+  title: 'FedBAP: Backdoor Defense via Benign Adversarial Perturbation in Federated
+    Learning.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/YanWZLHW25
+  doi: 10.1145/3746027.3754814
+  ee: https://doi.org/10.1145/3746027.3754814
+  url: https://dblp.org/rec/conf/mm/YanWZLHW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -34045,3 +34179,14 @@ feature%20disentanglement:
   doi: 10.1016/J.RESS.2021.108265
   ee: https://doi.org/10.1016/j.ress.2021.108265
   url: https://dblp.org/rec/journals/ress/HuGGZZZ22
+- author: Yize Dong, Yonggang Lu, Yande Li, Yingduo Tong, Ming Ma
+  title: Multi-semantic feature disentanglement with multi-scale fusion for facial
+    attribute recognition.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/DongLLTM26
+  doi: 10.1016/J.NEUCOM.2025.132473
+  ee: https://doi.org/10.1016/j.neucom.2025.132473
+  url: https://dblp.org/rec/journals/ijon/DongLLTM26
