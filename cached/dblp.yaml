@@ -30834,6 +30834,50 @@ Adversarial%20Learning:
   doi: 10.1109/MMSP64401.2025.11324099
   ee: https://doi.org/10.1109/MMSP64401.2025.11324099
   url: https://dblp.org/rec/conf/mmsp/KimL25
+- author: Anna Ledwon, Marek Natkaniec
+  title: 'Machine Learning for Wi-Fi Intrusion Detection: A Comparative Study of Accuracy,
+    Explainability, and Adversarial Robustness.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/LedwonN26
+  doi: 10.1109/ACCESS.2026.3651992
+  ee: https://doi.org/10.1109/ACCESS.2026.3651992
+  url: https://dblp.org/rec/journals/access/LedwonN26
+- author: Jasmita Malik, Raja Muthalagu, Pranav M. Pawar, Mithun Mukherjee 0004
+  title: Cyber risk quantification for adversarial machine learning attacks.
+  venue: Comput. Electr. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/MalikMPM26
+  doi: 10.1016/J.COMPELECENG.2026.110964
+  ee: https://doi.org/10.1016/j.compeleceng.2026.110964
+  url: https://dblp.org/rec/journals/cee/MalikMPM26
+- author: Xiaobo Chen 0001, Jinpeng Zang, Feng Zhao 0006
+  title: Human-Like Autonomous Driving Car-Following Behavior Learning Based on Adversarial
+    Training and Uncertainty-Aware DDPG.
+  venue: IEEE Robotics Autom. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/ChenZZ26
+  doi: 10.1109/LRA.2025.3643337
+  ee: https://doi.org/10.1109/LRA.2025.3643337
+  url: https://dblp.org/rec/journals/ral/ChenZZ26
+- author: Bang Zhang, Wenjian Luo, Kesheng Chen, Yujiang Liu, Shuhan Qi, Xuan Wang
+    0002
+  title: Black-Box Adversarial Robustness Testing with Partial Observation for Multi-Agent
+    Reinforcement Learning.
+  venue: ICPADS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icpads/ZhangLCLQW25
+  doi: 10.1109/ICPADS67057.2025.11323102
+  ee: https://doi.org/10.1109/ICPADS67057.2025.11323102
+  url: https://dblp.org/rec/conf/icpads/ZhangLCLQW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
