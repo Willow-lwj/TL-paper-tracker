@@ -30878,6 +30878,132 @@ Adversarial%20Learning:
   doi: 10.1109/ICPADS67057.2025.11323102
   ee: https://doi.org/10.1109/ICPADS67057.2025.11323102
   url: https://dblp.org/rec/conf/icpads/ZhangLCLQW25
+- author: "Mustafa Erdem, Nazim Kemal \xDCre"
+  title: Learning to Balance Mixed Adversarial Attacks for Robust Reinforcement Learning.
+  venue: Mach. Learn. Knowl. Extr.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/make/ErdemU25
+  doi: 10.3390/MAKE7040108
+  ee: https://doi.org/10.3390/make7040108
+  url: https://dblp.org/rec/journals/make/ErdemU25
+- author: Haiyu Wang, Jianan Zhang, Xueyu Liu, Yongfei Wu, Di Huang
+  title: Depth-conditioned adversarial learning with dual discriminators for polyp
+    segmentation.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/WangZLWH26
+  doi: 10.1016/J.BSPC.2026.109587
+  ee: https://doi.org/10.1016/j.bspc.2026.109587
+  url: https://dblp.org/rec/journals/bspc/WangZLWH26
+- author: Duy Anh Nguyen, Le Dung Nguyen, Ngoc Cuong Truong
+  title: Long-term industrial electricity forecasting using generative adversarial
+    networks and deep learning.
+  venue: Comput. Ind. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/candie/NguyenNT26
+  doi: 10.1016/J.CIE.2025.111791
+  ee: https://doi.org/10.1016/j.cie.2025.111791
+  url: https://dblp.org/rec/journals/candie/NguyenNT26
+- author: Shiyuan Liu, Yumeng Zhou, Weiguang Yang, Jiangtao Tan, Xi Li, Zhenhui Xiong,
+    Zewu Fang, Hong Li, Yifei Chen, Yubin Lan, Shubo Wan, Jianguo Wang, Tingting Chen,
+    Lei Zhang
+  title: A novel approach to monitor peanut equivalent water thickness through modular
+    training and transfer learning of an improved PROSAIL model using a Wasserstein
+    generative adversarial network.
+  venue: Comput. Electron. Agric.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cea/LiuZYTLXFLCLWWCZ26
+  doi: 10.1016/J.COMPAG.2026.111437
+  ee: https://doi.org/10.1016/j.compag.2026.111437
+  url: https://dblp.org/rec/journals/cea/LiuZYTLXFLCLWWCZ26
+- author: Qiongmin Zhang, Siyi Yu, Yin Shi, Xiaowei Tan
+  title: Improving Alzheimer&apos;s disease diagnosis by hyperspherical weighted adversarial
+    learning in open set domain adaptation.
+  venue: Comput. Medical Imaging Graph.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cmig/ZhangYST26
+  doi: 10.1016/J.COMPMEDIMAG.2025.102692
+  ee: https://doi.org/10.1016/j.compmedimag.2025.102692
+  url: https://dblp.org/rec/journals/cmig/ZhangYST26
+- author: Yan Qiao, Nimitha Bangalore Sathyanarayana, Chaowei Shi, Zefeng He, Tao
+    Wang, Tao Hou
+  title: 'A survey on adversarial machine learning: Attacks, defenses, real-world
+    applications, and future research directions.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/QiaoSSHWH26
+  doi: 10.1016/J.NEUCOM.2026.132670
+  ee: https://doi.org/10.1016/j.neucom.2026.132670
+  url: https://dblp.org/rec/journals/ijon/QiaoSSHWH26
+- author: Tao Liu 0062, Yuanxiang Chen, Jiawei Xin, Chaoyi Du, Cong Hu, Shuo Wang
+  title: An End-to-End and Adversarial Learning-Based Communication System for Anti-Interference
+    and Anti-Eavesdropping.
+  venue: IEEE Trans. Cogn. Commun. Netw.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tccn/LiuCXDHW26
+  doi: 10.1109/TCCN.2025.3620345
+  ee: https://doi.org/10.1109/TCCN.2025.3620345
+  url: https://dblp.org/rec/journals/tccn/LiuCXDHW26
+- author: Silvirianti, Georges Kaddoum, Bassant Selim, Mahdi Chehimi
+  title: Combating AI-Based Jamming in LEO Satellite Networks Using Quantum Adversarial
+    Deep Reinforcement Learning.
+  venue: IEEE Trans. Commun.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcom/SilviriantiKSC26
+  doi: 10.1109/TCOMM.2025.3634201
+  ee: https://doi.org/10.1109/TCOMM.2025.3634201
+  url: https://dblp.org/rec/journals/tcom/SilviriantiKSC26
+- author: Yi Zhai 0003, Baoping Song, Jinyong Cheng, Aimei Dong, Guohua Lv
+  title: 'STAFusion: An Adversarial Learning Network for Infrared and Visible Image
+    Fusion via Swin Transformer.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ZhaiSCDL26
+  doi: 10.1109/TETCI.2025.3572144
+  ee: https://doi.org/10.1109/TETCI.2025.3572144
+  url: https://dblp.org/rec/journals/tetci/ZhaiSCDL26
+- author: Yu Zhang 0201, Guo-Qiang Zeng, Kang-Di Lu, Min-Rong Chen, Guang-Gang Geng,
+    Jian Weng
+  title: 'BLTOO-MFFL: Automated and Adversarially Robust Deep Learning for SAR Image
+    Classification by Bi-Level Three-Objective Optimization and Multi-Feature Fusion
+    Loss.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ZhangZLCGW26
+  doi: 10.1109/TETCI.2025.3605631
+  ee: https://doi.org/10.1109/TETCI.2025.3605631
+  url: https://dblp.org/rec/journals/tetci/ZhangZLCGW26
+- author: Yi Sun, Dunhui Yu
+  title: Hierarchical Fake News Detection Model Based on Multi-Task Learning and Adversarial
+    Training.
+  venue: Informatics
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/informatics/SunY25
+  doi: 10.3390/INFORMATICS12040131
+  ee: https://doi.org/10.3390/informatics12040131
+  url: https://dblp.org/rec/journals/informatics/SunY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
