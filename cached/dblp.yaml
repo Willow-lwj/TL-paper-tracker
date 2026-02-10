@@ -31004,6 +31004,52 @@ Adversarial%20Learning:
   doi: 10.3390/INFORMATICS12040131
   ee: https://doi.org/10.3390/informatics12040131
   url: https://dblp.org/rec/journals/informatics/SunY25
+- author: Md Al Amin, Mohammad Shafat Ahsan, Rahomotul Islam, Mumtahina Ahmed, Muhammad
+    Firoz Mridha, Md. Jakir Hossen
+  title: Dual-Encoder Adversarial Learning for Cloud-Based Cyber Intrusion Detection.
+  venue: IEEE Open J. Comput. Soc.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/ojcomps/AminAIAMH26
+  doi: 10.1109/OJCS.2025.3637858
+  ee: https://doi.org/10.1109/OJCS.2025.3637858
+  url: https://dblp.org/rec/journals/ojcomps/AminAIAMH26
+- author: Yu Zhang 0201, Guo-Qiang Zeng, Kang-Di Lu, Min-Rong Chen, Guang-Gang Geng,
+    Jian Weng 0001
+  title: 'BLTOO-MFFL: Automated and Adversarially Robust Deep Learning for SAR Image
+    Classification by Bi-Level Three-Objective Optimization and Multi-Feature Fusion
+    Loss.'
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ZhangZLCGW26
+  doi: 10.1109/TETCI.2025.3605631
+  ee: https://doi.org/10.1109/TETCI.2025.3605631
+  url: https://dblp.org/rec/journals/tetci/ZhangZLCGW26
+- author: Israk Hasan Jone, D. M. Rafiun Bin Masud, Promit Sarker, Sayed Fuad Al Labib,
+    Nazmul Islam, Farhad Billah
+  title: 'ShrimpXNet: A Transfer Learning Framework for Shrimp Disease Classification
+    with Augmented Regularization, Adversarial Training, and Explainable AI.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-00832
+  doi: 10.48550/ARXIV.2601.00832
+  ee: https://doi.org/10.48550/arXiv.2601.00832
+  url: https://dblp.org/rec/journals/corr/abs-2601-00832
+- author: Jamal Toutouh, Una-May O&apos;Reilly
+  title: Coevolutionary Computation for Adversarial Deep Learning.
+  venue: GECCO Companion
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/gecco/ToutouhO25
+  doi: 10.1145/3712255.3716533
+  ee: https://doi.org/10.1145/3712255.3716533
+  url: https://dblp.org/rec/conf/gecco/ToutouhO25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
