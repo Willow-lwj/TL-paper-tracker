@@ -31050,6 +31050,18 @@ Adversarial%20Learning:
   doi: 10.1145/3712255.3716533
   ee: https://doi.org/10.1145/3712255.3716533
   url: https://dblp.org/rec/conf/gecco/ToutouhO25
+- author: Xiaojun Jia, Sensen Gao, Simeng Qin, Ke Ma 0001, Xinfeng Li, Yihao Huang
+    0001, Wei Dong 0007, Yang Liu 0003, Xiaochun Cao
+  title: Evolution-based Region Adversarial Prompt Learning for Robustness Enhancement
+    in Vision-Language Models.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2503-12874
+  doi: 10.48550/ARXIV.2503.12874
+  ee: https://doi.org/10.48550/arXiv.2503.12874
+  url: https://dblp.org/rec/journals/corr/abs-2503-12874
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
