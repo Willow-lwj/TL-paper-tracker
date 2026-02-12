@@ -3972,6 +3972,16 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/LGRS.2024.3383061
   ee: https://doi.org/10.1109/LGRS.2024.3383061
   url: https://dblp.org/rec/journals/lgrs/GuoLZZFGHXC24
+- author: Yihang Wu, Ahmad Chaddad
+  title: Impact of domain adaptation in deep learning for medical image classifications.
+  venue: SMC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/WuC25
+  doi: 10.1109/SMC58881.2025.11342637
+  ee: https://doi.org/10.1109/SMC58881.2025.11342637
+  url: https://dblp.org/rec/conf/smc/WuC25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -31062,6 +31072,190 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2503.12874
   ee: https://doi.org/10.48550/arXiv.2503.12874
   url: https://dblp.org/rec/journals/corr/abs-2503-12874
+- author: Houhuang Bi, Jun Huang, Yichen Han, Zeng Zhang
+  title: 'Learning What They Pretend to Think: Adversarial ToM for Safety-Critical
+    Driving Policies.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/BiHHZ26
+  doi: 10.1109/ACCESS.2026.3658373
+  ee: https://doi.org/10.1109/ACCESS.2026.3658373
+  url: https://dblp.org/rec/journals/access/BiHHZ26
+- author: Gwang-Nam Kim, Han-Ju Lee, In-Woong Jeong, Jin-Myeong Shin, SeokHwan Choi
+  title: 'FAMF: Robust Feature-Level Adversarial Attack on Metric-Based Few-Shot Learning
+    Models.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/KimLJSC26
+  doi: 10.1109/ACCESS.2026.3657351
+  ee: https://doi.org/10.1109/ACCESS.2026.3657351
+  url: https://dblp.org/rec/journals/access/KimLJSC26
+- author: "Adithya Mohan, Torsten Sch\xF6n"
+  title: 'Toward Robust Agents: A Survey of Adversarial Attacks and Defenses in Deep
+    Reinforcement Learning.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/MohanS26
+  doi: 10.1109/ACCESS.2026.3657855
+  ee: https://doi.org/10.1109/ACCESS.2026.3657855
+  url: https://dblp.org/rec/journals/access/MohanS26
+- author: Yujeong Pak, Yeongseo Shin, Yong Guk Kim, Chanjun Chun
+  title: Adversarial Representation Learning for Underwater Acoustic Noise Suppression
+    in LOFARgram Space.
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/PakSKC26
+  doi: 10.1109/ACCESS.2026.3658888
+  ee: https://doi.org/10.1109/ACCESS.2026.3658888
+  url: https://dblp.org/rec/journals/access/PakSKC26
+- author: Wasim Khan, Nadhem Sultan Ebrahim, Mohammad Ishrat, Hasan Alkahtani, Theyazn
+    H. H. Aldhyani
+  title: An adversarial variational graph autoencoder with contrastive learning for
+    robust anomaly detection in large scale attributed networks.
+  venue: J. Big Data
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/jbd/KhanEIAA26
+  doi: 10.1186/S40537-025-01342-Z
+  ee: https://doi.org/10.1186/s40537-025-01342-z
+  url: https://dblp.org/rec/journals/jbd/KhanEIAA26
+- author: Syed Mhamudul Hasan, Ahmed Imteaj, Abdur R. Shahid
+  title: Quantifying Robustness and Sustainability Trade-Off in Federated Adversarial
+    Learning for Cyber-Physical Systems.
+  venue: IEEE Trans. Sustain. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tsusc/HasanIS26
+  doi: 10.1109/TSUSC.2025.3633995
+  ee: https://doi.org/10.1109/TSUSC.2025.3633995
+  url: https://dblp.org/rec/journals/tsusc/HasanIS26
+- author: Mujin Zhou, Junzhe Zhang
+  title: 'Causal discovery for linear causal model with correlated noise: an Adversarial
+    Learning Approach.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-01368
+  doi: 10.48550/ARXIV.2601.01368
+  ee: https://doi.org/10.48550/arXiv.2601.01368
+  url: https://dblp.org/rec/journals/corr/abs-2601-01368
+- author: Hao Xiang Li, Yash Shah, Lorenzo Giusti
+  title: Learning Resilient Elections with Adversarial GNNs.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-01653
+  doi: 10.48550/ARXIV.2601.01653
+  ee: https://doi.org/10.48550/arXiv.2601.01653
+  url: https://dblp.org/rec/journals/corr/abs-2601-01653
+- author: Abdur Razzaq Fayjie, Pankhi Kashyap, Jutika Borah, Patrick Vandewalle
+  title: 'FALCON: Few-Shot Adversarial Learning for Cross-Domain Medical Image Segmentation.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-01687
+  doi: 10.48550/ARXIV.2601.01687
+  ee: https://doi.org/10.48550/arXiv.2601.01687
+  url: https://dblp.org/rec/journals/corr/abs-2601-01687
+- author: Kasper Green Larsen, Chirag Pabbaraju, Abhishek Shetty
+  title: Learning with Monotone Adversarial Corruptions.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-02193
+  doi: 10.48550/ARXIV.2601.02193
+  ee: https://doi.org/10.48550/arXiv.2601.02193
+  url: https://dblp.org/rec/journals/corr/abs-2601-02193
+- author: Dinghong Song, Zhiwei Xu, Hai Wan, Xibin Zhao, Pengfei Su, Dong Li
+  title: Adversarial Contrastive Learning for LLM Quantization Attacks.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-02680
+  doi: 10.48550/ARXIV.2601.02680
+  ee: https://doi.org/10.48550/arXiv.2601.02680
+  url: https://dblp.org/rec/journals/corr/abs-2601-02680
+- author: Akshay Jagatap, Neeraj Anand, Sonali Singh, Prakash Mandayam Comar
+  title: Reinforcement Learning for Adversarial Query Generation to Enhance Relevance
+    in Cold-Start Product Search.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/JagatapASC25
+  doi: 10.18653/V1/2025.ACL-INDUSTRY.91
+  ee: https://doi.org/10.18653/v1/2025.acl-industry.91
+  url: https://dblp.org/rec/conf/acl/JagatapASC25
+- author: Jefferson O. A. de Araujo, Adriano L. I. de Oliveira, Cleber Zanchettin
+  title: 'TE-CNN-AAE: Learning Robust Financial Time Series Representations with Trend-Enhanced
+    Adversarial Autoencoders.'
+  venue: SMC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/AraujoOZ25
+  doi: 10.1109/SMC58881.2025.11342997
+  ee: https://doi.org/10.1109/SMC58881.2025.11342997
+  url: https://dblp.org/rec/conf/smc/AraujoOZ25
+- author: Hongjian Chen, Duoyu Sun, Huan Yang
+  title: Enhancing the Adversarial Attack Resilience of Smart Building Environment
+    Control Based on Multi-Agent Deep Reinforcement Learning.
+  venue: SMC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/ChenSY25
+  doi: 10.1109/SMC58881.2025.11342916
+  ee: https://doi.org/10.1109/SMC58881.2025.11342916
+  url: https://dblp.org/rec/conf/smc/ChenSY25
+- author: Huijuan Hao, Lijun Wen, Hu Liang, Qingyan Ding, Jinqiang Bai, Yongwei Tang,
+    Lei Xu
+  title: Bearing Fault Diagnosis Method Based on Multi-scale Dynamic Adversarial Transfer
+    Learning.
+  venue: SMC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/HaoWLDBTX25
+  doi: 10.1109/SMC58881.2025.11343224
+  ee: https://doi.org/10.1109/SMC58881.2025.11343224
+  url: https://dblp.org/rec/conf/smc/HaoWLDBTX25
+- author: Devika K. M, Praveen K. Parashiva, A. Prasad Vinod 0001
+  title: Enhancing Cross-Task Learning-based Multiclass Motor Imagery Classification
+    in Brain Computer Interfaces using Conditional Domain Adversarial Network.
+  venue: SMC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/MPV25
+  doi: 10.1109/SMC58881.2025.11343716
+  ee: https://doi.org/10.1109/SMC58881.2025.11343716
+  url: https://dblp.org/rec/conf/smc/MPV25
+- author: Yiming Qi, Huiqiao Fu, Kaiqiang Tang, Chunlin Chen
+  title: Imitation Learning with Process Adversarial Diffusion.
+  venue: SMC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/QiFTC25
+  doi: 10.1109/SMC58881.2025.11342829
+  ee: https://doi.org/10.1109/SMC58881.2025.11342829
+  url: https://dblp.org/rec/conf/smc/QiFTC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
