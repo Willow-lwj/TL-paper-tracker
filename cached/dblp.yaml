@@ -31268,6 +31268,27 @@ Adversarial%20Learning:
   doi: 10.1109/IJCNN64981.2025.11228101
   ee: https://doi.org/10.1109/IJCNN64981.2025.11228101
   url: https://dblp.org/rec/conf/ijcnn/ZhouQZDJXC25
+- author: Mine Melodi Caliskan, Saeed Ghoorchian, Setareh Maghsudi
+  title: Robust Inverse Reinforcement Learning Under State Adversarial Perturbations.
+  venue: ECAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ecai/CaliskanGM25
+  doi: 10.3233/FAIA251151
+  ee: https://doi.org/10.3233/FAIA251151
+  url: https://dblp.org/rec/conf/ecai/CaliskanGM25
+- author: Zhigang Wang, Yan Yang, Xiaochi Hou, Junfeng Zhao 0005
+  title: 'PFL-IDGAN: Personalized Federated Learning Framework Based on Interactive
+    Dual Generative Adversarial Networks.'
+  venue: ECAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ecai/WangYH025
+  doi: 10.3233/FAIA250942
+  ee: https://doi.org/10.3233/FAIA250942
+  url: https://dblp.org/rec/conf/ecai/WangYH025
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
