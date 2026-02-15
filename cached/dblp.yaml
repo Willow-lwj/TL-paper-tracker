@@ -31289,6 +31289,28 @@ Adversarial%20Learning:
   doi: 10.3233/FAIA250942
   ee: https://doi.org/10.3233/FAIA250942
   url: https://dblp.org/rec/conf/ecai/WangYH025
+- author: Tiangang Li, Shi Ying 0001, Xiangbo Tian, Ting Zhang, Yong Wang
+  title: 'ASTRA: Adversarial Sim-to-Real Transfer Reinforcement Learning for Autoscaling
+    in Cloud Systems.'
+  venue: IEEE Trans. Software Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tse/LiYTZW25
+  doi: 10.1109/TSE.2025.3603995
+  ee: https://doi.org/10.1109/TSE.2025.3603995
+  url: https://dblp.org/rec/journals/tse/LiYTZW25
+- author: "Kiarash Kazari, Ezzeldin Shereen, Gy\xF6rgy D\xE1n"
+  title: Distributed Detection of Adversarial Attacks in Multi-Agent Reinforcement
+    Learning with Continuous Action Space.
+  venue: ECAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ecai/KazariSD25
+  doi: 10.3233/FAIA251233
+  ee: https://doi.org/10.3233/FAIA251233
+  url: https://dblp.org/rec/conf/ecai/KazariSD25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
