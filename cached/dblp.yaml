@@ -31311,6 +31311,17 @@ Adversarial%20Learning:
   doi: 10.3233/FAIA251233
   ee: https://doi.org/10.3233/FAIA251233
   url: https://dblp.org/rec/conf/ecai/KazariSD25
+- author: Xin Cao, Weijie Tan, Qiangqiang Gao, Fenglan Zhang, Chunguo Li
+  title: 'DA-SSMA: A Few-Shot Radio Frequency Fingerprint Identification Scheme Based
+    on Dual Attention Mechanism and Semi-Supervised Metric Adversarial Learning.'
+  venue: IEEE Trans. Cogn. Commun. Netw.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tccn/CaoTGZL26
+  doi: 10.1109/TCCN.2025.3637113
+  ee: https://doi.org/10.1109/TCCN.2025.3637113
+  url: https://dblp.org/rec/journals/tccn/CaoTGZL26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -34863,3 +34874,14 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUCOM.2025.132473
   ee: https://doi.org/10.1016/j.neucom.2025.132473
   url: https://dblp.org/rec/journals/ijon/DongLLTM26
+- author: "Tobias Wei\xDFberg, Weikang Wang, Paul Roetzer, Nafie El Amrani, Florian\
+    \ Bernard"
+  title: Symmetry Informative and Agnostic Feature Disentanglement for 3D Shapes.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-14804
+  doi: 10.48550/ARXIV.2601.14804
+  ee: https://doi.org/10.48550/arXiv.2601.14804
+  url: https://dblp.org/rec/journals/corr/abs-2601-14804
