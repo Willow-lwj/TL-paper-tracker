@@ -3982,6 +3982,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/SMC58881.2025.11342637
   ee: https://doi.org/10.1109/SMC58881.2025.11342637
   url: https://dblp.org/rec/conf/smc/WuC25
+- author: Jie Feng 0003, Ziyu Zhou 0009, Ronghua Shang, Jinjian Wu, Tianshu Zhang,
+    Xiangrong Zhang, Licheng Jiao
+  title: Class-Aligned and Class-Balancing Generative Domain Adaptation for Hyperspectral
+    Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/FengZSWZZJ24
+  doi: 10.1109/TGRS.2024.3367765
+  ee: https://doi.org/10.1109/TGRS.2024.3367765
+  url: https://dblp.org/rec/journals/tgrs/FengZSWZZJ24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -31322,6 +31334,115 @@ Adversarial%20Learning:
   doi: 10.1109/TCCN.2025.3637113
   ee: https://doi.org/10.1109/TCCN.2025.3637113
   url: https://dblp.org/rec/journals/tccn/CaoTGZL26
+- author: Ruipu Ma, Yi Zhang 0026, Jinwei Wang, Wei Lu, Xiangyang Luo
+  title: 'Advancements in adversarial example defense for deep learning models: a
+    review.'
+  venue: Cybersecur.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cybersec/MaZWLL26
+  doi: 10.1186/S42400-025-00546-3
+  ee: https://doi.org/10.1186/s42400-025-00546-3
+  url: https://dblp.org/rec/journals/cybersec/MaZWLL26
+- author: Yuqin Li, Defeng Wu, Gouqiang Li, Zhenhong Fan, Dongjie Wu, Qijun Liu
+  title: Collision avoidance for unmanned surface vehicles via adversarial inverse
+    reinforcement learning with diffusion model.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/LiWLFWL26
+  doi: 10.1016/J.ENGAPPAI.2026.113847
+  ee: https://doi.org/10.1016/j.engappai.2026.113847
+  url: https://dblp.org/rec/journals/eaai/LiWLFWL26
+- author: Jimeng Li, Bixin Yang, Yilong Yao, Zong Meng, Jinfeng Zhang
+  title: Remaining useful life prediction of rolling bearings using federated learning
+    with personalized dynamic aggregation and local-adversarial.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/LiYYMZ26
+  doi: 10.1016/J.ENGAPPAI.2026.113853
+  ee: https://doi.org/10.1016/j.engappai.2026.113853
+  url: https://dblp.org/rec/journals/eaai/LiYYMZ26
+- author: Liming Xin, Zhen Wang, Jinlin Peng, Bin Sheng 0002
+  title: Group morphological adaptation via adversarial imitation learning.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/XinWPS26
+  doi: 10.1016/J.ENGAPPAI.2026.113858
+  ee: https://doi.org/10.1016/j.engappai.2026.113858
+  url: https://dblp.org/rec/journals/eaai/XinWPS26
+- author: Chen Yin, Yining Dong, Jianliang He, Yulin Wang
+  title: A fault evolution knowledge-driven adversarial meta-learning method for few-shot
+    tool state recognition under variable working conditions.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/YinDHW26
+  doi: 10.1016/J.ENGAPPAI.2026.113806
+  ee: https://doi.org/10.1016/j.engappai.2026.113806
+  url: https://dblp.org/rec/journals/eaai/YinDHW26
+- author: "Nuria Rodr\xEDguez Barroso, Mar\xEDa Victoria Luz\xF3n, Francisco Herrera"
+  title: 'RAB2-DEF: Dynamic and Explainable Defense Against Adversarial Attacks in
+    Federated Learning to Fair Poor Clients.'
+  venue: Mach. Intell. Res.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijautcomp/BarrosoLH26
+  doi: 10.1007/S11633-025-1557-1
+  ee: https://doi.org/10.1007/s11633-025-1557-1
+  url: https://dblp.org/rec/journals/ijautcomp/BarrosoLH26
+- author: Seunghwan Song, Kyuchang Chang, Cheolsoon Park, Jun-Geol Baek
+  title: Switch ON/OFF learning of one-dimensional convolutional neural network and
+    one-dimensional generative adversarial network for fault detection.
+  venue: J. Intell. Manuf.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jim/SongCPB26
+  doi: 10.1007/S10845-024-02557-2
+  ee: https://doi.org/10.1007/s10845-024-02557-2
+  url: https://dblp.org/rec/journals/jim/SongCPB26
+- author: Min Li 0071, Yuansong Qiao, Brian Lee 0001
+  title: Adversarial Robustness Evaluation for Multi-View Deep Learning Cybersecurity
+    Anomaly Detection.
+  venue: Future Internet
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/fi/LiQL25a
+  doi: 10.3390/FI17100459
+  ee: https://doi.org/10.3390/fi17100459
+  url: https://dblp.org/rec/journals/fi/LiQL25a
+- author: Maryam Aliakbarpour, Vladimir Braverman, Nai-Hui Chia, Yuhan Liu
+  title: Adversarially Robust Quantum State Learning and Testing.
+  venue: FOCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/focs/AliakbarpourBCL25
+  doi: 10.1109/FOCS63196.2025.00013
+  ee: https://doi.org/10.1109/FOCS63196.2025.00013
+  url: https://dblp.org/rec/conf/focs/AliakbarpourBCL25
+- author: Hui Zhou 0014, Zheng Qin 0001, Yipeng Zou, Xin Deng, Jiaxin Jiang, Ge Xiao,
+    Hao Chen
+  title: Do Adversarial Perturbations Truly Mitigate Gradient Inversion in Federated
+    Learning?
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/ZhouQZDJXC25
+  doi: 10.1109/IJCNN64981.2025.11228101
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11228101
+  url: https://dblp.org/rec/conf/ijcnn/ZhouQZDJXC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -34885,3 +35006,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2601.14804
   ee: https://doi.org/10.48550/arXiv.2601.14804
   url: https://dblp.org/rec/journals/corr/abs-2601-14804
+- author: Yurong Zhang, Jinrong He, Yuhang Li 0014
+  title: Cross-domain few-shot hyperspectral classification via orthogonal feature
+    disentanglement.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/ZhangHL26
+  doi: 10.1016/J.ENGAPPAI.2026.114071
+  ee: https://doi.org/10.1016/j.engappai.2026.114071
+  url: https://dblp.org/rec/journals/eaai/ZhangHL26
