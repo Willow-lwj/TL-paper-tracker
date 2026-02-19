@@ -31443,6 +31443,105 @@ Adversarial%20Learning:
   doi: 10.1109/IJCNN64981.2025.11228101
   ee: https://doi.org/10.1109/IJCNN64981.2025.11228101
   url: https://dblp.org/rec/conf/ijcnn/ZhouQZDJXC25
+- author: Ruipu Ma, Yi Zhang 0026, Jinwei Wang, Wei Lu, Xiangyang Luo 0001
+  title: 'Advancements in adversarial example defense for deep learning models: a
+    review.'
+  venue: Cybersecur.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cybersec/MaZWLL26
+  doi: 10.1186/S42400-025-00546-3
+  ee: https://doi.org/10.1186/s42400-025-00546-3
+  url: https://dblp.org/rec/journals/cybersec/MaZWLL26
+- author: Benjun Tang, Xiuzhen Hu, Yuqian Yao, Shaohua Chen
+  title: 'SG-DCNN: A Deep Learning Method Integrating Self-Attention Mechanism and
+    Generative Adversarial Network for Predicting Ion-Ligand Binding Residues in Small
+    Samples.'
+  venue: IEEE Trans. Comput. Biol. Bioinform.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcbb/TangHYC26
+  doi: 10.1109/TCBBIO.2025.3645246
+  ee: https://doi.org/10.1109/TCBBIO.2025.3645246
+  url: https://dblp.org/rec/journals/tcbb/TangHYC26
+- author: Tianhao Liu, Can Zhou 0005, Yonggang Li, Bei Sun, Chunhua Yang 0001
+  title: A Robust Reinforcement Learning Control Method for Uncertain Process Industry
+    Based on Knowledge-Constrained Adversarial Perturbation.
+  venue: IEEE Trans. Cybern.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcyb/LiuZLSY26
+  doi: 10.1109/TCYB.2025.3621901
+  ee: https://doi.org/10.1109/TCYB.2025.3621901
+  url: https://dblp.org/rec/journals/tcyb/LiuZLSY26
+- author: Haifan Wu, Yuhan Geng, Di Gai, Jieying Tu, Xin Xiong 0016, Qi Wang 0061,
+    Zheng Huang
+  title: Dual-Student Adversarial Framework With Discriminator and Consistency-Driven
+    Learning for Semi-Supervised Medical Image Segmentation.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/WuGGTXWH26
+  doi: 10.1109/JBHI.2025.3597469
+  ee: https://doi.org/10.1109/JBHI.2025.3597469
+  url: https://dblp.org/rec/journals/titb/WuGGTXWH26
+- author: "Jos\xE9 M\xE1rcio Duarte, Evangelos E. Milios, Lilian Berton"
+  title: 'APVAT: Attention Perturbation in Virtual Adversarial Training for Semi-supervised
+    Learning.'
+  venue: BRACIS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bracis/DuarteMB25
+  doi: 10.1007/978-3-032-15987-8_11
+  ee: https://doi.org/10.1007/978-3-032-15987-8_11
+  url: https://dblp.org/rec/conf/bracis/DuarteMB25
+- author: Hui Zhou 0014, Zheng Qin 0001, Yipeng Zou, Xin Deng, Jiaxin Jiang, Ge Xiao,
+    Hao Chen 0051
+  title: Do Adversarial Perturbations Truly Mitigate Gradient Inversion in Federated
+    Learning?
+  venue: IJCNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/ZhouQZDJXC25
+  doi: 10.1109/IJCNN64981.2025.11228101
+  ee: https://doi.org/10.1109/IJCNN64981.2025.11228101
+  url: https://dblp.org/rec/conf/ijcnn/ZhouQZDJXC25
+- author: Zhengzuo Qin, Yuejiao Wang, Dongdong Zhao 0002, Shi Yan 0002
+  title: Adversarial Imitation Learning Based on Weighted Wasserstein Distance.
+  venue: ISNN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isnn/QinWZY25
+  doi: 10.1007/978-981-95-1233-1_6
+  ee: https://doi.org/10.1007/978-981-95-1233-1_6
+  url: https://dblp.org/rec/conf/isnn/QinWZY25
+- author: Hongxing Fan, Jiangtao Wu, Weinan Guan, Lu Sheng
+  title: Maximum Entropy Adversarial Learning for Generalizable Forgery Detection.
+  venue: PRCV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/FanWGS25
+  doi: 10.1007/978-981-95-5628-1_21
+  ee: https://doi.org/10.1007/978-981-95-5628-1_21
+  url: https://dblp.org/rec/conf/prcv/FanWGS25
+- author: Hongxin Zhi, Hongtao Yu, Shaomei Li, Chao Gao, Jichao Xie, Facheng Yan
+  title: 'CLoRA: Adversarial-Free Robustness Transfer for Self-supervised Learning.'
+  venue: PRCV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/ZhiYLGXY25
+  doi: 10.1007/978-981-95-5696-0_24
+  ee: https://doi.org/10.1007/978-981-95-5696-0_24
+  url: https://dblp.org/rec/conf/prcv/ZhiYLGXY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -35017,3 +35116,25 @@ feature%20disentanglement:
   doi: 10.1016/J.ENGAPPAI.2026.114071
   ee: https://doi.org/10.1016/j.engappai.2026.114071
   url: https://dblp.org/rec/journals/eaai/ZhangHL26
+- author: Wenjie Liu, Xiushan Nie, Xinfeng Liu, Fangzheng Zhou, Yunan Liu
+  title: Hierarchical Feature Alignment and Disentanglement for Cross-Domain Keyhole
+    Penetration Prediction.
+  venue: PRCV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/LiuNLZL25
+  doi: 10.1007/978-981-95-5696-0_32
+  ee: https://doi.org/10.1007/978-981-95-5696-0_32
+  url: https://dblp.org/rec/conf/prcv/LiuNLZL25
+- author: Dongnan Liu, Chaoyi Zhang, Yang Song 0001, Heng Huang 0001, Chenyu Wang
+    0001, Michael Barnett 0006, Tom Weidong Cai
+  title: 'Decompose to Adapt: Cross-Domain Object Detection Via Feature Disentanglement.'
+  venue: IEEE Trans. Multim.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tmm/LiuZSHWBC23
+  doi: 10.1109/TMM.2022.3141614
+  ee: https://doi.org/10.1109/TMM.2022.3141614
+  url: https://dblp.org/rec/journals/tmm/LiuZSHWBC23
