@@ -31712,6 +31712,117 @@ Adversarial%20Learning:
   doi: ''
   ee: https://aclanthology.org/2025.findings-emnlp.166/
   url: https://dblp.org/rec/conf/emnlp/LiYSZLZHZW25
+- author: Lang He, Weizhao Yang, Junnan Zhao, Haifeng Chen, Dongmei Jiang
+  title: 'FedDAAM: Federated Domain Adversarial Learning With Attention Mechanism
+    for Privacy Preserving Multimodal Depression Assessment.'
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/HeYZCJ26
+  doi: 10.1109/TCSVT.2025.3609776
+  ee: https://doi.org/10.1109/TCSVT.2025.3609776
+  url: https://dblp.org/rec/journals/tcsv/HeYZCJ26
+- author: Ahad Bin Islam Shoeb, Kamrul Hasan 0008, Liang Hong, Tariqul Islam 0001,
+    Imtiaz Ahmed 0001, Zoheb Hasan, Sumit Chakravarty
+  title: 'DECPA-FL: Dynamic Ensemble Clustering for Poison-Aware Federated Learning
+    under Adversarial Conditions.'
+  venue: CCNC
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccnc/ShoebHHIAHC26
+  doi: 10.1109/CCNC65079.2026.11366419
+  ee: https://doi.org/10.1109/CCNC65079.2026.11366419
+  url: https://dblp.org/rec/conf/ccnc/ShoebHHIAHC26
+- author: Vita Santa Barletta, Christian Catalano, Mattia Colucci, Samuele del Vescovo,
+    Antonio Piccinno
+  title: Adversarial Machine Learning in Cyber Social Security.
+  venue: MetroXRAINE
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/metroxraine/BarlettaCCVP25
+  doi: 10.1109/METROXRAINE66377.2025.11340047
+  ee: https://doi.org/10.1109/MetroXRAINE66377.2025.11340047
+  url: https://dblp.org/rec/conf/metroxraine/BarlettaCCVP25
+- author: Xinyu Cao, Bimal Adhikari, Shangqing Zhao, Jingxian Wu 0001, Yanjun Pan
+    0001
+  title: An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting.
+  venue: MILCOM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/milcom/CaoAZWP25
+  doi: 10.1109/MILCOM64451.2025.11309917
+  ee: https://doi.org/10.1109/MILCOM64451.2025.11309917
+  url: https://dblp.org/rec/conf/milcom/CaoAZWP25
+- author: "Pooja Chigurupati, Ashokkumar R. Patel, G\xF6khan Kul"
+  title: Transfer Learning in Adversarial Attacks Across Graph Neural Networks.
+  venue: MILCOM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/milcom/ChigurupatiPK25
+  doi: 10.1109/MILCOM64451.2025.11310019
+  ee: https://doi.org/10.1109/MILCOM64451.2025.11310019
+  url: https://dblp.org/rec/conf/milcom/ChigurupatiPK25
+- author: Galamo F. Monkam, Jie Yan, Nathaniel D. Bastian
+  title: 'TAP-GAN+: A Topological Adversarial Pipeline for Inference-Time Detection
+    in Machine Learning.'
+  venue: MILCOM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/milcom/MonkamYB25
+  doi: 10.1109/MILCOM64451.2025.11310293
+  ee: https://doi.org/10.1109/MILCOM64451.2025.11310293
+  url: https://dblp.org/rec/conf/milcom/MonkamYB25
+- author: Bingguang Lu, Hongsheng Hu, Yuantian Miao, Shaleeza Sohail, Chaoxiang He,
+    Shuo Wang 0012, Xiao Chen
+  title: 'BadFU: Backdoor Federated Learning through Adversarial Machine Unlearning.'
+  venue: RAID
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/raid/LuHMSHWC25
+  doi: 10.1109/RAID67961.2025.00020
+  ee: https://doi.org/10.1109/RAID67961.2025.00020
+  url: https://dblp.org/rec/conf/raid/LuHMSHWC25
+- author: Mingyang Chen, Linghui Li, Zhaoyu Wang, Kaiguo Yuan, Bingyu Li
+  title: 'DCARL: Decoupled-Curriculum for Adversarial Robustness Learning under Long-Tailed
+    Distributions.'
+  venue: TrustCom
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/trustcom/ChenLWYL25
+  doi: 10.1109/TRUSTCOM66490.2025.00392
+  ee: https://doi.org/10.1109/Trustcom66490.2025.00392
+  url: https://dblp.org/rec/conf/trustcom/ChenLWYL25
+- author: Mengyuan Li, Jiewei Chen, Shao-Yong Guo 0001, Xuesong Qiu 0001, Feng Qi
+    0004
+  title: Reinforcement Learning Enhanced Temporal Generative Adversarial Networks
+    for Blockchain Illicit Transaction Detection.
+  venue: TrustCom
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/trustcom/LiCGQQ25
+  doi: 10.1109/TRUSTCOM66490.2025.00114
+  ee: https://doi.org/10.1109/Trustcom66490.2025.00114
+  url: https://dblp.org/rec/conf/trustcom/LiCGQQ25
+- author: Zhangting Lin, Mingfu Xue, Wenmao Liu, Liquan Chen
+  title: Adversarial Example Based Fingerprint Embedding for Robust Copyright Protection
+    in Split Learning.
+  venue: TrustCom
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/trustcom/LinXLC25
+  doi: 10.1109/TRUSTCOM66490.2025.00120
+  ee: https://doi.org/10.1109/Trustcom66490.2025.00120
+  url: https://dblp.org/rec/conf/trustcom/LinXLC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -35319,3 +35430,26 @@ feature%20disentanglement:
   doi: ''
   ee: https://arxiv.org/abs/2201.01929
   url: https://dblp.org/rec/journals/corr/abs-2201-01929
+- author: Hao Wang 0184, Junyan Huo, Fei Yang 0004, Shuai Wan, Gaoxing Chen, Kun Yang,
+    Luis Herranz, Fuzheng Yang 0001
+  title: Text and Non-Text Latent Feature Disentanglement for Screen Content Image
+    Compression.
+  venue: IEEE Trans. Circuits Syst. Video Technol.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcsv/WangHYWCYHY26
+  doi: 10.1109/TCSVT.2025.3602506
+  ee: https://doi.org/10.1109/TCSVT.2025.3602506
+  url: https://dblp.org/rec/journals/tcsv/WangHYWCYHY26
+- author: Yaqi Liu, Hanhan Wang, Weichen Zhu, Kunbai Zhang, Chao Xia
+  title: 'TriDNet: 3D Reconstruction and Generalized Feature Disentanglement for Deepfake
+    Detection.'
+  venue: TrustCom
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/trustcom/LiuWZZX25
+  doi: 10.1109/TRUSTCOM66490.2025.00168
+  ee: https://doi.org/10.1109/Trustcom66490.2025.00168
+  url: https://dblp.org/rec/conf/trustcom/LiuWZZX25
