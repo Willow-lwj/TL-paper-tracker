@@ -3994,6 +3994,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2024.3367765
   ee: https://doi.org/10.1109/TGRS.2024.3367765
   url: https://dblp.org/rec/journals/tgrs/FengZSWZZJ24
+- author: Tengyue Zhang, Ruiwen Ding, Luoting Zhuang, Yuxiao Wu, Erika Rodriguez,
+    William Hsu
+  title: Semi-Supervised Domain Adaptation with Latent Diffusion for Pathology Image
+    Classification.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-17228
+  doi: 10.48550/ARXIV.2601.17228
+  ee: https://doi.org/10.48550/arXiv.2601.17228
+  url: https://dblp.org/rec/journals/corr/abs-2601-17228
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -31823,6 +31835,53 @@ Adversarial%20Learning:
   doi: 10.1109/TRUSTCOM66490.2025.00120
   ee: https://doi.org/10.1109/Trustcom66490.2025.00120
   url: https://dblp.org/rec/conf/trustcom/LinXLC25
+- author: Siddharth Kothari, Srinivasan Murali, Sankalp Kothari, Ujjwal Verma, Jaya
+    Sreevalsan-Nair
+  title: Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation
+    From SAR Images.
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/KothariMKVS26
+  doi: 10.1109/ACCESS.2026.3662436
+  ee: https://doi.org/10.1109/ACCESS.2026.3662436
+  url: https://dblp.org/rec/journals/access/KothariMKVS26
+- author: Shaoxiong Hou, Song Xiao 0001, Jiahui Qu, Wenqian Dong
+  title: Cross-scene adversarial learning with Gaussian mixture model for hyperspectral
+    anomaly detection.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/HouXQD26
+  doi: 10.1016/J.ESWA.2026.131193
+  ee: https://doi.org/10.1016/j.eswa.2026.131193
+  url: https://dblp.org/rec/journals/eswa/HouXQD26
+- author: Xinhai Han, Xiaohui Li 0011, Jingsong Yang, Jiuke Wang, Guoqi Han, Jun Ding,
+    Hui Shen, Jun Yan, Dake Chen
+  title: Multi-station water level forecasting using advanced graph convolutional
+    networks with adversarial learning.
+  venue: Geo spatial Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/gsis/HanLYWHDSYC25
+  doi: 10.1080/10095020.2025.2459152
+  ee: https://doi.org/10.1080/10095020.2025.2459152
+  url: https://dblp.org/rec/journals/gsis/HanLYWHDSYC25
+- author: Jinpeng Li, Peng Chen 0007, Yunni Xia, MengChu Zhou, Yong Ma 0005, Yumin
+    Dong, Hui Liu 0003, Qinglan Peng, Xifeng Xu
+  title: Content Caching for IoT Devices by Using Self-Feedback Adversarial Semi-Bandits
+    Learning.
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/LiCXZMDLPX25
+  doi: 10.1109/TASE.2025.3598689
+  ee: https://doi.org/10.1109/TASE.2025.3598689
+  url: https://dblp.org/rec/journals/tase/LiCXZMDLPX25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -35453,3 +35512,24 @@ feature%20disentanglement:
   doi: 10.1109/TRUSTCOM66490.2025.00168
   ee: https://doi.org/10.1109/Trustcom66490.2025.00168
   url: https://dblp.org/rec/conf/trustcom/LiuWZZX25
+- author: Junyou He, Lixi Deng, Huichao Guo, Ye Tang, Yong Li, Sulong Xu
+  title: Adversarial Alignment and Disentanglement for Cross-Domain CTR Prediction
+    with Domain-Encompassing Features.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-17472
+  doi: 10.48550/ARXIV.2601.17472
+  ee: https://doi.org/10.48550/arXiv.2601.17472
+  url: https://dblp.org/rec/journals/corr/abs-2601-17472
+- author: Hao Chen 0081, Qi Zhang 0077, Zenan Huang, Haobo Wang 0001, Junbo Zhao 0002
+  title: Towards Domain-Specific Features Disentanglement for Domain Generalization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-03007
+  doi: 10.48550/ARXIV.2310.03007
+  ee: https://doi.org/10.48550/arXiv.2310.03007
+  url: https://dblp.org/rec/journals/corr/abs-2310-03007
