@@ -35533,3 +35533,25 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2310.03007
   ee: https://doi.org/10.48550/arXiv.2310.03007
   url: https://dblp.org/rec/journals/corr/abs-2310-03007
+- author: "Tobias Wei\xDFberg, Weikang Wang, Paul Roetzer, Nafie El Amrani, Florian\
+    \ Bernard 0001"
+  title: Symmetry Informative and Agnostic Feature Disentanglement for 3D Shapes.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-14804
+  doi: 10.48550/ARXIV.2601.14804
+  ee: https://doi.org/10.48550/arXiv.2601.14804
+  url: https://dblp.org/rec/journals/corr/abs-2601-14804
+- author: Yuhao Pan, Xiucheng Wang, Nan Cheng 0001, Wenchao Xu 0001
+  title: Cross-Receiver Generalization for RF Fingerprint Identification via Feature
+    Disentanglement and Adversarial Training.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2510-09405
+  doi: 10.48550/ARXIV.2510.09405
+  ee: https://doi.org/10.48550/arXiv.2510.09405
+  url: https://dblp.org/rec/journals/corr/abs-2510-09405
