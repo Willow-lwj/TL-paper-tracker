@@ -31882,6 +31882,53 @@ Adversarial%20Learning:
   doi: 10.1109/TASE.2025.3598689
   ee: https://doi.org/10.1109/TASE.2025.3598689
   url: https://dblp.org/rec/journals/tase/LiCXZMDLPX25
+- author: Jingli Jia, Jiqiang Zhang, Yongfang Zhu
+  title: Research on robust prediction model for road accidents based on multi modal
+    grey Markov chain - collaborative optimization with adversarial meta-learning
+    and dynamic state partitioning.
+  venue: Discov. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/dai/JiaZZ26
+  doi: 10.1007/S44163-025-00752-5
+  ee: https://doi.org/10.1007/s44163-025-00752-5
+  url: https://dblp.org/rec/journals/dai/JiaZZ26
+- author: Weiran Guo, Bing Bo, Shaoxiang Wu, Jingsheng Yang
+  title: 'Exploring Weaknesses in Function Call Models via Reinforcement Learning:
+    An Adversarial Data Augmentation Approach.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-19122
+  doi: 10.48550/ARXIV.2601.19122
+  ee: https://doi.org/10.48550/arXiv.2601.19122
+  url: https://dblp.org/rec/journals/corr/abs-2601-19122
+- author: Alvi Md Ishmam, Najibul Haque Sarker, Zaber Ibn Abdul Hakim, Christopher
+    Thomas 0004
+  title: 'LAMP: Learning Universal Adversarial Perturbations for Multi-Image Tasks
+    via Pre-trained Models.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-21220
+  doi: 10.48550/ARXIV.2601.21220
+  ee: https://doi.org/10.48550/arXiv.2601.21220
+  url: https://dblp.org/rec/journals/corr/abs-2601-21220
+- author: Xuan Wang 0029, Xitong Gao, Dongping Liao, Tianrui Qin, Yu-liang Lu, Cheng-Zhong
+    Xu 0001
+  title: 'A3: Few-shot Prompt Learning of Unlearnable Examples with Cross-Modal Adversarial
+    Feature Alignment.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/WangGLQL025
+  doi: 10.1109/CVPR52734.2025.00888
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Wang_A3_Few-shot_Prompt_Learning_of_Unlearnable_Examples_with_Cross-Modal_Adversarial_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/WangGLQL025
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -35555,3 +35602,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2510.09405
   ee: https://doi.org/10.48550/arXiv.2510.09405
   url: https://dblp.org/rec/journals/corr/abs-2510-09405
+- author: "Tobias Wei\xDFberg, Weikang Wang 0004, Paul Roetzer, Nafie El Amrani, Florian\
+    \ Bernard 0001"
+  title: Symmetry Informative and Agnostic Feature Disentanglement for 3D Shapes.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-14804
+  doi: 10.48550/ARXIV.2601.14804
+  ee: https://doi.org/10.48550/arXiv.2601.14804
+  url: https://dblp.org/rec/journals/corr/abs-2601-14804
