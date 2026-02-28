@@ -31929,6 +31929,50 @@ Adversarial%20Learning:
   doi: 10.1109/CVPR52734.2025.00888
   ee: https://openaccess.thecvf.com/content/CVPR2025/html/Wang_A3_Few-shot_Prompt_Learning_of_Unlearnable_Examples_with_Cross-Modal_Adversarial_CVPR_2025_paper.html
   url: https://dblp.org/rec/conf/cvpr/WangGLQL025
+- author: Lixia Zan, Xiangbin Zhu, Zhao-Long Hu
+  title: 'Adversarial attacks on cooperative multi-agent deep reinforcement learning:
+    a dynamic group-based adversarial example transferability method.'
+  venue: Complex Intell. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/comintsys/ZanZH23
+  doi: 10.1007/S40747-023-01145-W
+  ee: https://doi.org/10.1007/s40747-023-01145-w
+  url: https://dblp.org/rec/journals/comintsys/ZanZH23
+- author: Harsh Dadhwal, Mateus de Abreu, Nazanin Parvizi, Sajal Saha
+  title: Benchmarking the adversarial resilience of machine learning models for DDoS
+    detection.
+  venue: Array
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/array/DadhwalAPS26
+  doi: 10.1016/J.ARRAY.2025.100664
+  ee: https://doi.org/10.1016/j.array.2025.100664
+  url: https://dblp.org/rec/journals/array/DadhwalAPS26
+- author: Yuanlong Yu 0001, Xiaoli Ke
+  title: 'Non-exemplar class-incremental learning: Dynamic adversarial sample synthesis
+    and relational knowledge distillation.'
+  venue: Appl. Soft Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/YuK26
+  doi: 10.1016/J.ASOC.2026.114601
+  ee: https://doi.org/10.1016/j.asoc.2026.114601
+  url: https://dblp.org/rec/journals/asc/YuK26
+- author: Juanjuan Weng, Zhiming Luo, Shaozi Li
+  title: Exploring Frequencies via Feature Mixing and Meta-Learning for Improving
+    Adversarial Transferability.
+  venue: IEEE Trans. Image Process.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/WengLL26
+  doi: 10.1109/TIP.2026.3657166
+  ee: https://doi.org/10.1109/TIP.2026.3657166
+  url: https://dblp.org/rec/journals/tip/WengLL26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
