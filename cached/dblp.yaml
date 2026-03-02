@@ -4006,6 +4006,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2601.17228
   ee: https://doi.org/10.48550/arXiv.2601.17228
   url: https://dblp.org/rec/journals/corr/abs-2601-17228
+- author: Xiaosong Chen, Yongbo Yang, Dong Liu, Shengsheng Wang
+  title: Sample-prototype optimal transport-based universal domain adaptation for
+    remote sensing image classification.
+  venue: Complex Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/comintsys/ChenYLW25
+  doi: 10.1007/S40747-024-01747-Y
+  ee: https://doi.org/10.1007/s40747-024-01747-y
+  url: https://dblp.org/rec/journals/comintsys/ChenYLW25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -31973,6 +31984,38 @@ Adversarial%20Learning:
   doi: 10.1109/TIP.2026.3657166
   ee: https://doi.org/10.1109/TIP.2026.3657166
   url: https://dblp.org/rec/journals/tip/WengLL26
+- author: Oleksandr Kushnerov, Ruslan Shevchuk, Serhii Yevseiev, Mikolaj P. Karpinski
+  title: Comparative Benchmarking of Deep Learning Architectures for Detecting Adversarial
+    Attacks on Large Language Models.
+  venue: Inf.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/information/KushnerovSYK26
+  doi: 10.3390/INFO17020155
+  ee: https://doi.org/10.3390/info17020155
+  url: https://dblp.org/rec/journals/information/KushnerovSYK26
+- author: Lihua He, Shiwei Wei, Huiyi Zhou, Qinghui Hu
+  title: 'Defending deep learning models: a hybrid algorithm employing de-noising
+    and coordinate-disruption techniques against adversarial attacks.'
+  venue: Complex Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/comintsys/HeWZH25
+  doi: 10.1007/S40747-025-02005-5
+  ee: https://doi.org/10.1007/s40747-025-02005-5
+  url: https://dblp.org/rec/journals/comintsys/HeWZH25
+- author: Yapei Wu, Tao Wang, Tong Liu, Zhicheng Zheng, Demin Xu, Xingguang Peng
+  title: Adversarial imitation learning with deep attention network for swarm systems.
+  venue: Complex Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/comintsys/WuWLZXP25
+  doi: 10.1007/S40747-024-01662-2
+  ee: https://doi.org/10.1007/s40747-024-01662-2
+  url: https://dblp.org/rec/journals/comintsys/WuWLZXP25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
