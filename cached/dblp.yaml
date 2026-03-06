@@ -32049,6 +32049,138 @@ Adversarial%20Learning:
   doi: 10.1109/WACVW65960.2025.00041
   ee: https://doi.org/10.1109/WACVW65960.2025.00041
   url: https://dblp.org/rec/conf/wacv/KarimY25
+- author: Arash Golabi, Abdelkarim Erradi, Ahmed Bensaid, Abdulla K. Al-Ali, Uvais
+    Qidwai
+  title: Covert feature-space adversarial perturbation using natural evolution strategies
+    in distributed deep learning.
+  venue: J. Syst. Archit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jsa/GolabiEBAQ26
+  doi: 10.1016/J.SYSARC.2026.103691
+  ee: https://doi.org/10.1016/j.sysarc.2026.103691
+  url: https://dblp.org/rec/journals/jsa/GolabiEBAQ26
+- author: Yang Li, Rui Guo, Kai Yu, Wang Lin
+  title: 'WASCTL: A Wasserstein adversarial framework for safe controllers transfer
+    learning.'
+  venue: J. Syst. Archit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jsa/LiGYL26
+  doi: 10.1016/J.SYSARC.2025.103626
+  ee: https://doi.org/10.1016/j.sysarc.2025.103626
+  url: https://dblp.org/rec/journals/jsa/LiGYL26
+- author: Qu Liu, Zhibin Yang, Xiang Su, Haoxin Wu, Yong Zhou, Hai Zhang
+  title: 'SAR-DetAttack: GAN-based adversarial attack with transfer learning for ship
+    detection in satellite SAR images.'
+  venue: J. Syst. Archit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jsa/LiuYSWZZ26
+  doi: 10.1016/J.SYSARC.2025.103621
+  ee: https://doi.org/10.1016/j.sysarc.2025.103621
+  url: https://dblp.org/rec/journals/jsa/LiuYSWZZ26
+- author: Haoran Liu, Yaochi Zhao, Zhuhua Hu, Like He, Tan Luo, Huaming Wu
+  title: 'PNRF: Defending against reconstruction attacks in split federated learning
+    via adversarial perturbation on non-robust features.'
+  venue: J. Syst. Archit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jsa/LiuZHHLW26
+  doi: 10.1016/J.SYSARC.2025.103631
+  ee: https://doi.org/10.1016/j.sysarc.2025.103631
+  url: https://dblp.org/rec/journals/jsa/LiuZHHLW26
+- author: Kanghua Mo, Zhengxin Zhang, Yuanzhi Zhang, Yucheng Long, Zhengdao Li
+  title: 'HPA: Manipulating deep reinforcement learning via adversarial interaction.'
+  venue: J. Syst. Archit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jsa/MoZZLL26
+  doi: 10.1016/J.SYSARC.2026.103685
+  ee: https://doi.org/10.1016/j.sysarc.2026.103685
+  url: https://dblp.org/rec/journals/jsa/MoZZLL26
+- author: Kawthar Chakif, Faria Nawshin, Devrim Unal
+  title: Robust Android malware detection against obfuscation and adversarial attacks
+    using RGB Markov images and deep ensemble learning.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChakifNU26
+  doi: 10.1016/J.KNOSYS.2026.115376
+  ee: https://doi.org/10.1016/j.knosys.2026.115376
+  url: https://dblp.org/rec/journals/kbs/ChakifNU26
+- author: Qian Chen, Huiying Xu, Ruidong Wang 0001, Yue Liu 0008, Xinzhong Zhu
+  title: Structure adversarial augmented graph anomaly detection via multi-view contrastive
+    learning.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChenXWLZ26
+  doi: 10.1016/J.KNOSYS.2026.115455
+  ee: https://doi.org/10.1016/j.knosys.2026.115455
+  url: https://dblp.org/rec/journals/kbs/ChenXWLZ26
+- author: K. Thangaraj, Koppula Srinivas Rao, Kayam Saikumar, Shruti Garg
+  title: A software-defined wrapper discriminant federated learning-reinforcement
+    attention adversarial regression approach for privacy and task management in cloud
+    edge computing.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ThangarajRSG26
+  doi: 10.1016/J.KNOSYS.2026.115430
+  ee: https://doi.org/10.1016/j.knosys.2026.115430
+  url: https://dblp.org/rec/journals/kbs/ThangarajRSG26
+- author: Qinyan Wei, Aihua Li, Juxiang Hu, Che Han, Yuxue Chi, Yong Shi
+  title: Positive-unlabeled learning for anomaly detection based on dual-branch generative
+    adversarial networks.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WeiLHHCS26
+  doi: 10.1016/J.KNOSYS.2026.115328
+  ee: https://doi.org/10.1016/j.knosys.2026.115328
+  url: https://dblp.org/rec/journals/kbs/WeiLHHCS26
+- author: Ziqing Lu, Guanlin Liu, Lifeng Lai, Weiyu Xu
+  title: Camouflage Adversarial Attacks on Multi-Agent Reinforcement Learning Systems.
+  venue: IEEE Trans. Signal Process.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tsp/LuLLX26
+  doi: 10.1109/TSP.2025.3644869
+  ee: https://doi.org/10.1109/TSP.2025.3644869
+  url: https://dblp.org/rec/journals/tsp/LuLLX26
+- author: P. E. Yugai
+  title: Study of Adversarial Attacks on Classical Machine Learning Models in the
+    Context of Network Threat Detection.
+  venue: Autom. Control. Comput. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/accs/Yugai25
+  doi: 10.3103/S0146411625700981
+  ee: https://doi.org/10.3103/S0146411625700981
+  url: https://dblp.org/rec/journals/accs/Yugai25
+- author: Victor Sineglazov, Anna Lytovchenko
+  title: Text Classification System using Natural Language Processing and Machine
+    Learning with Generative Adversarial Networks.
+  venue: ProfIT AI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/profitai/SineglazovL25
+  doi: ''
+  ee: https://ceur-ws.org/Vol-4164/paper10.pdf
+  url: https://dblp.org/rec/conf/profitai/SineglazovL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
