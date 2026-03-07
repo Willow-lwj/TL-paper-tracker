@@ -4017,6 +4017,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/S40747-024-01747-Y
   ee: https://doi.org/10.1007/s40747-024-01747-y
   url: https://dblp.org/rec/journals/comintsys/ChenYLW25
+- author: Xiaosong Chen, Yongbo Yang, Dong Liu 0027, Shengsheng Wang
+  title: Sample-prototype optimal transport-based universal domain adaptation for
+    remote sensing image classification.
+  venue: Complex Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/comintsys/ChenYLW25
+  doi: 10.1007/S40747-024-01747-Y
+  ee: https://doi.org/10.1007/s40747-024-01747-y
+  url: https://dblp.org/rec/journals/comintsys/ChenYLW25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -32181,6 +32192,17 @@ Adversarial%20Learning:
   doi: ''
   ee: https://ceur-ws.org/Vol-4164/paper10.pdf
   url: https://dblp.org/rec/conf/profitai/SineglazovL25
+- author: Chen Yin, Yining Dong, Jianliang He, Yulin Wang 0004
+  title: A fault evolution knowledge-driven adversarial meta-learning method for few-shot
+    tool state recognition under variable working conditions.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/YinDHW26
+  doi: 10.1016/J.ENGAPPAI.2026.113806
+  ee: https://doi.org/10.1016/j.engappai.2026.113806
+  url: https://dblp.org/rec/journals/eaai/YinDHW26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -35876,3 +35898,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2511.13399
   ee: https://doi.org/10.48550/arXiv.2511.13399
   url: https://dblp.org/rec/journals/corr/abs-2511-13399
+- author: Haohan Chen, Hongjia Liu, Shiyong Lan, Wenwu Wang 0001, Yixin Qiao, Yao
+    Li, Guonan Deng
+  title: 'DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale
+    Attention.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-11160
+  doi: 10.48550/ARXIV.2504.11160
+  ee: https://doi.org/10.48550/arXiv.2504.11160
+  url: https://dblp.org/rec/journals/corr/abs-2504-11160
