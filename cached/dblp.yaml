@@ -35910,3 +35910,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2504.11160
   ee: https://doi.org/10.48550/arXiv.2504.11160
   url: https://dblp.org/rec/journals/corr/abs-2504-11160
+- author: Haohan Chen, Hongjia Liu, Shiyong Lan, Wenwu Wang 0001, Yixin Qiao, Yao
+    Li 0019, Guonan Deng
+  title: 'DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale
+    Attention.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2504-11160
+  doi: 10.48550/ARXIV.2504.11160
+  ee: https://doi.org/10.48550/arXiv.2504.11160
+  url: https://dblp.org/rec/journals/corr/abs-2504-11160
