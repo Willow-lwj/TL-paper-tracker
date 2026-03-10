@@ -4028,6 +4028,28 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/S40747-024-01747-Y
   ee: https://doi.org/10.1007/s40747-024-01747-y
   url: https://dblp.org/rec/journals/comintsys/ChenYLW25
+- author: Min He, Xuan Cao, Tian-jian Luo 0001
+  title: Cyclic deep representation-based domain adaptation for cross-subject motor
+    imagery classification.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/HeCL26
+  doi: 10.1016/J.BSPC.2026.109762
+  ee: https://doi.org/10.1016/j.bspc.2026.109762
+  url: https://dblp.org/rec/journals/bspc/HeCL26
+- author: Zhenxi Zhao, Yingyu Cao, Hongbin Yu, Huixian Yu, Junfen Huang
+  title: 'GCN-multiDA: A multi-source personalized domain adaptation model based on
+    a novel streamlined GCN for motor imagery classification.'
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/ZhaoCYYH26
+  doi: 10.1016/J.BSPC.2026.109773
+  ee: https://doi.org/10.1016/j.bspc.2026.109773
+  url: https://dblp.org/rec/journals/bspc/ZhaoCYYH26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -32203,6 +32225,17 @@ Adversarial%20Learning:
   doi: 10.1016/J.ENGAPPAI.2026.113806
   ee: https://doi.org/10.1016/j.engappai.2026.113806
   url: https://dblp.org/rec/journals/eaai/YinDHW26
+- author: Kutub Uddin, Awais Khan 0007, Muhammad Umar Farooq, Khalid Mahmood Malik
+  title: 'SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake
+    Detection Against Adversarial Attacks.'
+  venue: ICCVW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/UddinKFM25
+  doi: 10.1109/ICCVW69036.2025.00161
+  ee: https://doi.org/10.1109/ICCVW69036.2025.00161
+  url: https://dblp.org/rec/conf/iccv/UddinKFM25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -35922,3 +35955,25 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2504.11160
   ee: https://doi.org/10.48550/arXiv.2504.11160
   url: https://dblp.org/rec/journals/corr/abs-2504-11160
+- author: Puzhen Sun, Hui Liu, Ya Liao, Jiaoli Liu, Jiani Ma, Lin Zhang 0015
+  title: 'CDFE-Net: Causality-inspired channel-masked feature disentanglement and
+    enhancement for domain-generalizable optic cup/disc segmentation.'
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/SunLLLMZ26
+  doi: 10.1016/J.BSPC.2026.109679
+  ee: https://doi.org/10.1016/j.bspc.2026.109679
+  url: https://dblp.org/rec/journals/bspc/SunLLLMZ26
+- author: Hao Chen 0041, Junbo Zhao
+  title: 'Embracing the overlooked: harnessing feature disentanglement for cross-domain
+    learning.'
+  venue: Frontiers Comput. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/fcsc/ChenZ26a
+  doi: 10.1007/S11704-025-50334-Y
+  ee: https://doi.org/10.1007/s11704-025-50334-y
+  url: https://dblp.org/rec/journals/fcsc/ChenZ26a
