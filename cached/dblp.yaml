@@ -32236,6 +32236,40 @@ Adversarial%20Learning:
   doi: 10.1109/ICCVW69036.2025.00161
   ee: https://doi.org/10.1109/ICCVW69036.2025.00161
   url: https://dblp.org/rec/conf/iccv/UddinKFM25
+- author: Gwang-Nam Kim, Han-Ju Lee, In-Woong Jeong, Jin-Myeong Shin, Seok-Hwan Choi
+    0001
+  title: 'FAMF: Robust Feature-Level Adversarial Attack on Metric-Based Few-Shot Learning
+    Models.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/KimLJSC26
+  doi: 10.1109/ACCESS.2026.3657351
+  ee: https://doi.org/10.1109/ACCESS.2026.3657351
+  url: https://dblp.org/rec/journals/access/KimLJSC26
+- author: Faria Nawshin, Devrim Unal, Mohammad Hammoudeh, Ponnuthurai N. Suganthan
+  title: A Novel Genetic Algorithm Optimized Adversarial Attack in Federated Learning
+    for Android-Based Mobile Systems.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/tce/NawshinUHS25
+  doi: 10.1109/TCE.2025.3577905
+  ee: https://doi.org/10.1109/TCE.2025.3577905
+  url: https://dblp.org/rec/journals/tce/NawshinUHS25
+- author: Manzoor Hussain, Jang-Eui Hong
+  title: Evaluating and Improving Adversarial Robustness of Deep Learning Models for
+    Intelligent Vehicle Safety.
+  venue: IEEE Trans. Reliab.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/tr/HussainH25
+  doi: 10.1109/TR.2024.3458805
+  ee: https://doi.org/10.1109/TR.2024.3458805
+  url: https://dblp.org/rec/journals/tr/HussainH25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -35977,3 +36011,25 @@ feature%20disentanglement:
   doi: 10.1007/S11704-025-50334-Y
   ee: https://doi.org/10.1007/s11704-025-50334-y
   url: https://dblp.org/rec/journals/fcsc/ChenZ26a
+- author: Puzhen Sun, Hui Liu 0024, Ya Liao, Jiaoli Liu, Jiani Ma, Lin Zhang 0015
+  title: 'CDFE-Net: Causality-inspired channel-masked feature disentanglement and
+    enhancement for domain-generalizable optic cup/disc segmentation.'
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/SunLLLMZ26
+  doi: 10.1016/J.BSPC.2026.109679
+  ee: https://doi.org/10.1016/j.bspc.2026.109679
+  url: https://dblp.org/rec/journals/bspc/SunLLLMZ26
+- author: Lei Gong, Aidong Zhang 0001, Kishlay Jha
+  title: Boosting Clinical Outcome Prediction with Context-Aware Feature Imputation
+    and Disentanglement.
+  venue: ICDM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdm/GongZJ25
+  doi: 10.1109/ICDM65498.2025.00132
+  ee: https://doi.org/10.1109/ICDM65498.2025.00132
+  url: https://dblp.org/rec/conf/icdm/GongZJ25
