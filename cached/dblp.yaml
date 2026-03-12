@@ -32270,6 +32270,97 @@ Adversarial%20Learning:
   doi: 10.1109/TR.2024.3458805
   ee: https://doi.org/10.1109/TR.2024.3458805
   url: https://dblp.org/rec/journals/tr/HussainH25
+- author: Jaber Parchami, Seyed Reza Talebiyan, Abbas Abdulhussein Dahham, Dhulfiqar
+    Dhurgham Husam, Ali Darroudi
+  title: A hybrid deep learning approach for malware detection using generative adversarial
+    network-based augmentation and multilevel feature selection.
+  venue: Comput. Electr. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/ParchamiTDHD26
+  doi: 10.1016/J.COMPELECENG.2026.110997
+  ee: https://doi.org/10.1016/j.compeleceng.2026.110997
+  url: https://dblp.org/rec/journals/cee/ParchamiTDHD26
+- author: Shuozhe Li, Vaishnav Tadiparthi, Kwonjoon Lee, Nakul Agarwal, Hossein Nourkhiz
+    Mahjoub, Ehsan Moradi-Pari, Lizhang Chen, Amy Zhang, Liu Leqi
+  title: Learning Robust Reasoning through Guided Adversarial Self-Play.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-00173
+  doi: 10.48550/ARXIV.2602.00173
+  ee: https://doi.org/10.48550/arXiv.2602.00173
+  url: https://dblp.org/rec/journals/corr/abs-2602-00173
+- author: Ignacy Kolton, Kacper Marzol, Pawel Batorski, Marcin Mazur, Paul Swoboda,
+    Przemyslaw Spurek
+  title: 'ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased
+    concepts in unlearned diffusion models.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-00350
+  doi: 10.48550/ARXIV.2602.00350
+  ee: https://doi.org/10.48550/arXiv.2602.00350
+  url: https://dblp.org/rec/journals/corr/abs-2602-00350
+- author: Dongbin Jiao, Zisheng Chen, Xianyi Wang, Jintao Shi, Shengcai Liu, Shi Yan
+  title: 'OD-DEAL: Dynamic Expert-Guided Adversarial Learning with Online Decomposition
+    for Scalable Capacitated Vehicle Routing.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-00488
+  doi: 10.48550/ARXIV.2602.00488
+  ee: https://doi.org/10.48550/arXiv.2602.00488
+  url: https://dblp.org/rec/journals/corr/abs-2602-00488
+- author: Shangzhe Li, Xuchao Zhang, Chetan Bansal, Weitong Zhang
+  title: 'Your Self-Play Algorithm is Secretly an Adversarial Imitator: Understanding
+    LLM Self-Play through the Lens of Imitation Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-01357
+  doi: 10.48550/ARXIV.2602.01357
+  ee: https://doi.org/10.48550/arXiv.2602.01357
+  url: https://dblp.org/rec/journals/corr/abs-2602-01357
+- author: Qurat-Ul-Ain Mastoi, Uri A. Ramadhani, Abdullah Lakhan, Syed Ikram Shah,
+    Muhammad Asfand Yar, Syed Yaseen Shah, Syed Aziz Shah
+  title: Federated Learning-Enabled Adversarial Attack Detection Framework for Healthcare
+    Laboratory Data.
+  venue: BCCA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bcca/MastoiRLSYSS25
+  doi: 10.1109/BCCA66705.2025.11229803
+  ee: https://doi.org/10.1109/BCCA66705.2025.11229803
+  url: https://dblp.org/rec/conf/bcca/MastoiRLSYSS25
+- author: Muhammad Zia Ur Rehman, Murad Khan
+  title: Attention-Guided SAT Solver Approach for Robust Adversarial Defense in Machine
+    Learning.
+  venue: BCCA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bcca/RehmanK25
+  doi: 10.1109/BCCA66705.2025.11229704
+  ee: https://doi.org/10.1109/BCCA66705.2025.11229704
+  url: https://dblp.org/rec/conf/bcca/RehmanK25
+- author: Hai Yuan, Xiao Yang, Jun Wang, Zhengwen Shen, Zaiyu Pan
+  title: Progressive Adversarial Learning for Multi-modality Biometric Recognition
+    with Missing Modality.
+  venue: CCBR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccbr/YuanYWSP25
+  doi: 10.1007/978-981-95-6123-0_7
+  ee: https://doi.org/10.1007/978-981-95-6123-0_7
+  url: https://dblp.org/rec/conf/ccbr/YuanYWSP25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36033,3 +36124,14 @@ feature%20disentanglement:
   doi: 10.1109/ICDM65498.2025.00132
   ee: https://doi.org/10.1109/ICDM65498.2025.00132
   url: https://dblp.org/rec/conf/icdm/GongZJ25
+- author: Jianxin Cui, Xin Kang, Mengyu Liu, Junsheng Cheng, Chengcheng Duan
+  title: A single-source domain generalization method based on multi-pseudo domain
+    generation and feature disentanglement.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/CuiKLCD26
+  doi: 10.1016/J.NEUCOM.2026.133092
+  ee: https://doi.org/10.1016/j.neucom.2026.133092
+  url: https://dblp.org/rec/journals/ijon/CuiKLCD26
