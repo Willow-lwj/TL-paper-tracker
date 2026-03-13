@@ -4050,6 +4050,28 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.BSPC.2026.109773
   ee: https://doi.org/10.1016/j.bspc.2026.109773
   url: https://dblp.org/rec/journals/bspc/ZhaoCYYH26
+- author: Adrian Poniatowski, Natalie Gentner, Manuel Barusco, Davide Dalle Pezze,
+    Samuele Salti, Gian Antonio Susto
+  title: Domain Adaptation for Image Classification of Defects in Semiconductor Manufacturing.
+  venue: IEEE Trans Autom. Sci. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tase/PoniatowskiGBPSS26
+  doi: 10.1109/TASE.2025.3621854
+  ee: https://doi.org/10.1109/TASE.2025.3621854
+  url: https://dblp.org/rec/journals/tase/PoniatowskiGBPSS26
+- author: Xiaosong Chen, Yongbo Yang, Dong Liu 0027, Shengsheng Wang 0001
+  title: Sample-prototype optimal transport-based universal domain adaptation for
+    remote sensing image classification.
+  venue: Complex Intell. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/comintsys/ChenYLW25
+  doi: 10.1007/S40747-024-01747-Y
+  ee: https://doi.org/10.1007/s40747-024-01747-y
+  url: https://dblp.org/rec/journals/comintsys/ChenYLW25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -32361,6 +32383,83 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-95-6123-0_7
   ee: https://doi.org/10.1007/978-981-95-6123-0_7
   url: https://dblp.org/rec/conf/ccbr/YuanYWSP25
+- author: Junye Lin, Liping Yang
+  title: Mitigating algorithmic bias in credit scoring support systems through adversarial
+    learning.
+  venue: Decis. Support Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/dss/LinY26
+  doi: 10.1016/J.DSS.2026.114653
+  ee: https://doi.org/10.1016/j.dss.2026.114653
+  url: https://dblp.org/rec/journals/dss/LinY26
+- author: Jinhui Zhu, Xiangfeng Luo, Xiao Wei 0002, Xin Yao
+  title: Adversarial contrastive with leveraging negative knowledge for point of interest
+    sequence learning.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ZhuLWY26
+  doi: 10.1016/J.NEUNET.2026.108599
+  ee: https://doi.org/10.1016/j.neunet.2026.108599
+  url: https://dblp.org/rec/journals/nn/ZhuLWY26
+- author: Tianjian Yuan, Wei Zhu 0028, Mitsuhiro Hayashibe
+  title: Iterative Adversarial Learning With Chaser Agents for Time-Efficient Crowd-Aware
+    Navigation.
+  venue: IEEE Robotics Autom. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/YuanZH26
+  doi: 10.1109/LRA.2026.3665073
+  ee: https://doi.org/10.1109/LRA.2026.3665073
+  url: https://dblp.org/rec/journals/ral/YuanZH26
+- author: Mi Wang, Huai-Ning Wu, Jingbo Fu, Chen Liang
+  title: Human Behavior Identification for Linear Systems in Adversarial Environments
+    by Adaptive Inverse Reinforcement Learning.
+  venue: IEEE Trans. Cybern.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcyb/WangWFL26
+  doi: 10.1109/TCYB.2025.3631917
+  ee: https://doi.org/10.1109/TCYB.2025.3631917
+  url: https://dblp.org/rec/journals/tcyb/WangWFL26
+- author: Lizheng Wang 0005, Lijun Ge, Changcheng Qi, Gaojie Chen
+  title: 'Channel Estimation for mmWave mMIMO Systems With Mixed-ADC: Conditional
+    Generative Adversarial Network and Deep Transfer Learning.'
+  venue: IEEE Trans. Green Commun. Netw.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tgcn/WangGQC26
+  doi: 10.1109/TGCN.2026.3664748
+  ee: https://doi.org/10.1109/TGCN.2026.3664748
+  url: https://dblp.org/rec/journals/tgcn/WangGQC26
+- author: Guihai Zhang, Biplab Sikdar 0001
+  title: Targeted Adversarial Poisoning Attack Against Robust Aggregation in Federated
+    Learning for Smart Grids.
+  venue: IEEE Trans. Smart Grid
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tsg/ZhangS26
+  doi: 10.1109/TSG.2025.3629243
+  ee: https://doi.org/10.1109/TSG.2025.3629243
+  url: https://dblp.org/rec/journals/tsg/ZhangS26
+- author: Xinrui Li, Xin Yin, Chao Ni 0001
+  title: Enhancing Commit Classification for Software Maintenance with Adversarial
+    Learning.
+  venue: APSEC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/apsec/LiYN25
+  doi: 10.1109/APSEC66846.2025.00020
+  ee: https://doi.org/10.1109/APSEC66846.2025.00020
+  url: https://dblp.org/rec/conf/apsec/LiYN25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36135,3 +36234,15 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUCOM.2026.133092
   ee: https://doi.org/10.1016/j.neucom.2026.133092
   url: https://dblp.org/rec/journals/ijon/CuiKLCD26
+- author: Xiaoru Gao, Guoyan Zheng
+  title: 'ReTri: Progressive domain bridging via representation disentanglement and
+    triple-level consistency-driven feature alignment for unsupervised domain adaptive
+    medical image segmentation.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/GaoZ26a
+  doi: 10.1016/J.NEUNET.2026.108564
+  ee: https://doi.org/10.1016/j.neunet.2026.108564
+  url: https://dblp.org/rec/journals/nn/GaoZ26a
