@@ -4072,6 +4072,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1007/S40747-024-01747-Y
   ee: https://doi.org/10.1007/s40747-024-01747-y
   url: https://dblp.org/rec/journals/comintsys/ChenYLW25
+- author: Xiangyu Ji, Jingpeng Gao
+  title: Mixture of experts with virtual class for unsupervised domain adaptation
+    in hyperspectral image classification.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/JiG26
+  doi: 10.1016/J.ENGAPPAI.2026.114013
+  ee: https://doi.org/10.1016/j.engappai.2026.114013
+  url: https://dblp.org/rec/journals/eaai/JiG26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -32460,6 +32471,62 @@ Adversarial%20Learning:
   doi: 10.1109/APSEC66846.2025.00020
   ee: https://doi.org/10.1109/APSEC66846.2025.00020
   url: https://dblp.org/rec/conf/apsec/LiYN25
+- author: Daizong Liu, Wangqin Liu, Xiaowen Cai 0001, Pan Zhou 0001, Runwei Guan,
+    Xiaoye Qu, Bo Du
+  title: Generating transferable attacks across large vision-language models using
+    adversarial deformation learning.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LiuLCZGQD26
+  doi: 10.1016/J.PATCOG.2026.113194
+  ee: https://doi.org/10.1016/j.patcog.2026.113194
+  url: https://dblp.org/rec/journals/pr/LiuLCZGQD26
+- author: Xin Shu, Yikang Guo, Shou Gang Ren
+  title: Adversarial supervised contrastive feature learning for cross-modal retrieval.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ShuGR26
+  doi: 10.1016/J.PATCOG.2026.113256
+  ee: https://doi.org/10.1016/j.patcog.2026.113256
+  url: https://dblp.org/rec/journals/pr/ShuGR26
+- author: Xiao Sun, Song Wang 0003, Jucheng Yang
+  title: Adversarial training with attention-guided feature fusion and inclusive contrastive
+    learning.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/SunWY26
+  doi: 10.1016/J.PATCOG.2026.113220
+  ee: https://doi.org/10.1016/j.patcog.2026.113220
+  url: https://dblp.org/rec/journals/pr/SunWY26
+- author: Yeqin Li, David Chieng, Boon Giin Lee, Chiew Foong Kwong, Kian-Ming Lim,
+    Shuyu Li
+  title: 'Wi-ViTAL: Domain Generalization of Wireless Human Activity Recognition Using
+    Linear Attention Vision Transformer With Adversarial Learning.'
+  venue: IEEE Trans. Mob. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tmc/LiCLKLL26
+  doi: 10.1109/TMC.2025.3632752
+  ee: https://doi.org/10.1109/TMC.2025.3632752
+  url: https://dblp.org/rec/journals/tmc/LiCLKLL26
+- author: Mariaelena Berlotti, Sarah Di Grande, Salvatore Cavalieri, Daniel G. Costa
+  title: 'Cross-City Generalization of Air Quality Prediction: A Domain-Adversarial
+    Learning Approach.'
+  venue: ISC2
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isc2/BerlottiGCC25
+  doi: 10.1109/ISC266238.2025.11293281
+  ee: https://doi.org/10.1109/ISC266238.2025.11293281
+  url: https://dblp.org/rec/conf/isc2/BerlottiGCC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36246,3 +36313,26 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUNET.2026.108564
   ee: https://doi.org/10.1016/j.neunet.2026.108564
   url: https://dblp.org/rec/journals/nn/GaoZ26a
+- author: Yi Qian, Xipeng Pan, Hang Yu 0006, Yimin Wen, Xinjun Bian
+  title: Fair federated learning for weakly supervised nuclei segmentation via feature
+    disentanglement.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/QianPYWB26
+  doi: 10.1016/J.PATCOG.2026.113293
+  ee: https://doi.org/10.1016/j.patcog.2026.113293
+  url: https://dblp.org/rec/journals/pr/QianPYWB26
+- author: Haohan Chen, Hongjia Liu, Shiyong Lan, Wenwu Wang 0001, Yixin Qiao, Yao
+    Li 0019, Guonan Deng
+  title: 'DMAGaze : Gaze estimation using feature disentanglement and multi-scale
+    attention.'
+  venue: Pattern Recognit. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/ChenLLWQLD26
+  doi: 10.1016/J.PATREC.2026.01.013
+  ee: https://doi.org/10.1016/j.patrec.2026.01.013
+  url: https://dblp.org/rec/journals/prl/ChenLLWQLD26
