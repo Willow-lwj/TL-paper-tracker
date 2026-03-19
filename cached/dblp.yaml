@@ -32561,6 +32561,18 @@ Adversarial%20Learning:
   doi: 10.1109/BIGDATA66926.2025.11400917
   ee: https://doi.org/10.1109/BigData66926.2025.11400917
   url: https://dblp.org/rec/conf/bigdataconf/Voitenko025
+- author: Baoyuan Wu, Li Liu 0036, Zihao Zhu 0001, Qingshan Liu 0001, Zhaofeng He
+    0001, Siwei Lyu
+  title: 'Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight
+    Attack and Adversarial Example.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-09457
+  doi: 10.48550/ARXIV.2302.09457
+  ee: https://doi.org/10.48550/arXiv.2302.09457
+  url: https://dblp.org/rec/journals/corr/abs-2302-09457
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
