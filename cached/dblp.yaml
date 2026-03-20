@@ -32573,6 +32573,84 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2302.09457
   ee: https://doi.org/10.48550/arXiv.2302.09457
   url: https://dblp.org/rec/journals/corr/abs-2302-09457
+- author: Oliver Chang
+  title: Interpretable Adversarial Reinforcement Learning.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Chang26
+  doi: 10.1609/AAAI.V40I48.42145
+  ee: https://doi.org/10.1609/aaai.v40i48.42145
+  url: https://dblp.org/rec/conf/aaai/Chang26
+- author: Liangyi Kang, Wei Hua, Yan Yang, Jie Liu 0008, Dan Ye 0004
+  title: 'ALERT: Adversarial Learning Enhanced Stability-aware Routing Transformer
+    for Adaptive Depression Detection.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/KangHYLY26
+  doi: 10.1609/AAAI.V40I45.41213
+  ee: https://doi.org/10.1609/aaai.v40i45.41213
+  url: https://dblp.org/rec/conf/aaai/KangHYLY26
+- author: Li-Chiao Wang, Chung-Shou Liao, Wei Liu
+  title: 'ResNet-GA: Evolutionary Deep Learning Models for Adversarial Defense (Student
+    Abstract).'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangLL26
+  doi: 10.1609/AAAI.V40I48.42292
+  ee: https://doi.org/10.1609/aaai.v40i48.42292
+  url: https://dblp.org/rec/conf/aaai/WangLL26
+- author: Vishruti Kakkad, Paul Chung, Hanan Hibshi, Maverick Woo
+  title: 'Comparative Insights on Adversarial Machine Learning from Industry and Academia:
+    A User-Study Approach.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-04753
+  doi: 10.48550/ARXIV.2602.04753
+  ee: https://doi.org/10.48550/arXiv.2602.04753
+  url: https://dblp.org/rec/journals/corr/abs-2602-04753
+- author: Yiwen Duan, Jing Ye, Xinpei Zhao
+  title: 'ALIVE: Awakening LLM Reasoning via Adversarial Learning and Instructive
+    Verbal Evaluation.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-05472
+  doi: 10.48550/ARXIV.2602.05472
+  ee: https://doi.org/10.48550/arXiv.2602.05472
+  url: https://dblp.org/rec/journals/corr/abs-2602-05472
+- author: Rishabh Bhattacharya, Naresh Manwani
+  title: 'EdgeMask-DG*: Learning Domain-Invariant Graph Structures via Adversarial
+    Edge Masking.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-05571
+  doi: 10.48550/ARXIV.2602.05571
+  ee: https://doi.org/10.48550/arXiv.2602.05571
+  url: https://dblp.org/rec/journals/corr/abs-2602-05571
+- author: "Soumyendu Sarkar, Ashwin Ramesh Babu, Sajad Mousavi, Vineet Gundecha, Sahand\
+    \ Ghorbanpour, Avisek Naug, Ricardo Luna Guti\xE9rrez 0001, Antonio Guillen 0001,\
+    \ Desik Rengarajan"
+  title: Reinforcement Learning Platform for Adversarial Black-box Attacks with Custom
+    Distortion Filters.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/SarkarBMGGN0GR25
+  doi: 10.1609/AAAI.V39I26.34976
+  ee: https://doi.org/10.1609/aaai.v39i26.34976
+  url: https://dblp.org/rec/conf/aaai/SarkarBMGGN0GR25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36382,3 +36460,14 @@ feature%20disentanglement:
   doi: 10.1016/J.PATREC.2026.01.013
   ee: https://doi.org/10.1016/j.patrec.2026.01.013
   url: https://dblp.org/rec/journals/prl/ChenLLWQLD26
+- author: Liang Yao, Fan Liu 0003, Zhiquan Ou, Fei Wang, Delong Chen
+  title: Single Sample Face Recognition Based on Identity-Attribute Disentanglement
+    and Adversarial Feature Augmentation.
+  venue: CCBR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccbr/YaoLOWC23
+  doi: 10.1007/978-981-99-8565-4_21
+  ee: https://doi.org/10.1007/978-981-99-8565-4_21
+  url: https://dblp.org/rec/conf/ccbr/YaoLOWC23
