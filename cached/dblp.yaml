@@ -32651,6 +32651,28 @@ Adversarial%20Learning:
   doi: 10.1609/AAAI.V39I26.34976
   ee: https://doi.org/10.1609/aaai.v39i26.34976
   url: https://dblp.org/rec/conf/aaai/SarkarBMGGN0GR25
+- author: Yimin Liu, Peng Jiang, Qi Liu, Liehuang Zhu
+  title: Generic Adversarial Attack Framework Against Graph-based Vertical Federated
+    Learning.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuJLZ26
+  doi: 10.1609/AAAI.V40I42.40878
+  ee: https://doi.org/10.1609/aaai.v40i42.40878
+  url: https://dblp.org/rec/conf/aaai/LiuJLZ26
+- author: Yuhan Xie, Chen Lyu 0002
+  title: 'HealSplit: Towards Self-Healing Through Adversarial Distillation in Split
+    Federated Learning.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/XieL26
+  doi: 10.1609/AAAI.V40I42.40908
+  ee: https://doi.org/10.1609/aaai.v40i42.40908
+  url: https://dblp.org/rec/conf/aaai/XieL26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
