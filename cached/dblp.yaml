@@ -32673,6 +32673,103 @@ Adversarial%20Learning:
   doi: 10.1609/AAAI.V40I42.40908
   ee: https://doi.org/10.1609/aaai.v40i42.40908
   url: https://dblp.org/rec/conf/aaai/XieL26
+- author: Shengda Zhuo, Di Wu, Xin Hu, Yu Wang
+  title: 'ARDST: An Adversarial-Resilient Deep Symbolic Tree for Adversarial Learning.'
+  venue: Int. J. Intell. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/ijis/ZhuoWHW24a
+  doi: 10.1155/2024/2767008
+  ee: https://doi.org/10.1155/2024/2767008
+  url: https://dblp.org/rec/journals/ijis/ZhuoWHW24a
+- author: Jaya Pathak, Prakhar Mundra, Yash Sejpal, Tanmaya Mahapatra, Amitesh Singh
+    Rajput
+  title: 'Early round detection protocols: Strategies against untargeted adversarial
+    attacks in federated learning network.'
+  venue: Comput. Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cn/PathakMSMR26
+  doi: 10.1016/J.COMNET.2026.112098
+  ee: https://doi.org/10.1016/j.comnet.2026.112098
+  url: https://dblp.org/rec/journals/cn/PathakMSMR26
+- author: Tan Luo, Yaochi Zhao, Zhuhua Hu, Jiezhuo Zhong, Haoran Liu
+  title: Task-aware meta-balance-learning for better generalizable black-box adversarial
+    attack.
+  venue: Cybersecur.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cybersec/LuoZHZL26
+  doi: 10.1186/S42400-026-00569-4
+  ee: https://doi.org/10.1186/s42400-026-00569-4
+  url: https://dblp.org/rec/journals/cybersec/LuoZHZL26
+- author: Jieqi Rong, Yingze Yang, Fu Jiang
+  title: Generative adversarial imbalanced learning for DC microgrid anomaly detection.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/RongYJ26
+  doi: 10.1016/J.ESWA.2026.131811
+  ee: https://doi.org/10.1016/j.eswa.2026.131811
+  url: https://dblp.org/rec/journals/eswa/RongYJ26
+- author: Wei Wu, Xiaohui Hou, Minggang Gan, Jie Chen
+  title: ZPD-guided adversarial learning for safety-critical autonomous driving.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WuHGC26
+  doi: 10.1016/J.ESWA.2026.131547
+  ee: https://doi.org/10.1016/j.eswa.2026.131547
+  url: https://dblp.org/rec/journals/eswa/WuHGC26
+- author: Wenlong Zheng, Heng Zhang, Yuhao Zhang, Peng Li 0011, He Xu
+  title: 'PaDe: Towards robust adversarial patch defense via trigger-space feature
+    decoupling and orthogonal representation learning.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhengZZLX26
+  doi: 10.1016/J.ESWA.2026.131509
+  ee: https://doi.org/10.1016/j.eswa.2026.131509
+  url: https://dblp.org/rec/journals/eswa/ZhengZZLX26
+- author: Kota Yoshida, Takeshi Fujino
+  title: Adversarial Examples on Vertical Federated Split Learning by Using Gradient
+    Sign Prediction.
+  venue: IEICE Trans. Fundam. Electron. Commun. Comput. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ieiceta/YoshidaF26
+  doi: 10.1587/TRANSFUN.2025CIP0018
+  ee: https://doi.org/10.1587/transfun.2025cip0018
+  url: https://dblp.org/rec/journals/ieiceta/YoshidaF26
+- author: Zhan Wang, Yong Fang 0002, Yaochang Xu, Yijia Xu
+  title: An effective and stealthy XSS adversarial sample generation method against
+    deep learning detection models.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangFXX26
+  doi: 10.1016/J.NEUCOM.2026.133045
+  ee: https://doi.org/10.1016/j.neucom.2026.133045
+  url: https://dblp.org/rec/journals/ijon/WangFXX26
+- author: Shinji Ito, Haipeng Luo, Arnab Maiti, Taira Tsuchiya, Yue Wu
+  title: 'Adversarial Learning in Games with Bandit Feedback: Logarithmic Pure-Strategy
+    Maximin Regret.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-06348
+  doi: 10.48550/ARXIV.2602.06348
+  ee: https://doi.org/10.48550/arXiv.2602.06348
+  url: https://dblp.org/rec/journals/corr/abs-2602-06348
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36493,3 +36590,15 @@ feature%20disentanglement:
   doi: 10.1007/978-981-99-8565-4_21
   ee: https://doi.org/10.1007/978-981-99-8565-4_21
   url: https://dblp.org/rec/conf/ccbr/YaoLOWC23
+- author: Guoyong Dai, Chen Guo, Tianyu Zhou, Junhao Chen, Yantao Shao, Ruiji Xu,
+    Keji Mao, Xiaofeng Qian
+  title: Precise bone age assessment via multi-task feature disentanglement and quadruplet
+    ranking.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/DaiGZCSXMQ26
+  doi: 10.1016/J.NEUCOM.2026.133161
+  ee: https://doi.org/10.1016/j.neucom.2026.133161
+  url: https://dblp.org/rec/journals/ijon/DaiGZCSXMQ26
