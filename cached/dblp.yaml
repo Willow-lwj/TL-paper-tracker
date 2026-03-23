@@ -32770,6 +32770,27 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2602.06348
   ee: https://doi.org/10.48550/arXiv.2602.06348
   url: https://dblp.org/rec/journals/corr/abs-2602-06348
+- author: Shengda Zhuo, Di Wu 0056, Xin Hu 0008, Yu Wang 0017
+  title: 'ARDST: An Adversarial-Resilient Deep Symbolic Tree for Adversarial Learning.'
+  venue: Int. J. Intell. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/ijis/ZhuoWHW24a
+  doi: 10.1155/2024/2767008
+  ee: https://doi.org/10.1155/2024/2767008
+  url: https://dblp.org/rec/journals/ijis/ZhuoWHW24a
+- author: Yimin Liu 0002, Peng Jiang 0007, Qi Liu, Liehuang Zhu
+  title: Generic Adversarial Attack Framework Against Graph-based Vertical Federated
+    Learning.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuJLZ26
+  doi: 10.1609/AAAI.V40I42.40878
+  ee: https://doi.org/10.1609/aaai.v40i42.40878
+  url: https://dblp.org/rec/conf/aaai/LiuJLZ26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
