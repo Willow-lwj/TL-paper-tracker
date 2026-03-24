@@ -32791,6 +32791,51 @@ Adversarial%20Learning:
   doi: 10.1609/AAAI.V40I42.40878
   ee: https://doi.org/10.1609/aaai.v40i42.40878
   url: https://dblp.org/rec/conf/aaai/LiuJLZ26
+- author: Tamonash Bhattacharyya, Farshad Firouzi, Amir M. Rahmani, Sanaz Rahimi Mousavi,
+    Krishnendu Chakrabarty
+  title: 'AGILE: A Multi-Task Contrastive Learning Framework with Adversarial Gradient
+    Iterative Learning for Bio-Signal Anonymization.'
+  venue: BSN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bsn/BhattacharyyaFR25
+  doi: 10.1109/BSN66969.2025.11337507
+  ee: https://doi.org/10.1109/BSN66969.2025.11337507
+  url: https://dblp.org/rec/conf/bsn/BhattacharyyaFR25
+- author: Xuan Li, Zhe Yin, Xiaodong Gu 0002, Beijun Shen
+  title: 'Anti-adversarial Learning: Desensitizing Prompts for Large Language Model.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiYGS26
+  doi: 10.1609/AAAI.V40I38.40447
+  ee: https://doi.org/10.1609/aaai.v40i38.40447
+  url: https://dblp.org/rec/conf/aaai/LiYGS26
+- author: Yimin Liu 0002, Peng Jiang 0007, Qi Liu 0068, Liehuang Zhu
+  title: Generic Adversarial Attack Framework Against Graph-based Vertical Federated
+    Learning.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuJLZ26
+  doi: 10.1609/AAAI.V40I42.40878
+  ee: https://doi.org/10.1609/aaai.v40i42.40878
+  url: https://dblp.org/rec/conf/aaai/LiuJLZ26
+- author: Zequan Liang, Ruoyu Zhang 0002, Wei Shao, Mahdi Pirayesh Shirazi Nejad,
+    Ehsan Kourkchi, Setareh Rafatirad, Houman Homayoun
+  title: Generalizable Blood Pressure Estimation from Multi-Wavelength PPG Using Curriculum-Adversarial
+    Learning.
+  venue: BSN
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bsn/LiangZSNKRH25
+  doi: 10.1109/BSN66969.2025.11337701
+  ee: https://doi.org/10.1109/BSN66969.2025.11337701
+  url: https://dblp.org/rec/conf/bsn/LiangZSNKRH25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
