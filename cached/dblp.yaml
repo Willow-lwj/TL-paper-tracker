@@ -32836,6 +32836,17 @@ Adversarial%20Learning:
   doi: 10.1109/BSN66969.2025.11337701
   ee: https://doi.org/10.1109/BSN66969.2025.11337701
   url: https://dblp.org/rec/conf/bsn/LiangZSNKRH25
+- author: Qi Gao, Xiangzhen Kong, Juan Wang
+  title: Identifying Spatial Domains from Spatial Transcriptomics Using Graph Contrastive
+    Learning with an Adversarial Mechanism.
+  venue: BIBM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bibm/GaoKW25
+  doi: 10.1109/BIBM66473.2025.11356562
+  ee: https://doi.org/10.1109/BIBM66473.2025.11356562
+  url: https://dblp.org/rec/conf/bibm/GaoKW25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
