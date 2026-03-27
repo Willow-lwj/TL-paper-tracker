@@ -4116,6 +4116,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3617218
   ee: https://doi.org/10.1109/TGRS.2025.3617218
   url: https://dblp.org/rec/journals/tgrs/ChenZCWLWZLH25
+- author: Wei Li 0320, Jingyang Zhang, Lihao Liu, Guoan Wang, Junjun He, Yang Chen,
+    Lixu Gu
+  title: 'F2TTA: Free-Form Test-Time Adaptation on Cross-Domain Medical Image Classification
+    via Image-Level Disentangled Prompt Tuning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2507-02437
+  doi: 10.48550/ARXIV.2507.02437
+  ee: https://doi.org/10.48550/arXiv.2507.02437
+  url: https://dblp.org/rec/journals/corr/abs-2507-02437
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -33094,6 +33106,85 @@ Adversarial%20Learning:
   doi: 10.1007/978-981-95-4367-0_24
   ee: https://doi.org/10.1007/978-981-95-4367-0_24
   url: https://dblp.org/rec/conf/iconip/ZhaoWMY25
+- author: Lihua Zhang 0006, Quan Liu 0004, Zhigang Huang, Lan Wu
+  title: Learning Unbiased Rewards with Mutual Information in Adversarial Imitation
+    Learning.
+  venue: ICASSP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/ZhangLHW23
+  doi: 10.1109/ICASSP49357.2023.10096692
+  ee: https://doi.org/10.1109/ICASSP49357.2023.10096692
+  url: https://dblp.org/rec/conf/icassp/ZhangLHW23
+- author: Xiongzhen Zhang, Quan Liu 0004, Lihua Zhang 0006
+  title: Cosine Similarity Based Representation Learning for Adversarial Imitation
+    Learning.
+  venue: SMC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/smc/ZhangLZ23
+  doi: 10.1109/SMC53992.2023.10394257
+  ee: https://doi.org/10.1109/SMC53992.2023.10394257
+  url: https://dblp.org/rec/conf/smc/ZhangLZ23
+- author: Ziwen Lan, Keisuke Maeda, Takahiro Ogawa 0001, Miki Haseyama
+  title: 'Adversarial Perturbation Shield: Preventing Concept Bleed-through in Continual
+    Learning of Personalized Generative Models.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LanMOH26
+  doi: 10.1609/AAAI.V40I27.39438
+  ee: https://doi.org/10.1609/aaai.v40i27.39438
+  url: https://dblp.org/rec/conf/aaai/LanMOH26
+- author: Haoyang Yu, Haixin Wang, Bei Zhu, Xue-Xin Wei, Bingxue Du, Hui Yu 0011,
+    Jianyu Shi
+  title: Compound Cocrystal Prediction via Dual-View Learning Framework Under Adversarial
+    Consistency and Complementarity Constraints.
+  venue: Big Data Min. Anal.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/bigdatama/YuWZWDYS25
+  doi: 10.26599/BDMA.2025.9020035
+  ee: https://doi.org/10.26599/bdma.2025.9020035
+  url: https://dblp.org/rec/journals/bigdatama/YuWZWDYS25
+- author: Qi Pan, Lifang Bao, Yibin Pan, Weihua Meng, George Gordon
+  title: Conditional Adversarial Multi-Task Deep Learning for Robust Cross-Site Generalization
+    in 12-Lead ECG Classification.
+  venue: BIBM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bibm/PanBPMG25
+  doi: 10.1109/BIBM66473.2025.11357167
+  ee: https://doi.org/10.1109/BIBM66473.2025.11357167
+  url: https://dblp.org/rec/conf/bibm/PanBPMG25
+- author: Ze Zhang, Peifu Han, Shuang Wang, Yaoxiang Zhang, Junteng Ma, Tao Song
+  title: Adversarial Invariant Representation Learning for Out-of-Distribution Generalization
+    in Molecules.
+  venue: BIBM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bibm/ZhangHWZMS25
+  doi: 10.1109/BIBM66473.2025.11356361
+  ee: https://doi.org/10.1109/BIBM66473.2025.11356361
+  url: https://dblp.org/rec/conf/bibm/ZhangHWZMS25
+- author: Kaihao Zhang, Xiaoyun Xiong, Chengdong Zhang, Shichao Li, Anqi Li, Yuanyuan
+    Zhang
+  title: 'MMIF-COAL: Multi-Task Multi-Omics Integration Framework with Clustering
+    Optimization and Adversarial Learning.'
+  venue: BIBM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bibm/ZhangXZLLZ25
+  doi: 10.1109/BIBM66473.2025.11356653
+  ee: https://doi.org/10.1109/BIBM66473.2025.11356653
+  url: https://dblp.org/rec/conf/bibm/ZhangXZLLZ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36949,3 +37040,34 @@ feature%20disentanglement:
   doi: 10.1109/ICDMW69685.2025.00291
   ee: https://doi.org/10.1109/ICDMW69685.2025.00291
   url: https://dblp.org/rec/conf/icdm/HeDGTLX25
+- author: Junhong Liu, Yuan Zhang, Tao Huang, Wenchao Xu 0001, Renyu Yang
+  title: Distilling Cross-Modal Knowledge via Feature Disentanglement.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuZHXY26
+  doi: 10.1609/AAAI.V40I28.39548
+  ee: https://doi.org/10.1609/aaai.v40i28.39548
+  url: https://dblp.org/rec/conf/aaai/LiuZHXY26
+- author: Xin Wu, Fei Teng 0001, Ji Zhang, Xingwang Li 0003, Yuxuan Liang
+  title: 'ERIS: An Energy-Guided Feature Disentanglement Framework for Out-of-Distribution
+    Time Series Classification.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-14134
+  doi: 10.48550/ARXIV.2508.14134
+  ee: https://doi.org/10.48550/arXiv.2508.14134
+  url: https://dblp.org/rec/journals/corr/abs-2508-14134
+- author: Junhong Liu, Yuan Zhang, Tao Huang, Wenchao Xu 0001, Renyu Yang
+  title: Distilling Cross-Modal Knowledge via Feature Disentanglement.
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-19887
+  doi: 10.48550/ARXIV.2511.19887
+  ee: https://doi.org/10.48550/arXiv.2511.19887
+  url: https://dblp.org/rec/journals/corr/abs-2511-19887
