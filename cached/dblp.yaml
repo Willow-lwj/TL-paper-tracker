@@ -33185,6 +33185,86 @@ Adversarial%20Learning:
   doi: 10.1109/BIBM66473.2025.11356653
   ee: https://doi.org/10.1109/BIBM66473.2025.11356653
   url: https://dblp.org/rec/conf/bibm/ZhangXZLLZ25
+- author: Tianjian Yuan, Wei Zhu 0028, Mitsuhiro Hayashibe
+  title: Iterative Adversarial Learning With Chaser Agents for Time-Efficient Crowd-Aware
+    Navigation.
+  venue: IEEE Robotics Autom. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ral/YuanZH26a
+  doi: 10.1109/LRA.2026.3665073
+  ee: https://doi.org/10.1109/LRA.2026.3665073
+  url: https://dblp.org/rec/journals/ral/YuanZH26a
+- author: Chunchun Chen, Xing Wei, Jiayi Yang, Chenrun Wang, Yiwei Fu, Yuxing Zhang,
+    Xin Sun, Rui Fan 0001, Wei Ye 0001
+  title: Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against
+    Neighborhood Inconsistency.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChenWYWFZSFY26
+  doi: 10.1609/AAAI.V40I24.39085
+  ee: https://doi.org/10.1609/aaai.v40i24.39085
+  url: https://dblp.org/rec/conf/aaai/ChenWYWFZSFY26
+- author: Yang Zhang, Zhanxiang Cao, Buqing Nie, Haoyang Li, Jiangwei Zhong, Qiao
+    Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao 0005
+  title: 'Keep On Going: Learning Robust Humanoid Motion Skills via Selective Adversarial
+    Training.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangCNLZSHYG26
+  doi: 10.1609/AAAI.V40I22.38949
+  ee: https://doi.org/10.1609/aaai.v40i22.38949
+  url: https://dblp.org/rec/conf/aaai/ZhangCNLZSHYG26
+- author: Yeyao Ma, Chen Li, Xiaosong Zhang, Han Hu, Weidi Xie
+  title: 'FAIL: Flow Matching Adversarial Imitation Learning for Image Generation.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-12155
+  doi: 10.48550/ARXIV.2602.12155
+  ee: https://doi.org/10.48550/arXiv.2602.12155
+  url: https://dblp.org/rec/journals/corr/abs-2602-12155
+- author: Wentao Xu, Zhongming Yao, Weihao Li, Zhenghang Song, Yumeng Song, Tianyi
+    Li, Yushuai Li
+  title: 'TCRL: Temporal-Coupled Adversarial Training for Robust Constrained Reinforcement
+    Learning in Worst-Case Scenarios.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-13040
+  doi: 10.48550/ARXIV.2602.13040
+  ee: https://doi.org/10.48550/arXiv.2602.13040
+  url: https://dblp.org/rec/journals/corr/abs-2602-13040
+- author: Zhen Liu 0054, Xun Gong 0007, Nan Li 0015, Hang Gao, Yeting Lin, Ting Qu
+    0001, Yunfeng Hu 0003, Hong Chen 0003
+  title: Adversarial Driving Behavior Generation via Fuzzy Reward Reinforcement Learning
+    Incorporating Human Risk Cognition.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/LiuGLGLQHC25
+  doi: 10.1109/TITS.2025.3587305
+  ee: https://doi.org/10.1109/TITS.2025.3587305
+  url: https://dblp.org/rec/journals/tits/LiuGLGLQHC25
+- author: Jie Chen 0027, Xinyuan Liu, Xintong Liu, Jianqiang Li 0001
+  title: Adversarial Learning Under Hybrid Perturbations for Robust Acute Lymphoblastic
+    Leukemia Classification.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/0027LLL25
+  doi: 10.1609/AAAI.V39I2.32204
+  ee: https://doi.org/10.1609/aaai.v39i2.32204
+  url: https://dblp.org/rec/conf/aaai/0027LLL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -37071,3 +37151,25 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2511.19887
   ee: https://doi.org/10.48550/arXiv.2511.19887
   url: https://dblp.org/rec/journals/corr/abs-2511-19887
+- author: Yu Qian, Shucheng Huang, Kai Qu
+  title: Learnable Feature Disentanglement with Temporal-Complemented Motion Enhancement
+    for Micro-Expression Recognition.
+  venue: Entropy
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/entropy/QianHQ26
+  doi: 10.3390/E28020180
+  ee: https://doi.org/10.3390/e28020180
+  url: https://dblp.org/rec/journals/entropy/QianHQ26
+- author: Xin Wu, Fei Teng 0001, Ji Zhang 0012, Xingwang Li 0003, Yuxuan Liang
+  title: 'ERIS: An Energy-Guided Feature Disentanglement Framework for Out-of-Distribution
+    Time Series Classification.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2508-14134
+  doi: 10.48550/ARXIV.2508.14134
+  ee: https://doi.org/10.48550/arXiv.2508.14134
+  url: https://dblp.org/rec/journals/corr/abs-2508-14134
