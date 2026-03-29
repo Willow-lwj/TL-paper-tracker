@@ -33265,6 +33265,53 @@ Adversarial%20Learning:
   doi: 10.1609/AAAI.V39I2.32204
   ee: https://doi.org/10.1609/aaai.v39i2.32204
   url: https://dblp.org/rec/conf/aaai/0027LLL25
+- author: Chunchun Chen, Xing Wei, Jiayi Yang, Chenrun Wang, Yiwei Fu, Yuxing Zhang,
+    Xin Sun 0003, Rui Fan 0001, Wei Ye 0001
+  title: Edge Self-Adversarial Augmentation Enhances Graph Contrastive Learning Against
+    Neighborhood Inconsistency.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChenWYWFZSFY26
+  doi: 10.1609/AAAI.V40I24.39085
+  ee: https://doi.org/10.1609/aaai.v40i24.39085
+  url: https://dblp.org/rec/conf/aaai/ChenWYWFZSFY26
+- author: Yang Zhang, Zhanxiang Cao, Buqing Nie, Haoyang Li 0009, Jiangwei Zhong,
+    Qiao Sun, Xiaoyi Hu, Xiaokang Yang, Yue Gao 0005
+  title: 'Keep On Going: Learning Robust Humanoid Motion Skills via Selective Adversarial
+    Training.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangCNLZSHYG26
+  doi: 10.1609/AAAI.V40I22.38949
+  ee: https://doi.org/10.1609/aaai.v40i22.38949
+  url: https://dblp.org/rec/conf/aaai/ZhangCNLZSHYG26
+- author: Wentao Xu, Zhongming Yao, Weihao Li, Zhenghang Song, Yumeng Song, Tianyi
+    Li 0005, Yushuai Li
+  title: 'TCRL: Temporal-Coupled Adversarial Training for Robust Constrained Reinforcement
+    Learning in Worst-Case Scenarios.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-13040
+  doi: 10.48550/ARXIV.2602.13040
+  ee: https://doi.org/10.48550/arXiv.2602.13040
+  url: https://dblp.org/rec/journals/corr/abs-2602-13040
+- author: Weiwei Jiang 0003, Haoyu Han 0002, Yang Zhang 0118, Jianbin Mu, Achyut Shankar
+  title: Intrusion Detection with Federated Learning and Conditional Generative Adversarial
+    Network in Satellite-Terrestrial Integrated Networks.
+  venue: Mob. Networks Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/monet/JiangHZMS25
+  doi: 10.1007/S11036-024-02435-4
+  ee: https://doi.org/10.1007/s11036-024-02435-4
+  url: https://dblp.org/rec/journals/monet/JiangHZMS25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
