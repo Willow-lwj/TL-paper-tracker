@@ -4128,6 +4128,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2507.02437
   ee: https://doi.org/10.48550/arXiv.2507.02437
   url: https://dblp.org/rec/journals/corr/abs-2507-02437
+- author: Ying Wu, Hao Huang, Bo Xu 0019
+  title: 'EMD-DAAN: A Wasserstein Distance-Based Dynamic Adversarial Domain Adaptation
+    Network Model for Breast Ultrasound Image Classification.'
+  venue: IET Image Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/iet-ipr/WuHX25
+  doi: 10.1049/IPR2.70096
+  ee: https://doi.org/10.1049/ipr2.70096
+  url: https://dblp.org/rec/journals/iet-ipr/WuHX25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -33312,6 +33323,109 @@ Adversarial%20Learning:
   doi: 10.1007/S11036-024-02435-4
   ee: https://doi.org/10.1007/s11036-024-02435-4
   url: https://dblp.org/rec/journals/monet/JiangHZMS25
+- author: Dhiraj Neupane, Richard Dazeley, Mohamed Reda Bouadjenek, Sunil Aryal
+  title: 'Learning Rewards, Not Labels: Adversarial Inverse Reinforcement Learning
+    for Machinery Fault Detection.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-22297
+  doi: 10.48550/ARXIV.2602.22297
+  ee: https://doi.org/10.48550/arXiv.2602.22297
+  url: https://dblp.org/rec/journals/corr/abs-2602-22297
+- author: Siqi Zhang, Hui Yang 0003
+  title: Dual Generative Adversarial Networks for Neighborhood Learning and Prediction
+    of Melt-Pool Dynamics in Additive Manufacturing.
+  venue: J. Comput. Inf. Sci. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jcise/ZhangY26
+  doi: 10.1115/1.4070797
+  ee: https://doi.org/10.1115/1.4070797
+  url: https://dblp.org/rec/journals/jcise/ZhangY26
+- author: Samanta Ghosh, Jannatul Adan Mahi, Shayan Abrar, Md Parvez Mia, Asaduzzaman
+    Rayhan, Abdul Awal Yasir, Asaduzzaman Hridoy
+  title: 'Toward Reliable Tea Leaf Disease Diagnosis Using Deep Learning Model: Enhancing
+    Robustness With Explainable AI and Adversarial Training.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-11239
+  doi: 10.48550/ARXIV.2602.11239
+  ee: https://doi.org/10.48550/arXiv.2602.11239
+  url: https://dblp.org/rec/journals/corr/abs-2602-11239
+- author: Di Zhang
+  title: Provable Adversarial Robustness in In-Context Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-17743
+  doi: 10.48550/ARXIV.2602.17743
+  ee: https://doi.org/10.48550/arXiv.2602.17743
+  url: https://dblp.org/rec/journals/corr/abs-2602-17743
+- author: Junshen Chen, Angzi Xu, Zezhong Zhang, Shiyao Zhang, Junting Chen, Shuguang
+    Cui
+  title: 'RadioGen3D: 3D Radio Map Generation via Adversarial Learning on Large-Scale
+    Synthetic Data.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-18744
+  doi: 10.48550/ARXIV.2602.18744
+  ee: https://doi.org/10.48550/arXiv.2602.18744
+  url: https://dblp.org/rec/journals/corr/abs-2602-18744
+- author: Yihang Tao, Senkang Hu, Haonan An 0001, Zhengru Fang, Hangcheng Cao, Yuguang
+    Fang
+  title: Learning Mutual View Information Graph for Adaptive Adversarial Collaborative
+    Perception.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-19596
+  doi: 10.48550/ARXIV.2602.19596
+  ee: https://doi.org/10.48550/arXiv.2602.19596
+  url: https://dblp.org/rec/journals/corr/abs-2602-19596
+- author: Yifei Xu, Guilherme Potje, Shivam Shandilya, Tiancheng Yuan, Leonardo O.
+    Nunes, Rakshanda Agarwal, Saeid Asgari, Adam Atkinson, Emre Kiciman, Songwu Lu,
+    Ranveer Chandra, Tusher Chakraborty
+  title: 'SibylSense: Adaptive Rubric Learning via Memory Tuning and Adversarial Probing.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-20751
+  doi: 10.48550/ARXIV.2602.20751
+  ee: https://doi.org/10.48550/arXiv.2602.20751
+  url: https://dblp.org/rec/journals/corr/abs-2602-20751
+- author: Nicholas Dietrich, David McShannon
+  title: Adversarial Robustness of Deep Learning-Based Thyroid Nodule Segmentation
+    in Ultrasound.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-21452
+  doi: 10.48550/ARXIV.2602.21452
+  ee: https://doi.org/10.48550/arXiv.2602.21452
+  url: https://dblp.org/rec/journals/corr/abs-2602-21452
+- author: Yicheng Bao, Xuhong Wang, Qiaosheng Zhang, Chaochao Lu, Xia Hu, Xin Tan
+    0002
+  title: To Deceive is to Teach? Forging Perceptual Robustness via Adversarial Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-22227
+  doi: 10.48550/ARXIV.2602.22227
+  ee: https://doi.org/10.48550/arXiv.2602.22227
+  url: https://dblp.org/rec/journals/corr/abs-2602-22227
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -37220,3 +37334,36 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2508.14134
   ee: https://doi.org/10.48550/arXiv.2508.14134
   url: https://dblp.org/rec/journals/corr/abs-2508-14134
+- author: Haoyu Wang, Zhuo Huang, Xiaolong Wang, Bo Han 0003, Zhiwei Lin, Tongliang
+    Liu
+  title: 'MeGU: Machine-Guided Unlearning with Target Feature Disentanglement.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-17088
+  doi: 10.48550/ARXIV.2602.17088
+  ee: https://doi.org/10.48550/arXiv.2602.17088
+  url: https://dblp.org/rec/journals/corr/abs-2602-17088
+- author: "Sarah M\xFCller, Philipp Berens"
+  title: 'Mitigating Shortcut Learning via Feature Disentanglement in Medical Imaging:
+    A Benchmark Study.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-18502
+  doi: 10.48550/ARXIV.2602.18502
+  ee: https://doi.org/10.48550/arXiv.2602.18502
+  url: https://dblp.org/rec/journals/corr/abs-2602-18502
+- author: "Arian Sabaghi, Jos\xE9 Oramas"
+  title: 'TriLite: Efficient Weakly Supervised Object Localization with Universal
+    Visual Features and Tri-Region Disentanglement.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2602-23120
+  doi: 10.48550/ARXIV.2602.23120
+  ee: https://doi.org/10.48550/arXiv.2602.23120
+  url: https://dblp.org/rec/journals/corr/abs-2602-23120
