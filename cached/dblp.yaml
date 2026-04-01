@@ -33572,6 +33572,72 @@ Adversarial%20Learning:
   doi: 10.1109/ACCESS.2022.3216075
   ee: https://doi.org/10.1109/ACCESS.2022.3216075
   url: https://dblp.org/rec/journals/access/KwonLRL25
+- author: Jingyi Li, Chunying Pang, Weikun Zhou, Xinlin Luo, Xiran Zhang, Ye Li, Jikui
+    Liu
+  title: 'PPG-CAGAN: A PPG signal with coronary artery disease synthesis method based
+    on generative adversarial learning.'
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/LiPZLZLL26
+  doi: 10.1016/J.BSPC.2026.109964
+  ee: https://doi.org/10.1016/j.bspc.2026.109964
+  url: https://dblp.org/rec/journals/bspc/LiPZLZLL26
+- author: Biaohu Sun, Dongyu Han, Gaoming Yang, Xiangyu Yang, Xiujun Wang
+  title: Deepfake detection via domain adversarial learning with strong-weak augmentation
+    strategies.
+  venue: J. Vis. Commun. Image Represent.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/jvcir/SunHYYW26
+  doi: 10.1016/J.JVCIR.2026.104761
+  ee: https://doi.org/10.1016/j.jvcir.2026.104761
+  url: https://dblp.org/rec/journals/jvcir/SunHYYW26
+- author: Min Wang 0034, Hao Yang 0042
+  title: 'WPL: Learning to perturb network weights for adversarial robustness.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WangY26
+  doi: 10.1016/J.KNOSYS.2026.115689
+  ee: https://doi.org/10.1016/j.knosys.2026.115689
+  url: https://dblp.org/rec/journals/kbs/WangY26
+- author: Changhong Jing, Baiying Lei, Shanshan Wang 0008, Yan Liu, Feng Liu 0011,
+    C. L. Philip Chen, Shuqiang Wang
+  title: Generative AI Empower Addiction-Related Brain Circuits Detection via Graph
+    Diffusion-Infused Adversarial Learning.
+  venue: IEEE Trans. Cybern.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcyb/JingLWLLCW26
+  doi: 10.1109/TCYB.2025.3634735
+  ee: https://doi.org/10.1109/TCYB.2025.3634735
+  url: https://dblp.org/rec/journals/tcyb/JingLWLLCW26
+- author: Sophia Gilson, Xiaodong (Frank) Zhang, Trevor Bihl, Bruce A. Cox
+  title: Reinforcement Learning for Adversarial Systems Using Relational Observations.
+  venue: HICSS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/hicss/GilsonZBC26
+  doi: ''
+  ee: https://hdl.handle.net/10125/111527
+  url: https://dblp.org/rec/conf/hicss/GilsonZBC26
+- author: Chenglu Sun, Shuo Shen 0002, Deyi Xue, Wenzhi Tao, Zixia Zhou
+  title: 'Enhancing AI-Bot Strength and Strategy Diversity in Adversarial Games: A
+    Novel Deep Reinforcement Learning Framework.'
+  venue: IEEE Trans. Games
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tciaig/SunSXTZ25
+  doi: 10.1109/TG.2024.3520970
+  ee: https://doi.org/10.1109/TG.2024.3520970
+  url: https://dblp.org/rec/journals/tciaig/SunSXTZ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
