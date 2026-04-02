@@ -33638,6 +33638,75 @@ Adversarial%20Learning:
   doi: 10.1109/TG.2024.3520970
   ee: https://doi.org/10.1109/TG.2024.3520970
   url: https://dblp.org/rec/journals/tciaig/SunSXTZ25
+- author: Donghyun Lee, Taeyoung Oh, Jinkyeom Kim, Jinwoo Yoo
+  title: Adversarial-Training-Based Robust Reinforcement Learning Control for Autonomous
+    Vehicle Trajectory Tracking.
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/LeeOKY26
+  doi: 10.1109/ACCESS.2026.3675864
+  ee: https://doi.org/10.1109/ACCESS.2026.3675864
+  url: https://dblp.org/rec/journals/access/LeeOKY26
+- author: Xiaoxing Yang, Liwei Xiao, Jianmin Su, Bingding Huang
+  title: 'CoCo-GAN: CodeBERT-driven collaborative generative adversarial learning
+    for software defect prediction.'
+  venue: Softw. Qual. J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/sqj/YangXSH26
+  doi: 10.1007/S11219-026-09747-6
+  ee: https://doi.org/10.1007/s11219-026-09747-6
+  url: https://dblp.org/rec/journals/sqj/YangXSH26
+- author: Mingfang Li, Zheng Dou, Yun Lin 0005, Qiling Gao, Hang Jiang
+  title: 'MSAAD: Meta-Learning-Based Self-Adaptive Adversarial Defense for Specific
+    Emitter Identification in Consumer Electronics.'
+  venue: IEEE Trans. Consumer Electron.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/LiDLGJ26
+  doi: 10.1109/TCE.2025.3649905
+  ee: https://doi.org/10.1109/TCE.2025.3649905
+  url: https://dblp.org/rec/journals/tce/LiDLGJ26
+- author: Sean David Wolf, Nikolaos Pitropakis, Christos Chrysoulas, Jawad Ahmad 0001,
+    Sana Ullah Jan, Ilias Politis
+  title: Enhancing Trust in Machine Learning via Adversarial Data Attack Detection
+    Using GANs.
+  venue: IEEE Trans. Consumer Electron.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/WolfPCAJP26
+  doi: 10.1109/TCE.2025.3633796
+  ee: https://doi.org/10.1109/TCE.2025.3633796
+  url: https://dblp.org/rec/journals/tce/WolfPCAJP26
+- author: Xiaocao Ouyang, Yanhua Li, Jie Zhang, Xin Yang 0012, Yan Yang 0001, Junbo
+    Zhang 0004, Wei Huang 0037, Tianrui Li 0001, Zhiquan Liu 0001
+  title: Enhancing cross-city spatio-temporal prediction via dynamic multi-scale hypergraph
+    learning with domain adversarial training.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/OuyangLZYYZHLL25
+  doi: 10.1016/J.KNOSYS.2025.114352
+  ee: https://doi.org/10.1016/j.knosys.2025.114352
+  url: https://dblp.org/rec/journals/kbs/OuyangLZYYZHLL25
+- author: Gaopan Hou, Yu Guan 0003, Weidong Yang, Zhiquan Liu 0001, Yinbin Miao, Yulong
+    Shen 0001, Jianfeng Ma 0001
+  title: 'TSTFL-CGAN: Fuzzy Logic-Based Two-Stage Training Federated Learning Conditional
+    Generative Adversarial Network Under Non-IID Data.'
+  venue: IEEE Trans. Consumer Electron.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/HouGYLMSM25
+  doi: 10.1109/TCE.2025.3541140
+  ee: https://doi.org/10.1109/TCE.2025.3541140
+  url: https://dblp.org/rec/journals/tce/HouGYLMSM25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -37590,3 +37659,15 @@ feature%20disentanglement:
   doi: 10.1109/TNNLS.2023.3282306
   ee: https://doi.org/10.1109/TNNLS.2023.3282306
   url: https://dblp.org/rec/journals/tnn/WangYTZL24
+- author: Jie He, Xiang Hua, Xiongjie Tao, Quanhong Zeng, Caichun Cen, Pengchen Liang,
+    Zhuangzhuang Chen, Shengli Li 0001, Bin Pu
+  title: 'Unified Bias Reduction in Federated Learning: A Two-Stage Feature and Label
+    Space Disentanglement in Medical Image Analysis.'
+  venue: IEEE Trans. Consumer Electron.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tce/HeHTZCLCLP26
+  doi: 10.1109/TCE.2025.3649717
+  ee: https://doi.org/10.1109/TCE.2025.3649717
+  url: https://dblp.org/rec/journals/tce/HeHTZCLCLP26
