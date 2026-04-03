@@ -33707,6 +33707,17 @@ Adversarial%20Learning:
   doi: 10.1109/TCE.2025.3541140
   ee: https://doi.org/10.1109/TCE.2025.3541140
   url: https://dblp.org/rec/journals/tce/HouGYLMSM25
+- author: Yuzhe You, Jian Zhao 0010
+  title: Exploring Comparative Visual Approaches for Understanding Model Trade-offs
+    in Adversarial Machine Learning.
+  venue: Graphics Interface
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/graphicsinterface/YouZ25
+  doi: 10.1145/3769872.3769899
+  ee: https://doi.org/10.1145/3769872.3769899
+  url: https://dblp.org/rec/conf/graphicsinterface/YouZ25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
