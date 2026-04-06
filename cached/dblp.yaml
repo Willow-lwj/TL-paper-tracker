@@ -33741,6 +33741,81 @@ Adversarial%20Learning:
   doi: 10.1609/AAAI.V40I22.38949
   ee: https://doi.org/10.1609/aaai.v40i22.38949
   url: https://dblp.org/rec/conf/aaai/ZhangCNLZSHYG26
+- author: "Duaa S. Alqattan, V\xE1clav Sn\xE1sel, Rajiv Ranjan 0001, Varun Ojha 0001"
+  title: Analysis of deep learning under adversarial attacks in hierarchical federated
+    learning.
+  venue: High Confid. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/hcc/AlqattanSRO25
+  doi: 10.1016/J.HCC.2025.100321
+  ee: https://doi.org/10.1016/j.hcc.2025.100321
+  url: https://dblp.org/rec/journals/hcc/AlqattanSRO25
+- author: Yakub Kayode Saheed, Joshua Ebere Chukwuere
+  title: XAI-Enhanced adversarial resilient deep learning framework for transparent
+    and secure edge deployment in consumer Internet of Things/Industrial Internet
+    of Things environments.
+  venue: Comput. Electr. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cee/SaheedC26
+  doi: 10.1016/J.COMPELECENG.2026.111080
+  ee: https://doi.org/10.1016/j.compeleceng.2026.111080
+  url: https://dblp.org/rec/journals/cee/SaheedC26
+- author: Qiao Yuan, Boxuan Zhu, Sheng-Uei Guan, Ka Lok Man, Prudence W. H. Wong
+  title: Class-incremental continual graph learning with adversarial graph condensation.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YuanZGMW26
+  doi: 10.1016/J.NEUCOM.2026.133420
+  ee: https://doi.org/10.1016/j.neucom.2026.133420
+  url: https://dblp.org/rec/journals/ijon/YuanZGMW26
+- author: Khaleque Md. Aashiq Kamal, Surya Eada, Aayushi Verma, Subek Acharya, Adrian
+    Yemin, Benjamin Fuller 0001, Kaleel Mahmood
+  title: Analyzing Physical Adversarial Example Threats to Machine Learning in Election
+    Systems.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-00481
+  doi: 10.48550/ARXIV.2603.00481
+  ee: https://doi.org/10.48550/arXiv.2603.00481
+  url: https://dblp.org/rec/journals/corr/abs-2603-00481
+- author: Ray Telikani, Amir H. Gandomi
+  title: 'Learning to Attack: A Bandit Approach to Adversarial Context Poisoning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-00567
+  doi: 10.48550/ARXIV.2603.00567
+  ee: https://doi.org/10.48550/arXiv.2603.00567
+  url: https://dblp.org/rec/journals/corr/abs-2603-00567
+- author: Van-Tam Hoang, Van-Linh Nguyen, Lan-Huong Nguyen, Ren-Hung Hwang
+  title: 'SECO: Secure Semantic Communications via Robust Adversarial Knowledge Learning.'
+  venue: GLOBECOM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/globecom/HoangNNH25
+  doi: 10.1109/GLOBECOM59602.2025.11432351
+  ee: https://doi.org/10.1109/GLOBECOM59602.2025.11432351
+  url: https://dblp.org/rec/conf/globecom/HoangNNH25
+- author: Filali Khaoula, Khalid Chougdali, Anass Sebbar, Abdellatif Kobbane
+  title: Detecting IoT Attacks Using Adversarial Machine Learning.
+  venue: GLOBECOM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/globecom/KhaoulaCSK25
+  doi: 10.1109/GLOBECOM59602.2025.11432523
+  ee: https://doi.org/10.1109/GLOBECOM59602.2025.11432523
+  url: https://dblp.org/rec/conf/globecom/KhaoulaCSK25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
