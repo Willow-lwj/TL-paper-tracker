@@ -33816,6 +33816,28 @@ Adversarial%20Learning:
   doi: 10.1109/GLOBECOM59602.2025.11432523
   ee: https://doi.org/10.1109/GLOBECOM59602.2025.11432523
   url: https://dblp.org/rec/conf/globecom/KhaoulaCSK25
+- author: Juan Li, Zhiqiang Xiao, Rui Sun, Jinglin Song, Chenhui Shi
+  title: Retrieval of leaf area index from the Landsat surface reflectance using multi-task
+    adversarial transfer learning.
+  venue: Int. J. Digit. Earth
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/digearth/LiXSSS25
+  doi: 10.1080/17538947.2025.2520002
+  ee: https://doi.org/10.1080/17538947.2025.2520002
+  url: https://dblp.org/rec/journals/digearth/LiXSSS25
+- author: Amel Oubara, Falin Wu, Guoxin Qu, Reza Maleki, Gongliu Yang
+  title: 'Adversarial learning network for multi-source change detection in built-up
+    areas: integrating VHR RGB and multispectral imagery.'
+  venue: Int. J. Digit. Earth
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/digearth/OubaraWQMY25
+  doi: 10.1080/17538947.2025.2503443
+  ee: https://doi.org/10.1080/17538947.2025.2503443
+  url: https://dblp.org/rec/journals/digearth/OubaraWQMY25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
