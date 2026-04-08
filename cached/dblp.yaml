@@ -33838,6 +33838,41 @@ Adversarial%20Learning:
   doi: 10.1080/17538947.2025.2503443
   ee: https://doi.org/10.1080/17538947.2025.2503443
   url: https://dblp.org/rec/journals/digearth/OubaraWQMY25
+- author: Alvi Md. Ishmam, Najibul Haque Sarker, Zaber Ibn Abdul Hakim, Chris Thomas
+    0004
+  title: 'LAMP: Learning Universal Adversarial Perturbations for Multi-Image Tasks
+    via Pre-trained Models.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/IshmamSHT26
+  doi: 10.1609/AAAI.V40I7.37442
+  ee: https://doi.org/10.1609/aaai.v40i7.37442
+  url: https://dblp.org/rec/conf/aaai/IshmamSHT26
+- author: Taifeng Liu, Xinjing Liu, Liangqiu Dong, Yang Liu, Yilong Yang 0004, Zhuo
+    Ma 0001
+  title: Improving Sustainability of Adversarial Examples in Class-Incremental Learning.
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuLDLYM26
+  doi: 10.1609/AAAI.V40I9.37664
+  ee: https://doi.org/10.1609/aaai.v40i9.37664
+  url: https://dblp.org/rec/conf/aaai/LiuLDLYM26
+- author: Alvi Md. Ishmam, Najibul Haque Sarker, Zaber Ibn Abdul Hakim, Christopher
+    Thomas 0004
+  title: 'LAMP: Learning Universal Adversarial Perturbations for Multi-Image Tasks
+    via Pre-trained Models.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2601-21220
+  doi: 10.48550/ARXIV.2601.21220
+  ee: https://doi.org/10.48550/arXiv.2601.21220
+  url: https://dblp.org/rec/journals/corr/abs-2601-21220
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -37802,3 +37837,14 @@ feature%20disentanglement:
   doi: 10.1109/TCE.2025.3649717
   ee: https://doi.org/10.1109/TCE.2025.3649717
   url: https://dblp.org/rec/journals/tce/HeHTZCLCLP26
+- author: Bo Liu, Qiao Qin, Qinghui He
+  title: 'CausalCLIP: Causally-Informed Feature Disentanglement and Filtering for
+    Generalizable Detection of Generated Images.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuQH26
+  doi: 10.1609/AAAI.V40I9.37642
+  ee: https://doi.org/10.1609/aaai.v40i9.37642
+  url: https://dblp.org/rec/conf/aaai/LiuQH26
