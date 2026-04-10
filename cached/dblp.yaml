@@ -33996,6 +33996,72 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.05440
   ee: https://doi.org/10.48550/arXiv.2603.05440
   url: https://dblp.org/rec/journals/corr/abs-2603-05440
+- author: Hongbin Wang, Kunqiang Zhang, Yantuan Xian
+  title: Cross-target stance detection via adversarial learning incorporating background
+    knowledge and sentiment information.
+  venue: Multim. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/WangZX26
+  doi: 10.1007/S00530-026-02290-1
+  ee: https://doi.org/10.1007/s00530-026-02290-1
+  url: https://dblp.org/rec/journals/mms/WangZX26
+- author: Yangang Ren, Guojian Zhan, Shengbo Eben Li, Jingliang Duan, Yao Lyu, Yang
+    Guan, Keqiang Li 0002
+  title: Learn a Robust Policy for Real-World Driving With Adversarial Reinforcement
+    Learning.
+  venue: IEEE Trans. Intell. Veh.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tiv/RenZLDLGL26
+  doi: 10.1109/TIV.2026.3667572
+  ee: https://doi.org/10.1109/TIV.2026.3667572
+  url: https://dblp.org/rec/journals/tiv/RenZLDLGL26
+- author: Muhammad Arham Tariq, Allah Bux Sargano, Zulfiqar Habib
+  title: Unified adversarial learning framework for incremental malware classification.
+  venue: J. Comput. Virol. Hacking Tech.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/virology/TariqSH26
+  doi: 10.1007/S11416-026-00609-0
+  ee: https://doi.org/10.1007/s11416-026-00609-0
+  url: https://dblp.org/rec/journals/virology/TariqSH26
+- author: Jinshan Liu, Ken Li, Jiazhe Wei, Bin Shi, Bo Dong 0001
+  title: 'Hide and Find: A Distributed Adversarial Attack on Federated Graph Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-07743
+  doi: 10.48550/ARXIV.2603.07743
+  ee: https://doi.org/10.48550/arXiv.2603.07743
+  url: https://dblp.org/rec/journals/corr/abs-2603-07743
+- author: Hongyu Cao, Jinghan Zhang, Kunpeng Liu, Dongjie Wang, Feng Xia, Haifeng
+    Chen, Xiaohua Hu, Yanjie Fu
+  title: 'Sim2Act: Robust Simulation-to-Decision Learning via Adversarial Calibration
+    and Group-Relative Perturbation.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-09053
+  doi: 10.48550/ARXIV.2603.09053
+  ee: https://doi.org/10.48550/arXiv.2603.09053
+  url: https://dblp.org/rec/journals/corr/abs-2603-09053
+- author: Taha Eghtesad, Yevgeniy Vorobeychik, Aron Laszka
+  title: Adversarial Reinforcement Learning for Detecting False Data Injection Attacks
+    in Vehicular Routing.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-11433
+  doi: 10.48550/ARXIV.2603.11433
+  ee: https://doi.org/10.48550/arXiv.2603.11433
+  url: https://dblp.org/rec/journals/corr/abs-2603-11433
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -37971,3 +38037,13 @@ feature%20disentanglement:
   doi: 10.1609/AAAI.V40I9.37642
   ee: https://doi.org/10.1609/aaai.v40i9.37642
   url: https://dblp.org/rec/conf/aaai/LiuQH26
+- author: Alex Gn, Fan Li, S. Kuniyilh, Ada Axan
+  title: 'CFD-HAR: User-controllable Privacy through Conditional Feature Disentanglement.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-11526
+  doi: 10.48550/ARXIV.2603.11526
+  ee: https://doi.org/10.48550/arXiv.2603.11526
+  url: https://dblp.org/rec/journals/corr/abs-2603-11526
