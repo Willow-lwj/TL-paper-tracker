@@ -34062,6 +34062,61 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.11433
   ee: https://doi.org/10.48550/arXiv.2603.11433
   url: https://dblp.org/rec/journals/corr/abs-2603-11433
+- author: Hongbin Wang 0002, Kunqiang Zhang, Yantuan Xian
+  title: Cross-target stance detection via adversarial learning incorporating background
+    knowledge and sentiment information.
+  venue: Multim. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/WangZX26
+  doi: 10.1007/S00530-026-02290-1
+  ee: https://doi.org/10.1007/s00530-026-02290-1
+  url: https://dblp.org/rec/journals/mms/WangZX26
+- author: Wenchuan Zhang, Wentao Fan 0001, Yewang Chen
+  title: 'Dual generative adversarial graph networks: Unsupervised and semi-supervised
+    learning with spherical graph embeddings.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ZhangFC26
+  doi: 10.1016/J.NEUNET.2026.108801
+  ee: https://doi.org/10.1016/j.neunet.2026.108801
+  url: https://dblp.org/rec/journals/nn/ZhangFC26
+- author: Wenqian Li, Pengfei Fang, Hui Xue 0002
+  title: 'SRasP: Self-Reorientation Adversarial Style Perturbation for Cross-Domain
+    Few-Shot Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-05135
+  doi: 10.48550/ARXIV.2603.05135
+  ee: https://doi.org/10.48550/arXiv.2603.05135
+  url: https://dblp.org/rec/journals/corr/abs-2603-05135
+- author: Hongyu Cao, Jinghan Zhang 0002, Kunpeng Liu 0001, Dongjie Wang, Feng Xia,
+    Haifeng Chen, Xiaohua Hu, Yanjie Fu
+  title: 'Sim2Act: Robust Simulation-to-Decision Learning via Adversarial Calibration
+    and Group-Relative Perturbation.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-09053
+  doi: 10.48550/ARXIV.2603.09053
+  ee: https://doi.org/10.48550/arXiv.2603.09053
+  url: https://dblp.org/rec/journals/corr/abs-2603-09053
+- author: Sheng Yang 0004, Jacob A. Zavatone-Veth, Cengiz Pehlevan
+  title: Spectral regularization for adversarially-robust representation learning.
+  venue: IEEECONF
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acssc/YangZP25
+  doi: 10.1109/IEEECONF67917.2025.11443939
+  ee: https://doi.org/10.1109/IEEECONF67917.2025.11443939
+  url: https://dblp.org/rec/conf/acssc/YangZP25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38047,3 +38102,25 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2603.11526
   ee: https://doi.org/10.48550/arXiv.2603.11526
   url: https://dblp.org/rec/journals/corr/abs-2603-11526
+- author: Yuchen Bao, Yiting Wang, Wenjian Huang 0001, Haowei Wang, Shen Chen 0004,
+    Taiping Yao, Shouhong Ding, Jianguo Zhang
+  title: 'TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/BaoWHWCYDZ26
+  doi: 10.1609/AAAI.V40I4.37227
+  ee: https://doi.org/10.1609/aaai.v40i4.37227
+  url: https://dblp.org/rec/conf/aaai/BaoWHWCYDZ26
+- author: Yuchen Bao, Yiting Wang, Wenjian Huang 0001, Haowei Wang 0001, Shen Chen
+    0004, Taiping Yao, Shouhong Ding, Jianguo Zhang
+  title: 'TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-13399
+  doi: 10.48550/ARXIV.2511.13399
+  ee: https://doi.org/10.48550/arXiv.2511.13399
+  url: https://dblp.org/rec/journals/corr/abs-2511-13399
