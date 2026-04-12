@@ -34117,6 +34117,50 @@ Adversarial%20Learning:
   doi: 10.1109/IEEECONF67917.2025.11443939
   ee: https://doi.org/10.1109/IEEECONF67917.2025.11443939
   url: https://dblp.org/rec/conf/acssc/YangZP25
+- author: Wenqian Li 0005, Pengfei Fang, Hui Xue 0002
+  title: 'SRasP: Self-Reorientation Adversarial Style Perturbation for Cross-Domain
+    Few-Shot Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-05135
+  doi: 10.48550/ARXIV.2603.05135
+  ee: https://doi.org/10.48550/arXiv.2603.05135
+  url: https://dblp.org/rec/journals/corr/abs-2603-05135
+- author: Chi Ruan, Dongfu Jiang, Huaye Zeng, Ping Nie, Wenhu Chen
+  title: 'EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-12698
+  doi: 10.48550/ARXIV.2603.12698
+  ee: https://doi.org/10.48550/arXiv.2603.12698
+  url: https://dblp.org/rec/journals/corr/abs-2603-12698
+- author: Aditya Parikh, Aasa Feragen
+  title: Fair Lung Disease Diagnosis from Chest CT via Gender-Adversarial Attention
+    Multiple Instance Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-12988
+  doi: 10.48550/ARXIV.2603.12988
+  ee: https://doi.org/10.48550/arXiv.2603.12988
+  url: https://dblp.org/rec/journals/corr/abs-2603-12988
+- author: Mengdie Huang, Yingjun Lin, Ninghui Li 0001, Xiaofeng Chen 0001, Elisa Bertino
+  title: 'CARD: Robustness-Preserving Transfer Learning for Network Intrusion Detection
+    via Contrastive Adversarial Representation Distillation.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/HuangLLCB25
+  doi: 10.1109/TDSC.2025.3562600
+  ee: https://doi.org/10.1109/tdsc.2025.3562600
+  url: https://dblp.org/rec/journals/tdsc/HuangLLCB25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38115,6 +38159,28 @@ feature%20disentanglement:
   url: https://dblp.org/rec/conf/aaai/BaoWHWCYDZ26
 - author: Yuchen Bao, Yiting Wang, Wenjian Huang 0001, Haowei Wang 0001, Shen Chen
     0004, Taiping Yao, Shouhong Ding, Jianguo Zhang
+  title: 'TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2511-13399
+  doi: 10.48550/ARXIV.2511.13399
+  ee: https://doi.org/10.48550/arXiv.2511.13399
+  url: https://dblp.org/rec/journals/corr/abs-2511-13399
+- author: Yuchen Bao, Yiting Wang, Wenjian Huang 0001, Haowei Wang 0001, Shen Chen
+    0004, Taiping Yao, Shouhong Ding, Jianguo Zhang 0001
+  title: 'TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing.'
+  venue: AAAI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/BaoWHWCYDZ26
+  doi: 10.1609/AAAI.V40I4.37227
+  ee: https://doi.org/10.1609/aaai.v40i4.37227
+  url: https://dblp.org/rec/conf/aaai/BaoWHWCYDZ26
+- author: Yuchen Bao, Yiting Wang, Wenjian Huang 0001, Haowei Wang 0001, Shen Chen
+    0004, Taiping Yao, Shouhong Ding, Jianguo Zhang 0001
   title: 'TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing.'
   venue: CoRR
   year: '2025'
