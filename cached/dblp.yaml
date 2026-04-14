@@ -34172,6 +34172,51 @@ Adversarial%20Learning:
   doi: 10.1109/ACCESS.2025.3577897
   ee: https://doi.org/10.1109/ACCESS.2025.3577897
   url: https://dblp.org/rec/journals/access/ConstanteCELC25
+- author: Iakovos-Christos Zarkadis, Christos Douligeris
+  title: Machine Learning for Network Attacks Classification and Statistical Evaluation
+    of Adversarial Learning Methodologies for Synthetic Data Generation.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-17717
+  doi: 10.48550/ARXIV.2603.17717
+  ee: https://doi.org/10.48550/arXiv.2603.17717
+  url: https://dblp.org/rec/journals/corr/abs-2603-17717
+- author: Zihui Chen, Yuling Wang, Pengfei Jiao, Kai Wu, Xiao Wang 0017, Xiang Ao,
+    Dalin Zhang 0001
+  title: Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on
+    Text-Attributed Graphs.
+  venue: WWW
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/ChenWJWWAZ26
+  doi: 10.1145/3774904.3792502
+  ee: https://doi.org/10.1145/3774904.3792502
+  url: https://dblp.org/rec/conf/www/ChenWJWWAZ26
+- author: Aozhe Wang, Yuchen Yan, Nan Zhou, Zhengxi Lu, Weiming Lu 0001, Jun Xiao
+    0001, Yueting Zhuang, Yongliang Shen 0001
+  title: 'Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement
+    Learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-15611
+  doi: 10.48550/ARXIV.2603.15611
+  ee: https://doi.org/10.48550/arXiv.2603.15611
+  url: https://dblp.org/rec/journals/corr/abs-2603-15611
+- author: Zhanqi Zhang, Shun Li, Bernardo L. Sabatini, Mikio Aoi, Gal Mishne
+  title: 'ALIGN: Adversarial Learning for Generalizable Speech Neuroprosthesis.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-18299
+  doi: 10.48550/ARXIV.2603.18299
+  ee: https://doi.org/10.48550/arXiv.2603.18299
+  url: https://dblp.org/rec/journals/corr/abs-2603-18299
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38201,3 +38246,23 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2511.13399
   ee: https://doi.org/10.48550/arXiv.2511.13399
   url: https://dblp.org/rec/journals/corr/abs-2511-13399
+- author: Zhihao Chen 0014, Yiyuan Ge, Qing Yue
+  title: Features Reconstruction Disentanglement Cloth-Changing Person Re-identification.
+  venue: ICIC
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/ChenGY24
+  doi: 10.1007/978-981-97-5594-3_33
+  ee: https://doi.org/10.1007/978-981-97-5594-3_33
+  url: https://dblp.org/rec/conf/icic/ChenGY24
+- author: Zhihao Chen 0014, Yiyuan Ge, Qing Yue
+  title: Features Reconstruction Disentanglement Cloth-Changing Person Re-Identification.
+  venue: CoRR
+  year: '2024'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2407-10694
+  doi: 10.48550/ARXIV.2407.10694
+  ee: https://doi.org/10.48550/arXiv.2407.10694
+  url: https://dblp.org/rec/journals/corr/abs-2407-10694
