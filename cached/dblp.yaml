@@ -34217,6 +34217,40 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.18299
   ee: https://doi.org/10.48550/arXiv.2603.18299
   url: https://dblp.org/rec/journals/corr/abs-2603-18299
+- author: Ehsan Hallaji, Roozbeh Razavi-Far, Vasile Palade, Mehrdad Saif
+  title: Corrections to &quot;Adversarial Learning on Incomplete and Imbalanced Medical
+    Data for Robust Survival Prediction of Liver Transplant Patients&quot;.
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/HallajiRPS26
+  doi: 10.1109/ACCESS.2026.3677512
+  ee: https://doi.org/10.1109/ACCESS.2026.3677512
+  url: https://dblp.org/rec/journals/access/HallajiRPS26
+- author: Xiaolong Liu, Siyan Lin, Yangcheng Chen, Shuwu Chen
+  title: Reversible adversarial examples generation based on coverless information
+    hiding in deep learning model.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiuLCC26
+  doi: 10.1016/J.NEUCOM.2026.133591
+  ee: https://doi.org/10.1016/j.neucom.2026.133591
+  url: https://dblp.org/rec/journals/ijon/LiuLCC26
+- author: Shihan Liu, Shaohua Wang, Minxin Dai, Guodong Lian, Jinchai Xu, Xiangzeng
+    Kong
+  title: Safe multi-agent reinforcement learning based on adversarial strategy and
+    control barrier function feasible set.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiuWDLXK26
+  doi: 10.1016/J.NEUCOM.2026.133488
+  ee: https://doi.org/10.1016/j.neucom.2026.133488
+  url: https://dblp.org/rec/journals/ijon/LiuWDLXK26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
