@@ -34251,6 +34251,73 @@ Adversarial%20Learning:
   doi: 10.1016/J.NEUCOM.2026.133488
   ee: https://doi.org/10.1016/j.neucom.2026.133488
   url: https://dblp.org/rec/journals/ijon/LiuWDLXK26
+- author: Zihui Chen, Yuling Wang, Pengfei Jiao, Kai Wu, Xiao Wang, Xiang Ao, Dalin
+    Zhang
+  title: Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on
+    Text-Attributed Graphs.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-21155
+  doi: 10.48550/ARXIV.2603.21155
+  ee: https://doi.org/10.48550/arXiv.2603.21155
+  url: https://dblp.org/rec/journals/corr/abs-2603-21155
+- author: "Zhiyi Zhou, J\xE1n Drgona, Yury Dvorkin"
+  title: 'L2O-CCG: Adversarial Learning with Set Generalization for Adaptive Robust
+    Optimization.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-22548
+  doi: 10.48550/ARXIV.2603.22548
+  ee: https://doi.org/10.48550/arXiv.2603.22548
+  url: https://dblp.org/rec/journals/corr/abs-2603-22548
+- author: Tian Xu, Chenyang Wang, Xiaochen Zhai, Ziniu Li, Yi-Chen Li, Yang Yu
+  title: 'Non-Adversarial Imitation Learning Provably Free of Compounding Errors:
+    The Role of Bellman Constraints.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-22713
+  doi: 10.48550/ARXIV.2603.22713
+  ee: https://doi.org/10.48550/arXiv.2603.22713
+  url: https://dblp.org/rec/journals/corr/abs-2603-22713
+- author: Sungjoo Chung, Ying Zhang
+  title: 'Utilizing Adversarial Training for Robust Voltage Control: An Adaptive Deep
+    Reinforcement Learning Method.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-23648
+  doi: 10.48550/ARXIV.2603.23648
+  ee: https://doi.org/10.48550/arXiv.2603.23648
+  url: https://dblp.org/rec/journals/corr/abs-2603-23648
+- author: Joshua Rozner, Cory Shain
+  title: 'Perturbation: A simple and efficient adversarial tracer for representation
+    learning in language models.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-23821
+  doi: 10.48550/ARXIV.2603.23821
+  ee: https://doi.org/10.48550/arXiv.2603.23821
+  url: https://dblp.org/rec/journals/corr/abs-2603-23821
+- author: Minjun Kim, Minje Kim
+  title: 'HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with
+    Hierarchical Directional Alignment and Adversarial Knowledge Transfer.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-24209
+  doi: 10.48550/ARXIV.2603.24209
+  ee: https://doi.org/10.48550/arXiv.2603.24209
+  url: https://dblp.org/rec/journals/corr/abs-2603-24209
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38300,3 +38367,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2407.10694
   ee: https://doi.org/10.48550/arXiv.2407.10694
   url: https://dblp.org/rec/journals/corr/abs-2407-10694
+- author: Chunlei Zhang, Jiahao Xia, Yun Xiao, Bo Jiang, Jian Zhang
+  title: 'Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration
+    via Cross-Scale Feature Disentanglement.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-19623
+  doi: 10.48550/ARXIV.2603.19623
+  ee: https://doi.org/10.48550/arXiv.2603.19623
+  url: https://dblp.org/rec/journals/corr/abs-2603-19623
