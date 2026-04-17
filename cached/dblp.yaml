@@ -34318,6 +34318,73 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.24209
   ee: https://doi.org/10.48550/arXiv.2603.24209
   url: https://dblp.org/rec/journals/corr/abs-2603-24209
+- author: Zil e Huma, Sana Ullah Jan, Jawad Ahmad 0001, William J. Buchanan, Nikolaos
+    Pitropakis
+  title: 'Adversarial Machine Learning in IoT Security: A Comprehensive Survey.'
+  venue: ACM Comput. Surv.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/csur/HumaJABP26
+  doi: 10.1145/3785665
+  ee: https://doi.org/10.1145/3785665
+  url: https://dblp.org/rec/journals/csur/HumaJABP26
+- author: "Hanene F. Z. Brachemi Meftah, Wassim Hamidouche, Sid Ahmed Fezza, Olivier\
+    \ D\xE9forges"
+  title: 'Energy-Latency Attacks: A New Adversarial Threat to Deep Learning.'
+  venue: ACM Comput. Surv.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/csur/MeftahHFD26
+  doi: 10.1145/3785666
+  ee: https://doi.org/10.1145/3785666
+  url: https://dblp.org/rec/journals/csur/MeftahHFD26
+- author: Zhuo-Jian Cao, Jiang Liu 0007, Wei Jiang 0018, Fabio Dovis, Baigen Cai
+  title: 'AeGANet: Adversarially Enhanced Deep Learning Approach for GNSS Interference
+    Discrimination.'
+  venue: IEEE Trans. Aerosp. Electron. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/taes/CaoLJDC26
+  doi: 10.1109/TAES.2026.3653837
+  ee: https://doi.org/10.1109/TAES.2026.3653837
+  url: https://dblp.org/rec/journals/taes/CaoLJDC26
+- author: Jinzhong Li, Huan Zeng
+  title: 'ECGAN-LTR: A Learning to Rank Approach Based on Evolutionary Algorithm and
+    Conditional Generative Adversarial Networks.'
+  venue: IEEE Trans. Comput. Soc. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcss/LiZ26
+  doi: 10.1109/TCSS.2025.3619076
+  ee: https://doi.org/10.1109/TCSS.2025.3619076
+  url: https://dblp.org/rec/journals/tcss/LiZ26
+- author: Zihui Chen, Yuling Wang, Pengfei Jiao, Kai Wu, Xiao Wang 0017, Xiang Ao,
+    Dalin Zhang 0001
+  title: Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on
+    Text-Attributed Graphs.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-21155
+  doi: 10.48550/ARXIV.2603.21155
+  ee: https://doi.org/10.48550/arXiv.2603.21155
+  url: https://dblp.org/rec/journals/corr/abs-2603-21155
+- author: Kihyun Yu, Seoungbin Bae, Dabeen Lee
+  title: Near-Optimal Primal-Dual Algorithm for Learning Linear Mixture CMDPs with
+    Adversarial Rewards.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-27884
+  doi: 10.48550/ARXIV.2603.27884
+  ee: https://doi.org/10.48550/arXiv.2603.27884
+  url: https://dblp.org/rec/journals/corr/abs-2603-27884
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
