@@ -34385,6 +34385,72 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.27884
   ee: https://doi.org/10.48550/arXiv.2603.27884
   url: https://dblp.org/rec/journals/corr/abs-2603-27884
+- author: Amin Mao, Jiebin Yan, Yuming Fang, Chao Cai
+  title: Audio-visual saliency prediction based on joint adversarial learning and
+    Co-Attention mechanism.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/MaoYFC26
+  doi: 10.1016/J.PATCOG.2026.113548
+  ee: https://doi.org/10.1016/j.patcog.2026.113548
+  url: https://dblp.org/rec/journals/pr/MaoYFC26
+- author: Teng Sun, Yunwei Luo, Zhenqiu Shu, Tianyan Xu, Hongbin Wang 0002, Zhengtao
+    Yu 0001
+  title: Hierarchical attention fusion with synergistic adversarial contrastive learning
+    for incomplete multi-view clustering.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/SunLSXWY26
+  doi: 10.1016/J.PATCOG.2026.113539
+  ee: https://doi.org/10.1016/j.patcog.2026.113539
+  url: https://dblp.org/rec/journals/pr/SunLSXWY26
+- author: Xiao Sun, Fei Zhu 0003
+  title: Robust reinforcement learning with State-Driven Dual-Mode Alternating Adversarial
+    Training via temporal bounded attacks.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/SunZ26
+  doi: 10.1016/J.PATCOG.2026.113524
+  ee: https://doi.org/10.1016/j.patcog.2026.113524
+  url: https://dblp.org/rec/journals/pr/SunZ26
+- author: Saeed Asadi, Jonathan Yu-Meng Li
+  title: 'Generative Adversarial Regression (GAR): Learning Conditional Risk Scenarios.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-08553
+  doi: 10.48550/ARXIV.2603.08553
+  ee: https://doi.org/10.48550/arXiv.2603.08553
+  url: https://dblp.org/rec/journals/corr/abs-2603-08553
+- author: Suryasis Jana, Abhik Ghosh
+  title: 'rSDNet: Unified Robust Neural Learning against Label Noise and Adversarial
+    Attacks.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-17628
+  doi: 10.48550/ARXIV.2603.17628
+  ee: https://doi.org/10.48550/arXiv.2603.17628
+  url: https://dblp.org/rec/journals/corr/abs-2603-17628
+- author: Jiahui Song, Sagar Shrestha, Xiao Fu 0001
+  title: 'Unregistered Spectral Image Fusion: Unmixing, Adversarial Learning, and
+    Recoverability.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-21510
+  doi: 10.48550/ARXIV.2603.21510
+  ee: https://doi.org/10.48550/arXiv.2603.21510
+  url: https://dblp.org/rec/journals/corr/abs-2603-21510
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38445,3 +38511,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2603.19623
   ee: https://doi.org/10.48550/arXiv.2603.19623
   url: https://dblp.org/rec/journals/corr/abs-2603-19623
+- author: Jing Hu, Min Meng 0001, Jigang Wu
+  title: 'Recurrent semantic disentanglement: enhancing zero-shot learning through
+    dynamic feature refinement.'
+  venue: Vis. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/HuMW26
+  doi: 10.1007/S00371-026-04436-8
+  ee: https://doi.org/10.1007/s00371-026-04436-8
+  url: https://dblp.org/rec/journals/vc/HuMW26
