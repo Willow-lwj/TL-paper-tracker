@@ -34451,6 +34451,52 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.21510
   ee: https://doi.org/10.48550/arXiv.2603.21510
   url: https://dblp.org/rec/journals/corr/abs-2603-21510
+- author: Junhui Li, Xingsong Hou
+  title: Improving perceptual quality in low-bitrate remote sensing image compression
+    via codebook priors and adversarial learning.
+  venue: Displays
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/displays/LiH26
+  doi: 10.1016/J.DISPLA.2026.103445
+  ee: https://doi.org/10.1016/j.displa.2026.103445
+  url: https://dblp.org/rec/journals/displays/LiH26
+- author: Haowen Liu, Lei Shi 0001, Yucheng Shi, Yameng Zhang, Guohua Zhao, Yufei
+    Gao 0001
+  title: A semi-supervised multimodal fusion framework with adversarial contrastive
+    learning for Alzheimer&apos;s disease diagnosis.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/LiuSSZZG26
+  doi: 10.1016/J.ENGAPPAI.2026.114537
+  ee: https://doi.org/10.1016/j.engappai.2026.114537
+  url: https://dblp.org/rec/journals/eaai/LiuSSZZG26
+- author: Mianzhao Wang, Fan Shi 0001, Xu Cheng 0003, Shengyong Chen
+  title: Learning invariant representation for light field adversarial salient object
+    detection.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WangSCC26
+  doi: 10.1016/J.ENGAPPAI.2026.114760
+  ee: https://doi.org/10.1016/j.engappai.2026.114760
+  url: https://dblp.org/rec/journals/eaai/WangSCC26
+- author: Jiahao Wu, Yi Yang, Xiaohan Tang, Xinyang Zhou, Chengliang Liu, Jianfeng
+    Tao, Chenggang Yuan
+  title: High-accuracy few-shot fault diagnosis for smart hydraulic systems using
+    contrastive learning enhanced categorical generative adversarial network.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/WuYTZLTY26
+  doi: 10.1016/J.ENGAPPAI.2026.114593
+  ee: https://doi.org/10.1016/j.engappai.2026.114593
+  url: https://dblp.org/rec/journals/eaai/WuYTZLTY26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
