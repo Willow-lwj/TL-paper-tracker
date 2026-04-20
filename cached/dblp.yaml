@@ -34497,6 +34497,18 @@ Adversarial%20Learning:
   doi: 10.1016/J.ENGAPPAI.2026.114593
   ee: https://doi.org/10.1016/j.engappai.2026.114593
   url: https://dblp.org/rec/journals/eaai/WuYTZLTY26
+- author: Baoyuan Wu, Zihao Zhu 0001, Li Liu 0036, Qingshan Liu 0001, Zhaofeng He
+    0001, Siwei Lyu
+  title: 'Attacks in Adversarial Machine Learning: A Systematic Survey from the Lifecycle
+    Perspective.'
+  venue: Int. J. Comput. Vis.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/WuZLLHL26
+  doi: 10.1007/S11263-025-02692-0
+  ee: https://doi.org/10.1007/s11263-025-02692-0
+  url: https://dblp.org/rec/journals/ijcv/WuZLLHL26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
