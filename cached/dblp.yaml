@@ -34509,6 +34509,28 @@ Adversarial%20Learning:
   doi: 10.1007/S11263-025-02692-0
   ee: https://doi.org/10.1007/s11263-025-02692-0
   url: https://dblp.org/rec/journals/ijcv/WuZLLHL26
+- author: P. Murugeswari, P. K. A. Chitra, M. Ramkumar, S. Sampath Kumar 0005
+  title: An Efficient Fusion with Infrared and Visible Images for Deep Learning Based
+    Adversarial Attack Detection.
+  venue: Circuits Syst. Signal Process.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cssp/MurugeswariCRK26
+  doi: 10.1007/S00034-025-03301-8
+  ee: https://doi.org/10.1007/s00034-025-03301-8
+  url: https://dblp.org/rec/journals/cssp/MurugeswariCRK26
+- author: Zhengshun Fei, Jianxin Chen, Gui Chen, Xinjian Xiang
+  title: Improving Robustness for Tag Recommendation via Self-Paced Adversarial Metric
+    Learning.
+  venue: Comput. Mater. Continua
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/cmc/FeiCCX25
+  doi: 10.32604/CMC.2025.059262
+  ee: https://doi.org/10.32604/cmc.2025.059262
+  url: https://dblp.org/rec/journals/cmc/FeiCCX25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
