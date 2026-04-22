@@ -34531,6 +34531,17 @@ Adversarial%20Learning:
   doi: 10.32604/CMC.2025.059262
   ee: https://doi.org/10.32604/cmc.2025.059262
   url: https://dblp.org/rec/journals/cmc/FeiCCX25
+- author: Xinrui Li 0004, Xin Yin, Chao Ni 0001
+  title: Enhancing Commit Classification for Software Maintenance with Adversarial
+    Learning.
+  venue: APSEC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/apsec/LiYN25
+  doi: 10.1109/APSEC66846.2025.00020
+  ee: https://doi.org/10.1109/APSEC66846.2025.00020
+  url: https://dblp.org/rec/conf/apsec/LiYN25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38602,3 +38613,14 @@ feature%20disentanglement:
   doi: 10.1007/S00371-026-04436-8
   ee: https://doi.org/10.1007/s00371-026-04436-8
   url: https://dblp.org/rec/journals/vc/HuMW26
+- author: Peng Wang 0208, Yuan Luo 0006, Zhilin Zhu
+  title: 'FDI-YOLO: Feature disentanglement and interaction network based on YOLO
+    for SAR object detection.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangLZ25
+  doi: 10.1016/J.ESWA.2024.125442
+  ee: https://doi.org/10.1016/j.eswa.2024.125442
+  url: https://dblp.org/rec/journals/eswa/WangLZ25
