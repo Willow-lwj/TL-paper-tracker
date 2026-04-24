@@ -34607,6 +34607,84 @@ Adversarial%20Learning:
   doi: ''
   ee: https://proceedings.mlr.press/v299/raff25a.html
   url: https://dblp.org/rec/conf/camlis/RaffKBC25
+- author: Nesrine Amor, Muhammad Tayyab Noman, Michal Petru
+  title: Generative Adversarial Network-based machine learning framework for mapping
+    and predicting nanostructures distribution in nanoparticulate composites.
+  venue: Appl. Soft Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/AmorNP26
+  doi: 10.1016/J.ASOC.2026.115143
+  ee: https://doi.org/10.1016/j.asoc.2026.115143
+  url: https://dblp.org/rec/journals/asc/AmorNP26
+- author: Zhensong Chen 0001, Hao Chen, Aihua Li, Yinhong Yao, Yong Shi 0001
+  title: 'Adversarial fraud sample generation with reinforcement learning: A joint
+    optimization framework for financial statement fraud detection.'
+  venue: Appl. Soft Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/ChenCLYS26
+  doi: 10.1016/J.ASOC.2026.115192
+  ee: https://doi.org/10.1016/j.asoc.2026.115192
+  url: https://dblp.org/rec/journals/asc/ChenCLYS26
+- author: Tianyu Hu, Hong Zhang, Junli Qiu, Jiewei Qiu, Jianting Zhou
+  title: A failure mode identification model for UHPC-strengthened damaged flexural
+    RC beams based on generative adversarial networks and machine learning.
+  venue: Appl. Soft Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/HuZQQZ26
+  doi: 10.1016/J.ASOC.2026.115161
+  ee: https://doi.org/10.1016/j.asoc.2026.115161
+  url: https://dblp.org/rec/journals/asc/HuZQQZ26
+- author: Yichao Wu, Yirui Wang 0007, Hailong Wang, Bingqian Zhu, Panpan Ding, Chun
+    Liu 0008
+  title: 'Enhancing security in deep reinforcement learning: A comprehensive survey
+    on adversarial attacks and defenses.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WuWWZDL26
+  doi: 10.1016/J.NEUCOM.2026.133503
+  ee: https://doi.org/10.1016/j.neucom.2026.133503
+  url: https://dblp.org/rec/journals/ijon/WuWWZDL26
+- author: Yangyang Shi, Qianqian Ren
+  title: 'Learning across modalities: Multi-scale contrastive forecasting with time-frequency
+    representations and adversarial augmentations.'
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ShiR26
+  doi: 10.1016/J.INS.2026.123493
+  ee: https://doi.org/10.1016/j.ins.2026.123493
+  url: https://dblp.org/rec/journals/isci/ShiR26
+- author: Sanaa Lakrouni, Slimane Bah, Marouane Sebgui
+  title: Generated Preserved Adversarial Federated Learning for Enhanced Image Analysis
+    (GPAF).
+  venue: Comput. Mater. Continua
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/cmc/LakrouniBS25
+  doi: 10.32604/CMC.2025.067654
+  ee: https://doi.org/10.32604/cmc.2025.067654
+  url: https://dblp.org/rec/journals/cmc/LakrouniBS25
+- author: Edward Raff, Karen Kukla, Michel Benaroch, Joseph Comprix
+  title: Adversarial Machine Learning Attacks on Financial Reporting via Maximum Violated
+    Multi-Objective Attack.
+  venue: CAMLIS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/camlis/RaffKBC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v299/raff25a.html
+  url: https://dblp.org/rec/conf/camlis/RaffKBC25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
