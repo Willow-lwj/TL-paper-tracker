@@ -4162,6 +4162,49 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2025.3617218
   ee: https://doi.org/10.1109/TGRS.2025.3617218
   url: https://dblp.org/rec/journals/tgrs/ChenZCWLWZLH25
+- author: Haoyu Wang 0008, Yuhu Cheng 0001, Xuesong Wang 0001
+  title: A Novel Hyperspectral Image Classification Method Using Class-Weighted Domain
+    Adaptation Network.
+  venue: Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/remotesensing/WangCW23
+  doi: 10.3390/RS15040999
+  ee: https://doi.org/10.3390/rs15040999
+  url: https://dblp.org/rec/journals/remotesensing/WangCW23
+- author: Yuhu Cheng 0001, Yang Chen 0031, Yi Kong, Xuesong Wang 0001
+  title: Soft Instance-Level Domain Adaptation With Virtual Classifier for Unsupervised
+    Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ChengCKW23
+  doi: 10.1109/TGRS.2023.3266790
+  ee: https://doi.org/10.1109/TGRS.2023.3266790
+  url: https://dblp.org/rec/journals/tgrs/ChengCKW23
+- author: Haoyu Wang 0008, Yuhu Cheng 0001, C. L. Philip Chen, Xuesong Wang 0001
+  title: Hyperspectral Image Classification Based on Domain Adversarial Broad Adaptation
+    Network.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/WangCCW22
+  doi: 10.1109/TGRS.2021.3128162
+  ee: https://doi.org/10.1109/TGRS.2021.3128162
+  url: https://dblp.org/rec/journals/tgrs/WangCCW22
+- author: Haoyu Wang 0008, Xuesong Wang 0001, C. L. Philip Chen, Yuhu Cheng 0001
+  title: Hyperspectral Image Classification Based on Domain Adaptation Broad Learning.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2020'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/WangWCC20
+  doi: 10.1109/JSTARS.2020.3001198
+  ee: https://doi.org/10.1109/JSTARS.2020.3001198
+  url: https://dblp.org/rec/journals/staeors/WangWCC20
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -34718,6 +34761,29 @@ Adversarial%20Learning:
   doi: 10.1016/J.NEUCOM.2025.130030
   ee: https://doi.org/10.1016/j.neucom.2025.130030
   url: https://dblp.org/rec/journals/ijon/SongLLXW25
+- author: Chang Liu 0047, Giulia Rizzoli, Francesco Barbato, Andrea Maracani, Marco
+    Toldo, Umberto Michieli, Yi Niu, Pietro Zanuttigh
+  title: 'RECALL+: Adversarial web-based replay for continual learning in semantic
+    segmentation.'
+  venue: Image Vis. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ivc/LiuRBMTMNZ26
+  doi: 10.1016/J.IMAVIS.2026.105984
+  ee: https://doi.org/10.1016/j.imavis.2026.105984
+  url: https://dblp.org/rec/journals/ivc/LiuRBMTMNZ26
+- author: Tian Xu, Chenyang Wang, Xiaochen Zhai, Ziniu Li, Yi-Chen Li 0001, Yang Yu
+  title: 'Non-Adversarial Imitation Learning Provably Free of Compounding Errors:
+    The Role of Bellman Constraints.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-22713
+  doi: 10.48550/ARXIV.2603.22713
+  ee: https://doi.org/10.48550/arXiv.2603.22713
+  url: https://dblp.org/rec/journals/corr/abs-2603-22713
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38823,3 +38889,14 @@ feature%20disentanglement:
   doi: 10.1109/DSA66321.2025.00043
   ee: https://doi.org/10.1109/DSA66321.2025.00043
   url: https://dblp.org/rec/conf/dsa/XiaoZX25
+- author: Chunlei Zhang, Jiahao Xia 0001, Yun Xiao, Bo Jiang, Jian Zhang
+  title: 'Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration
+    via Cross-Scale Feature Disentanglement.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-19623
+  doi: 10.48550/ARXIV.2603.19623
+  ee: https://doi.org/10.48550/arXiv.2603.19623
+  url: https://dblp.org/rec/journals/corr/abs-2603-19623
