@@ -34784,6 +34784,29 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.22713
   ee: https://doi.org/10.48550/arXiv.2603.22713
   url: https://dblp.org/rec/journals/corr/abs-2603-22713
+- author: Amin Mao, Jiebin Yan, Yuming Fang 0001, Chao Cai
+  title: Audio-visual saliency prediction based on joint adversarial learning and
+    Co-Attention mechanism.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/MaoYFC26
+  doi: 10.1016/J.PATCOG.2026.113548
+  ee: https://doi.org/10.1016/j.patcog.2026.113548
+  url: https://dblp.org/rec/journals/pr/MaoYFC26
+- author: Tian Xu 0003, Chenyang Wang, Xiaochen Zhai, Ziniu Li, Yi-Chen Li 0001, Yang
+    Yu 0001
+  title: 'Non-Adversarial Imitation Learning Provably Free of Compounding Errors:
+    The Role of Bellman Constraints.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-22713
+  doi: 10.48550/ARXIV.2603.22713
+  ee: https://doi.org/10.48550/arXiv.2603.22713
+  url: https://dblp.org/rec/journals/corr/abs-2603-22713
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38890,6 +38913,17 @@ feature%20disentanglement:
   ee: https://doi.org/10.1109/DSA66321.2025.00043
   url: https://dblp.org/rec/conf/dsa/XiaoZX25
 - author: Chunlei Zhang, Jiahao Xia 0001, Yun Xiao, Bo Jiang, Jian Zhang
+  title: 'Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration
+    via Cross-Scale Feature Disentanglement.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2603-19623
+  doi: 10.48550/ARXIV.2603.19623
+  ee: https://doi.org/10.48550/arXiv.2603.19623
+  url: https://dblp.org/rec/journals/corr/abs-2603-19623
+- author: Chunlei Zhang, Jiahao Xia 0001, Yun Xiao, Bo Jiang, Jian Zhang 0002
   title: 'Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration
     via Cross-Scale Feature Disentanglement.'
   venue: CoRR
