@@ -34807,6 +34807,16 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2603.22713
   ee: https://doi.org/10.48550/arXiv.2603.22713
   url: https://dblp.org/rec/journals/corr/abs-2603-22713
+- author: Hairong Wang, Zhenye Yang, Zhongxuan Li, Jing Wang, Hongying Li
+  title: Partial multimodal hashing with multi-level semantics and adversarial learning.
+  venue: Int. J. Multim. Inf. Retr.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijmir/WangYLWL26
+  doi: 10.1007/S13735-026-00400-3
+  ee: https://doi.org/10.1007/s13735-026-00400-3
+  url: https://dblp.org/rec/journals/ijmir/WangYLWL26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38934,3 +38944,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2603.19623
   ee: https://doi.org/10.48550/arXiv.2603.19623
   url: https://dblp.org/rec/journals/corr/abs-2603-19623
+- author: Xu Yu 0001, Jiaqi Yan, Qinqin Gao, Qinglong Peng, Bin Yu 0007, Junwei Du,
+    Ying Xing, Dunwei Gong
+  title: Feature Disentanglement-Based Heterogeneous Defect Prediction.
+  venue: ACM Trans. Softw. Eng. Methodol.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tosem/YuYGPYDXG26
+  doi: 10.1145/3742474
+  ee: https://doi.org/10.1145/3742474
+  url: https://dblp.org/rec/journals/tosem/YuYGPYDXG26
