@@ -34817,6 +34817,39 @@ Adversarial%20Learning:
   doi: 10.1007/S13735-026-00400-3
   ee: https://doi.org/10.1007/s13735-026-00400-3
   url: https://dblp.org/rec/journals/ijmir/WangYLWL26
+- author: Zahra Sarayloo, Saeedeh Lohrasbi, Pulei Xiong, Nasser Lashgarian Azad
+  title: A Systematic Review of Adversarial Attacks and Defenses for Deep Reinforcement
+    Learning in Autonomous Vehicle Applications.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/SaraylooLXA26
+  doi: 10.1109/TITS.2026.3666151
+  ee: https://doi.org/10.1109/TITS.2026.3666151
+  url: https://dblp.org/rec/journals/tits/SaraylooLXA26
+- author: Fangyan Zhang, Fan Zhang 0007, Yingbing Liu, Fei Ma 0001, Chunsheng Hu
+  title: 'AdverFuse: robust fusion of multimodal images based on dynamic attention
+    and adversarial learning.'
+  venue: Vis. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/vc/ZhangZLMH26
+  doi: 10.1007/S00371-026-04463-5
+  ee: https://doi.org/10.1007/s00371-026-04463-5
+  url: https://dblp.org/rec/journals/vc/ZhangZLMH26
+- author: Udaya Bhaskar Guntupalli, Medha Pujari, Jalal Abdel Halim, Weiqing Sun
+  title: Investigating the Influence of Black-Box Adversarial Machine Learning Attacks
+    in Live Network Environments.
+  venue: ICISSP
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icissp/GuntupalliPHS26
+  doi: 10.5220/0014638900004061
+  ee: https://doi.org/10.5220/0014638900004061
+  url: https://dblp.org/rec/conf/icissp/GuntupalliPHS26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -38955,3 +38988,37 @@ feature%20disentanglement:
   doi: 10.1145/3742474
   ee: https://doi.org/10.1145/3742474
   url: https://dblp.org/rec/journals/tosem/YuYGPYDXG26
+- author: Fan Zhang 0134, Yuelei Xu, Huafeng Li 0003, Wei Luo, Chunjia Zhu, Sijia
+    Xia, Zhaoxiang Zhang 0002
+  title: Causal-Inspired Unsupervised Dynamic-Attribute Feature Disentanglement Network
+    for HRRP Target Recognition.
+  venue: IEEE Trans. Aerosp. Electron. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/taes/ZhangXLLZXZ26
+  doi: 10.1109/TAES.2026.3660240
+  ee: https://doi.org/10.1109/TAES.2026.3660240
+  url: https://dblp.org/rec/journals/taes/ZhangXLLZXZ26
+- author: Tiantian He 0004, Zhibin Li 0002, Yongshun Gong, Yazhou Yao, Xiushan Nie,
+    Yilong Yin
+  title: Exploring Linear Feature Disentanglement for Neural Networks.
+  venue: ICME
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/He0GYNY22
+  doi: 10.1109/ICME52920.2022.9859978
+  ee: https://doi.org/10.1109/ICME52920.2022.9859978
+  url: https://dblp.org/rec/conf/icmcs/He0GYNY22
+- author: Tiantian He 0004, Zhibin Li 0002, Yongshun Gong, Yazhou Yao, Xiushan Nie,
+    Yilong Yin
+  title: Exploring Linear Feature Disentanglement For Neural Networks.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-11700
+  doi: 10.48550/ARXIV.2203.11700
+  ee: https://doi.org/10.48550/arXiv.2203.11700
+  url: https://dblp.org/rec/journals/corr/abs-2203-11700
