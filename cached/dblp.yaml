@@ -34850,6 +34850,17 @@ Adversarial%20Learning:
   doi: 10.5220/0014638900004061
   ee: https://doi.org/10.5220/0014638900004061
   url: https://dblp.org/rec/conf/icissp/GuntupalliPHS26
+- author: Anna-Kathrin Kopetzki
+  title: Adversarial Robustness of Classification, Uncertainty Estimation and Transfer
+    Learning.
+  venue: ''
+  year: '2025'
+  type: Books and Theses
+  access: closed
+  key: phd/dnb/KopetzkiG25
+  doi: ''
+  ee: https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20250707-1776136-0-4
+  url: https://dblp.org/rec/phd/dnb/KopetzkiG25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
