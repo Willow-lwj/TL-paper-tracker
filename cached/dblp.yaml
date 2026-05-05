@@ -4205,6 +4205,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2020.3001198
   ee: https://doi.org/10.1109/JSTARS.2020.3001198
   url: https://dblp.org/rec/journals/staeors/WangWCC20
+- author: Xiuyu Huang, Kup-Sze Choi, Nan Zhou 0010, Yuanpeng Zhang 0001, Badong Chen,
+    Witold Pedrycz
+  title: Shallow Inception Domain Adaptation Network for EEG-Based Motor Imagery Classification.
+  venue: IEEE Trans. Cogn. Dev. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tamd/HuangCZZCP24
+  doi: 10.1109/TCDS.2023.3279262
+  ee: https://doi.org/10.1109/TCDS.2023.3279262
+  url: https://dblp.org/rec/journals/tamd/HuangCZZCP24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -34861,6 +34872,17 @@ Adversarial%20Learning:
   doi: ''
   ee: https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20250707-1776136-0-4
   url: https://dblp.org/rec/phd/dnb/KopetzkiG25
+- author: Narinder Singh Punn, Shashikala Tapaswi
+  title: Enhancing robustness against adversarial attacks in biomedical image classification
+    through squeezed quantized self-supervised contrastive learning.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/PunnT26
+  doi: 10.1016/J.BSPC.2026.110093
+  ee: https://doi.org/10.1016/j.bspc.2026.110093
+  url: https://dblp.org/rec/journals/bspc/PunnT26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -39033,3 +39055,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2203.11700
   ee: https://doi.org/10.48550/arXiv.2203.11700
   url: https://dblp.org/rec/journals/corr/abs-2203-11700
+- author: Junwei Yang, Shenhai Zheng, Junyu Zhu, Chengman Jiang
+  title: Multi-task learning with orthogonal feature disentanglement for breast tumor
+    segmentation and classification in ultrasound images.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/YangZZJ26
+  doi: 10.1016/J.BSPC.2026.110234
+  ee: https://doi.org/10.1016/j.bspc.2026.110234
+  url: https://dblp.org/rec/journals/bspc/YangZZJ26
