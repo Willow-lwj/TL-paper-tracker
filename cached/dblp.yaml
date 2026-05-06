@@ -34883,6 +34883,29 @@ Adversarial%20Learning:
   doi: 10.1016/J.BSPC.2026.110093
   ee: https://doi.org/10.1016/j.bspc.2026.110093
   url: https://dblp.org/rec/journals/bspc/PunnT26
+- author: Avinash Awasthi, Pritam Vediya, Hemant Miranka, Ramesh Babu Battula, Manoj
+    Singh Gaur
+  title: 'PANDORA: Lightweight Adversarial Defense for Edge IoT using Uncertainty-Aware
+    Metric Learning.'
+  venue: NDSS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/AwasthiVMBG26
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/pandora-lightweight-adversarial-defense-for-edge-iot-using-uncertainty-aware-metric-learning/
+  url: https://dblp.org/rec/conf/ndss/AwasthiVMBG26
+- author: Mengyuan Sun, Yu Li 0006, Yunjie Ge, Yuchen Liu, Bo Du, Qian Wang 0002
+  title: 'InverTune: A Backdoor Defense Method for Multimodal Contrastive Learning
+    via Backdoor-Adversarial Correlation Analysis.'
+  venue: NDSS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/SunLGLDW26
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/invertune-a-backdoor-defense-method-for-multimodal-contrastive-learning-via-backdoor-adversarial-correlation-analysis/
+  url: https://dblp.org/rec/conf/ndss/SunLGLDW26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
