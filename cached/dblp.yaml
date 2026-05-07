@@ -34906,6 +34906,39 @@ Adversarial%20Learning:
   doi: ''
   ee: https://www.ndss-symposium.org/ndss-paper/invertune-a-backdoor-defense-method-for-multimodal-contrastive-learning-via-backdoor-adversarial-correlation-analysis/
   url: https://dblp.org/rec/conf/ndss/SunLGLDW26
+- author: Xuanye Wang, Lu Lu
+  title: Learning-to-rank-based transferable adversarial attacks for software vulnerability
+    prediction models.
+  venue: Clust. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cluster/WangL26a
+  doi: 10.1007/S10586-026-05995-0
+  ee: https://doi.org/10.1007/s10586-026-05995-0
+  url: https://dblp.org/rec/journals/cluster/WangL26a
+- author: Lizheng Wang 0005, Lijun Ge, Changcheng Qi, Gaojie Chen 0001
+  title: 'Channel Estimation for mmWave mMIMO Systems With Mixed-ADC: Conditional
+    Generative Adversarial Network and Deep Transfer Learning.'
+  venue: IEEE Trans. Green Commun. Netw.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tgcn/WangGQC26
+  doi: 10.1109/TGCN.2026.3664748
+  ee: https://doi.org/10.1109/TGCN.2026.3664748
+  url: https://dblp.org/rec/journals/tgcn/WangGQC26
+- author: Mengyuan Sun 0001, Yu Li 0006, Yunjie Ge, Yuchen Liu, Bo Du, Qian Wang 0002
+  title: 'InverTune: A Backdoor Defense Method for Multimodal Contrastive Learning
+    via Backdoor-Adversarial Correlation Analysis.'
+  venue: NDSS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/SunLGLDW26
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/invertune-a-backdoor-defense-method-for-multimodal-contrastive-learning-via-backdoor-adversarial-correlation-analysis/
+  url: https://dblp.org/rec/conf/ndss/SunLGLDW26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
