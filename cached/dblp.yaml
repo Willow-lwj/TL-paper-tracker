@@ -4216,6 +4216,28 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TCDS.2023.3279262
   ee: https://doi.org/10.1109/TCDS.2023.3279262
   url: https://dblp.org/rec/journals/tamd/HuangCZZCP24
+- author: Subhangi, Rakesh Kumar Sanodiya, Aarav Nigam
+  title: 'Domain Adaptation for Image Classification: A Comparative Study of Semi-Supervised
+    Versus Unsupervised Approaches.'
+  venue: CVIP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvip/SubhangiSN24
+  doi: 10.1007/978-3-031-93709-5_21
+  ee: https://doi.org/10.1007/978-3-031-93709-5_21
+  url: https://dblp.org/rec/conf/cvip/SubhangiSN24
+- author: Yuhu Cheng 0001, Yang Chen 0031, Yi Kong 0001, Xuesong Wang 0001
+  title: Soft Instance-Level Domain Adaptation With Virtual Classifier for Unsupervised
+    Hyperspectral Image Classification.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ChengCKW23
+  doi: 10.1109/TGRS.2023.3266790
+  ee: https://doi.org/10.1109/TGRS.2023.3266790
+  url: https://dblp.org/rec/journals/tgrs/ChengCKW23
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -34939,6 +34961,94 @@ Adversarial%20Learning:
   doi: ''
   ee: https://www.ndss-symposium.org/ndss-paper/invertune-a-backdoor-defense-method-for-multimodal-contrastive-learning-via-backdoor-adversarial-correlation-analysis/
   url: https://dblp.org/rec/conf/ndss/SunLGLDW26
+- author: Ping He, Dongsheng Jing, Baozhen Qi, Yu Yang, Jingsong Xue
+  title: Robust QoS-aware network scheduling for smart substations via multi-agent
+    adversarial reinforcement learning.
+  venue: Comput. Sci. Inf. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/comsis/HeJQYX26
+  doi: 10.2298/CSIS251015009H
+  ee: https://doi.org/10.2298/csis251015009h
+  url: https://dblp.org/rec/journals/comsis/HeJQYX26
+- author: Chengwei Wu, Yue Gao, Guohua Huang, Xiaoke Ma 0001
+  title: Dual-branch Bayesian adversarial learning for multi-view clustering.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WuGHM26
+  doi: 10.1016/J.KNOSYS.2026.115942
+  ee: https://doi.org/10.1016/j.knosys.2026.115942
+  url: https://dblp.org/rec/journals/kbs/WuGHM26
+- author: Haoyu Wang 0011, Zilong Yin, Bin Chen, Yujie Zeng, Xiyue Yan, Chenyu Zhou,
+    Anji Li 0002
+  title: 'ROFED-LLM: Robust Federated Learning for Large Language Models in Adversarial
+    Wireless Environments.'
+  venue: IEEE Trans. Netw. Sci. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tnse/WangYCZYZL26
+  doi: 10.1109/TNSE.2025.3590975
+  ee: https://doi.org/10.1109/TNSE.2025.3590975
+  url: https://dblp.org/rec/journals/tnse/WangYCZYZL26
+- author: Yuchang Jiang, Jan Dirk Wegner, Vivien Sainte Fare Garnot
+  title: 'MIRANDA: MId-feature RANk-adversarial Domain Adaptation toward climate change-robust
+    ecological forecasting with deep learning.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-00800
+  doi: 10.48550/ARXIV.2604.00800
+  ee: https://doi.org/10.48550/arXiv.2604.00800
+  url: https://dblp.org/rec/journals/corr/abs-2604-00800
+- author: Neelay Junnarkar, Yasin Sonmez, Murat Arcak
+  title: Learning Neural Network Controllers with Certified Robust Performance via
+    Adversarial Training.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-01188
+  doi: 10.48550/ARXIV.2604.01188
+  ee: https://doi.org/10.48550/arXiv.2604.01188
+  url: https://dblp.org/rec/journals/corr/abs-2604-01188
+- author: Zitao Lin, Chang Zhu, Wei Meng
+  title: Cross-subject Muscle Fatigue Detection via Adversarial and Supervised Contrastive
+    Learning with Inception-Attention Network.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-02670
+  doi: 10.48550/ARXIV.2604.02670
+  ee: https://doi.org/10.48550/arXiv.2604.02670
+  url: https://dblp.org/rec/journals/corr/abs-2604-02670
+- author: Hristo Petkov, Calum MacLellan, Feng Dong 0005
+  title: 'DAGAF: A directed acyclic generative adversarial framework for joint structure
+    learning and tabular data synthesis.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-04290
+  doi: 10.48550/ARXIV.2604.04290
+  ee: https://doi.org/10.48550/arXiv.2604.04290
+  url: https://dblp.org/rec/journals/corr/abs-2604-04290
+- author: Yiyao Zhang, Diksha Goel, Hussain Ahmad
+  title: Explainable Autonomous Cyber Defense using Adversarial Multi-Agent Reinforcement
+    Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-04442
+  doi: 10.48550/ARXIV.2604.04442
+  ee: https://doi.org/10.48550/arXiv.2604.04442
+  url: https://dblp.org/rec/journals/corr/abs-2604-04442
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
