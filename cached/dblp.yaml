@@ -35095,6 +35095,17 @@ Adversarial%20Learning:
   doi: 10.1016/J.ENGAPPAI.2025.111870
   ee: https://doi.org/10.1016/j.engappai.2025.111870
   url: https://dblp.org/rec/journals/eaai/WangZGLLT25
+- author: Wenbin Xiang, Jie Zhang 0041, Peng Zhang 0049, Ming Wang, Hongsen Li
+  title: Adversarial learning enhanced multi-agent cooperative reinforcement learning
+    for parallel batch processing machine scheduling in wafer fabrication.
+  venue: Comput. Ind. Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/candie/XiangZZWL26
+  doi: 10.1016/J.CIE.2025.111660
+  ee: https://doi.org/10.1016/j.cie.2025.111660
+  url: https://dblp.org/rec/journals/candie/XiangZZWL26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
