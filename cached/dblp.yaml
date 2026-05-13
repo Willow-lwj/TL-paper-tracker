@@ -35152,6 +35152,18 @@ Adversarial%20Learning:
   doi: 10.1016/J.NEUCOM.2024.129089
   ee: https://doi.org/10.1016/j.neucom.2024.129089
   url: https://dblp.org/rec/journals/ijon/YangDDLCLXL25
+- author: Yong Zhang, Feng Liang 0004, Guanghu Yuan, Min Yang 0007, Chengming Li 0004,
+    Xiping Hu
+  title: 'FedPall: Prototype-Based Adversarial and Collaborative Learning for Federated
+    Learning with Feature Drift.'
+  venue: ''
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/ZhangLYYLH25
+  doi: 10.1109/ICCV51701.2025.00298
+  ee: https://doi.org/10.1109/ICCV51701.2025.00298
+  url: https://dblp.org/rec/conf/iccv/ZhangLYYLH25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -39335,3 +39347,37 @@ feature%20disentanglement:
   doi: 10.1016/J.BSPC.2026.110234
   ee: https://doi.org/10.1016/j.bspc.2026.110234
   url: https://dblp.org/rec/journals/bspc/YangZZJ26
+- author: Yidi Liu, Dong Liu 0002, Yuxin Ma, Jie Huang 0017, Wenlong Zhang, Xueyang
+    Fu, Zheng-Jun Zha
+  title: 'Decouple to Reconstruct: High Quality UHD Restoration Via Active Feature
+    Disentanglement and Reversible Fusion.'
+  venue: ''
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/LiuLMHZFZ25
+  doi: 10.1109/ICCV51701.2025.01081
+  ee: https://doi.org/10.1109/ICCV51701.2025.01081
+  url: https://dblp.org/rec/conf/iccv/LiuLMHZFZ25
+- author: Xin Shen, Xinyu Wang, Lei Shen, Kaihao Zhang, Xin Yu 0002
+  title: Cross-View Isolated Sign Language Recognition via View Synthesis and Feature
+    Disentanglement.
+  venue: ''
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/ShenWSZY25
+  doi: 10.1109/ICCV51701.2025.01920
+  ee: https://doi.org/10.1109/ICCV51701.2025.01920
+  url: https://dblp.org/rec/conf/iccv/ShenWSZY25
+- author: Kahim Wong, Jicheng Zhou, Haiwei Wu, Yain-Whar Si, Jiantao Zhou 0001
+  title: 'ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature
+    and Hierarchical Content Disentanglement.'
+  venue: ''
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/WongZWSZ25
+  doi: 10.1109/ICCV51701.2025.01792
+  ee: https://doi.org/10.1109/ICCV51701.2025.01792
+  url: https://dblp.org/rec/conf/iccv/WongZWSZ25
