@@ -35176,6 +35176,29 @@ Adversarial%20Learning:
   doi: 10.1109/ICCV51701.2025.00298
   ee: https://doi.org/10.1109/ICCV51701.2025.00298
   url: https://dblp.org/rec/conf/iccv/ZhangLYYLH25
+- author: Fan Wang, Zhenxin Cai, Hong Wan, Tiantian Tang, Qin Wang 0002, Guan Gui
+    0001
+  title: Toward Robust Receiver-Invariant Specific Emitter Identification via Multi-Task
+    Adversarial Learning.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/WangCWTWG26
+  doi: 10.1109/TIFS.2026.3685173
+  ee: https://doi.org/10.1109/TIFS.2026.3685173
+  url: https://dblp.org/rec/journals/tifs/WangCWTWG26
+- author: Songlin Li, Zhiqing Guo, Dan Ma 0003, Changtao Miao, Gaobo Yang
+  title: 'The Courtroom Trial of Pixels: Robust Image Manipulation Localization via
+    Adversarial Evidence and Reinforcement Learning Judgment.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-14703
+  doi: 10.48550/ARXIV.2604.14703
+  ee: https://doi.org/10.48550/arXiv.2604.14703
+  url: https://dblp.org/rec/journals/corr/abs-2604-14703
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
