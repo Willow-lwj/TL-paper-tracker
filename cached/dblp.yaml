@@ -35220,6 +35220,40 @@ Adversarial%20Learning:
   doi: 10.3390/NETWORK6020022
   ee: https://doi.org/10.3390/network6020022
   url: https://dblp.org/rec/journals/mdpinetwork/BabaagbaT26
+- author: Yuanye Wu, Keyi Wang, Linqi Ye, Boyang Xing
+  title: Multi-Gait Learning for Humanoid Robots Using Reinforcement Learning with
+    Selective Adversarial Motion Prior.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-19102
+  doi: 10.48550/ARXIV.2604.19102
+  ee: https://doi.org/10.48550/arXiv.2604.19102
+  url: https://dblp.org/rec/journals/corr/abs-2604-19102
+- author: Yongqi Jiang, Yansong Gao 0001, Boyu Kuang, Chunyi Zhou 0001, Anmin Fu,
+    Liquan Chen
+  title: 'ArmSSL: Adversarial Robust Black-Box Watermarking for Self-Supervised Learning
+    Pre-trained Encoders.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-22550
+  doi: 10.48550/ARXIV.2604.22550
+  ee: https://doi.org/10.48550/arXiv.2604.22550
+  url: https://dblp.org/rec/journals/corr/abs-2604-22550
+- author: Solon Falas, Markos Asprou, Charalambos Konstantinou, Maria K. Michael
+  title: 'Learning Without Adversarial Training: A Physics-Informed Neural Network
+    for Secure Power System State Estimation under False Data Injection Attacks.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-22784
+  doi: 10.48550/ARXIV.2604.22784
+  ee: https://doi.org/10.48550/arXiv.2604.22784
+  url: https://dblp.org/rec/journals/corr/abs-2604-22784
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
