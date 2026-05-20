@@ -35254,6 +35254,38 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2604.22784
   ee: https://doi.org/10.48550/arXiv.2604.22784
   url: https://dblp.org/rec/journals/corr/abs-2604-22784
+- author: Wenlong Zheng, Heng Zhang, Yuhao Zhang, Peng Li 0011, He Xu 0002
+  title: 'PaDe: Towards robust adversarial patch defense via trigger-space feature
+    decoupling and orthogonal representation learning.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhengZZLX26
+  doi: 10.1016/J.ESWA.2026.131509
+  ee: https://doi.org/10.1016/j.eswa.2026.131509
+  url: https://dblp.org/rec/journals/eswa/ZhengZZLX26
+- author: Gabriel Melo, Leonardo Santiago, Peter Y. Lu
+  title: 'Learning to Emulate Chaos: Adversarial Optimal Transport Regularization.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-21097
+  doi: 10.48550/ARXIV.2604.21097
+  ee: https://doi.org/10.48550/arXiv.2604.21097
+  url: https://dblp.org/rec/journals/corr/abs-2604-21097
+- author: Alexis Lazanas, Spyros Christodoulou, Spyridon Karpouzis
+  title: Context-Integrated Adversarial Learning for Predictive Modelling of Stock
+    Price Dynamics.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2604-22801
+  doi: 10.48550/ARXIV.2604.22801
+  ee: https://doi.org/10.48550/arXiv.2604.22801
+  url: https://dblp.org/rec/journals/corr/abs-2604-22801
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
