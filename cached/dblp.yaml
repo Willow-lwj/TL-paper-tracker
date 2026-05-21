@@ -35286,6 +35286,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2604.22801
   ee: https://doi.org/10.48550/arXiv.2604.22801
   url: https://dblp.org/rec/journals/corr/abs-2604-22801
+- author: Xiao-Shan Gao, Shuang Liu 0012, Lijia Yu
+  title: Achieve Optimal Adversarial Accuracy for Adversarial Deep Learning using
+    Stackelberg Game.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-08137
+  doi: 10.48550/ARXIV.2207.08137
+  ee: https://doi.org/10.48550/arXiv.2207.08137
+  url: https://dblp.org/rec/journals/corr/abs-2207-08137
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
