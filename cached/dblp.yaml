@@ -4238,6 +4238,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/TGRS.2023.3266790
   ee: https://doi.org/10.1109/TGRS.2023.3266790
   url: https://dblp.org/rec/journals/tgrs/ChengCKW23
+- author: Inder Pal Singh, Enjie Ghorbel, Anis Kacem 0001, Djamila Aouada
+  title: 'Domain adaptation for multi-label image classification: A discriminator-free
+    approach.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/SinghGKA26
+  doi: 10.1016/J.ESWA.2026.132270
+  ee: https://doi.org/10.1016/j.eswa.2026.132270
+  url: https://dblp.org/rec/journals/eswa/SinghGKA26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -35297,6 +35308,150 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2207.08137
   ee: https://doi.org/10.48550/arXiv.2207.08137
   url: https://dblp.org/rec/journals/corr/abs-2207-08137
+- author: Benhur Tekeste, Khalil Al-Hussaeni, Benjamin C. M. Fung, Ibtesam Al Awadhi,
+    Claude Fachkha
+  title: 'Adversarial Machine Learning: A 20-Year Survey of Attacks, Defenses, and
+    Standards.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/TekesteAFAF26
+  doi: 10.1109/ACCESS.2026.3690620
+  ee: https://doi.org/10.1109/ACCESS.2026.3690620
+  url: https://dblp.org/rec/journals/access/TekesteAFAF26
+- author: Venkat R., Prakash M, Rajeswari Rajesh Immanuel, K. Sampath Kumar, Duraimutharasan
+    N., Balasubramaniam S., T. A. Sivakumar
+  title: Adversarial Attack Detection in Federated Learning Using Quantum Recurrent
+    Neural Network.
+  venue: Appl. Comput. Intell. Soft Comput.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/acisc/RMIKNSS26
+  doi: 10.1155/ACIS/1176614
+  ee: https://doi.org/10.1155/acis/1176614
+  url: https://dblp.org/rec/journals/acisc/RMIKNSS26
+- author: Yanche Ari Kustiawan, Khairil Imran Bin Ghauth
+  title: 'Adversarial Robustness in Quantum Machine Learning: A Scoping Review.'
+  venue: Comput.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/computers/KustiawanG26
+  doi: 10.3390/COMPUTERS15040233
+  ee: https://doi.org/10.3390/computers15040233
+  url: https://dblp.org/rec/journals/computers/KustiawanG26
+- author: Yong Zhu, Jipeng Zhang
+  title: An adversarial training framework for improving zero-shot robustness of deep
+    reinforcement learning-based autonomous driving policies.
+  venue: Displays
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/displays/ZhuZ26
+  doi: 10.1016/J.DISPLA.2026.103491
+  ee: https://doi.org/10.1016/j.displa.2026.103491
+  url: https://dblp.org/rec/journals/displays/ZhuZ26
+- author: Shenggen Ju, Xiaodi Huang, Yanting Li, Rongmei Zhao, Rui Kang, Li Chen
+  title: Adversarial contrastive learning to augment deep knowledge tracing.
+  venue: Eng. Appl. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eaai/JuHLZKC26
+  doi: 10.1016/J.ENGAPPAI.2026.115001
+  ee: https://doi.org/10.1016/j.engappai.2026.115001
+  url: https://dblp.org/rec/journals/eaai/JuHLZKC26
+- author: Wenbo Li, Tao Zhao 0003, Jiyao Wang
+  title: 'Towards generalizable driver drowsiness detection: A unified framework with
+    geometric transformations and self-correcting adversarial learning.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/LiZW26a
+  doi: 10.1016/J.ESWA.2026.132423
+  ee: https://doi.org/10.1016/j.eswa.2026.132423
+  url: https://dblp.org/rec/journals/eswa/LiZW26a
+- author: Bin Wang, Dengke Jiu, Pengfei Liang, Lijie Zhang
+  title: Zero-shot transfer learning bearing fault diagnosis based on generative adversarial
+    network with multi-attribute vector fusion.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangJLZ26
+  doi: 10.1016/J.ESWA.2026.132641
+  ee: https://doi.org/10.1016/j.eswa.2026.132641
+  url: https://dblp.org/rec/journals/eswa/WangJLZ26
+- author: Shaba Shaon, Dinh C. Nguyen, Dusit Niyato, H. Vincent Poor
+  title: Collaborative Multimodal Learning Over Integrated Aerial-Terrestrial Networks
+    Under Adversarial Attacks.
+  venue: IEEE Trans. Commun.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcom/ShaonNNP26
+  doi: 10.1109/TCOMM.2026.3686736
+  ee: https://doi.org/10.1109/TCOMM.2026.3686736
+  url: https://dblp.org/rec/journals/tcom/ShaonNNP26
+- author: Yujin Huang, Xingliang Yuan, Chunyang Chen 0001, Seong Oun Hwang
+  title: 'Typhon Unleashed: Practical Adversarial Weight Attacks Against On-Device
+    Deep Learning Models.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/HuangYCH26
+  doi: 10.1109/TDSC.2026.3666979
+  ee: https://doi.org/10.1109/TDSC.2026.3666979
+  url: https://dblp.org/rec/journals/tdsc/HuangYCH26
+- author: Daniele Lunghi, Yannick Molinghen, Alkis Simitsis, Tom Lenaerts, Gianluca
+    Bontempi
+  title: 'Fraud-RLA: A Reinforcement Learning Adversarial Attack Against Credit Card
+    Fraud Detection.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/LunghiMSLB26
+  doi: 10.1109/TDSC.2026.3673847
+  ee: https://doi.org/10.1109/TDSC.2026.3673847
+  url: https://dblp.org/rec/journals/tdsc/LunghiMSLB26
+- author: Fucai Yu, Xusheng Li, Yang Wu, Ziqiang Chang, Gaolei Fei, Xuemeng Zhai
+  title: Adversarial SQLi Detection Using Character-Level CNN and Reinforcement Learning.
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/YuLWCFZ26
+  doi: 10.1109/TDSC.2026.3669652
+  ee: https://doi.org/10.1109/TDSC.2026.3669652
+  url: https://dblp.org/rec/journals/tdsc/YuLWCFZ26
+- author: Jie Ma, Junqing Zhang, Guanxiong Shen, Alan Marshall 0001, Chip-Hong Chang
+  title: Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint
+    Identification.
+  venue: IEEE Trans. Mob. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tmc/MaZSMC26
+  doi: 10.1109/TMC.2025.3646257
+  ee: https://doi.org/10.1109/TMC.2025.3646257
+  url: https://dblp.org/rec/journals/tmc/MaZSMC26
+- author: Zihui Chen, Yuling Wang, Pengfei Jiao, Kai Wu, Xiao Wang 0017, Xiang Ao
+    0001, Dalin Zhang 0001
+  title: Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on
+    Text-Attributed Graphs.
+  venue: WWW
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/ChenWJWWAZ26
+  doi: 10.1145/3774904.3792502
+  ee: https://doi.org/10.1145/3774904.3792502
+  url: https://dblp.org/rec/conf/www/ChenWJWWAZ26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
