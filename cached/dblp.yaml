@@ -35452,6 +35452,42 @@ Adversarial%20Learning:
   doi: 10.1145/3774904.3792502
   ee: https://doi.org/10.1145/3774904.3792502
   url: https://dblp.org/rec/conf/www/ChenWJWWAZ26
+- author: Lianghuai Tong, Xiaojie Xu, Jinbing Zhuge, Bo Gao, Xing Chen, Xueyuan Peng,
+    Zhongchen Xu, Yasser D. Al-Otaibi, Kai Fang 0001
+  title: Fault Diagnosis of Drilling Equipment Under Complex Conditions Based on Domain-Adversarial
+    Transfer Learning.
+  venue: IEEE Internet Things J.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/TongXZGCPXAF26
+  doi: 10.1109/JIOT.2026.3669362
+  ee: https://doi.org/10.1109/JIOT.2026.3669362
+  url: https://dblp.org/rec/journals/iotj/TongXZGCPXAF26
+- author: Tian Xu 0003, Zhilong Zhang, Zexuan Chen, Ruishuo Chen, Yihao Sun, Yang
+    Yu 0001
+  title: 'Adversarial Imitation Learning With General Function Approximation: Theoretical
+    Analysis and Practical Algorithms.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/XuZCCSY26
+  doi: 10.1109/TPAMI.2026.3657578
+  ee: https://doi.org/10.1109/TPAMI.2026.3657578
+  url: https://dblp.org/rec/journals/pami/XuZCCSY26
+- author: Mahmood Safaei, Seyed Ahmad Soleymani, Shahla Asadi, Mitra Safaei, Shidrokh
+    Goudarzi
+  title: Detecting and Mitigating Adversarial Machine Learning Attacks in Autonomous
+    Vehicles Within the Internet of Vehicles.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/SafaeiSASG26
+  doi: 10.1109/TITS.2026.3652712
+  ee: https://doi.org/10.1109/TITS.2026.3652712
+  url: https://dblp.org/rec/journals/tits/SafaeiSASG26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -39703,3 +39739,14 @@ feature%20disentanglement:
   doi: 10.1109/ICCV51701.2025.01792
   ee: https://doi.org/10.1109/ICCV51701.2025.01792
   url: https://dblp.org/rec/conf/iccv/WongZWSZ25
+- author: Luigi Celona, Simone Bianco 0001, Paolo Napoletano
+  title: Cross-Camera Distracted Driver Classification Through Feature Disentanglement
+    and Contrastive Learning.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/CelonaBN26
+  doi: 10.1109/TITS.2026.3675161
+  ee: https://doi.org/10.1109/TITS.2026.3675161
+  url: https://dblp.org/rec/journals/tits/CelonaBN26
