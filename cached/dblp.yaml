@@ -35488,6 +35488,131 @@ Adversarial%20Learning:
   doi: 10.1109/TITS.2026.3652712
   ee: https://doi.org/10.1109/TITS.2026.3652712
   url: https://dblp.org/rec/journals/tits/SafaeiSASG26
+- author: Ahmed Abd El Moaty Mohamed Gouda, Ehab K. I. Hamad, Mohamed A. Ismeil, M.
+    Mourad Mabrook, Ahmed Abd El-Baset Donkol
+  title: 'Robust Adversarial Defense for Deep Learning-Based Beamforming in Next-Generation
+    Wireless Networks: Knowledge Distillation Meets TRADES.'
+  venue: IEEE Access
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/access/GoudaHIMD26
+  doi: 10.1109/ACCESS.2026.3692982
+  ee: https://doi.org/10.1109/ACCESS.2026.3692982
+  url: https://dblp.org/rec/journals/access/GoudaHIMD26
+- author: Ahmad Hoirul Basori, Sami Alesawi, Andi Besse Firdausiah Mansur, Purbandini
+    P, Anas Waleed Abulfaraj, Sharaf J. Malebary
+  title: Multi-stage deep transfer learning with style generative adversarial network
+    (StyleGAN) for abnormality localization of chest radiographs.
+  venue: Array
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/array/BasoriAMPAM26
+  doi: 10.1016/J.ARRAY.2026.100836
+  ee: https://doi.org/10.1016/j.array.2026.100836
+  url: https://dblp.org/rec/journals/array/BasoriAMPAM26
+- author: Eiman Tamah Al-Shammari
+  title: 'Adversarial threat evaluation of machine learning-based phishing detectors:
+    a cybersecurity-focused black-box perspective.'
+  venue: Int. J. Inf. Comput. Secur.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijics/AlShammari26
+  doi: 10.1504/IJICS.2026.153346
+  ee: https://doi.org/10.1504/IJICS.2026.153346
+  url: https://dblp.org/rec/journals/ijics/AlShammari26
+- author: Cynara Justine, Sathyanarayanan Manamohan, Linu Shine, Jiji Charangatt Victor
+  title: 'SwarmShield: A Fully Decentralized Trust-Based Defense Against Adversarial
+    Poisoning in Federated Learning.'
+  venue: Informatica
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/informaticaSI/JustineMSV26
+  doi: 10.31449/INF.V50I9.9501
+  ee: https://doi.org/10.31449/inf.v50i9.9501
+  url: https://dblp.org/rec/journals/informaticaSI/JustineMSV26
+- author: Siyu Chen 0046, Jiongyi Yang, Xiang Chen 0005, Menglin Zheng, Minnan Wei,
+    Xiaolin Ju
+  title: Improving vulnerability type prediction and line-level detection via adversarial
+    training-based data augmentation and multi-task learning.
+  venue: Inf. Softw. Technol.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/infsof/ChenYCZWJ26
+  doi: 10.1016/J.INFSOF.2026.108175
+  ee: https://doi.org/10.1016/j.infsof.2026.108175
+  url: https://dblp.org/rec/journals/infsof/ChenYCZWJ26
+- author: Mohammad Daouk, Hien Van Nguyen, Chandra Mohan, Jan Ulrich Becker, Neeraja
+    Kambham, Anthony Chang
+  title: 'Shortcut Learning in Glomerular AI: Adversarial Penalties Hurt, Entropy
+    Helps.'
+  venue: ISBI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isbi/DaoukNMBKC26
+  doi: 10.1109/ISBI61048.2026.11515860
+  ee: https://doi.org/10.1109/ISBI61048.2026.11515860
+  url: https://dblp.org/rec/conf/isbi/DaoukNMBKC26
+- author: Zhenxuan Zhang, Peiyuan Jing, Zi Wang 0005, Ula Briski, Coraline Beitone,
+    Yue Yang, Yinzhe Wu 0001, Fanwen Wang, Liutao Yang, Jiahao Huang, Zhifan Gao,
+    Guang Yang 0006, Peter J. Lally
+  title: Pretext Task Adversarial Learning for Unpaired Low-Field to Ultra High-Field
+    MRI Synthesis.
+  venue: ISBI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isbi/ZhangJWBBYWWYHGYL26
+  doi: 10.1109/ISBI61048.2026.11515345
+  ee: https://doi.org/10.1109/ISBI61048.2026.11515345
+  url: https://dblp.org/rec/conf/isbi/ZhangJWBBYWWYHGYL26
+- author: Kerong Zhou
+  title: Dual-Domain Hierarchical Adversarial Learning for Semi-Supervised Multi-View
+    Fetal Cardiac Ultrasound Segmentation and Disease Classification.
+  venue: ISBI
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isbi/Zhou26
+  doi: 10.1109/ISBI61048.2026.11515560
+  ee: https://doi.org/10.1109/ISBI61048.2026.11515560
+  url: https://dblp.org/rec/conf/isbi/Zhou26
+- author: Hiroto Honda
+  title: Adversarial Pseudo-replay for Exemplar-free Class-incremental Learning.
+  venue: WACV
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/Honda26
+  doi: 10.1109/WACV61042.2026.00723
+  ee: https://doi.org/10.1109/WACV61042.2026.00723
+  url: https://dblp.org/rec/conf/wacv/Honda26
+- author: Minjun Kim, Minje Kim
+  title: 'HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with
+    Hierarchical Directional Alignment and Adversarial Knowledge Transfer.'
+  venue: WACV
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/KimK26
+  doi: 10.1109/WACV61042.2026.00329
+  ee: https://doi.org/10.1109/WACV61042.2026.00329
+  url: https://dblp.org/rec/conf/wacv/KimK26
+- author: Seongyun Seo, Sungmin Han, Jeonghyun Lee, Sangkyun Lee
+  title: Cluster-Guided Adversarial Perturbations for Robust Contrastive Learning.
+  venue: WACV
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/SeoHLL26
+  doi: 10.1109/WACV61042.2026.00042
+  ee: https://doi.org/10.1109/WACV61042.2026.00042
+  url: https://dblp.org/rec/conf/wacv/SeoHLL26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -39750,3 +39875,25 @@ feature%20disentanglement:
   doi: 10.1109/TITS.2026.3675161
   ee: https://doi.org/10.1109/TITS.2026.3675161
   url: https://dblp.org/rec/journals/tits/CelonaBN26
+- author: Xin Wu, Fei Teng 0001, Ji Zhang 0012, Xingwang Li 0003, Yuxuan Liang 0002
+  title: 'ERIS : An energy-guided feature disentanglement framework for out-of-distribution
+    time series classification.'
+  venue: Inf. Fusion
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/inffus/WuTZLL26
+  doi: 10.1016/J.INFFUS.2026.104407
+  ee: https://doi.org/10.1016/j.inffus.2026.104407
+  url: https://dblp.org/rec/journals/inffus/WuTZLL26
+- author: Shreya Biswas, Zhaozheng Yin
+  title: 'DOTGraph: CLIP-Driven Feature Disentanglement and Optimal Transport based
+    Graph Learning for Few-Shot Segmentation.'
+  venue: WACV
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/BiswasY26
+  doi: 10.1109/WACV61042.2026.00355
+  ee: https://doi.org/10.1109/WACV61042.2026.00355
+  url: https://dblp.org/rec/conf/wacv/BiswasY26
