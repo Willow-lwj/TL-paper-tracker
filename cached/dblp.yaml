@@ -35636,6 +35636,18 @@ Adversarial%20Learning:
   doi: 10.1007/S42484-026-00389-2
   ee: https://doi.org/10.1007/s42484-026-00389-2
   url: https://dblp.org/rec/journals/qmi/AlOthniAFZA26
+- author: Duc Dung Truong, Ba Hoang Pham, Dinh Tien Ta, Trong Nhan Phan, Thi Ai Thao
+    Nguyen
+  title: 'RADAR: Robust aggregation with dynamic adversarial-resilient routing decentralized
+    federated learning.'
+  venue: Int. J. Inf. Sec.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijisec/TruongPTPN26
+  doi: 10.1007/S10207-026-01257-7
+  ee: https://doi.org/10.1007/s10207-026-01257-7
+  url: https://dblp.org/rec/journals/ijisec/TruongPTPN26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
