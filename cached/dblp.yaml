@@ -35648,6 +35648,16 @@ Adversarial%20Learning:
   doi: 10.1007/S10207-026-01257-7
   ee: https://doi.org/10.1007/s10207-026-01257-7
   url: https://dblp.org/rec/journals/ijisec/TruongPTPN26
+- author: Weiliang Chen 0001, Qianqian Ren, Yong Liu 0029, Jianguo Sun, Feng Lin 0004
+  title: Adversarial Self-Supervised Learning for Secure and Robust Urban Region Profiling.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ChenRLSL25
+  doi: 10.1109/TIFS.2025.3594165
+  ee: https://doi.org/10.1109/TIFS.2025.3594165
+  url: https://dblp.org/rec/journals/tifs/ChenRLSL25
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
