@@ -35680,6 +35680,59 @@ Adversarial%20Learning:
   doi: 10.1109/TIFS.2025.3594165
   ee: https://doi.org/10.1109/TIFS.2025.3594165
   url: https://dblp.org/rec/journals/tifs/ChenRLSL25
+- author: Anil Kumar Singh, Abhishek Singh, Manish Gaur, Manik Chandra
+  title: A trust-aware federated autoencoder framework for adversarial robust learning
+    with abstract interpretation.
+  venue: Knowl. Inf. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kais/SinghSGC26
+  doi: 10.1007/S10115-026-02740-2
+  ee: https://doi.org/10.1007/s10115-026-02740-2
+  url: https://dblp.org/rec/journals/kais/SinghSGC26
+- author: Ramkrishna Acharya, Loui Al Sardy, Mamdouh Muhammad, Reinhard German
+  title: 'ADVIS-G: An Adversarially Defended Intrusion Detection System for Smart
+    Grids Using Deep Learning.'
+  venue: "K\xFCnstliche Intell."
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ki/AcharyaSMG26
+  doi: 10.1007/S13218-026-00905-3
+  ee: https://doi.org/10.1007/s13218-026-00905-3
+  url: https://dblp.org/rec/journals/ki/AcharyaSMG26
+- author: Ruize Zhang, Yu Li, Juan Cao 0001, Sheng Tang
+  title: Semi-supervised adversarial training via disentangled contrastive learning.
+  venue: Multim. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/mms/ZhangLCT26
+  doi: 10.1007/S00530-026-02343-5
+  ee: https://doi.org/10.1007/s00530-026-02343-5
+  url: https://dblp.org/rec/journals/mms/ZhangLCT26
+- author: Tian Xu, Zhilong Zhang, Zexuan Chen, Ruishuo Chen, Yihao Sun, Yang Yu
+  title: 'Adversarial Imitation Learning with General Function Approximation: Theoretical
+    Analysis and Practical Algorithms.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-01778
+  doi: 10.48550/ARXIV.2605.01778
+  ee: https://doi.org/10.48550/arXiv.2605.01778
+  url: https://dblp.org/rec/journals/corr/abs-2605-01778
+- author: Nawapon Sangsiri, Yufei Tao
+  title: Distributed Learning with Adversarial Gradient Perturbations.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-03313
+  doi: 10.48550/ARXIV.2605.03313
+  ee: https://doi.org/10.48550/arXiv.2605.03313
+  url: https://dblp.org/rec/journals/corr/abs-2605-03313
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
