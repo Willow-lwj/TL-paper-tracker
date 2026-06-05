@@ -4249,6 +4249,28 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.ESWA.2026.132270
   ee: https://doi.org/10.1016/j.eswa.2026.132270
   url: https://dblp.org/rec/journals/eswa/SinghGKA26
+- author: Yiwen Liu, Minghua Wang, Jing Yao 0002, Xin Zhao, Gemine Vivone
+  title: 'SoDa2: Single-Stage Open-Set Domain Adaptation via Decoupled Alignment for
+    Cross-Scene Hyperspectral Image Classification.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-03371
+  doi: 10.48550/ARXIV.2605.03371
+  ee: https://doi.org/10.48550/arXiv.2605.03371
+  url: https://dblp.org/rec/journals/corr/abs-2605-03371
+- author: Sapna Sachan, Rakesh Kumar Sanodiya, Amulya Kumar Mahto
+  title: A Robust Unsupervised Domain Adaptation Framework for Medical Image Classification
+    Using RKHS-MMD.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-03787
+  doi: 10.48550/ARXIV.2605.03787
+  ee: https://doi.org/10.48550/arXiv.2605.03787
+  url: https://dblp.org/rec/journals/corr/abs-2605-03787
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -39942,3 +39964,15 @@ feature%20disentanglement:
   doi: 10.1109/WACV61042.2026.00355
   ee: https://doi.org/10.1109/WACV61042.2026.00355
   url: https://dblp.org/rec/conf/wacv/BiswasY26
+- author: Zhuoyi Yu, Guanmeng Xian, Qianmengke Zhao, Hong Yu 0007, Xiao Li, Ye Wang
+    0006
+  title: Multi-task learning with hierarchical feature disentanglement for low-exposure
+    facial recognition in smart cockpits.
+  venue: Neural Comput. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/YuXZYLW26
+  doi: 10.1007/S00521-026-12107-X
+  ee: https://doi.org/10.1007/s00521-026-12107-x
+  url: https://dblp.org/rec/journals/nca/YuXZYLW26
