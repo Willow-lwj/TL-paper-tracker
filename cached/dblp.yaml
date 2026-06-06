@@ -35733,6 +35733,52 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2605.03313
   ee: https://doi.org/10.48550/arXiv.2605.03313
   url: https://dblp.org/rec/journals/corr/abs-2605-03313
+- author: Kishore Bhamidipati, Venkatesh Arjunasa Bhandage, Sekharamahanti S. Nandini,
+    Venubabu Rachapudi, Satish Muppidi
+  title: Hybrid deep learning network enabled brain tumor detection with shape-aware
+    loss-based structure correcting adversarial network using MRI.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/BhamidipatiBNRM26
+  doi: 10.1016/J.BSPC.2026.110446
+  ee: https://doi.org/10.1016/j.bspc.2026.110446
+  url: https://dblp.org/rec/journals/bspc/BhamidipatiBNRM26
+- author: Xiaoman Xing, Xinpeng Wang, Jinhui Zhang, Shuchen Yang, Wei Gu, Wen-fei
+    Dong
+  title: A self-calibrating framework for cuffless blood pressure monitoring leveraging
+    gradient-convergence and adversarial machine learning.
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/XingWZYGD26
+  doi: 10.1016/J.BSPC.2026.110453
+  ee: https://doi.org/10.1016/j.bspc.2026.110453
+  url: https://dblp.org/rec/journals/bspc/XingWZYGD26
+- author: Chao Liu, Renkang Wang, Wenbin Che
+  title: Robust multi-modal segmentation via Cosine Contrastive adversarial attacks
+    and meta-learning adaptation.
+  venue: Signal Process. Image Commun.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/spic/LiuWC26
+  doi: 10.1016/J.IMAGE.2026.117581
+  ee: https://doi.org/10.1016/j.image.2026.117581
+  url: https://dblp.org/rec/journals/spic/LiuWC26
+- author: Zan Xu, Wengui Cao, Chao Zhang, Wei Zhou, Tao Liu, Min He
+  title: A deep and shallow Adaptive Feature Fusion Method for Image Stylization via
+    Adversarial Learning.
+  venue: Signal Process. Image Commun.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/spic/XuCZZLH26
+  doi: 10.1016/J.IMAGE.2026.117560
+  ee: https://doi.org/10.1016/j.image.2026.117560
+  url: https://dblp.org/rec/journals/spic/XuCZZLH26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -40029,3 +40075,37 @@ feature%20disentanglement:
   doi: 10.1007/S00521-026-12107-X
   ee: https://doi.org/10.1007/s00521-026-12107-x
   url: https://dblp.org/rec/journals/nca/YuXZYLW26
+- author: Soobin Cha, Jungmin Lee, Jongmin Lim, Jaehun Park, Kwangsu Kim
+  title: Label-agnostic, Representation-Level Machine Unlearning via feature disentanglement.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChaLLPK26
+  doi: 10.1016/J.KNOSYS.2026.116283
+  ee: https://doi.org/10.1016/j.knosys.2026.116283
+  url: https://dblp.org/rec/journals/kbs/ChaLLPK26
+- author: Zhenguang Liu, Xinyang Yu, Ruili Wang 0001, Shuai Ye, Zhe Ma 0002, Jianfeng
+    Dong, Sifeng He, Feng Qian 0006, Xiaobo Zhang, Roger Zimmermann, Lei Yang 0061
+  title: Video Infringement Detection via Feature Disentanglement and Mutual Information
+    Maximization.
+  venue: ACM Multimedia
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/LiuYWYMDHQZZY23
+  doi: 10.1145/3581783.3612002
+  ee: https://doi.org/10.1145/3581783.3612002
+  url: https://dblp.org/rec/conf/mm/LiuYWYMDHQZZY23
+- author: Zhenguang Liu, Xinyang Yu, Ruili Wang 0001, Shuai Ye, Zhe Ma 0002, Jianfeng
+    Dong, Sifeng He, Feng Qian 0006, Xiaobo Zhang, Roger Zimmermann, Lei Yang 0061
+  title: Video Infringement Detection via Feature Disentanglement and Mutual Information
+    Maximization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-06877
+  doi: 10.48550/ARXIV.2309.06877
+  ee: https://doi.org/10.48550/arXiv.2309.06877
+  url: https://dblp.org/rec/journals/corr/abs-2309-06877
