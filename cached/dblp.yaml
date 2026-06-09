@@ -4271,6 +4271,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2605.03787
   ee: https://doi.org/10.48550/arXiv.2605.03787
   url: https://dblp.org/rec/journals/corr/abs-2605-03787
+- author: Yiwen Liu, Minghua Wang, Jing Yao 0002, Xin Zhao 0010, Gemine Vivone
+  title: 'SoDa2: Single-Stage Open-Set Domain Adaptation via Decoupled Alignment for
+    Cross-Scene Hyperspectral Image Classification.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-03371
+  doi: 10.48550/ARXIV.2605.03371
+  ee: https://doi.org/10.48550/arXiv.2605.03371
+  url: https://dblp.org/rec/journals/corr/abs-2605-03371
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
