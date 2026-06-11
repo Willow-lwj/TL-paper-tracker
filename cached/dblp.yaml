@@ -40120,3 +40120,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2309.06877
   ee: https://doi.org/10.48550/arXiv.2309.06877
   url: https://dblp.org/rec/journals/corr/abs-2309-06877
+- author: Yuxia Geng, Runkai Zhu, Jiaoyan Chen 0001, Jintai Chen, Xiang Chen 0016,
+    Zhuo Chen 0007, Shuofei Qiao, Yuxiang Wang 0001, Xiaoliang Xu, Sheng-Jun Huang
+  title: Graph-guided Cross-composition Feature Disentanglement for Compositional
+    Zero-shot Learning.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/GengZ0C00Q0XH25
+  doi: 10.18653/V1/2025.FINDINGS-ACL.137
+  ee: https://doi.org/10.18653/v1/2025.findings-acl.137
+  url: https://dblp.org/rec/conf/acl/GengZ0C00Q0XH25
