@@ -35790,6 +35790,17 @@ Adversarial%20Learning:
   doi: 10.1016/J.IMAGE.2026.117560
   ee: https://doi.org/10.1016/j.image.2026.117560
   url: https://dblp.org/rec/journals/spic/XuCZZLH26
+- author: Sunwoo Lee 0006, Mingu Kang, Yonghyeon Jo, Seungyul Han
+  title: Interaction-Breaking Adversarial Learning Framework for Robust Multi-Agent
+    Reinforcement Learning.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-18024
+  doi: 10.48550/ARXIV.2605.18024
+  ee: https://doi.org/10.48550/arXiv.2605.18024
+  url: https://dblp.org/rec/journals/corr/abs-2605-18024
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -40132,3 +40143,14 @@ feature%20disentanglement:
   doi: 10.18653/V1/2025.FINDINGS-ACL.137
   ee: https://doi.org/10.18653/v1/2025.findings-acl.137
   url: https://dblp.org/rec/conf/acl/GengZ0C00Q0XH25
+- author: "Tobias Wei\xDFberg, Weikang Wang 0004, Paul Roetzer, Nafie El Amrani, Florian\
+    \ Bernard 0001"
+  title: Symmetry Informative and Agnostic Feature Disentanglement for 3D Shapes.
+  venue: 3DV
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/3dim/WeissbergWRAB26
+  doi: 10.1109/3DV69130.2026.00025
+  ee: https://doi.org/10.1109/3DV69130.2026.00025
+  url: https://dblp.org/rec/conf/3dim/WeissbergWRAB26
