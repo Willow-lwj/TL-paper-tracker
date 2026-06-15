@@ -35812,6 +35812,17 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2605.21915
   ee: https://doi.org/10.48550/arXiv.2605.21915
   url: https://dblp.org/rec/journals/corr/abs-2605-21915
+- author: Qihao Liu, Luoxin Ye, Wufei Ma, Yu-Cheng Chou, Alan L. Yuille
+  title: 'Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial
+    Reinforcement Learning.'
+  venue: CoRR
+  year: '2025'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2512-16917
+  doi: 10.48550/ARXIV.2512.16917
+  ee: https://doi.org/10.48550/arXiv.2512.16917
+  url: https://dblp.org/rec/journals/corr/abs-2512-16917
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36158,6 +36169,17 @@ domain%20%feature%alignment:
   doi: 10.1109/TIFS.2025.3630037
   ee: https://doi.org/10.1109/TIFS.2025.3630037
   url: https://dblp.org/rec/journals/tifs/WenZXLZS25
+- author: Wenjie Mao, Bin Yu 0011, Chen Zhang 0015, Yu Xie 0009
+  title: Federated Multi-source Domain Adaptation via Contrastive Cross-domain Semantic
+    Alignment with Adversarial Feature Augmentation.
+  venue: ACM Trans. Knowl. Discov. Data
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tkdd/MaoYZX26
+  doi: 10.1145/3805032
+  ee: https://doi.org/10.1145/3805032
+  url: https://dblp.org/rec/journals/tkdd/MaoYZX26
 feature%20disentanglement:
 - author: Nuoyan Zhou, Dawei Zhou 0004, Decheng Liu, Nannan Wang 0001, Xinbo Gao 0001
   title: Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement.
@@ -40165,3 +40187,15 @@ feature%20disentanglement:
   doi: 10.1109/3DV69130.2026.00025
   ee: https://doi.org/10.1109/3DV69130.2026.00025
   url: https://dblp.org/rec/conf/3dim/WeissbergWRAB26
+- author: Delong Kong, Shichao Zhang, Xiang Yu, Yanshuang Lu, Shanshan Yang, Jiahua
+    Zhang 0001
+  title: Ultralightweight progressive feature disentanglement and recomposition network
+    for hyperspectral image classification.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/KongZYLYZ26
+  doi: 10.1016/J.NEUNET.2026.109200
+  ee: https://doi.org/10.1016/j.neunet.2026.109200
+  url: https://dblp.org/rec/journals/nn/KongZYLYZ26
