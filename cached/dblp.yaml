@@ -40199,3 +40199,15 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUNET.2026.109200
   ee: https://doi.org/10.1016/j.neunet.2026.109200
   url: https://dblp.org/rec/journals/nn/KongZYLYZ26
+- author: Delong Kong, Shichao Zhang 0002, Xiang Yu, Yanshuang Lu, Shanshan Yang,
+    Jiahua Zhang 0001
+  title: Ultralightweight progressive feature disentanglement and recomposition network
+    for hyperspectral image classification.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/KongZYLYZ26
+  doi: 10.1016/J.NEUNET.2026.109200
+  ee: https://doi.org/10.1016/j.neunet.2026.109200
+  url: https://dblp.org/rec/journals/nn/KongZYLYZ26
