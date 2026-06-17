@@ -40211,3 +40211,13 @@ feature%20disentanglement:
   doi: 10.1016/J.NEUNET.2026.109200
   ee: https://doi.org/10.1016/j.neunet.2026.109200
   url: https://dblp.org/rec/journals/nn/KongZYLYZ26
+- author: Zhiyang Lu, Ming Cheng 0002
+  title: Text-guided Feature Disentanglement for Cross-modal Gait Recognition.
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2605-30784
+  doi: 10.48550/ARXIV.2605.30784
+  ee: https://doi.org/10.48550/arXiv.2605.30784
+  url: https://dblp.org/rec/journals/corr/abs-2605-30784
