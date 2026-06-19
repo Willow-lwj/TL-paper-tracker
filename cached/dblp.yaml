@@ -40232,3 +40232,14 @@ feature%20disentanglement:
   doi: 10.1007/S10115-025-02460-Z
   ee: https://doi.org/10.1007/s10115-025-02460-z
   url: https://dblp.org/rec/journals/kais/LiuZWZ25
+- author: Renyuan Liu, Xuejie Zhang 0002, Jin Wang 0008, Xiaobing Zhou
+  title: Feature disentanglement, selection, and reaggregation method for multi-task
+    learning.
+  venue: Knowl. Inf. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kais/LiuZWZ25
+  doi: 10.1007/S10115-025-02460-Z
+  ee: https://doi.org/10.1007/s10115-025-02460-z
+  url: https://dblp.org/rec/journals/kais/LiuZWZ25
