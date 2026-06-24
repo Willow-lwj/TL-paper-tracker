@@ -4282,6 +4282,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.48550/ARXIV.2605.03371
   ee: https://doi.org/10.48550/arXiv.2605.03371
   url: https://dblp.org/rec/journals/corr/abs-2605-03371
+- author: Yuke Meng, Zhanliang Yuan, Jian Yang, Peizhuo Liu, Jian Yan 0011, Hongbo
+    Zhu 0006, Zhigao Ma, Zhenzhao Jiang, Zhouwei Zhang, Xiaofei Mi
+  title: Cross-Domain Land Cover Classification of Remote Sensing Images Based on
+    Full-Level Domain Adaptation.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/MengYYLYZMJZM24
+  doi: 10.1109/JSTARS.2024.3407808
+  ee: https://doi.org/10.1109/JSTARS.2024.3407808
+  url: https://dblp.org/rec/journals/staeors/MengYYLYZMJZM24
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -40243,3 +40255,25 @@ feature%20disentanglement:
   doi: 10.1007/S10115-025-02460-Z
   ee: https://doi.org/10.1007/s10115-025-02460-z
   url: https://dblp.org/rec/journals/kais/LiuZWZ25
+- author: Muhammad Idrees, Ying Huang 0004, Ailin Li
+  title: Degradation-aware feature disentanglement for task-conditioned all-in-one
+    image restoration.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/IdreesHL26
+  doi: 10.1016/J.NEUCOM.2026.134206
+  ee: https://doi.org/10.1016/j.neucom.2026.134206
+  url: https://dblp.org/rec/journals/ijon/IdreesHL26
+- author: Meng Zhang, Yina Guo, Hong Shangguan, Xin Liu
+  title: Feature disentanglement in speech separation with channel-temporal fusion
+    attention and dual-domain prototypes.
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangGSL26
+  doi: 10.1016/J.INS.2026.123695
+  ee: https://doi.org/10.1016/j.ins.2026.123695
+  url: https://dblp.org/rec/journals/isci/ZhangGSL26
