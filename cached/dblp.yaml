@@ -40277,3 +40277,35 @@ feature%20disentanglement:
   doi: 10.1016/J.INS.2026.123695
   ee: https://doi.org/10.1016/j.ins.2026.123695
   url: https://dblp.org/rec/journals/isci/ZhangGSL26
+- author: Meng Zhang 0031, Yina Guo, Hong Shangguan, Xin Liu
+  title: Feature disentanglement in speech separation with channel-temporal fusion
+    attention and dual-domain prototypes.
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangGSL26
+  doi: 10.1016/J.INS.2026.123695
+  ee: https://doi.org/10.1016/j.ins.2026.123695
+  url: https://dblp.org/rec/journals/isci/ZhangGSL26
+- author: Xuan Zhou, Zongyong Deng, Sirui Zhou, Qijun Zhao, Lanfei Qiao
+  title: Generic Deepfake Feature Space Discovery via Coarse-to-Fine Disentanglement
+    Learning.
+  venue: FG
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/fgr/ZhouDZZQ26
+  doi: 10.1109/FG67764.2026.11556964
+  ee: https://doi.org/10.1109/FG67764.2026.11556964
+  url: https://dblp.org/rec/conf/fgr/ZhouDZZQ26
+- author: Shunan Mao, Gang Shen, Xuefei Lv, Ziwei Liu, Shiliang Zhang
+  title: Binary Descriptor Learning via Diffusion-based Feature Disentanglement.
+  venue: ISCAS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iscas/MaoSLLZ26
+  doi: 10.1109/ISCAS66217.2026.11562166
+  ee: https://doi.org/10.1109/ISCAS66217.2026.11562166
+  url: https://dblp.org/rec/conf/iscas/MaoSLLZ26
