@@ -4294,6 +4294,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2024.3407808
   ee: https://doi.org/10.1109/JSTARS.2024.3407808
   url: https://dblp.org/rec/journals/staeors/MengYYLYZMJZM24
+- author: Ying Wu, Hao Huang, Bo Xu 0019
+  title: 'EMD-DAAN: A Wasserstein Distance-Based Dynamic Adversarial Domain Adaptation
+    Network Model for Breast Ultrasound Image Classification.'
+  venue: IET Image Process.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/iet-ipr/WuHX25
+  doi: 10.1049/IPR2.70096
+  ee: https://doi.org/10.1049/ipr2.70096
+  url: https://dblp.org/rec/journals/iet-ipr/WuHX25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -35835,6 +35846,20 @@ Adversarial%20Learning:
   doi: 10.48550/ARXIV.2512.16917
   ee: https://doi.org/10.48550/arXiv.2512.16917
   url: https://dblp.org/rec/journals/corr/abs-2512-16917
+- author: Gabriel Sauger
+  title: "Adversarial Attacks Against Machine-Learning-Based Binary Code Analysis:\
+    \ A Zero-Query Black-Box Mimicry Attack Study. (Attaques adversariales contre\
+    \ les techniques d&apos;analyse de code binaire bas\xE9es sur l&apos;apprentissage\
+    \ automatique: \xE9tude d&apos;une attaque par imitation en bo\xEEte noire sans\
+    \ requ\xEAte)."
+  venue: ''
+  year: '2026'
+  type: Books and Theses
+  access: closed
+  key: phd/hal/Sauger26
+  doi: ''
+  ee: https://tel.archives-ouvertes.fr/tel-05599534
+  url: https://dblp.org/rec/phd/hal/Sauger26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -36188,6 +36213,17 @@ domain%20%feature%alignment:
   year: '2026'
   type: Journal Articles
   access: closed
+  key: journals/tkdd/MaoYZX26
+  doi: 10.1145/3805032
+  ee: https://doi.org/10.1145/3805032
+  url: https://dblp.org/rec/journals/tkdd/MaoYZX26
+- author: Wenjie Mao, Bin Yu 0011, Chen Zhang 0015, Yu Xie 0009
+  title: Federated Multi-source Domain Adaptation via Contrastive Cross-domain Semantic
+    Alignment with Adversarial Feature Augmentation.
+  venue: ACM Trans. Knowl. Discov. Data
+  year: '2026'
+  type: Journal Articles
+  access: open
   key: journals/tkdd/MaoYZX26
   doi: 10.1145/3805032
   ee: https://doi.org/10.1145/3805032
@@ -40309,3 +40345,24 @@ feature%20disentanglement:
   doi: 10.1109/ISCAS66217.2026.11562166
   ee: https://doi.org/10.1109/ISCAS66217.2026.11562166
   url: https://dblp.org/rec/conf/iscas/MaoSLLZ26
+- author: Soobin Cha, Jungmin Lee, Jongmin Lim, Jaehun Park, Kwangsu Kim
+  title: Label-agnostic, Representation-Level Machine Unlearning via feature disentanglement.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/kbs/ChaLLPK26
+  doi: 10.1016/J.KNOSYS.2026.116283
+  ee: https://doi.org/10.1016/j.knosys.2026.116283
+  url: https://dblp.org/rec/journals/kbs/ChaLLPK26
+- author: Luigi Celona, Simone Bianco 0001, Paolo Napoletano
+  title: Cross-Camera Distracted Driver Classification Through Feature Disentanglement
+    and Contrastive Learning.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/tits/CelonaBN26
+  doi: 10.1109/TITS.2026.3675161
+  ee: https://doi.org/10.1109/TITS.2026.3675161
+  url: https://dblp.org/rec/journals/tits/CelonaBN26
