@@ -40366,3 +40366,14 @@ feature%20disentanglement:
   doi: 10.1109/TITS.2026.3675161
   ee: https://doi.org/10.1109/TITS.2026.3675161
   url: https://dblp.org/rec/journals/tits/CelonaBN26
+- author: Jinxiong Zhang, Hedong Xu, Chunyan Tang, Dandan Ni, Xuyang Shen
+  title: 'MDCDR: predicting cancer drug response via multimodal feature fusion and
+    feature disentanglement.'
+  venue: Briefings Bioinform.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/bib/ZhangXTNS26
+  doi: 10.1093/BIB/BBAG299
+  ee: https://doi.org/10.1093/bib/bbag299
+  url: https://dblp.org/rec/journals/bib/ZhangXTNS26
