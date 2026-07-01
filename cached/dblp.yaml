@@ -4305,6 +4305,18 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1049/IPR2.70096
   ee: https://doi.org/10.1049/ipr2.70096
   url: https://dblp.org/rec/journals/iet-ipr/WuHX25
+- author: Xue Zhang, Guoguo Yang, Hongjun Su, Yiping Chen 0002, Zhaohui Xue, Qian
+    Du 0001
+  title: Spectral-Spatial Ensemble Low-Rank Domain Adaptation for Hyperspectral Image
+    Classification.
+  venue: IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: open
+  key: journals/staeors/ZhangYSCXD25
+  doi: 10.1109/JSTARS.2024.3502253
+  ee: https://doi.org/10.1109/JSTARS.2024.3502253
+  url: https://dblp.org/rec/journals/staeors/ZhangYSCXD25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
