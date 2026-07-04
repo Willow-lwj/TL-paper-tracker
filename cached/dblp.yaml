@@ -35872,6 +35872,17 @@ Adversarial%20Learning:
   doi: ''
   ee: https://tel.archives-ouvertes.fr/tel-05599534
   url: https://dblp.org/rec/phd/hal/Sauger26
+- author: Jin-Hao Ruan, Zhongliang Zhang 0001, Wan-An Liu, Yuan-Peng Ruan, Qiang Xiong
+  title: 'SADFL: Spectral Anomaly Detection with adversarial learning in Federated
+    Learning for defending malicious client attacks.'
+  venue: Inf. Process. Manag.
+  year: '2027'
+  type: Journal Articles
+  access: closed
+  key: journals/ipm/RuanZLRX27
+  doi: 10.1016/J.IPM.2026.104973
+  ee: https://doi.org/10.1016/j.ipm.2026.104973
+  url: https://dblp.org/rec/journals/ipm/RuanZLRX27
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
