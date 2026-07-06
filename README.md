@@ -13,6 +13,7 @@ This repository:
 
 | Index | Year | type | Title | Authors | Venue | DOI |
 |-------|------|------|-------|---------|-------|-----|
+| [3637](https://doi.org/10.1016/j.ipm.2026.104973) | 2027 | Journal Articles | SADFL: Spectral Anomaly Detection with adversarial learning in Federated Learning for defending malicious client attacks. | Jin-Hao Ruan, Zhongliang Zhang 0001, Wan-An Liu, Yuan-Peng Ruan, Qiang Xiong | Inf. Process. Manag. | 10.1016/J.IPM.2026.104973 |
 | [3636](https://doi.org/10.1016/j.eswa.2025.129248) | 2026 | Journal Articles | DA-QuadViT: A domain adaptation motor imagery classification model based on a novel Quadruple ViT structure. | Zhenxi Zhao, Yingyu Cao, Hongbin Yu, Junfen Huang | Expert Syst. Appl. | 10.1016/J.ESWA.2025.129248 |
 | [3635](https://doi.org/10.1016/j.neucom.2025.132470) | 2026 | Journal Articles | Zero-shot domain adaptation for remote sensing image classification with vision-language models. | Ziyao Wang, Chengxuan Pei, Xianping Ma, Man-On Pun | Neurocomputing | 10.1016/J.NEUCOM.2025.132470 |
 | [3634](https://doi.org/10.48550/arXiv.2601.17228) | 2026 | Informal and Other Publications | Semi-Supervised Domain Adaptation with Latent Diffusion for Pathology Image Classification. | Tengyue Zhang, Ruiwen Ding, Luoting Zhuang, Yuxiao Wu, Erika Rodriguez, William Hsu | CoRR | 10.48550/ARXIV.2601.17228 |

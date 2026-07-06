@@ -4317,6 +4317,28 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JSTARS.2024.3502253
   ee: https://doi.org/10.1109/JSTARS.2024.3502253
   url: https://dblp.org/rec/journals/staeors/ZhangYSCXD25
+- author: Bidhi Kataruka, M. Gurupriya
+  title: Cross-domain malware image classification using unified deep learning and
+    domain adaptation models.
+  venue: J. Comput. Virol. Hacking Tech.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/virology/KatarukaG26
+  doi: 10.1007/S11416-026-00625-0
+  ee: https://doi.org/10.1007/s11416-026-00625-0
+  url: https://dblp.org/rec/journals/virology/KatarukaG26
+- author: Jiacheng Zhang, Haolan Zhang, Youpeng Yang
+  title: 'Generative diffusion meets domain adaptation: a framework for EEG cross-subject
+    motor imagery classification.'
+  venue: Brain Informatics
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/braininf/ZhangZY26
+  doi: 10.1186/S40708-026-00308-Y
+  ee: https://doi.org/10.1186/s40708-026-00308-y
+  url: https://dblp.org/rec/journals/braininf/ZhangZY26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -40400,3 +40422,14 @@ feature%20disentanglement:
   doi: 10.1093/BIB/BBAG299
   ee: https://doi.org/10.1093/bib/bbag299
   url: https://dblp.org/rec/journals/bib/ZhangXTNS26
+- author: Zichuan Yu, Hongyu Ge, Lu Tang, Xusheng Tang, Hongyuan Liu
+  title: Explicit Feature Disentanglement for Cross-Receiver Radio Frequency Fingerprint
+    Identification.
+  venue: IEEE Commun. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/icl/YuGTTL26
+  doi: 10.1109/LCOMM.2026.3701824
+  ee: https://doi.org/10.1109/LCOMM.2026.3701824
+  url: https://dblp.org/rec/journals/icl/YuGTTL26
