@@ -40433,3 +40433,14 @@ feature%20disentanglement:
   doi: 10.1109/LCOMM.2026.3701824
   ee: https://doi.org/10.1109/LCOMM.2026.3701824
   url: https://dblp.org/rec/journals/icl/YuGTTL26
+- author: Bin Wang, Fadi Dornaika
+  title: 'OSCS-SupCon: Orthogonal Sigmoid-based Common and Style Supervised Contrastive
+    Learning for Robust Feature Disentanglement.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2606-11233
+  doi: 10.48550/ARXIV.2606.11233
+  ee: https://doi.org/10.48550/arXiv.2606.11233
+  url: https://dblp.org/rec/journals/corr/abs-2606-11233
