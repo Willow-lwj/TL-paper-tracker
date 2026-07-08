@@ -35905,6 +35905,17 @@ Adversarial%20Learning:
   doi: 10.1016/J.IPM.2026.104973
   ee: https://doi.org/10.1016/j.ipm.2026.104973
   url: https://dblp.org/rec/journals/ipm/RuanZLRX27
+- author: Shunchang Su, Xianghong Lin, Hengji Teng, Manjie Hu, Shuai Liu, Liping Wei
+  title: 'CA-DASCLNet: A deep learning framework for cross-subject EEG emotion recognition
+    via joint domain-adversarial and contrastive learning.'
+  venue: Biomed. Signal Process. Control.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/bspc/SuLTHLW26
+  doi: 10.1016/J.BSPC.2026.110843
+  ee: https://doi.org/10.1016/j.bspc.2026.110843
+  url: https://dblp.org/rec/journals/bspc/SuLTHLW26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
