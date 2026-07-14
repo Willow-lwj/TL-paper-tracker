@@ -40455,3 +40455,14 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2606.11233
   ee: https://doi.org/10.48550/arXiv.2606.11233
   url: https://dblp.org/rec/journals/corr/abs-2606-11233
+- author: Guangli Li, Zhihao He, Qian Xiao, Fanou Yang, Jianguo Wu, Renzhong Wu, Jingqin
+    Lv, Gongning Luo, Shiying Zeng, Yitao Zhang, Hongbin Zhang
+  title: Expert-guided bipolar feature disentanglement for multimodal survival prediction.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LiHXYWWLLZZZ26
+  doi: 10.1016/J.PATCOG.2026.114392
+  ee: https://doi.org/10.1016/j.patcog.2026.114392
+  url: https://dblp.org/rec/journals/pr/LiHXYWWLLZZZ26
