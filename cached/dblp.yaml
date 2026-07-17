@@ -36284,6 +36284,30 @@ domain%20%feature%alignment:
   doi: 10.1145/3805032
   ee: https://doi.org/10.1145/3805032
   url: https://dblp.org/rec/journals/tkdd/MaoYZX26
+- author: Chen Zhang 0036, Yinghua Wang, Hongwei Liu 0001, Siyuan Wang 0016, Xiaoting
+    Zhang, Chunhui Qu
+  title: 'MFJA: Unsupervised Domain Adaptation Based on Multimodal Feature Fusion
+    and Global-Local Joint Alignment for SAR ATR.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhangWLWZQ25
+  doi: 10.1109/TGRS.2025.3580851
+  ee: https://doi.org/10.1109/TGRS.2025.3580851
+  url: https://dblp.org/rec/journals/tgrs/ZhangWLWZQ25
+- author: Chen Zhang 0036, Yinghua Wang, Hongwei Liu 0001, Yuanshuang Sun, Siyuan
+    Wang 0016
+  title: 'VSFA: Visual and Scattering Topological Feature Fusion and Alignment Network
+    for Unsupervised Domain Adaptation in SAR Target Recognition.'
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/ZhangWLSW23
+  doi: 10.1109/TGRS.2023.3317828
+  ee: https://doi.org/10.1109/TGRS.2023.3317828
+  url: https://dblp.org/rec/journals/tgrs/ZhangWLSW23
 feature%20disentanglement:
 - author: Nuoyan Zhou, Dawei Zhou 0004, Decheng Liu, Nannan Wang 0001, Xinbo Gao 0001
   title: Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement.
@@ -40477,3 +40501,25 @@ feature%20disentanglement:
   doi: 10.1016/J.PATCOG.2026.114392
   ee: https://doi.org/10.1016/j.patcog.2026.114392
   url: https://dblp.org/rec/journals/pr/LiHXYWWLLZZZ26
+- author: Chuanning Wang, Zhiyong He, Yanzhao Zhou, Zhenxiong Gu, Lining Sun, Song
+    Lin
+  title: 'Feature disentanglement and adaptive patch routing: A unified framework
+    for zero-shot anomaly detection with vision foundation models.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangHZGSL26
+  doi: 10.1016/J.NEUCOM.2026.134380
+  ee: https://doi.org/10.1016/j.neucom.2026.134380
+  url: https://dblp.org/rec/journals/ijon/WangHZGSL26
+- author: Shufan Peng, Tianliang Lu, Miaoxuan Shan, Bowen Ding
+  title: Dual Feature Progressive Disentanglement for generalizable face forgery detection.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/PengLSD26
+  doi: 10.1016/J.KNOSYS.2026.116303
+  ee: https://doi.org/10.1016/j.knosys.2026.116303
+  url: https://dblp.org/rec/journals/kbs/PengLSD26
