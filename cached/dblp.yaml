@@ -40523,3 +40523,23 @@ feature%20disentanglement:
   doi: 10.1016/J.KNOSYS.2026.116303
   ee: https://doi.org/10.1016/j.knosys.2026.116303
   url: https://dblp.org/rec/journals/kbs/PengLSD26
+- author: Ren Ozeki, Haruki Yonekura, Aidana Baimbetova, Hamada Rizk, Hirozumi Yamaguchi
+  title: 'CROSS-Net: Region-Agnostic Taxi-Demand Prediction Using Feature Disentanglement.'
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/OzekiYBRY26
+  doi: 10.1109/TITS.2026.3683763
+  ee: https://doi.org/10.1109/TITS.2026.3683763
+  url: https://dblp.org/rec/journals/tits/OzekiYBRY26
+- author: Erbin Mao, Zhenchao Cui, Jing Qi
+  title: 'ViT-CARP: Disentanglement-Driven Feature Projection for Zero-Shot Learning.'
+  venue: ICIC
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icic/MaoCQ26
+  doi: 10.1007/978-981-92-3400-4_39
+  ee: https://doi.org/10.1007/978-981-92-3400-4_39
+  url: https://dblp.org/rec/conf/icic/MaoCQ26
