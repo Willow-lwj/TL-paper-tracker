@@ -4339,6 +4339,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1186/S40708-026-00308-Y
   ee: https://doi.org/10.1186/s40708-026-00308-y
   url: https://dblp.org/rec/journals/braininf/ZhangZY26
+- author: Hsi-Ling Chen, Chun-Shien Lu, Pau-Choo Chung
+  title: 'SGCD: Stain-Guided CycleDiffusion for Unsupervised Domain Adaptation of
+    Histopathology Image Classification.'
+  venue: NeurIPS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ChenLC25
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2025/hash/37964391303da7d70d07e83d2b0c3c5e-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ChenLC25
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
