@@ -40554,3 +40554,25 @@ feature%20disentanglement:
   doi: 10.1007/978-981-92-3400-4_39
   ee: https://doi.org/10.1007/978-981-92-3400-4_39
   url: https://dblp.org/rec/conf/icic/MaoCQ26
+- author: Zichuan Yu, Hongyu Ge, Lu Tang 0002, Xusheng Tang, Hongyuan Liu
+  title: Explicit Feature Disentanglement for Cross-Receiver Radio Frequency Fingerprint
+    Identification.
+  venue: IEEE Commun. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/icl/YuGTTL26
+  doi: 10.1109/LCOMM.2026.3701824
+  ee: https://doi.org/10.1109/LCOMM.2026.3701824
+  url: https://dblp.org/rec/journals/icl/YuGTTL26
+- author: Muhammad Idrees, Ying Huang 0004, Ailin Li
+  title: Latent-optimized collaborative feature disentanglement for enhanced shadow
+    removal.
+  venue: Pattern Anal. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/paa/IdreesHL26
+  doi: 10.1007/S10044-026-01721-Z
+  ee: https://doi.org/10.1007/s10044-026-01721-z
+  url: https://dblp.org/rec/journals/paa/IdreesHL26
