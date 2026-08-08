@@ -40587,3 +40587,15 @@ feature%20disentanglement:
   doi: 10.1007/S10044-026-01721-Z
   ee: https://doi.org/10.1007/s10044-026-01721-z
   url: https://dblp.org/rec/journals/paa/IdreesHL26
+- author: Kejia Su, Kai Liu, Bo Wan 0002, Hanbing Qiao, Jiayang Huang, Min Feng 0008,
+    Jinhui Liu
+  title: Multisource Adversarial Feature Disentanglement Method for Cross-Subject
+    Gesture Recognition Using sEMG Signals.
+  venue: IEEE Trans. Instrum. Meas.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tim/SuLWQHFL25
+  doi: 10.1109/TIM.2025.3557823
+  ee: https://doi.org/10.1109/TIM.2025.3557823
+  url: https://dblp.org/rec/journals/tim/SuLWQHFL25
