@@ -40599,3 +40599,27 @@ feature%20disentanglement:
   doi: 10.1109/TIM.2025.3557823
   ee: https://doi.org/10.1109/TIM.2025.3557823
   url: https://dblp.org/rec/journals/tim/SuLWQHFL25
+- author: Yahui Lei, Ye Wang 0006, Jingbo Liao, Qun Liu 0005, Tianwen Qian, Xiaoling
+    Wang 0004, Hong Yu 0007
+  title: A Controllable Multi-space Feature Disentanglement Framework for Open-Domain
+    Dialogue Generation.
+  venue: IJCRS
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcrs/LeiWLLQWY26
+  doi: 10.1007/978-3-032-30228-1_21
+  ee: https://doi.org/10.1007/978-3-032-30228-1_21
+  url: https://dblp.org/rec/conf/ijcrs/LeiWLLQWY26
+- author: Shao-Feng Jiang, Zhe-Yang Jing, Qin Lu, Huan-Huan Shi, Zhen Chen, Cong-Xuan
+    Zhang, Chen Yi
+  title: 'OFD-Net: Teacher-Free Reliable Semi-supervised Medical Image Segmentation
+    with Orthogonal Feature Disentanglement Net of Foreground-Background.'
+  venue: CoRR
+  year: '2026'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2607-16705
+  doi: 10.48550/ARXIV.2607.16705
+  ee: https://doi.org/10.48550/arXiv.2607.16705
+  url: https://dblp.org/rec/journals/corr/abs-2607-16705
