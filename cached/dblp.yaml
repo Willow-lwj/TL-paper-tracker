@@ -40623,3 +40623,15 @@ feature%20disentanglement:
   doi: 10.48550/ARXIV.2607.16705
   ee: https://doi.org/10.48550/arXiv.2607.16705
   url: https://dblp.org/rec/journals/corr/abs-2607-16705
+- author: Fan Liu 0003, Liang Yao 0001, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo
+    Jiang, Jun Zhou 0001
+  title: Boost UAV-Based Object Detection via Scale-Invariant Feature Disentanglement
+    and Adversarial Learning.
+  venue: IEEE Trans. Geosci. Remote. Sens.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tgrs/LiuYZWZJZ25
+  doi: 10.1109/TGRS.2025.3564261
+  ee: https://doi.org/10.1109/TGRS.2025.3564261
+  url: https://dblp.org/rec/journals/tgrs/LiuYZWZJZ25
