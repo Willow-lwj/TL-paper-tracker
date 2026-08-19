@@ -4350,6 +4350,18 @@ Domain%20Adaptation%20image%20classification:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2025/hash/37964391303da7d70d07e83d2b0c3c5e-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/ChenLC25
+- author: Favour Ekong, Jun Zhou 0001, Jing Wang 0062, Mohammad Aminul Islam, Yongsheng
+    Gao 0001
+  title: Distance Learning-Based Prototypical Network With Multi-Domain Adaptation
+    for Few-Shot Hyperspectral Medical Image Classification.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/EkongZWIG26
+  doi: 10.1109/JBHI.2026.3651480
+  ee: https://doi.org/10.1109/JBHI.2026.3651480
+  url: https://dblp.org/rec/journals/titb/EkongZWIG26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -35938,6 +35950,17 @@ Adversarial%20Learning:
   doi: 10.1109/SMARTCOMP-COMPANION70724.2026.00091
   ee: https://doi.org/10.1109/SmartComp-Companion70724.2026.00091
   url: https://dblp.org/rec/conf/smartcomp/Fabiano26
+- author: Dario Bauso, Tamer Basar
+  title: 'Generative Adversarial Networks as Cournot Games: A Control-Theoretic Perspective
+    on Adversarial Learning Dynamics.'
+  venue: ECC
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eucc/BausoB26
+  doi: ''
+  ee: https://ieeexplore.ieee.org/document/11625437
+  url: https://dblp.org/rec/conf/eucc/BausoB26
 unsupervised%20domain%20adaptation%20data%20augmentation:
 - author: Dang H. Pham, Anh D. Nguyen, Hoa Ngoc Nguyen
   title: GAN-based data augmentation and pseudo-label refinement with holistic features
@@ -40635,3 +40658,27 @@ feature%20disentanglement:
   doi: 10.1109/TGRS.2025.3564261
   ee: https://doi.org/10.1109/TGRS.2025.3564261
   url: https://dblp.org/rec/journals/tgrs/LiuYZWZJZ25
+- author: Haohao Ren, Lei Miao, Lu Qian, Lin Zou, Yun Zhou, Xuegang Wang, Hao Tang
+    0005
+  title: Causal Intervention-Enhanced Feature Disentanglement Network for SAR ATR
+    in Data-Scarce Environments.
+  venue: IEEE Trans. Aerosp. Electron. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/taes/RenMQZZWT26
+  doi: 10.1109/TAES.2026.3708075
+  ee: https://doi.org/10.1109/TAES.2026.3708075
+  url: https://dblp.org/rec/journals/taes/RenMQZZWT26
+- author: Zhendong Xu, Manyu Xue, Xuemei Xiong, Huizi Hu, Yi Liu, Jiankun Zhang, Hao
+    Wang 0179, Yuan Shen 0001
+  title: Enhancing Cross-Scenario Generalization in Indoor Localization via Feature
+    Disentanglement.
+  venue: IEEE Trans. Mob. Comput.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tmc/XuXXHLZWS26
+  doi: 10.1109/TMC.2026.3674660
+  ee: https://doi.org/10.1109/TMC.2026.3674660
+  url: https://dblp.org/rec/journals/tmc/XuXXHLZWS26
