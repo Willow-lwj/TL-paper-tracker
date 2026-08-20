@@ -40682,3 +40682,14 @@ feature%20disentanglement:
   doi: 10.1109/TMC.2026.3674660
   ee: https://doi.org/10.1109/TMC.2026.3674660
   url: https://dblp.org/rec/journals/tmc/XuXXHLZWS26
+- author: Lixia Zhang, Bingqian Huang
+  title: Leveraging frequency information and feature disentanglement for debiased
+    Visual Question Answering.
+  venue: Comput. Vis. Image Underst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/ZhangH26
+  doi: 10.1016/J.CVIU.2026.104880
+  ee: https://doi.org/10.1016/j.cviu.2026.104880
+  url: https://dblp.org/rec/journals/cviu/ZhangH26
