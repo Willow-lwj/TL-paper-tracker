@@ -4362,6 +4362,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1109/JBHI.2026.3651480
   ee: https://doi.org/10.1109/JBHI.2026.3651480
   url: https://dblp.org/rec/journals/titb/EkongZWIG26
+- author: Jiacheng Zhang, Haolan Zhang 0007, Youpeng Yang
+  title: 'Generative diffusion meets domain adaptation: a framework for EEG cross-subject
+    motor imagery classification.'
+  venue: Brain Informatics
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/braininf/ZhangZY26
+  doi: 10.1186/S40708-026-00308-Y
+  ee: https://doi.org/10.1186/s40708-026-00308-y
+  url: https://dblp.org/rec/journals/braininf/ZhangZY26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
