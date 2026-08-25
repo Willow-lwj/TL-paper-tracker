@@ -4373,6 +4373,29 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1186/S40708-026-00308-Y
   ee: https://doi.org/10.1186/s40708-026-00308-y
   url: https://dblp.org/rec/journals/braininf/ZhangZY26
+- author: Yunji Zhao, Haijiang Li, Nailong Song
+  title: 'SDDA-Net: A feature enhancement-based self-distillation pseudo-domain adaptation
+    network for hyperspectral image and LiDAR data joint classification.'
+  venue: Expert Syst. Appl.
+  year: '2027'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhaoLS27
+  doi: 10.1016/J.ESWA.2026.133841
+  ee: https://doi.org/10.1016/j.eswa.2026.133841
+  url: https://dblp.org/rec/journals/eswa/ZhaoLS27
+- author: Weijun Liu, Cheng Shi 0002, Qiguang Miao, Zhiyong Lv, Xiaofan Wang, Tao
+    Zuo
+  title: Open-set domain adaptation via unknown sample exploration for hyperspectral
+    image classification.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LiuSMLWZ26
+  doi: 10.1016/J.PATCOG.2026.114435
+  ee: https://doi.org/10.1016/j.patcog.2026.114435
+  url: https://dblp.org/rec/journals/pr/LiuSMLWZ26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
@@ -40704,3 +40727,35 @@ feature%20disentanglement:
   doi: 10.1016/J.CVIU.2026.104880
   ee: https://doi.org/10.1016/j.cviu.2026.104880
   url: https://dblp.org/rec/journals/cviu/ZhangH26
+- author: Guiping Chen, Dong Xiang, Tingting Liu, Feng Xu
+  title: Masked feature adversarial disentanglement network for single-source domain
+    generalization mechanical fault diagnosis.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChenXLX26
+  doi: 10.1016/J.KNOSYS.2026.116752
+  ee: https://doi.org/10.1016/j.knosys.2026.116752
+  url: https://dblp.org/rec/journals/kbs/ChenXLX26
+- author: Ting Lv, Yu Liu 0023, Hong Jiang
+  title: 'FCDFusion: A noise-robust infrared and visible image fusion method based
+    on Feature Coupling and Disentanglement.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/LvLJ26
+  doi: 10.1016/J.KNOSYS.2026.116521
+  ee: https://doi.org/10.1016/j.knosys.2026.116521
+  url: https://dblp.org/rec/journals/kbs/LvLJ26
+- author: Bin Wang, Fadi Dornaika, Vinh Truong Hoang, Viet-Tuan Le
+  title: Sigmoid Supervised Contrastive Learning with Memory Bank for Feature Disentanglement.
+  venue: ICPR
+  year: '2026'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icpr/WangDHL26
+  doi: 10.1007/978-3-032-31452-9_26
+  ee: https://doi.org/10.1007/978-3-032-31452-9_26
+  url: https://dblp.org/rec/conf/icpr/WangDHL26
