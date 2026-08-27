@@ -4396,6 +4396,17 @@ Domain%20Adaptation%20image%20classification:
   doi: 10.1016/J.PATCOG.2026.114435
   ee: https://doi.org/10.1016/j.patcog.2026.114435
   url: https://dblp.org/rec/journals/pr/LiuSMLWZ26
+- author: Xing Wei 0002, Zelin Pan, Junlong Xu, Chong Zhao, Jiansheng Peng, Xiang
+    Bi
+  title: Self-training cross-domain image classification model via label adaptation.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WeiPXZPB26
+  doi: 10.1016/J.NEUCOM.2026.134803
+  ee: https://doi.org/10.1016/j.neucom.2026.134803
+  url: https://dblp.org/rec/journals/ijon/WeiPXZPB26
 Adversarial%20Learning:
 - author: Shenhao Gui, Qingquan Zhang, Changwu Huang, Bo Yuan 0006
   title: Fairer Machine Learning Through the Hybrid of Multi-objective Evolutionary
